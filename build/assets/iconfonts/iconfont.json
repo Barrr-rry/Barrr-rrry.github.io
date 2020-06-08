@@ -1,0 +1,37 @@
+{
+  "id": "1587271",
+  "name": "icon02",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "371351",
+      "name": "double-right",
+      "font_class": "doubleright",
+      "unicode": "e8e1",
+      "unicode_decimal": 59617
+    },
+    {
+      "icon_id": "6400745",
+      "name": "htb－Arrow right02",
+      "font_class": "down",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7825814",
+      "name": "search-b",
+      "font_class": "search-b",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "9014862",
+      "name": "htb－Arrow right02",
+      "font_class": "left1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
