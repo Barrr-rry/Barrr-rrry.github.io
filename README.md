@@ -7,7 +7,7 @@
 00:0000:23
  
 Krishna, how was your market analysis presentation at the conference?
- (A) It was decent. I'll get feedback from the attendees on Friday.(正解)
+ (A) It was decent. I'll get feedback from the attendees on Friday.<font color="#dd0000">正解</font>
  (B) I delivered the presentation at exactly 3 o'clock.
  (C) The presentation focused on the results of a recent study.
 Krishna，你在會議上的市場分析報告狀況如何？
@@ -21,7 +21,7 @@ c. 這份報告著重在一份近期研究的結果
  
 On what date can we expect the new refrigerator to be delivered?
  (A) The refrigerator will not fit in this tiny kitchen.
- (B) It will be here on the 20th or 21st.<font color="#dd0000">正解：</font>
+ (B) It will be here on the 20th or 21st.<font color="#dd0000">正解</font>
  (C) I have a date with the man from the delivery company.
 新冰箱哪天會送到？
 a. 這台冰箱不適合放在這麼狹小的廚房
@@ -35,7 +35,7 @@ c. 我和一個在貨運公司上班的男人約會
 Does anybody know whose trainers these are?
  (A) I've been training him.
  (B) They aren't for sale, actually.
- (C) They've got to be Homer's.(正解)
+ (C) They've got to be Homer's.<font color="#dd0000"<font color="#dd0000">正解</font>/font>
 有人知道這雙運動鞋是誰的嗎？
 a. 我一直在訓練他
 b. 實際上，他們是非賣品
@@ -46,7 +46,7 @@ c. 那一定是 Homer的
 00:0000:18
  
 What would you rather do on our trip, stay in a resort on the coast or camp beside a lake?
- (A) Neither sounds appealing to me.(正解)
+ (A) Neither sounds appealing to me.<font color="#dd0000">正解</font>
  (B) I'll take one of each.
  (C) Winter sports don't interest me.
 我們去旅行時你比較想做什麼事，待在渡假村的海邊或是在湖邊露營？
@@ -59,7 +59,7 @@ c. 我對冬季運動沒興趣
 00:0000:18
  
 What's the reason the boss changed the date of the company outing?
- (A) Most likely because of the poor weather forecast.(正解)
+ (A) Most likely because of the poor weather forecast.<font color="#dd0000">正解</font>
  (B) The picnic will be at the waterpark.
  (C) I would like to eat gelato at the picnic.
 為什麼老闆要更改公司郊遊的日期？
@@ -73,7 +73,7 @@ c. 野餐時我想吃義式冰淇淋
  
 Did you know that we have a board meeting in five minutes?
  (A) Yes, they need to prep the office.
- (B) What? No, I need to go get my notes ready.(正解)
+ (B) What? No, I need to go get my notes ready.<font color="#dd0000">正解</font>
  (C) No, I do not know where the meeting is.
 你知道我們五分鐘後召開董事會議嗎？
 a. 是的，他們必須去準備辦公室
@@ -85,7 +85,7 @@ c. 不，我不知道會議在哪裡
 00:0000:18
  
 Pardon me, sir. Do you have any idea where the post office is located?
- (A) It is right next to the judicial court.(正解)
+ (A) It is right next to the judicial court.<font color="#dd0000">正解</font>
  (B) How much are postage stamps?
  (C) I have a few ideas about that.
 先生不好意思。你知道郵局的位置在哪裡？
@@ -100,7 +100,7 @@ c. 我只知道一些些
 Where can I get ahold of a copy of the bullet train schedule?
  (A) The train comes every 10 minutes.
  (B) Hold on and I'll sell you a packet of bullets.
- (C) Try the tourist information center on the main floor.(正解)
+ (C) Try the tourist information center on the main floor.<font color="#dd0000">正解</font>
 哪裡可以拿到子彈列車的時刻表？
 a. 這台列車每十分鐘一班
 b. 稍等一下，我會賣你一小盒子彈
@@ -113,7 +113,7 @@ c. 試試看一樓的旅客服務中心
 I can't understand why you made the reservation so early!
  (A) We need to be there by 8:00 at the latest.
  (B) Understanding is believing.
- (C) I'm not missing this Broadway show for anything!(正解)
+ (C) I'm not missing this Broadway show for anything!<font color="#dd0000">正解</font>
 我無法理解為什麼你要這麼早預約！
 a. 我們最晚八點要抵達
 b. 了解它，你就會相信它
@@ -126,7 +126,7 @@ c. 我不會為了任何事情錯過這場百老匯秀！
 Where can I find a copy of the frame contract for CPUP Inc.?
  (A) Yes, I'd like a solid oak frame around the picture.
  (B) You need to turn right at the next light.
- (C) Try the file cabinet beside my desk.(正解)
+ (C) Try the file cabinet beside my desk.<font color="#dd0000">正解</font>
 我在哪裡可以找到和CPUP公司簽訂的框架合同的影印本？
 a. 是的，我想要純橡木鏡框
 b. 下個紅綠燈要右轉
@@ -138,7 +138,7 @@ c. 找找看我桌子旁邊的檔案櫃
  
 Brad, how often would you suggest that I back up my computer?
  (A) Here are the external hard drives.
- (B) At least once a month.(正解)
+ (B) At least once a month.<font color="#dd0000">正解</font>
  (C) Just back up a few feet and you'll be fine.
 Brad，你會建議我多久將電腦備份一次？
 a. 外接硬碟在這裡
@@ -151,7 +151,7 @@ c. 只要退幾步就沒事
  
 When are tenants allowed to move in?
  (A) You will need to move your own furniture.
- (B) I will have to check with the realtor. (正解)
+ (B) I will have to check with the realtor. <font color="#dd0000">正解</font>
  (C) Let's go to a movie instead.
 這些房客何時可以入住？
 a. 你要自己搬傢俱
@@ -164,7 +164,7 @@ c. 我們換成去看電影吧
  
 Have you decided where you will put these new decorations?
  (A) We'll decorate the Christmas tree next week.
- (B) Above the fireplace would look nice.(正解)
+ (B) Above the fireplace would look nice.<font color="#dd0000">正解</font>
  (C) The decision has been made to let you go.
 你決定要將這些新的裝飾品放在那裡了嗎？
 a. 我們下禮拜會裝飾聖誕樹
@@ -178,7 +178,7 @@ c. 我們決定要將你資遣
 Didn't Lenny want to buy your old television set?
  (A) Lenny's favorite show is The Simpsons.
  (B) The television set is old and rusty.
- (C) No, he decided to buy a new one.(正解)
+ (C) No, he decided to buy a new one.<font color="#dd0000">正解</font>
 Lenny不是想買你舊的電視組嗎？
 a. Lenny最喜歡的節目是辛普森家族
 b. 這個電視組又舊又生鏽
@@ -191,7 +191,7 @@ c. 沒有，他決定買組新的
 Paco has a lot of friends, doesn't he?
  (A) He's never been, but he'd like to.
  (B) Keep your friends close, and your enemies closer.
- (C) Yeah, he's a social butterfly.(正解)
+ (C) Yeah, he's a social butterfly.<font color="#dd0000">正解</font>
 Paco有很多朋友，對吧？
 a. 他從來不是，但他想要
 b. 親近你的朋友，且和你的敵人更親近些
@@ -202,7 +202,7 @@ c. 是阿，他是個交際花(喜歡與人交際)
 00:0000:17
  
 Isn't it true that we all have to volunteer at the carnival this weekend?
- (A) Yes, you are absolutely correct.(正解)
+ (A) Yes, you are absolutely correct.<font color="#dd0000">正解</font>
  (B) Yeah, the carnival is coming to town.
  (C) I'm all done, but thanks.
 我們這週末都必須去嘉年華會當義工是真的嗎？
@@ -217,7 +217,7 @@ c. 我都做完了，但還是謝謝你
 What did you do with the scissors after you last used them?
  (A) They are as sharp as a knife.
  (B) Buying a used pair is better than a new one.
- (C) I believe I put them on the counter.(正解)
+ (C) I believe I put them on the counter.<font color="#dd0000">正解</font>
 你最後一次用完剪刀後放在哪裡？
 a. 它們和刀子一樣鋒利
 b. 買一把二手的勝過買一把全新的
@@ -229,7 +229,7 @@ c. 我想我放在櫃檯裡
  
 Excuse me, officer. Which way to the Museum of Natural History?
  (A) I can't wait to go see the Dark Universe exhibit.
- (B) Hang a right on 79th.(正解)
+ (B) Hang a right on 79th.<font color="#dd0000">正解</font>
  (C) The museum was well-organized and informative.
 不好意思，警官。自然博物館要往哪裡走？
 a. 我等不及看夜間星空展
@@ -242,7 +242,7 @@ c. 這間圖書館規劃得很好且資訊充足
  
 Which stocks did you invest in?
  (A) Learning a language is a serious investment.
- (B) I put all my money into PetroCorp United.(正解)
+ (B) I put all my money into PetroCorp United.<font color="#dd0000">正解</font>
  (C) He was in shock after the accident.
 你投資哪一支股票？
 a. 學習新語言是一項重大的投資
@@ -255,7 +255,7 @@ c. 他在意外後遭受很大的驚嚇
  
 What do you think of the new editing software installed in our office?
  (A) The office is running smoothly and efficiently.
- (B) I think it will work well once we're all adjusted to it.(正解)
+ (B) I think it will work well once we're all adjusted to it.<font color="#dd0000">正解</font>
  (C) I'm quite fond of being an editor.
 你覺得我們辦公室新安裝的編輯軟體如何？
 a. 這辦公室運作得流暢且有效率
@@ -268,7 +268,7 @@ c. 我還蠻喜歡當編輯
  
 Who will be our tour guide today?
  (A) What is it with you and cowboys?
- (B) I think it is the man in the blue outfit.(正解)
+ (B) I think it is the man in the blue outfit.<font color="#dd0000">正解</font>
  (C) What will be the main topic of the tour?
 我們今天的導遊是誰？
 a. 你為什麼這麼喜歡牛仔？
@@ -281,7 +281,7 @@ c. 這趟導覽的主要重點是什麼？
  
 What made you decide to go to Thailand instead of Indonesia?
  (A) I bought a ticket from a budget airlines.
- (B) There are political problems in the latter country now.(正解)
+ (B) There are political problems in the latter country now.<font color="#dd0000">正解</font>
  (C) Because Indonesia is known for its white sand beaches.
 是什麼讓你決定去泰國而不是印尼？
 a. 我從一家廉價航空買了機票
@@ -293,7 +293,7 @@ c. 因為印尼的白色沙灘很有名
 00:0000:18
  
 Any luck with the job market in Honolulu yet?
- (A) Not yet, but I am still looking.(正解)
+ (A) Not yet, but I am still looking.<font color="#dd0000">正解</font>
  (B) Yeah, I know. The hotels there are overpriced.
  (C) No, we haven't been to that produce market yet.
 在檀香山(火奴奴魯)找到工作了嗎？
@@ -307,7 +307,7 @@ c. 還沒，我們還沒去過那裡的農產品市場
  
 I'd like to try that doctor you recommended. What's her name again?
  (A) Why are you going to the doctor again?
- (B) Her name is Dr. Lisa Wilson.(正解)
+ (B) Her name is Dr. Lisa Wilson.<font color="#dd0000">正解</font>
  (C) The doctor is in the office.
 我想要試試看那位你推薦的醫生。再說一次她的名字？
 a. 你為什麼要再去看一次醫生？
@@ -319,7 +319,7 @@ c. 醫生在辦公室裡
 00:0000:14
  
 When can I expect your project proposal?
- (A) It will be on your desk in the morning.(正解)
+ (A) It will be on your desk in the morning.<font color="#dd0000">正解</font>
  (B) Practice makes perfect.
  (C) This project is easier said than done.
 我什麼時候可以看到你的專案計畫？
@@ -338,7 +338,7 @@ c. 這個專案說比做容易
 Beautiful car, isn't it?
  (A) No, they weren't in the trunk.
  (B) Yes, I find her quite attractive, too.
- (C) Yes indeed, I'll bet it's pretty expensive though.(正解)
+ (C) Yes indeed, I'll bet it's pretty expensive though.<font color="#dd0000">正解</font>
 漂亮的車子**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
 只顯示答錯  回上一頁
 
@@ -348,7 +348,7 @@ Beautiful car, isn't it?
  
 Why are there so many taxis waiting at the corner?
  (A) I prefer to go by metro.
- (B) Most people get off work now. (正解)
+ (B) Most people get off work now. <font color="#dd0000">正解</font>
  (C) I'm filing my taxes now, too.
 為什麼那個轉角有這麼多計程車？
 a. 我偏好搭捷運
@@ -361,7 +361,7 @@ c. 我現在也在報稅
  
 Did the doctor prescribe something for your back?
  (A) Sure, he described the problem clearly.
- (B) No, he just said I need to stretch more.(正解)
+ (B) No, he just said I need to stretch more.<font color="#dd0000">正解</font>
  (C) Yes, he'll be back on time.
 這醫生有開什麼配方治療你的背嗎？
 a. 當然，他非常清楚地描述問題
@@ -375,7 +375,7 @@ c. 是的，他會準時回來
 Can you pitch in some money for a going away present for Monica?
  (A) She is leaving in a month.
  (B) The money will go to a charity.
- (C) Sure. How much?(正解)
+ (C) Sure. How much?<font color="#dd0000">正解</font>
 你可以為Monica的送別禮貢獻一些錢嗎？
 a. 她一個月後離開
 b. 這筆錢用來做公益
@@ -386,7 +386,7 @@ c. 當然，多少？
 00:0000:18
  
 That is really expensive! What are you going to do with such a big piece of artwork?
- (A) Don't worry. I will find somewhere to put it.(正解)
+ (A) Don't worry. I will find somewhere to put it.<font color="#dd0000">正解</font>
  (B) I inherited my father's wealth.
  (C) It is from the 1920s.
 那個真的很貴！你要怎麼處理這麼大的一件藝術品？
@@ -399,7 +399,7 @@ c. 這個是1920年代所畫
 00:0000:17
  
 How do you stay looking so young?
- (A) I drink plenty of water and eat healthy food.(正解)
+ (A) I drink plenty of water and eat healthy food.<font color="#dd0000">正解</font>
  (B) I just turned 27 this year.
  (C) Yes, my daughter is younger than my son.
 你怎麼看起來這麼年輕？
@@ -412,7 +412,7 @@ c. 是的，我女兒比我兒子年紀小
 00:0000:15
  
 When will we be meeting that client again?
- (A) She said she'd drop in midweek.(正解)
+ (A) She said she'd drop in midweek.<font color="#dd0000">正解</font>
  (B) Time flies when you are having fun.
  (C) She prefers meeting at the company headquarters.
 我們何時還要去見那位客戶？
@@ -427,7 +427,7 @@ c. 她偏好在總公司碰面
 What kind of program can I use to create the chart?
  (A) The chart will be due next week.
  (B) You have not installed any programs.
- (C) It's up to you. Just make sure it looks professional.(正解)
+ (C) It's up to you. Just make sure it looks professional.<font color="#dd0000">正解</font>
 我可以使用什麼程式製作圖表？
 a. 這圖表下禮拜到期
 b. 你還未下載任何程式
@@ -439,7 +439,7 @@ c. 你決定。只要確定圖表看起來很專業就好
  
 Excuse me. Can you tell me where the Atlanta Civic Center is?
  (A) The Atlanta Civic Center has a huge stage.
- (B) Sorry to tell you this, but it is on the other side of town.(正解)
+ (B) Sorry to tell you this, but it is on the other side of town.<font color="#dd0000">正解</font>
  (C) We are going to see a talk show.
 不好意思。可以告訴我亞特蘭大市民中心在哪裡嗎？
 a. 亞特蘭大市民中心有座大舞台
@@ -451,7 +451,7 @@ c. 我們要去看脫口秀
 00:0000:19
  
 I love this piece! Any idea who the performer is?
- (A) I think the band is called The Red Cliff.(正解)
+ (A) I think the band is called The Red Cliff.<font color="#dd0000">正解</font>
  (B) I listen to nothing but jazz.
  (C) This song is too long for my liking.
 我愛死這張唱片了！你知道是誰演奏的嗎？
@@ -465,7 +465,7 @@ c. 以我來說這首歌太長了
  
 Is there anything I can help you with for the dinner party tonight?
  (A) Tonight is a good night for partying.
- (B) Yes, can you bring some fancy wine?(正解)
+ (B) Yes, can you bring some fancy wine?<font color="#dd0000">正解</font>
  (C) The dinner party was great!
 今晚的派對有什麼需要我幫忙的嗎？
 a. 今晚是個適合開派對的晚上
@@ -477,7 +477,7 @@ c. 這晚餐派對很棒！
 00:0000:19
  
 How do I find a specific email in my inbox?
- (A) Just go to the search bar and type in the email address.(正解)
+ (A) Just go to the search bar and type in the email address.<font color="#dd0000">正解</font>
  (B) Calm down. The paper is right here.
  (C) Yes, I don't like ordering supplies, either.
 我要怎麼從信箱裡找到特定的信件？
@@ -491,7 +491,7 @@ c. 是，我也不知道怎麼叫貨
  
 How do I know when I should walk up on stage?
  (A) The stage is actually made of wood.
- (B) The speaker will tell you when to come up.(正解)
+ (B) The speaker will tell you when to come up.<font color="#dd0000">正解</font>
  (C) There are hundreds of people in the audience.
 我怎麼知道何時該走上舞台？
 a. 這舞台實際上是木製的
@@ -504,7 +504,7 @@ c. 這邊有好幾千名觀眾
  
 Rosemary, when do you need to be back in the city?
  (A) I need to be back to sell some roses in the market.
- (B) Four at the latest, but earlier would be ideal.(正解)
+ (B) Four at the latest, but earlier would be ideal.<font color="#dd0000">正解</font>
  (C) I'll go wherever you want.
 Rosemary，你何時需要回到這個城市裡？
 a. 我需要回去在市場賣些玫瑰
@@ -517,7 +517,7 @@ c. 我會去任何你想去的地方
  
 Who do we need to talk to if we want to use the projector?
  (A) I used the projector last week for the dieting presentation.
- (B) Go to Perla. She has the sign in sheet.(正解)
+ (B) Go to Perla. She has the sign in sheet.<font color="#dd0000">正解</font>
  (C) I need to talk to you about an urgent matter.
 如果我們想要使用投影機，需要問誰？
 a. 我上禮拜使用投影機做食品發表
@@ -530,7 +530,7 @@ c. 我需要和你談一個緊急問題
  
 I am thinking about switching cell phone providers. Which one do you use?
  (A) The company will provide you with the paycheck.
- (B) Mine is called AT&T.(正解)
+ (B) Mine is called AT&T.<font color="#dd0000">正解</font>
  (C) I recommend using a laptop.
 我在考慮換手機電信業者。你用哪一家的？
 a. 這公司會提供你支票
@@ -542,7 +542,7 @@ c. 我建議使用筆電
 00:0000:15
  
 Why did Bonnie move to Berlin?
- (A) A German computer company hired her.(正解)
+ (A) A German computer company hired her.<font color="#dd0000">正解</font>
  (B) Moving requires a moving truck.
  (C) Bonnie went to Berlin last year.
 為什麼Bonnie要搬去柏林？
@@ -557,7 +557,7 @@ c. Bonnie去年去過柏林
 What's the matter with Jonah today?
  (A) Yes, Jonah has dealt with the matter.
  (B) Jonah already went out to lunch.
- (C) He just found out his grandmother passed away.(正解)
+ (C) He just found out his grandmother passed away.<font color="#dd0000">正解</font>
 Jonah今天是怎麼了？
 a. 是，Jonah已經在處理問題了
 b. Jonah已經外出吃午餐了
@@ -569,7 +569,7 @@ c. 他剛剛才得知他的奶奶過世了
  
 Who will be doing your home renovations?
  (A) We are going with a classic look.
- (B) We've signed a contract with a reputable interior designer.(正解)
+ (B) We've signed a contract with a reputable interior designer.<font color="#dd0000">正解</font>
  (C) The decorations are all waiting to be shipped.
 誰會幫你裝潢房子？
 a. 我們想要典雅的外觀
@@ -581,7 +581,7 @@ c. 正在等著運送這些裝飾品出去
 00:0000:13
  
 Who conducted your interview today?
- (A) The regional boss. He was tough.(正解)
+ (A) The regional boss. He was tough.<font color="#dd0000">正解</font>
  (B) Rebecca's interview was last week.
  (C) The conductor will see you now.
 你今天和哪一位面試？
@@ -594,7 +594,7 @@ c. 管理長現在要見你
 00:0000:18
  
 When are you going to get your new bed frame from Pottery Barn?
- (A) They said it would be delivered in two weeks.(正解)
+ (A) They said it would be delivered in two weeks.<font color="#dd0000">正解</font>
  (B) Pottery Barn specializes in mass-produced furniture.
  (C) Your bed is quite cozy.
 你何時要去大陶倉拿你的新床架？
@@ -608,7 +608,7 @@ c. 你的床相當舒適
  
 Where can I store my luggage to keep it safe?
  (A) I can't tell you how much money's in the safe.
- (B) We have lockers where you can put your baggage.(正解)
+ (B) We have lockers where you can put your baggage.<font color="#dd0000">正解</font>
  (C) You can pick it up in a few days.
 我可以把行李放在哪裡才安全？
 a. 我無法告訴你保險櫃裡有多少錢
@@ -622,7 +622,7 @@ c. 你可以過幾天後再來領取
 Who will remove all this trash from the lunchroom?
  (A) It was Bill who we were supposed to meet for lunch.
  (B) Yes, I agree.
- (C) Don't worry. The cleaning staff will get it.(正解)
+ (C) Don't worry. The cleaning staff will get it.<font color="#dd0000">正解</font>
 誰會將餐廳的垃圾拿去倒？
 a. 我們午餐應該要去見Bill
 b. 是的，我同意
@@ -633,7 +633,7 @@ c. 別擔心。清潔人員會處理
 00:0000:21
  
 Nick Swardson is such a funny comedian! Do you know if he is touring right now?
- (A) Hold on. Let me check his tour dates on the internet.(正解)
+ (A) Hold on. Let me check his tour dates on the internet.<font color="#dd0000">正解</font>
  (B) Yes, I like his paintings, too.
  (C) Nick Swardson is a popular city mayor.
 Nick Swardson是一個非常好笑的喜劇演員！你知道他現在是否在巡迴表演嗎？
@@ -648,7 +648,7 @@ c. Nick Swardson是位受歡迎的市長
 Whose word processing program was able to load correctly?
  (A) That program is top notch!
  (B) And now, a word from our sponsor.
- (C) Unfortunately, no one's did. (正解)
+ (C) Unfortunately, no one's did. <font color="#dd0000">正解</font>
 誰的文字處理軟體能夠正確的載入？
 a. 這程式是最棒的
 b. 現在請我們的贊助商來說些話
@@ -659,7 +659,7 @@ c. 不巧的，沒有任何人可以
 00:0000:17
  
 Shouldn't Jasmine be here before we start the meeting?
- (A) She's running late and said to start without her.(正解)
+ (A) She's running late and said to start without her.<font color="#dd0000">正解</font>
  (B) Starting now, Jasmine is the manager.
  (C) Jasmine is the star of the show.
 Jasmine不是應該在會議開始前抵達嗎？
@@ -678,7 +678,7 @@ c. 的確是，但我打賭這一定很貴
  
 Mike, what does the recipe call for?
  (A) Sorry, I don't eat meat or seafood.
- (B) Looks like you'll need mushrooms, garlic and onions.(正解)
+ (B) Looks like you'll need mushrooms, garlic and onions.<font color="#dd0000">正解</font>
  (C) I've never cooked a meal in my life.
 Mike，這份食譜需要什麼材料？
 a. 抱歉，我不吃肉或海鮮
@@ -691,7 +691,7 @@ c. 我活到現在從沒煮過一道菜
  
 Have you filled out the application form for your entry visa, sir?
  (A) My passport is expired.
- (B) No. Would you please lend me a pen?(正解)
+ (B) No. Would you please lend me a pen?<font color="#dd0000">正解</font>
  (C) Yes, I've been here several times.
 你填寫了入境簽證的申請表嗎，先生？
 a. 我的護照過期了
@@ -703,7 +703,7 @@ c. 是的，我來過這裡好幾次了
 00:0000:19
  
 How is it that I only have fifty dollars left after last night?
- (A) Dinner was quite expensive, and you bought a new dress.(正解)
+ (A) Dinner was quite expensive, and you bought a new dress.<font color="#dd0000">正解</font>
  (B) She said your bank account is looking great.
  (C) In my opinion, this place is far too expensive.
 昨天晚上過後我的錢包裡怎麼會只剩五十元？
@@ -716,7 +716,7 @@ c. 我的意見是，這個地方真的是太貴了
 00:0000:19
  
 This doesn't look familiar. Are you sure we're going the right way?
- (A) Of course, I entered the address into the GPS. (正解)
+ (A) Of course, I entered the address into the GPS. <font color="#dd0000">正解</font>
  (B) This man is crazy.
  (C) Come on! I told you to study several times.
 這裡看起來很陌生。你確定我們走這條對嗎？
@@ -730,7 +730,7 @@ c. 拜託！我跟你說幾遍要讀書了？
  
 I had the memo Mr. Hartley wrote sitting right here on my desk. Where is it?
  (A) The memo was sent out to the entire office.
- (B) I'm sure it's here somewhere. Have you checked your briefcase?(正解)
+ (B) I'm sure it's here somewhere. Have you checked your briefcase?<font color="#dd0000">正解</font>
  (C) Mr. Hartley wrote the memo and gave it to all the employees.
 我把Hartley先生寫得備忘錄擺在桌子上。放哪裡了？
 a. 備忘錄已經寄給整個辦公室的人了
@@ -743,7 +743,7 @@ c. Hartley先生寫了這份備忘錄並給所有員工一人一份
  
 Whose backpack is this behind the sofa?
  (A) Please step away from the bag.
- (B) It's Trent Donaldson's, Mrs. Maxwell.(正解)
+ (B) It's Trent Donaldson's, Mrs. Maxwell.<font color="#dd0000">正解</font>
  (C) You can fit so much stuff in it.
 在沙發後面背包是誰的？
 a. 請遠離那個背包
@@ -756,7 +756,7 @@ c. 裡面可以放得下很多東西
  
 The temperature's going to drop tonight. Do we have extra blankets?
  (A) I hate staring at a blank screen.
- (B) They're in the closet.(正解)
+ (B) They're in the closet.<font color="#dd0000">正解</font>
  (C) I really need help using my equipment.
 今晚開始氣溫會下降。我們有額外的毯子嗎？
 a. 我討厭盯著空白的螢幕畫面看
@@ -769,7 +769,7 @@ c. 我真的需要有人協助我使用裝備
  
 Why haven't you called your mother?
  (A) The last time I saw you, you were with two tall women.
- (B) I've been very busy lately, but I'll do it shortly.(正解)
+ (B) I've been very busy lately, but I'll do it shortly.<font color="#dd0000">正解</font>
  (C) Over the phone would be the best way to communicate.
 你為什麼還沒打電話給你母親？
 a. 最後一次看到你時，你和兩個高個子女人在一起
@@ -781,7 +781,7 @@ c. 打電話會是溝通最好的方式
 00:0000:17
  
 Why is he stepping down as head chairman of the company?
- (A) He told me that he wants to spend more time with his family. (正解)
+ (A) He told me that he wants to spend more time with his family. <font color="#dd0000">正解</font>
  (B) He has been working here for fourteen years.
  (C) I believe everything that he says.
 為什麼他當上公司董事長後還辭職？
@@ -794,7 +794,7 @@ c. 我相信所有他說的話
 00:0000:21
  
 Excuse me, ma'am. Does this phone have an alarm?
- (A) Every phone these days has that function. (正解)
+ (A) Every phone these days has that function. <font color="#dd0000">正解</font>
  (B) This phone goes for $550, and it comes in three colors.
  (C) We need to make the phone call as soon as possible.
 不好意思，女士。請問這支電話有鬧鐘功能嗎？
@@ -808,7 +808,7 @@ c. 我們需要盡快打這通電話
  
 Which of these trails will lead me to the electricity station?
  (A) I hear that the scenery on this trail is very beautiful this time of year.
- (B) You'll need to take the one to the right.(正解)
+ (B) You'll need to take the one to the right.<font color="#dd0000">正解</font>
  (C) You need a helmet to enter the premises.
 哪條路可以帶我到電子用品店？
 a. 我聽說這條路的風景在今年這時節非常漂亮
@@ -822,7 +822,7 @@ c. 在進入這建築物前，你需要戴安全帽
 Did you hear that Marge got in a car accident last night?
  (A) Heaven help the fool who stole my car!
  (B) It is obviously that I never liked her.
- (C) Oh my goodness, that's terrible!(正解)
+ (C) Oh my goodness, that's terrible!<font color="#dd0000">正解</font>
 你有聽說Marge昨晚出車禍了嗎？
 a. 願上天憐憫那位偷我車子的笨蛋！
 b. 很明顯地我從沒喜歡過她
@@ -833,7 +833,7 @@ c. 天哪，那太糟糕了！
 00:0000:16
  
 Frank Thomas was a baseball player, right?
- (A) Yes, he played first base for the Chicago White Sox.(正解)
+ (A) Yes, he played first base for the Chicago White Sox.<font color="#dd0000">正解</font>
  (B) Something tells me that it's going to rain.
  (C) Frank always loved to smoke cigarettes.
 Frank Thomas是位棒球選手，對吧？
@@ -848,7 +848,7 @@ c. Frank一直都喜歡抽煙
 What's the matter with the vehicle?
  (A) It's a 1997 Nissan Maxima.
  (B) Theodore Slater was the man who sold it to me.
- (C) I think the brakes and tires need to be replaced immediately.(正解)
+ (C) I think the brakes and tires need to be replaced immediately.<font color="#dd0000">正解</font>
 這台車有什麼問題嗎？
 a. 這是台1997生產的Nissan Maxima
 b. 賣給我的人是Theodore Slater 
@@ -859,7 +859,7 @@ c. 我想煞車皮與輪胎需要立即更換
 00:0000:19
  
 How often do you study Vietnamese?
- (A) Due to my work schedule, I only get around to it once per week.(正解)
+ (A) Due to my work schedule, I only get around to it once per week.<font color="#dd0000">正解</font>
  (B) I go to Vietnam twice per year for business trips.
  (C) Vietnamese sounds difficult, but I'd like to learn it.
 你多常研讀越南語？
@@ -873,7 +873,7 @@ c. 越南語聽起來很難，但我想學
  
 Excuse me, which of these cold medications has fewer side effects?
  (A) You must be Mrs. Andrews.
- (B) This one here will give you fewer side effects. (正解)
+ (B) This one here will give you fewer side effects. <font color="#dd0000">正解</font>
  (C) The doctor said that the prescription was valid until next month.
 不好意思，哪一種感冒藥的副作用最小？
 a. 你一定是Andrews太太
@@ -885,7 +885,7 @@ c. 醫生說這份處方籤到下個月都還可以使用
 00:0000:16
  
 When will you come back from Japan?
- (A) I'll get back next Thursday afternoon.(正解)
+ (A) I'll get back next Thursday afternoon.<font color="#dd0000">正解</font>
  (B) The ticket cost me 300 dollars!
  (C) The best time to visit Japan is in autumn.
 你什麼時候會從日本回來？
@@ -899,7 +899,7 @@ c. 秋天是最適合拜訪日本的季節
  
 Which bus can take me to Commonwealth and 5th Avenue the quickest?
  (A) The bus stop is over there.
- (B) Bus number 345 will get you there in a snap. (正解)
+ (B) Bus number 345 will get you there in a snap. <font color="#dd0000">正解</font>
  (C) I hear there is an excellent restaurant down the load.
 哪一班巴士可以最快到卡門威爾斯與第五大道的路口？
 a. 巴士站在那邊
@@ -913,7 +913,7 @@ c. 我聽說那條路再過去有一間很棒的餐廳
 This is the best French restaurant in the city, am I right?
  (A) French cuisine is delicious, but it's a bit too strange for my taste.
  (B) Have you tried the escargot?
- (C) I can't argue with you on that.(正解)
+ (C) I can't argue with you on that.<font color="#dd0000">正解</font>
 這是這個城市裡最棒的法國餐廳，對吧？
 a. 法國菜很好吃，但對我的口味來說有點怪
 b. 你試過法式烤蝸牛嗎？
@@ -926,7 +926,7 @@ c. 我同意你說的
 What time will the graduation ceremony commence?
  (A) My daughter graduated at the top of her class.
  (B) Your cap and gown are in the closet where you left them.
- (C) Everything will begin at eleven o'clock sharp.(正解)
+ (C) Everything will begin at eleven o'clock sharp.<font color="#dd0000">正解</font>
 畢業典禮何時會舉行？
 a. 我女兒畢業時是全班第一名
 b. 你把禮帽和長袍留在衣櫥裡了
@@ -939,7 +939,7 @@ c. 十一點整準時開始
 Can you tell me how to attach a file to my email?
  (A) Yes, I'll need to forward that to Ron Parker later this afternoon.
  (B) He gave me a really nasty look after I asked him that question today.
- (C) All you need to do is click this button and locate the file in your computer.(正解)
+ (C) All you need to do is click this button and locate the file in your computer.<font color="#dd0000">正解</font>
 你可以告訴我怎麼用email夾帶檔案嗎？
 a. 是的，我下午晚一點需要寄給Ron Parker
 b. 我今天問他問題後，他給我一個非常鄙棄的眼神
@@ -952,7 +952,7 @@ c. 你只需要點選這個按鈕，然後找出電腦裡的檔案即可
 Can you tell me when the next payday will be?
  (A) Yes, I'll pass your files along right away.
  (B) For Pete's sake, log out of your email account already!
- (C) All paychecks are to be sent out on the tenth of each month.(正解)
+ (C) All paychecks are to be sent out on the tenth of each month.<font color="#dd0000">正解</font>
 可以告訴我下一次發薪日的時間嗎？
 a. 是，我會立刻給你檔案
 b. 我的天啊，你總算登出你的電郵信箱了
@@ -963,7 +963,7 @@ c. 所有的薪資會在每個月的十號支付
 00:0000:20
  
 Who designed the poster for the upcoming exhibit on Abraham Lincoln?
- (A) Janis Day did it all by herself. (正解)
+ (A) Janis Day did it all by herself. <font color="#dd0000">正解</font>
  (B) Abraham Lincoln was a very courageous man.
  (C) The poster was put up in reception area earlier this afternoon.
 誰設計了即將開展的Abraham Lincoln (林肯總統)展覽的海報？
@@ -978,7 +978,7 @@ c. 這海報在下午稍早時被擺在接待區
 Do you know if the Malaysian restaurant near Hyde Park is open today?
  (A) Hyde Park is always open on weekends.
  (B) My mother could teach you how to cook.
- (C) Most establishments are closed today because it's a holiday.(正解)
+ (C) Most establishments are closed today because it's a holiday.<font color="#dd0000">正解</font>
 你知道靠近海德公園的那家馬來西亞餐廳今天有開嗎？
 a. 海德公園週末都會對外開放
 b. 我母親可以教你如何燒菜
@@ -993,7 +993,7 @@ c. 大部分公司行號今天都會關門，因為是假日
 00:0000:16
  
 Have you seen the outcome of the football game this afternoon?
- (A) Yes, Pittsburgh won in overtime. (正解)
+ (A) Yes, Pittsburgh won in overtime. <font color="#dd0000">正解</font>
  (B) I never made it to the bar.
  (C) Nobody ever listens to a word I say.
 你有看下午的美式足球比賽結果嗎？
@@ -1007,7 +1007,7 @@ c. 從來沒人在乎我說的話
  
 Where is the immigration office located?
  (A) He was a great senator, but he'll make a lousy president.
- (B) It's over on 2nd Street near the police station.(正解)
+ (B) It's over on 2nd Street near the police station.<font color="#dd0000">正解</font>
  (C) The whole family immigrated to Canada.
 請問移民局的地點在何處？
 a. 他曾是個很棒的參議員，但他會是個差勁的總統
@@ -1020,7 +1020,7 @@ c. 這一家人都移民到加拿大去了
  
 Would you like some cream and sugar with your coffee?
  (A) Going to college can be a great experience.
- (B) No, I take mine black. (正解)
+ (B) No, I take mine black. <font color="#dd0000">正解</font>
  (C) Yes. I will stay in the cafe at the corner.
 你的咖啡要加奶油和糖嗎？
 a. 上大學可以是一個很棒的經驗
@@ -1034,7 +1034,7 @@ c. 是的。我會待在街角的那家咖啡館
 You said that this wouldn't be dangerous, didn't you?
  (A) Just make sure you shut off the lights before going to bed.
  (B) Over the past couple of years he's been a very good friend to me.
- (C) Yes, it's very safe. Don't worry.(正解)
+ (C) Yes, it's very safe. Don't worry.<font color="#dd0000">正解</font>
 你說過這不會危險，對吧？
 a. 上床前確定要關燈
 b. 過去這兩年他一直對我很好
@@ -1045,7 +1045,7 @@ c. 是，這非常安全。別擔心。
 00:0000:20
  
 What program did you use to enter the data for this quarter?
- (A) I always use Excel to enter quarterly data. (正解)
+ (A) I always use Excel to enter quarterly data. <font color="#dd0000">正解</font>
  (B) Make sure you pick up some new detergent at the store.
  (C) Sure, I'll lend you a quarter.
 你用哪一個電腦程式來統計這季的數據？
@@ -1059,7 +1059,7 @@ c. 當然，我會借你25分錢
  
 How much will it cost to get from Beijing to Shanghai by train?
  (A) Flights at that time will be quite expensive.
- (B) It depends on which train you take. (正解)
+ (B) It depends on which train you take. <font color="#dd0000">正解</font>
  (C) Don't hold your breath when you swim up to the surface.
 從北京到上海搭火車要花多少錢？
 a. 這時間的機票都相當貴
@@ -1073,7 +1073,7 @@ c. 當你浮向海面的時候，不要屏住呼吸
 Would you like to join us at this table? We've got plenty of room.
  (A) He seems quite unhealthy and thin to me.
  (B) Locating that file will be impossible in a messy office like this.
- (C) No, thanks. I think we'll be fine over here.(正解)
+ (C) No, thanks. I think we'll be fine over here.<font color="#dd0000">正解</font>
 你們想要和我們這桌一起嗎？我們還有很多空位。
 a. 他對我來說看起來很不健康又瘦
 b. 在這樣雜亂的辦公室裡找到那份檔案是不可能的
@@ -1084,7 +1084,7 @@ c. 不，謝謝。我們在這邊就好了
 00:0000:22
  
 This bug spray doesn't have any harmful chemicals, right?
- (A) Actually, it does. I'll show you an organic brand instead.(正解)
+ (A) Actually, it does. I'll show you an organic brand instead.<font color="#dd0000">正解</font>
  (B) It's alright but I prefer the red one.
  (C) You can pick up your medicine from the chemist downstairs.
 這個殺蟲劑不含有害的化學成分，對吧？
@@ -1098,7 +1098,7 @@ c. 你可以去樓下的藥劑師那領藥
  
 What name is the reservation under, miss?
  (A) We're going to Costa Rica.
- (B) Try Thomas Beckford. (正解)
+ (B) Try Thomas Beckford. <font color="#dd0000">正解</font>
  (C) I haven't seen that guy since we graduated high school.
 小姐，訂位大名是？
 a. 我們要去哥斯大黎加
@@ -1111,7 +1111,7 @@ c. 高中畢業後我就沒見過那男的了
  
 Have you seen Clive since he transferred departments?
  (A) I just couldn't do that to a friend.
- (B) Yes, his new office is adjacent to mine. (正解)
+ (B) Yes, his new office is adjacent to mine. <font color="#dd0000">正解</font>
  (C) Possibly, but I'll need to ask my wife first.
 Clive調職到其他部門後，你有見過他嗎？
 a. 我只是無法對朋友這樣做
@@ -1125,7 +1125,7 @@ c. 有可能，但我得先問過我老婆
 How much do I owe you for the beer, Rich?
  (A) Bill told me you skipped out on Tammy and Terry's wedding.
  (B) I told him last week to cut her off financially.
- (C) Don't worry about it. This one's on me.(正解)
+ (C) Don't worry about it. This one's on me.<font color="#dd0000">正解</font>
 Rich，我欠你多少啤酒錢？
 a. Bill跟我說你沒有去Tammy和Terry的婚禮
 b. 我上禮拜要他停止金援她
@@ -1136,7 +1136,7 @@ c. 別擔心。這頓我請你
 00:0000:18
  
 Did you hear that Jon was fired this morning?
- (A) That's what happens when you come in late every day.(正解)
+ (A) That's what happens when you come in late every day.<font color="#dd0000">正解</font>
  (B) Count me out for this one. My wife's sister is having us over for dinner.
  (C) Did you hear that bell ringing?
 你有聽說Jon今天早上被解僱了嗎？
@@ -1151,7 +1151,7 @@ c. 你有聽到門鈴響嗎？
 Which terminal do you need to go to?
  (A) It's not a terminal disease.
  (B) After Brazil, I think I'll try to go to Chile.
- (C) I think my flight is leaving from terminal two.(正解)
+ (C) I think my flight is leaving from terminal two.<font color="#dd0000">正解</font>
 你要去哪一座航廈？
 a. 這並非不治之症
 b. 在巴西之後，我想我會去智利
@@ -1163,7 +1163,7 @@ c. 我想我的班機從二航廈離開
  
 Which do you prefer, the black tie or the striped green one?
  (A) She never seems to give me a straight answer.
- (B) I'll take both.(正解)
+ (B) I'll take both.<font color="#dd0000">正解</font>
  (C) Neither is suitable for this position.
 你偏好哪一個，黑色領帶還是綠色條紋？
 a. 她從來不直接告訴我答案
@@ -1176,7 +1176,7 @@ c. 沒有一個適合這個職位
  
 What is your new secretary like?
  (A) It's not like it was before.
- (B) She's hardworking and punctual.(正解)
+ (B) She's hardworking and punctual.<font color="#dd0000">正解</font>
  (C) I'd like to apply for the team.
 你的新秘書是什麼樣的人？
 a. 這不像之前的樣子
@@ -1190,7 +1190,7 @@ c. 我想申請加入這組團隊
 After I say my last line, where would you like me to stand?
  (A) The building stands 300 meters tall.
  (B) The standard treatment takes over two years to complete.
- (C) Over here next to Jill would be fine. (正解)
+ (C) Over here next to Jill would be fine. <font color="#dd0000">正解</font>
 我的台詞講完後，你想要我站在哪裡？
 a. 這棟建築物有300公尺高
 b. 這個標準療程至少需要兩年才能完成
@@ -1201,7 +1201,7 @@ c. 站在Jill旁邊就好了
 00:0000:15
  
 Fay, can I borrow twenty bucks?
- (A) I only have ten. Will that do? (正解)
+ (A) I only have ten. Will that do? <font color="#dd0000">正解</font>
  (B) The box is right over there.
  (C) Don't worry about Mark. He'll get over it eventually.
 Fay, 可以借我二十美金嗎？
@@ -1215,7 +1215,7 @@ c. 別擔心Mark。他最終會忘懷的。
  
 Whose car is this in my parking place?
  (A) I'd just go ahead and do it. No one will mind.
- (B) I think it's the new guy, Jeff.(正解)
+ (B) I think it's the new guy, Jeff.<font color="#dd0000">正解</font>
  (C) She was very mean at first.
 誰把車子停在我的停車位上？
 a. 我就直接動手做了。沒有人會介意的
@@ -1229,7 +1229,7 @@ c. 她一開始非常刻薄
 How would you like your steak cooked?
  (A) Yes, I'd like to learn how to cook.
  (B) I'm good, thanks for asking.
- (C) I'll have that medium rare, please.(正解)
+ (C) I'll have that medium rare, please.<font color="#dd0000">正解</font>
 你的牛排想要幾分熟？
 a. 是的，我想要學怎麼煮菜
 b. 我很好，謝謝關心
@@ -1242,7 +1242,7 @@ c. 請給我三分熟
 Who do you think Mr. Cheton will choose to replace Amada?
  (A) Processed chicken is supposed to be really bad for you.
  (B) He put that over on the shelf next to the television.
- (C) I think Tim Watercress is the most qualified candidate.(正解)
+ (C) I think Tim Watercress is the most qualified candidate.<font color="#dd0000">正解</font>
 你覺得Cheton先生會選誰來取代Amada的位子？
 a. 加工過後的雞肉對你來說應該不好
 b. 他放在電視旁邊的架子上
@@ -1254,7 +1254,7 @@ c. 我覺得Tim Watercress是最有資格的人選
  
 If you're unhappy with your bank, why don't you close your account?
  (A) The teller over there can help you with your credit card application.
- (B) Because that bank charges lots of fees if you break your contract early.(正解)
+ (B) Because that bank charges lots of fees if you break your contract early.<font color="#dd0000">正解</font>
  (C) He never was happy, was he?
 如果你不喜歡你的銀行，為什麼不將戶頭關閉？
 a. 那邊的行員可以協助你的信用卡申請
@@ -1267,7 +1267,7 @@ c. 他從來沒有快樂過，是吧？
  
 If you don't mind me asking, who was that man you were talking to earlier?
  (A) He has been living in Taiwan for over twenty years.
- (B) That was my landlord. (正解)
+ (B) That was my landlord. <font color="#dd0000">正解</font>
  (C) I've never seen that movie before either.
 如果你不介意話，我可以問你先前和你談話的男士是誰嗎？
 a. 他住在台灣超過20年了
@@ -1279,7 +1279,7 @@ c. 我之前也沒看過那部電影
 00:0000:21
  
 Why haven't you finished the table settings for the rehearsal dinner, Johnna?
- (A) Sorry Gabriel, I got hung up with another customer. (正解)
+ (A) Sorry Gabriel, I got hung up with another customer. <font color="#dd0000">正解</font>
  (B) I think you have to weigh the risk versus the reward on this one, Hal.
  (C) Do you really think that's a good idea?
 Johnna妳為什麼還沒完成幫預演晚餐會擺桌？
@@ -1294,7 +1294,7 @@ c. 你真的覺得這是個好注意嗎？
 When will I be able to speak to somebody about my new contract?
  (A) I spoke to him yesterday.
  (B) Please don't contact me after midnight.
- (C) The manager said later this week. (正解)
+ (C) The manager said later this week. <font color="#dd0000">正解</font>
 我何時可以詢問我的新合約？
 a. 我昨天和他說過
 b. 請不要在半夜後打給我
@@ -1306,7 +1306,7 @@ c. 經理說本週晚些時候
  
 May I use your computer to check my email?
  (A) Maybe it's over.
- (B) Sure. The web browser icon is at the bottom of the screen. (正解)
+ (B) Sure. The web browser icon is at the bottom of the screen. <font color="#dd0000">正解</font>
  (C) I use Gmail, not Hotmail.
 我可以用你的電腦收電子郵件嗎？
 a. 也許已經結束了
@@ -1323,7 +1323,7 @@ c. 我使用Gmail而不是Hotmail
  
 Great day to sit on a patio restaurant, isn't it?
  (A) The restaurant is closing soon.
- (B) Couldn't be better!(正解)
+ (B) Couldn't be better!<font color="#dd0000">正解</font>
  (C) I'm going past there, anyway.
 這真是個坐在餐廳露臺的好日子，對不對？
 a. 餐廳就快打烊了。
@@ -1336,7 +1336,7 @@ c. 不論如何我會經過那個地方。
  
 You have a new business partner? What's she like?
  (A) She likes sewing for fun.
- (B) She's pretty but not the fastest worker.(正解)
+ (B) She's pretty but not the fastest worker.<font color="#dd0000">正解</font>
  (C) We got engaged last month.
 你有了新的合夥人？她人怎麼樣？
 a. 她喜歡縫紉當作消遣。 
@@ -1349,7 +1349,7 @@ c. 我們上個月訂婚。
  
 That's all I need today. How much do I owe you?
  (A) You don't own the property.
- (B) Twelve bucks. (正解)
+ (B) Twelve bucks. <font color="#dd0000">正解</font>
  (C) Do you want your bill in the bag?
 我今天就只需要這些。我該付你多少錢？
 a. 你不是這塊房地產的持有人。
@@ -1363,7 +1363,7 @@ c. 你的收據要放在袋子裡嗎？
 Which model were you thinking of getting?
  (A) I've been a model for years.
  (B) I'm getting rich, but I'm not getting happier.
- (C) The i95 is catching my eye. (正解)
+ (C) The i95 is catching my eye. <font color="#dd0000">正解</font>
 你想要買哪一款型號？
 a. 我已經當了許多年的模特兒。
 b. 我變得更富有，可是我沒有變得比較快樂。
@@ -1374,7 +1374,7 @@ c. i95吸引住我的目光。
 00:0000:16
  
 Aren't you going to say thanks to your boss Frank before we leave?
- (A) No, I'll send him a thank you note later.(正解)
+ (A) No, I'll send him a thank you note later.<font color="#dd0000">正解</font>
  (B) Yes, thank you for all the food, Marge.
  (C) I'm going there for business, not pleasure.
 我們離開前你不打算跟你的老闆Frank 說聲謝謝嗎？
@@ -1387,7 +1387,7 @@ c. 我是去那裡洽公，不是去玩。
 00:0000:14
  
 Will you be able to fix the cracked window or not?
- (A) I will, but it will cost you.(正解)
+ (A) I will, but it will cost you.<font color="#dd0000">正解</font>
  (B) Either or.
  (C) I'll be there tomorrow.
 你到底有沒有辦法修好那扇有裂痕的窗戶？
@@ -1402,7 +1402,7 @@ c. 我明天會在那裡。
 I would like to know who is in charge here.
  (A) So you'd like to pay with your charge card?
  (B) The animal charged at the zookeeper.
- (C) Yvonne. She's right over there.(正解)
+ (C) Yvonne. She's right over there.<font color="#dd0000">正解</font>
 我想知道誰是這裡的負責人。
 a. 所以你想用你的信用卡付款嗎？
 b. 那頭動物向著動物園管理員衝去。
@@ -1413,7 +1413,7 @@ c. 是Yvonne。她就在那邊。
 00:0000:15
  
 Can you tell me where I can find a currency exchange booth?
- (A) Try the arrivals hall. (正解)
+ (A) Try the arrivals hall. <font color="#dd0000">正解</font>
  (B) No, it's not the current edition.
  (C) Yes, I can go there.
 你能告訴我要去哪裡找外幣兌換處嗎？
@@ -1428,7 +1428,7 @@ c. 是的，我可以去那裡。
 Thanks for taking the time to discuss things with me. When shall we meet again?
  (A) See you next time!
  (B) Just come around to my office!
- (C) Does Thursday at 5 work for you? (正解)
+ (C) Does Thursday at 5 work for you? <font color="#dd0000">正解</font>
 謝謝你花時間與我一起討論事情。我們何時會再碰面呢？
 a. 下次見！
 b. 到我辦公室來！
@@ -1440,7 +1440,7 @@ c. 禮拜四五點鐘你可以嗎？
  
 What's going on with all those people in front of the factory?
  (A) It's hard to find trustworthy people these days.
- (B) The worker's have gone on strike.(正解)
+ (B) The worker's have gone on strike.<font color="#dd0000">正解</font>
  (C) The parking lot is at the rear.
 工廠前面的這一大群人是怎麼回事？
 a. 這年頭很難找到值得信賴的人。
@@ -1452,7 +1452,7 @@ c. 停車場在後面。
 00:0000:13
  
 What type of lock are you looking for?
- (A) A number lock, please.(正解)
+ (A) A number lock, please.<font color="#dd0000">正解</font>
  (B) Could I please have your number?
  (C) We will lock the doors at 5:00.
 你要找哪一種的鎖？
@@ -1466,7 +1466,7 @@ c. 我們會在五點鐘鎖門。
  
 You didn't get kicked out of the bar again, did you?
  (A) The bar needs to be raised.
- (B) Of course not! (正解)
+ (B) Of course not! <font color="#dd0000">正解</font>
  (C) Sure, I kicked it right into the net.
 你該不會又被趕出酒吧了吧，有嗎？
 a. 這根橫槓需要抬高。
@@ -1479,7 +1479,7 @@ c. 當然了，我正中目標。
  
 When is the latest I can submit the application?
  (A) Lately it hasn't been working.
- (B) The end of the week.(正解)
+ (B) The end of the week.<font color="#dd0000">正解</font>
  (C) Staying up late isn't good for you.
 我最晚可以什麼時候繳交報名表？
 a. 最近都無法使用。
@@ -1492,7 +1492,7 @@ c. 熬夜對你不好。
  
 Madam President, who are you going to choose as your advisor?
  (A) Thanks for your advice on that matter.
- (B) I'm torn between Colin Burbank and Sandra Holmes.(正解)
+ (B) I'm torn between Colin Burbank and Sandra Holmes.<font color="#dd0000">正解</font>
  (C) I'd advise you to choose quickly.
 總統女士，您打算選誰當你的顧問？
 a. 謝謝你的忠告。
@@ -1504,7 +1504,7 @@ c. 我建議你快一點選。
 00:0000:13
  
 I can't believe it! When is this work going to end?
- (A) Hang in there, Conrad. (正解)
+ (A) Hang in there, Conrad. <font color="#dd0000">正解</font>
  (B) Hang on tight.
  (C) Hand me the ruler, please.
 這真令人難以置信！這工作要到何時才做得完？
@@ -1517,7 +1517,7 @@ c. 請把尺遞給我。
 00:0000:17
  
 I wonder who that handsome bloke is standing over there by the vending machine.
- (A) That's Bart, the new intern.(正解)
+ (A) That's Bart, the new intern.<font color="#dd0000">正解</font>
  (B) I can't believe the machine's broken again!
  (C) Pick me up a candy bar while you are there.
 不曉得站在販賣機旁的那位帥哥是誰？
@@ -1531,7 +1531,7 @@ c. 你去哪裡後幫我買糖果棒。
  
 Have you ever volunteered for a non-profit organization?
  (A) Yes, I'm very clean and organized.
- (B) Yes, I was the VP of a local charity. (正解)
+ (B) Yes, I was the VP of a local charity. <font color="#dd0000">正解</font>
  (C) No, it wasn't very profitable.
 你曾經加入非營利組織當志工嗎？
 a. 是，我非常愛乾淨而且做事有條理。
@@ -1543,7 +1543,7 @@ c. 沒有，它並沒有非常賺錢。
 00:0000:15
  
 Do you happen to know where the restroom facilities are?
- (A) At the back of the plane. (正解)
+ (A) At the back of the plane. <font color="#dd0000">正解</font>
  (B) These facilities are open to the public.
  (C) It happened quite recently.
 你會不會剛好知道廁所在哪裡？
@@ -1558,7 +1558,7 @@ c. 那是最近發生的。
 Would you like your purchase gift-wrapped or just in a bag?
  (A) Thanks for the gift.
  (B) I'll take the insurance.
- (C) The latter will do. (正解)
+ (C) The latter will do. <font color="#dd0000">正解</font>
 你買的東西要包裝起來還是用袋子裝就好？
 a. 謝謝你的禮物。
 b. 我要買保險。
@@ -1569,7 +1569,7 @@ c. 後者即可。
 00:0000:15
  
 Finally the speech is over. What did you think?
- (A) It was quite informative. (正解)
+ (A) It was quite informative. <font color="#dd0000">正解</font>
  (B) It's over at 3:30.
  (C) I'd like to keep browsing, thanks.
 演講終於結束了。你覺得如何？
@@ -1583,7 +1583,7 @@ c. 我想繼續到處看看，謝了。
  
 What's wrong with your notebook monitor?
  (A) I'm done taking notes.
- (B) It's frozen.(正解)
+ (B) It's frozen.<font color="#dd0000">正解</font>
  (C) Did you take note of the price?
 你的筆電螢幕畫面怎麼了？
 a. 我受夠了記筆記了。
@@ -1597,7 +1597,7 @@ c. 你有把價格記下來嗎？
 Oh, my! Michael! What happened to your face?
  (A) Face it. We are going to lose.
  (B) I hate losing face.
- (C) I got facial surgery. (正解)
+ (C) I got facial surgery. <font color="#dd0000">正解</font>
 喔，我的天啊！Michael！你的臉怎麼了？ 
 a. 面對現實吧。我們要輸了。
 b. 我討厭丟臉。
@@ -1610,7 +1610,7 @@ c. 我做了臉部手術。
 Why haven't you replied to my text yet?
  (A) The textbook is overdue.
  (B) I'll have it on your desk soon.
- (C) Sorry, my battery's dead.(正解)
+ (C) Sorry, my battery's dead.<font color="#dd0000">正解</font>
 你為什麼還沒有回我的簡訊？ 
 a. 這本教科書過期了。
 b. 我會盡快把它放在你的桌子上。
@@ -1623,7 +1623,7 @@ c. 抱歉，我的電池沒電了。
 If you want to know my hourly rate, first I need to know which part of town you live in.
  (A) Sure. I'll be there in an hour.
  (B) I'm afraid that rate is too high for me.
- (C) I'm on the upper eastside.(正解)
+ (C) I'm on the upper eastside.<font color="#dd0000">正解</font>
 如果你想知道我每小時收多少費用，我首先必須知道你住在城裡的那個地區。 
 a. 沒問題。我會在一個小時內到。
 b. 恐怕那個費率對我來說太高了。
@@ -1635,7 +1635,7 @@ c. 我住在上東城區。
  
 Congrats on the bonus! How much did you get?
  (A) I'm at the top.
- (B) A grand.(正解)
+ (B) A grand.<font color="#dd0000">正解</font>
  (C) It's all over.
 恭喜你拿到獎金！你拿到多少？
 a. 我是在最上面的。
@@ -1651,7 +1651,7 @@ c. 全都結束了。
 00:0000:14
  
 Samuel, would you care for another glass of wine?
- (A) No thanks, I've had enough.(正解)
+ (A) No thanks, I've had enough.<font color="#dd0000">正解</font>
  (B) My class ends soon.
  (C) I don't really care about that topic.
 Samuel，你想再喝杯酒嗎？ 
@@ -1665,7 +1665,7 @@ c. 我不是很關心那個話題。
  
 Dear, do you have anything in mind for dinner?
  (A) Never mind. I'll take it.
- (B) I'm thinking turkey and mashed potatoes.(正解)
+ (B) I'm thinking turkey and mashed potatoes.<font color="#dd0000">正解</font>
  (C) Nothing is new. And you?
 親愛的，你對晚餐吃什麼有任何想法嗎？
 a. 不用了。我會去拿。
@@ -1679,7 +1679,7 @@ c. 沒什麼新鮮的事。你呢？
 How about another round of beers? It's on me.
  (A) It's somewhere around the end of the bar.
  (B) Mine was first, actually.
- (C) No way. You paid for the last one. (正解)
+ (C) No way. You paid for the last one. <font color="#dd0000">正解</font>
 再來一輪啤酒如何？我請客。
 a. 在吧台尾端的某個地方。
 b. 其實是我的先出。
@@ -1690,7 +1690,7 @@ c. 門都沒有。上一輪你請過了。
 00:0000:13
  
 What's the finishing time for this evening's performance?
- (A) About five after nine. (正解)
+ (A) About five after nine. <font color="#dd0000">正解</font>
  (B) It's right on time.
  (C) Only one time.
 今晚的表演幾點結束？
@@ -1705,7 +1705,7 @@ c. 只有一次。
 What kind of benefits come with this position?
  (A) This dish comes with soup or salad.
  (B) It would be beneficial for us if you could start soon.
- (C) Two weeks of paid holidays and full health coverage. (正解)
+ (C) Two weeks of paid holidays and full health coverage. <font color="#dd0000">正解</font>
 這個職位有什麼福利？
 a. 這道菜附湯或沙拉。
 b. 如果你盡快開始的話會對我們很有幫助。
@@ -1717,7 +1717,7 @@ c. 兩個禮拜的帶薪假期跟全額醫療給付。
  
 Here's your bucket of fried chicken. Would you like any extra napkins?
  (A) I already took a nap this afternoon.
- (B) Sure. Just put them in the bag. (正解)
+ (B) Sure. Just put them in the bag. <font color="#dd0000">正解</font>
  (C) That'll be an extra dollar.
 這是你要的桶裝炸雞。你需要更多的餐巾紙嗎？
 a. 我今天下午已經有小睡片刻。
@@ -1730,7 +1730,7 @@ c. 那要多加一塊美金。
  
 What's the difference between these two models?
  (A) Yes, they're both on sale.
- (B) The one on the left is lighter. (正解)
+ (B) The one on the left is lighter. <font color="#dd0000">正解</font>
  (C) Yes, they are quite different.
 這兩個款式之間有什麼不同？ 
 a. 是的，它們都在特價。 
@@ -1743,7 +1743,7 @@ c. 是的，它們十分不同。
  
 Nice desktop pic. Is it yours?
  (A) I got the desktop at the new electronics shop next door.
- (B) No, my son took it in Alaska. (正解)
+ (B) No, my son took it in Alaska. <font color="#dd0000">正解</font>
  (C) No, I bought the desk at Ikea.
 電腦的桌面圖片很好看。是你拍的嗎？
 a. 我在隔壁那家電器行買了這部桌上型電腦。 
@@ -1757,7 +1757,7 @@ c. 不是，這張桌子是我在Ikea買的。
 What reason did they give for rejecting your proposal?
  (A) They gave me 20 dollars in cash.
  (B) I propose we go out for brunch.
- (C) They found it impractical. (正解)
+ (C) They found it impractical. <font color="#dd0000">正解</font>
 他們用什麼理由駁回你的提案？
 a. 他們給我20美元的現金。 
 b. 我提議我們到外面去吃早午餐。 
@@ -1770,7 +1770,7 @@ c. 他們認為它不切實際。
 I was wondering how much 100 grams of black forest ham would cost.
  (A) It costs 10 dollars to enter the forest trail.
  (B) This is the best ham on the market.
- (C) It's 22.90 per kilogram, so that would be 2.29.(正解)
+ (C) It's 22.90 per kilogram, so that would be 2.29.<font color="#dd0000">正解</font>
 我想知道100公克的黑森林火腿要多少錢。 
 a. 進入森林小徑要花10美金。 
 b. 這是市面上最棒的火腿。 
@@ -1781,7 +1781,7 @@ c. 每公斤是22.9美金，所以是2.29美金。
 00:0000:17
  
 Did Rakesh inform you of the new food and drink policy?
- (A) Yes, I just got the memo. (正解)
+ (A) Yes, I just got the memo. <font color="#dd0000">正解</font>
  (B) Food and drinks are available in the food court.
  (C) I use Google to search for information.
 Rakesh有通知你飲食新規定嗎？ 
@@ -1796,7 +1796,7 @@ c. 我用Google來搜尋資訊。
 Here's my card. How long do I have to return it if I change my mind?
  (A) Thanks for returning.
  (B) It's about twenty centimeters long.
- (C) 30 days with the receipt. (正解)
+ (C) 30 days with the receipt. <font color="#dd0000">正解</font>
 這是我的信用卡。對了，如果我改變心意的話多久之內必須退貨？
 a. 謝謝歸還。
 b. 大約是二十公分長。
@@ -1807,7 +1807,7 @@ c. 三十天內附收據。
 00:0000:14
  
 Where do I press to get this thing to start?
- (A) The switch is below the valve. (正解)
+ (A) The switch is below the valve. <font color="#dd0000">正解</font>
  (B) You can apply for the job over there.
  (C) Please start with the oldest files.
 我要按哪裡才能讓這東西啟動？ 
@@ -1820,7 +1820,7 @@ c. 請從最舊的檔案開始。
 00:0000:12
  
 Our team didn't lose again, did they?
- (A) Unfortunately, they did. (正解)
+ (A) Unfortunately, they did. <font color="#dd0000">正解</font>
  (B) It wasn't on time.
  (C) One more for me, please.
 我們的隊伍該不會又輸了吧，是嗎? 
@@ -1834,7 +1834,7 @@ c. 請再給我一個。
  
 Vernon, what do you plan to do with all your free time now that you're retired?
  (A) I'll finally retire when I'm 65.
- (B) I'm going to construct my own boat.(正解)
+ (B) I'm going to construct my own boat.<font color="#dd0000">正解</font>
  (C) Actually, these pens aren't free.
 Vernon，你現在退休了，空閒時間打算做什麼呢？
 a. 我到六十五歲時就可以退休了。
@@ -1846,7 +1846,7 @@ c. 其實，這些筆不是免費的。
 00:0000:14
  
 Any idea why Courtney quit and stormed out like that?
- (A) The boss just demoted her. (正解)
+ (A) The boss just demoted her. <font color="#dd0000">正解</font>
  (B) Finally she quit smoking!
  (C) Thanks for the idea.
 你知道Courtney辭職，然後怒氣沖沖的離開的原因嗎？ 
@@ -1860,7 +1860,7 @@ c. 謝謝你的意見。
  
 Excuse me, conductor. Where is this train bound for?
  (A) The train station is around the corner.
- (B) The final stop is Dublin. (正解)
+ (B) The final stop is Dublin. <font color="#dd0000">正解</font>
  (C) The next one comes in half an hour.
 打擾一下，列車長。這班列車開往哪裡？
 a. 火車站在街角附近。
@@ -1874,7 +1874,7 @@ c. 下一班車半小時內會到。
 I see we have a layover in Paris. How long is it?
  (A) At 6:30.
  (B) It was on sale for 630 euros.
- (C) Six and a half hours. (正解)
+ (C) Six and a half hours. <font color="#dd0000">正解</font>
 我知道我們會在巴黎短暫停留一下。時間有多久？
 a. 在六點三十分。
 b. 特價是630歐元。 
@@ -1886,7 +1886,7 @@ c. 六個半小時。
  
 Do you know when the Internet was invented?
  (A) It was probably invented in the US.
- (B) Sometime in the 70s, I think. (正解)
+ (B) Sometime in the 70s, I think. <font color="#dd0000">正解</font>
  (C) Yes, it's free for all to use.
 你知道網際網路是何時發明的嗎？
 a. 可能是在美國發明的。
@@ -1899,7 +1899,7 @@ c. 是的，免費讓大家使用。
  
 Would you like to receive your account statements by mail or electronically?
  (A) My mailbox is on the gate.
- (B) I'd prefer email.(正解)
+ (B) I'd prefer email.<font color="#dd0000">正解</font>
  (C) We are going to record your statement.
 你想用一般郵件還是電子郵件來接收帳戶明細？
 a. 我的信箱在大門上。
@@ -1913,7 +1913,7 @@ c. 我會將把您的意見紀錄下來。
 How many liters of gas would you like in the car?
  (A) Thanks. I'll pick it up later.
  (B) I'd like a brand new car, please.
- (C) Fill it up, please. (正解)
+ (C) Fill it up, please. <font color="#dd0000">正解</font>
 你車子要加多少公升汽油？
 a. 謝謝。我等一下來拿。
 b. 我想要一輛全新的車，麻煩你。
@@ -1924,7 +1924,7 @@ c. 加滿，麻煩你。
 00:0000:16
  
 Frank, you are up next. How much time will you need?
- (A) Two minutes ought to suffice. (正解)
+ (A) Two minutes ought to suffice. <font color="#dd0000">正解</font>
  (B) Just give me a hundred dollars.
  (C) I'll start at quarter after three.
 Frank，下一個換你了。你需要多少時間？
@@ -1937,7 +1937,7 @@ c. 我會在三點十五分開始。
 00:0000:17
  
 Brandon, as CEO, how did you turn this company around?
- (A) I had to restructure the entire hierarchy. (正解)
+ (A) I had to restructure the entire hierarchy. <font color="#dd0000">正解</font>
  (B) I was given the position in 1975.
  (C) I mostly did it for my family.
 Brandon，身為執行長，你是如何使這家公司改頭換面？
@@ -1950,7 +1950,7 @@ c. 我主要是為了家庭才這麼做。
 00:0000:19
  
 Davey. Didn't you say that your department is looking for new computer technicians?
- (A) Yes, but they just hired some. (正解)
+ (A) Yes, but they just hired some. <font color="#dd0000">正解</font>
  (B) No, it departed a long time ago.
  (C) Yes, I'm looking for a new computer.
 Davey。你不是說你的部門正在招募新的電腦技術人員嗎？
@@ -1964,7 +1964,7 @@ c. 是，我要買一台新電腦。
  
 How will I know when to disembark from the bus?
  (A) Your bus will be departing from the platform outside.
- (B) Keep an eye out for the hospital. The stop is right after it. (正解)
+ (B) Keep an eye out for the hospital. The stop is right after it. <font color="#dd0000">正解</font>
  (C) Don't worry. This bus company is safe.
 我如何才能知道何時該從公車上下車？
 a. 你的巴士會從外面的月臺發車。
@@ -1980,7 +1980,7 @@ c. 別擔心。這間巴士公司很安全。
 00:0000:18
  
 You went to Prague last weekend? What for?
- (A) I had an important meeting to attend.(正解)
+ (A) I had an important meeting to attend.<font color="#dd0000">正解</font>
  (B) I stayed at the Hilton Hotel.
  (C) Yes, it was my fourth time to visit the Czech Republic.
 你上禮拜周末去布拉格? 為什麼？
@@ -1993,7 +1993,7 @@ c. 是的，這是我第四次去捷克共和國
 00:0000:14
  
 Sir, would you prefer an aisle or window seat?
- (A) I'd like a window seat, please.(正解)
+ (A) I'd like a window seat, please.<font color="#dd0000">正解</font>
  (B) Yes. I'd like to take both.
  (C) I'll be flying first class.
 先生，你偏好靠走道還是靠窗的位子?
@@ -2008,7 +2008,7 @@ c. 我會搭頭等艙
 There's a beach near the hotel, isn't there?
  (A) This hotel has a swimming pool.
  (B) Don't forget to bring a towel!
- (C) Yes, there is. It's just a short walk away, down the shore.(正解)
+ (C) Yes, there is. It's just a short walk away, down the shore.<font color="#dd0000">正解</font>
 旅館附近有座沙灘，是嗎?
 a. 這間旅館有游泳池
 b. 不要忘記帶海攤巾！
@@ -2021,7 +2021,7 @@ c. 是的，有一個。只要走一小段路，往海濱走下去。
 Whose bag is lying on the floor near the water cooler?
  (A) It's been there since this morning.
  (B) Thank you, but I'm not thirsty.
- (C) I believe that bag belongs to John(正解)
+ (C) I believe that bag belongs to John<font color="#dd0000">正解</font>
 誰的背包放飲水機附近的地板上？
 a. 今天早上就放在那裡了
 b. 謝謝你，但我不渴
@@ -2032,7 +2032,7 @@ c. 我相信那是John的背包
 00:0000:15
  
 Shouldn't we discuss the terms of the contract?
- (A) Yes, there are many questions I'd like to ask.(正解)
+ (A) Yes, there are many questions I'd like to ask.<font color="#dd0000">正解</font>
  (B) Where do I sign?
  (C) There are three pages in total.
 我們不是應該討論這份合約書的項目嗎？
@@ -2045,7 +2045,7 @@ c. 總共有三頁
 00:0000:14
  
 Can you finish writing the report by 4:40?
- (A) Yes, of course! I'll make sure of it. (正解)
+ (A) Yes, of course! I'll make sure of it. <font color="#dd0000">正解</font>
  (B) I've written a total of fourteen reports this week.
  (C) I haven't finished yet.
 你可以在4:40前完成這份報告嗎？
@@ -2059,7 +2059,7 @@ c. 我還沒有完成
  
 Will your business partner be coming with us?
  (A) His name is Mark.
- (B) Unfortunately, he has a meeting to attend.(正解)
+ (B) Unfortunately, he has a meeting to attend.<font color="#dd0000">正解</font>
  (C) We've worked together for four years.
 你的事業夥伴會跟我們一起去嗎？
 a. 他的名字叫Mark
@@ -2072,7 +2072,7 @@ c. 我們一起工作四年了
  
 We should pick up some booze. Where's the nearest liquor store?
  (A) I haven't had liquor in several years.
- (B) There's a shop right down the street on Brook Road.(正解)
+ (B) There's a shop right down the street on Brook Road.<font color="#dd0000">正解</font>
  (C) Yes, there's a liquor store called "Mark's Beverages".
 我們應該帶一些酒。最近一家賣酒的店在哪裡？
 a. 我已經好幾年沒喝酒了
@@ -2085,7 +2085,7 @@ c. 是的，那邊有一家店叫"馬克飲料店"
  
 Do you want white wine or champagne?
  (A) I'd like it chilled.
- (B) I'd like the white wine, please.(正解)
+ (B) I'd like the white wine, please.<font color="#dd0000">正解</font>
  (C) I'll have a large glass, thank you!
 你想要白酒還是香檳？
 a. 我想要喝冰的
@@ -2098,7 +2098,7 @@ c. 我要一杯大杯的，謝謝你！
  
 The new cinema on Washington Avenue has a lot of seating space, doesn't it?
  (A) There's a new film being shown that's quite popular.
- (B) Yes, it boasts over a hundred seats.(正解)
+ (B) Yes, it boasts over a hundred seats.<font color="#dd0000">正解</font>
  (C) You can purchase a ticket through their website.
 那間在華盛頓大道上新開的電影院有很多座位，對嗎？
 a. 那邊在上映一部頗受歡迎的電影
@@ -2110,7 +2110,7 @@ c. 你可以在他們的網站買票
 00:0000:16
  
 Waitress! How much is a bacon cheeseburger?
- (A) That depends. Do you want the combo or not? (正解)
+ (A) That depends. Do you want the combo or not? <font color="#dd0000">正解</font>
  (B) Bacon is 2.99 per pound.
  (C) It's served on a sesame seed bun.
 服務生！培根起司漢堡多少錢？
@@ -2125,7 +2125,7 @@ c. 這邊有供應芝麻包
 I'd like to print out a report. Where is the nearest printer?
  (A) I printed documents earlier today.
  (B) I purchased it on sale.
- (C) It's beneath my desk.(正解)
+ (C) It's beneath my desk.<font color="#dd0000">正解</font>
 我想要印一份報告。最靠近的印表機在哪裡？
 a. 我今天稍早印了一份文件
 b. 我在特價的時候買的
@@ -2136,7 +2136,7 @@ c. 在我的桌子下面
 00:0000:14
  
 I see we have a new employee. What do you think of him?
- (A) He's hard-working and dependable.(正解)
+ (A) He's hard-working and dependable.<font color="#dd0000">正解</font>
  (B) He started work last month.
  (C) I spoke to him recently about sports.
 我看到我們有位新任職員。你覺得他怎麼樣？
@@ -2150,7 +2150,7 @@ c. 我最近跟他聊運動
  
 The X-ray machine is malfunctioning again, isn't it?
  (A) It's been moved to a different floor in the hospital.
- (B) Yes, it's been displaying errors.(正解)
+ (B) Yes, it's been displaying errors.<font color="#dd0000">正解</font>
  (C) It's used to examine the internal organs and skeletal system.
 這台X光機又故障了，對吧？
 a. 它已經被搬移到醫院的不同樓層
@@ -2163,7 +2163,7 @@ c. 它用來檢查內臟和骨骼系統
  
 May I use your PC to book my flight?
  (A) I won't be traveling anywhere.
- (B) Sure, no problem!(正解)
+ (B) Sure, no problem!<font color="#dd0000">正解</font>
  (C) My PC is running Windows 8.
 我可以用你的電腦訂機票嗎？
 a. 我不會去任何地方旅遊
@@ -2175,7 +2175,7 @@ c. 我的電腦是Windows8系統的
 00:0000:17
  
 How do you plan on traveling to Perth this weekend?
- (A) I'll be going there on an overnight bus.(正解)
+ (A) I'll be going there on an overnight bus.<font color="#dd0000">正解</font>
  (B) This will be my first time visiting the city.
  (C) During winter, Perth is warmer than Melbourne.
 你這周末計劃要怎麼去柏斯旅行?
@@ -2190,7 +2190,7 @@ c. 柏斯冬季比墨爾本溫暖
 What about a hotel? Have you chosen one yet?
  (A) My vacation will begin on August 4th.
  (B) I've been on vacation twice this year.
- (C) Yes, I'll be staying in the Mandarin Oriental.(正解)
+ (C) Yes, I'll be staying in the Mandarin Oriental.<font color="#dd0000">正解</font>
 旅館如何了？你選一間了嗎？
 a. 我的旅程會從八月四日開始
 b. 我今年已經去渡假兩次了
@@ -2201,7 +2201,7 @@ c. 是的，我會住在Mandarin Oriental
 00:0000:15
  
 Beatrice, who did you go visit last weekend?
- (A) My brother in Paris.(正解)
+ (A) My brother in Paris.<font color="#dd0000">正解</font>
  (B) I needed to travel for business.
  (C) It was a small hotel along the river.
 Beatrice，你上禮拜去拜訪誰？
@@ -2214,7 +2214,7 @@ c. 河畔邊的一間小旅館
 00:0000:18
  
 How many clients does your office receive weekly?
- (A) On average, about 35 of them.(正解)
+ (A) On average, about 35 of them.<font color="#dd0000">正解</font>
  (B) Each session lasts roughly 45 minutes.
  (C) There's a large waiting room directly outside of my office.
 你的辦公室一個禮拜會有幾個客戶?
@@ -2228,7 +2228,7 @@ c. 在我的辦公室外面有一個很大的會客室
  
 That's strange. Why did you take a bus to work today?
  (A) I've never walked to work before.
- (B) My car is being repaired.(正解)
+ (B) My car is being repaired.<font color="#dd0000">正解</font>
  (C) The trip took roughly 34 minutes.
 真奇怪。為什麼你今天會搭公車上班？
 a. 我之前從來沒有走路來上班過
@@ -2241,7 +2241,7 @@ c. 這路程大約要34分鐘
  
 Mrs. Lin, how long ago did you hire your assistant?
  (A) She's twenty four years old.
- (B) She began working for me in 2009.(正解)
+ (B) She began working for me in 2009.<font color="#dd0000">正解</font>
  (C) Her name is Sheryl.
 林太太，你雇用你的助理多久了？
 a. 她24歲
@@ -2254,7 +2254,7 @@ c. 她的名字是Sheryl
  
 When will you be hearing from your manager?
  (A) I was asked to prepare copies of all the documents.
- (B) He'll contact me later this evening.(正解)
+ (B) He'll contact me later this evening.<font color="#dd0000">正解</font>
  (C) I've been working for the company for seven years.
 你何時會收到經理的消息嗎？
 a. 他們要求我準備所有檔案的影本
@@ -2268,7 +2268,7 @@ c. 我已經在這間公司工作七年了
 Are there any hospitals in this district?
  (A) The oldest hospital in the city is St. Luke's.
  (B) I haven't been sick recently.
- (C) Yes, there are two.(正解)
+ (C) Yes, there are two.<font color="#dd0000">正解</font>
 這個街區有任何一家醫院嗎？
 a. 這城市最老牌的是聖路克醫院
 b. 我最近都沒有生病
@@ -2280,7 +2280,7 @@ c. 有，有兩家
  
 You haven't eaten since breakfast! Aren't you hungry?
  (A) My favorite restaurant is Subway.
- (B) Yes, I'm starving!(正解)
+ (B) Yes, I'm starving!<font color="#dd0000">正解</font>
  (C) I ate steak for dinner yesterday.
 你早餐後就沒有吃東西了! 你會餓嗎?
 a. 我最喜歡的餐廳是Subway
@@ -2292,7 +2292,7 @@ c. 我昨天晚餐吃牛排
 00:0000:15
  
 Which flavor of this chewing gum is the most popular?
- (A) Grape is extremely popular with children.(正解)
+ (A) Grape is extremely popular with children.<font color="#dd0000">正解</font>
  (B) There are seven flavors available.
  (C) Each bag contains twenty pieces.
 哪一種口味的口香糖最受歡迎？
@@ -2309,7 +2309,7 @@ c. 每一個包裝有二十片
 00:0000:18
  
 Your regular doctor is out today. Would you like to reschedule?
- (A) Yes, please. When is the next available appointment?(正解)
+ (A) Yes, please. When is the next available appointment?<font color="#dd0000">正解</font>
  (B) My last appointment was in July.
  (C) My doctor's name is Ben Campbell.
 你常看的醫生今天休息。你想要重新預約嗎？
@@ -2324,7 +2324,7 @@ c. 我醫生的名字是Ben Campbell
 Somebody spilled coffee all over the new rug in the office. Who was it?
  (A) It was a large cup of espresso.
  (B) It happened this morning.
- (C) It was Evan. He dropped his mug earlier today.(正解)
+ (C) It was Evan. He dropped his mug earlier today.<font color="#dd0000">正解</font>
 有人在辦公室的新地毯上打翻咖啡。是誰？
 a. 是杯大杯的義式濃縮咖啡
 b. 今天早上發生的
@@ -2336,7 +2336,7 @@ c. 是Evan打翻的。今天稍早他打翻了馬克杯
  
 Have you considered attending medical school to become a doctor?
  (A) My last appointment was in January.
- (B) I've thought about it. It would be a rewarding career.(正解)
+ (B) I've thought about it. It would be a rewarding career.<font color="#dd0000">正解</font>
  (C) There's a hospital nearby.
 你有考慮過進入醫學院當醫生嗎？
 a. 我最後一次預約是一月
@@ -2349,7 +2349,7 @@ c. 這附近有間醫院
  
 I'd like to apologize for my tardiness. I ran into some heavy traffic on the way here.
  (A) I don't like traffic.
- (B) No problem! I understand completely.(正解)
+ (B) No problem! I understand completely.<font color="#dd0000">正解</font>
  (C) Were you hurt?
 我想為我的遲到表示歉意。我來這裡的路上遇到大塞車。
 a. 我不喜歡塞車
@@ -2363,7 +2363,7 @@ c. 你有受傷嗎？
 Do you have any food allergies?
  (A) What would you like to eat?
  (B) No, thank you! I'm quite full.
- (C) Yes, I do. I can't eat shrimp without getting ill.(正解)
+ (C) Yes, I do. I can't eat shrimp without getting ill.<font color="#dd0000">正解</font>
 你有對任何食物過敏嗎？
 a. 你想吃什麼？
 b. 不，謝謝你！我相當飽了
@@ -2374,7 +2374,7 @@ c. 是的，我有。我吃蝦子就會生病
 00:0000:16
  
 Will you be going out for lunch today or eating in?
- (A) I'll be eating lunch at McDonald's. Would you like to join me?(正解)
+ (A) I'll be eating lunch at McDonald's. Would you like to join me?<font color="#dd0000">正解</font>
  (B) That sounds wonderful!
  (C) I haven't eaten yet.
 你今天午餐要外出吃還是內用？ 
@@ -2389,7 +2389,7 @@ c. 我還沒吃過。
 This isn't your first time in England, is it?
  (A) I'm here on business.
  (B) I'm not sure what time it is. Sorry.
- (C) Yes, it is! I'm excited to explore London.(正解)
+ (C) Yes, it is! I'm excited to explore London.<font color="#dd0000">正解</font>
 這是你第一次去英國，對吧？
 a. 我來這裡出差
 b. 我不確定現在幾點。抱歉
@@ -2401,7 +2401,7 @@ c. 對，是的！我很興奮能夠探訪倫敦
  
 The weather is lovely today! Why not visit the beach?
  (A) There's a beach right down the street on the left.
- (B) That sounds like a great idea! I could go for a swim.(正解)
+ (B) That sounds like a great idea! I could go for a swim.<font color="#dd0000">正解</font>
  (C) I haven't watched the weather forecast.
 今天天氣真好！為什麼不去海邊？
 a. 沿著這條街走下去的左手邊有一個海灘
@@ -2414,7 +2414,7 @@ c. 我還沒看過天氣預報
  
 You already booked the hotel for two nights in advance, didn't you?
  (A) No, I prefer to read in the afternoon.
- (B) Yes, of course I did.(正解)
+ (B) Yes, of course I did.<font color="#dd0000">正解</font>
  (C) The hotel room is spacious and very modern.
 你已經事先預訂兩晚的旅館了，對嗎？
 a. 不，我偏好下午閱讀
@@ -2426,7 +2426,7 @@ c. 這間旅館的房間寬敞且非常的現代化
 00:0000:19
  
 How do you feel about working evenings?
- (A) I prefer to work mornings, but I can work whenever I'm needed.(正解)
+ (A) I prefer to work mornings, but I can work whenever I'm needed.<font color="#dd0000">正解</font>
  (B) I feel that work is extremely important.
  (C) No, I won't be working this evening. What would you like to do?
 你覺得晚上工作怎麼樣？
@@ -2441,7 +2441,7 @@ c. 不，我今天晚上不工作。你想要做什麼？
 The company provides on-site daycare facilities. Do you have any children?
  (A) My son's name is Mark.
  (B) I'll be working on the fifth floor.
- (C) Yes, I have two young children. Thanks for the information!(正解)
+ (C) Yes, I have two young children. Thanks for the information!<font color="#dd0000">正解</font>
 這間公司有現場托育設施。你有任何小孩嗎？
 a. 我兒子的名字叫Mark
 b. 我會在五樓工作
@@ -2452,7 +2452,7 @@ c. 是的，我有兩個小朋友。謝謝你的資訊！
 00:0000:14
  
 Why did you visit the hospital yesterday?
- (A) I wasn't feeling well.(正解)
+ (A) I wasn't feeling well.<font color="#dd0000">正解</font>
  (B) Yes, I did.
  (C) I visited the Boston Medical Center on Harrison Avenue.
 為什麼你昨天要去醫院？
@@ -2466,7 +2466,7 @@ c. 我去位在哈里森大道上的波士頓醫療中心
  
 Can you tell me how to get to the nearest bank?
  (A) There's an ATM in front of the bank.
- (B) Sure! Go straight down this road. You can't miss it.(正解)
+ (B) Sure! Go straight down this road. You can't miss it.<font color="#dd0000">正解</font>
  (C) I believe it closes at six o'clock.
 你可以告訴我最近的銀行怎麼去嗎？
 a. 在銀行的前面有一台提款機
@@ -2480,7 +2480,7 @@ c. 我想它6點關門
 Aren't you tired of commuting to work every morning?
  (A) I take the bus in the morning.
  (B) I start work at 9 a.m.
- (C) Yes, I plan on moving closer to the office.(正解)
+ (C) Yes, I plan on moving closer to the office.<font color="#dd0000">正解</font>
 你每天早上通勤不累嗎？
 a. 我早上搭公車
 b. 我九點開始工作
@@ -2492,7 +2492,7 @@ c. 是，我打算搬到離辦公室近一點的地方
  
 Did you save the receipts from your business trip?
  (A) It was a nice trip.
- (B) Yes, I stored them in an envelope.(正解)
+ (B) Yes, I stored them in an envelope.<font color="#dd0000">正解</font>
  (C) I went to Chicago for the weekend.
 你有留下出差時的發票嗎？
 a. 這是一個很棒的旅程
@@ -2504,7 +2504,7 @@ c. 我週末時去芝加哥
 00:0000:18
  
 Which color did you choose to paint the hallway with?
- (A) I used a dark red paint.(正解)
+ (A) I used a dark red paint.<font color="#dd0000">正解</font>
  (B) I painted it earlier this week. Thank you for asking!
  (C) I painted it with my friend Mark. He was a huge help!
 你想要走廊漆什麼顏色？
@@ -2518,7 +2518,7 @@ c. 我和我的朋友Mark一起油漆的。他幫了非常大的忙！
  
 Whose car is parked over there in front of the fire hydrant?
  (A) I drive a Chrysler.
- (B) I believe it's Michael's. Someone should ask him to move it.(正解)
+ (B) I believe it's Michael's. Someone should ask him to move it.<font color="#dd0000">正解</font>
  (C) I think it's been there for over an hour.
 誰的車子停在消防栓的前面？
 a. 我開的車是克萊斯勒
@@ -2531,7 +2531,7 @@ c. 我想它已經停在那邊超過一個小時了
  
 Have you ever flown first class on an airplane?
  (A) I don't have any classes to attend.
- (B) Yes, I have. I enjoy the additional services.(正解)
+ (B) Yes, I have. I enjoy the additional services.<font color="#dd0000">正解</font>
  (C) I don't want a seat near an emergency exit.
 你有搭過飛機的頭等鎗？
 a. 我沒有課要上
@@ -2543,7 +2543,7 @@ c. 我不想要靠近緊急逃生出口的位子
 00:0000:14
  
 Haven't you been studying English since you were in high school?
- (A) Yes, I have.(正解)
+ (A) Yes, I have.<font color="#dd0000">正解</font>
  (B) I graduated college last year.
  (C) I visited America when I was nine.
 你從國中就開始學英文嗎？
@@ -2558,7 +2558,7 @@ c. 我九歲的時候去過美國
 Did you watch the news last night? There was a robbery at a nearby shop.
  (A) I enjoy watching the news.
  (B) I usually watch the news on CNN.
- (C) That's horrible! Did they mention the name of the store?(正解)
+ (C) That's horrible! Did they mention the name of the store?<font color="#dd0000">正解</font>
 你昨天晚上有看新聞嗎？附近的店家有搶案發生。
 a. 我享受看新聞
 b. 我通常會看CNN的新聞
@@ -2571,7 +2571,7 @@ c. 那太可怕了！他們有提到商家的名字嗎？
 Will you be attending the meeting at 12:00 today?
  (A) It's about harassment in the workplace.
  (B) I haven't met him yet.
- (C) Unfortunately, I have a doctor's appointment at that time.(正解)
+ (C) Unfortunately, I have a doctor's appointment at that time.<font color="#dd0000">正解</font>
 你今天會參加12點的會議嗎？
 a. 這與職場性騷擾相關
 b. 我今天還沒遇到他
@@ -2582,7 +2582,7 @@ c. 不幸地，我那個時間和醫生有約
 00:0000:17
  
 Won't you call your boss to notify him of your absence today?
- (A) Yes, I plan on contacting him in the morning.(正解)
+ (A) Yes, I plan on contacting him in the morning.<font color="#dd0000">正解</font>
  (B) I don't want to miss work, but I've been feeling rather ill lately.
  (C) His name is Eric.
 你會打給老闆通知他你今天缺席嗎？
@@ -2597,7 +2597,7 @@ c. 他的名字是Eric
 When will you visit Rome to attend the convention?
  (A) Yes, to attend a convention.
  (B) This will be my third time in Italy.
- (C) My flight is scheduled for the 15th of this month(正解)
+ (C) My flight is scheduled for the 15th of this month<font color="#dd0000">正解</font>
 你何時要去羅馬參加會議？
 a. 是的，去參加會議
 b. 這會是我第三次去義大利
@@ -2608,7 +2608,7 @@ c. 我的班機是這個月的十五號
 00:0000:16
  
 What is your favorite film genre?
- (A) I prefer horror films.(正解)
+ (A) I prefer horror films.<font color="#dd0000">正解</font>
  (B) My favorite cinema is located inside of Siam Paragon.
  (C) My favorite film is Schindler's List.
 你喜歡的電影類型是什麼？
@@ -2621,7 +2621,7 @@ c. 我最喜歡的電影是希特勒名單
 00:0000:13
  
 What time will you be finished at the office?
- (A) I should be done by 8 p.m.(正解)
+ (A) I should be done by 8 p.m.<font color="#dd0000">正解</font>
  (B) I'm working on a new assignment.
  (C) I signed a one-year contract.
 你會在辦公室工作到幾點？
@@ -2685,7 +2685,7 @@ Ex. Please have all the guests take off their shoes when entering.
 00:0000:01
  
 Where are they?
- (A) on a plane(正解)
+ (A) on a plane<font color="#dd0000">正解</font>
  (B) in a waiting room
  (C) in the security check area
  (D) on a train
@@ -2702,7 +2702,7 @@ d. 在火車上
 Why has there been a delay?
  (A) technical issues
  (B) mechanical issues
- (C) poor weather(正解)
+ (C) poor weather<font color="#dd0000">正解</font>
  (D) security breach
 為什麼班機會延後？
 a. 技術問題
@@ -2717,7 +2717,7 @@ d. 安全疑慮
 What can be inferred from the conversation?
  (A) They will have to wait about thirty minutes.
  (B) The woman is uncertain about why there is a delay.
- (C) The situation is under control.(正解)
+ (C) The situation is under control.<font color="#dd0000">正解</font>
  (D) The man will not make his connection.
 以下何者可從這段對話中推斷？
 a. 他們須等候約三十分鐘
@@ -2772,7 +2772,7 @@ Ex. My husband bought me a bunch of red roses for our anniversary. 我丈夫買�
  
 What are they talking about?
  (A) Dan's future plans
- (B) Dan's failed investment(正解)
+ (B) Dan's failed investment<font color="#dd0000">正解</font>
  (C) Dan's new job
  (D) Dan's marital problems
 以下何者是他們在討論的事項？
@@ -2788,7 +2788,7 @@ d. 丹的軍事問題
 What advice did the woman give Dan?
  (A) He needs to be more aggressive.
  (B) He needs to be more patient.
- (C) He needs to do some research before investing.(正解)
+ (C) He needs to do some research before investing.<font color="#dd0000">正解</font>
  (D) He needs to be more trusting.
 這位女士給丹什麼樣的建議？
 a. 他需要更有進取心
@@ -2804,7 +2804,7 @@ What is probably true about the woman?
  (A) She is one of Dan's closest friends.
  (B) She has lost some respect for Dan.
  (C) She is involved in theft.
- (D) She has encountered similar issues before.(正解)
+ (D) She has encountered similar issues before.<font color="#dd0000">正解</font>
 以下關於這位女子的敘述何者可能正確？
 a. 她是丹其中一個親近的朋友
 b. 她很尊敬丹
@@ -2864,7 +2864,7 @@ accept v. 接受
 00:0000:03
  
 What is the woman attempting to do?
- (A) reserve a hotel room(正解)
+ (A) reserve a hotel room<font color="#dd0000">正解</font>
  (B) make a restaurant reservation
  (C) book a banquet hall
  (D) rent an apartment
@@ -2882,7 +2882,7 @@ What problem does she encounter?
  (A) There are no rooms available.
  (B) Her credit card is expired.
  (C) The hotel only accepts cash.
- (D) She cannot use cash to book a room.(正解)
+ (D) She cannot use cash to book a room.<font color="#dd0000">正解</font>
 她遇到什麼問題？
 a. 那間飯店已客滿
 b. 她的信用卡已過期
@@ -2895,7 +2895,7 @@ d. 她無法使用現金訂房
  
 What can be inferred from this conversation?
  (A) The woman will call back later.
- (B) The woman will call another hotel.(正解)
+ (B) The woman will call another hotel.<font color="#dd0000">正解</font>
  (C) The man will have to accept a cash deposit.
  (D) The man will consider changing his policy.
 從這對話可以推斷出以下何者？
@@ -3013,7 +3013,7 @@ drop-down menu 下拉式選單
  
 Why is the man concerned?
  (A) He thinks the part 2 course will be too hard.
- (B) He doesn't want to take the part 1 course.(正解)
+ (B) He doesn't want to take the part 1 course.<font color="#dd0000">正解</font>
  (C) He doesn't want to take the part 2 course.
  (D) He doesn't know why he failed the part 1 course.
 該名男子關心的是以下何者？
@@ -3028,7 +3028,7 @@ d.他不知道他第1部分課程沒過的原因為何。
  
 What will happen if he finds the part 2 course too difficult and quits?
  (A) He will fail.
- (B) He won't get his course fee back.(正解)
+ (B) He won't get his course fee back.<font color="#dd0000">正解</font>
  (C) He will have to start over again.
  (D) He will have to retake the part 1 course.
 如果他發現了第2部分的課程太難而退出，將會發生什麼事？
@@ -3045,7 +3045,7 @@ Look at the graphic. What option will the man choose under "Proof of completion 
  (A) Enter student ID #
  (B) Enter course certificate #
  (C) Enter date completed and instructor's name
- (D) Other(正解)
+ (D) Other<font color="#dd0000">正解</font>
 請看圖表。「先修課程的課程完成證明」的選項部分，該名男子會選以下何者？
 a.請輸入學生證號
 b.請輸入課程證書
@@ -3104,7 +3104,7 @@ What is the woman doing?
  (A) returning an unwanted item
  (B) negotiating for a lower price
  (C) researching a new product
- (D) shopping for athletic shoes(正解)
+ (D) shopping for athletic shoes<font color="#dd0000">正解</font>
 這位女士正在做甚麼？
 a. 退還一個不用的產品
 b. 議價更低的價錢
@@ -3118,7 +3118,7 @@ d. 購買運動鞋
 What is the woman's main concern?
  (A) the price of the items
  (B) the return policy
- (C) the comfort of the items(正解)
+ (C) the comfort of the items<font color="#dd0000">正解</font>
  (D) the man's honesty
 這女士最擔心的主要是什麼？
 a. 商品價錢
@@ -3132,7 +3132,7 @@ d. 男子的誠實性
  
 What can be inferred from the conversation?
  (A) The woman decided to shop around a bit more.
- (B) The man was able to persuade the woman.(正解)
+ (B) The man was able to persuade the woman.<font color="#dd0000">正解</font>
  (C) The woman found the return policy unreasonable.
  (D) The man was impressed by the woman's questions.
 從這對話可以推斷出以下何者選項？
@@ -3206,7 +3206,7 @@ appreciate v. 感激，欣賞
 00:0000:03
  
 What does Mrs. Flanders do for a living?
- (A) principal(正解)
+ (A) principal<font color="#dd0000">正解</font>
  (B) doctor
  (C) police officer
  (D) janitor
@@ -3224,7 +3224,7 @@ How will the boys be punished?
  (A) They will have to pay for the damage.
  (B) They will be suspended for a week.
  (C) They will have to apologize to Mr. Flanders.
- (D) They will have to repair the damage done.(正解)
+ (D) They will have to repair the damage done.<font color="#dd0000">正解</font>
 以下何者是這些男孩們的處罰？
 a. 他們將必須賠償損壞
 b. 他們將會被留校察看一個星期
@@ -3238,7 +3238,7 @@ d. 他們將必須將毀損的部份復原
 What can be inferred from Mr. Kimble's reaction?
  (A) Mr. Kimble is deeply shocked and upset by this news.
  (B) Mr. Kimble plans to kick Sage out of the school.
- (C) Mr. Kimble has dealt with this type of situation before.(正解)
+ (C) Mr. Kimble has dealt with this type of situation before.<font color="#dd0000">正解</font>
  (D) Mr. Kimble wants to pay for the damages by himself.
 以下何者可以從Kimble先生的反應推斷？
 a. Kimble先生非常驚訝且對這件消息感到沮喪
@@ -3246,7 +3246,7 @@ b. Kimble先生計畫把Sage踢出學校
 c. Kimble先生之前處理過類似的情況
 d. Kimble先生想要自己賠償損失
 
-解析：在對話的開頭，Mr. Kimble一聽到來電者是Mrs. Flanders立刻就回答What has my son Sage done this time? (我兒子Sage這次做了什麼？)。由此可推論Mr. Kimble之前已處理過多次他的兒子惹出的狀況，所以正解為(C)。另外在對話裡Mr. Kimble有提到: How much damage was done? I'll take it out of his pocket money. (損壞的部份要多少錢？我會從他的零用錢扣。) 代表Mr. Kimble並不想自己支付損害賠償，而是以扣零用錢的方式讓兒子自己支付，所以選項(D)不可選。
+解析：在對話的開頭，Mr. Kimble一聽到來電者是Mrs. Flanders立刻就回答What has my son Sage done this time? (我兒子Sage這次做了什麼？)。由此可推論Mr. Kimble之前已處理過多次他的兒子惹出的狀況，所<font color="#dd0000">正解</font>(C)。另外在對話裡Mr. Kimble有提到: How much damage was done? I'll take it out of his pocket money. (損壞的部份要多少錢？我會從他的零用錢扣。) 代表Mr. Kimble並不想自己支付損害賠償，而是以扣零用錢的方式讓兒子自己支付，所以選項(D)不可選。
  
 Questions 19 through 21 refer to the following conversation:
 00:0001:05
@@ -3302,7 +3302,7 @@ recall v. 召回，想起，憶起
 Who is the man talking to?
  (A) a retail store employee
  (B) a computer repair worker
- (C) a customer service agent(正解)
+ (C) a customer service agent<font color="#dd0000">正解</font>
  (D) an industry insider
 這男士在和已下何者對話？
 a. 零售店的職員
@@ -3316,7 +3316,7 @@ d. 企業內部員工
  
 Why is the man upset?
  (A) he has lost all of his important files
- (B) his computer is not performing well(正解)
+ (B) his computer is not performing well<font color="#dd0000">正解</font>
  (C) his operating system is outdated
  (D) he will not be given a refund
 為什麼這男的很沮喪？
@@ -3330,7 +3330,7 @@ d. 他無法收到退費
 00:0000:04
  
 Which of the following words best describes the woman's tone?
- (A) calm(正解)
+ (A) calm<font color="#dd0000">正解</font>
  (B) terse
  (C) flustered
  (D) flirtatious
@@ -3395,7 +3395,7 @@ Ex. We were supposed to meet at the entrance to the theater at seven, but he fai
  
 Where does this conversation take place?
  (A) in an office
- (B) in a house(正解)
+ (B) in a house<font color="#dd0000">正解</font>
  (C) in an electronics store
  (D) in a hotel room
 這段對話在哪裡發生？
@@ -3409,7 +3409,7 @@ d. 旅館房間
 00:0000:04
  
 Why does the woman suspect the man has the remote?
- (A) He has taken it by accident in the past.(正解)
+ (A) He has taken it by accident in the past.<font color="#dd0000">正解</font>
  (B) He sometimes likes to play tricks on her.
  (C) He was just using it a short while ago.
  (D) He is hesitant to help her look for it.
@@ -3426,7 +3426,7 @@ d. 他猶豫要不要去幫她找遙控器
 Which of the following words best describes the woman's tone?
  (A) furious
  (B) desperate
- (C) annoyed(正解)
+ (C) annoyed<font color="#dd0000">正解</font>
  (D) confused
 以下選項何者最能描述女人的語調？
 a. 感到暴怒的
@@ -3546,7 +3546,7 @@ What is the woman's tone in the conversation?
  (A) excited
  (B) furious
  (C) enthusiastic
- (D) impatient(正解)
+ (D) impatient<font color="#dd0000">正解</font>
 該名女子在談話中的語調如何？
 a.興奮
 b.狂怒
@@ -3561,7 +3561,7 @@ Which of the following is true about the woman?
  (A) She doesn't know what a flat screen TV is.
  (B) She doesn't want to buy a flat screen TV.
  (C) She wants to buy a flat screen TV because of this conversation.
- (D) She wanted to buy a flat screen TV before this conversation.(正解)
+ (D) She wanted to buy a flat screen TV before this conversation.<font color="#dd0000">正解</font>
 有關該名女子的描述，以下選項何者正確？
 a.她不知道平面電視是什麼。
 b.她並不想買平面電視。	
@@ -3576,7 +3576,7 @@ Look at the graphic. What is the meaning of 777?
  (A) It is the amount of the discount.
  (B) It is the percentage of the discount.
  (C) It is the item to be discounted.
- (D) It is the discount code.(正解)
+ (D) It is the discount code.<font color="#dd0000">正解</font>
 請看圖表。777的意思為以下何者？
 a.折扣的價錢。
 b.折扣的百分比。
@@ -3624,7 +3624,7 @@ Ex. The young man will take over his father's business in two years. 那位年�
  
 Where does Linda work?
  (A) in a law firm
- (B) in an advertising agency(正解)
+ (B) in an advertising agency<font color="#dd0000">正解</font>
  (C) in an upscale restaurant
  (D) in an accounting firm
 Linday在哪裡工作？
@@ -3639,7 +3639,7 @@ d. 會計事務所
  
 What did Linda do wrong?
  (A) She showed up late for work.
- (B) She failed to attend a meeting.(正解)
+ (B) She failed to attend a meeting.<font color="#dd0000">正解</font>
  (C) She hasn't finished the Penske proposal.
  (D) She sent an inappropriate email.
 Linda做了什麼錯？
@@ -3655,7 +3655,7 @@ d. 她寄了一封不適當的信件
 What does the man imply?
  (A) Linda might be promoted.
  (B) Linda needs to work harder.
- (C) Linda could lose her job.(正解)
+ (C) Linda could lose her job.<font color="#dd0000">正解</font>
  (D) Linda should drop the Penske account.
 以下選項何者是男子所暗示之意？
 a. Linda 可能會升職
@@ -3702,7 +3702,7 @@ intersection n.十字路口
 Which of the following is true about the man?
  (A) He's hungry.
  (B) He needs to fill his car with petrol.
- (C) He doesn't live in this city.(正解)
+ (C) He doesn't live in this city.<font color="#dd0000">正解</font>
  (D) He lost somebody.
 關於該名男士的描述，以下選項何者正確？
 a.他餓了。
@@ -3715,7 +3715,7 @@ d.他和某人走散了。
 00:0000:06
  
 Look at the graphic. Where did the man go just before this conversation occurred?
- (A) Saxton Mall(正解)
+ (A) Saxton Mall<font color="#dd0000">正解</font>
  (B) McDonald's
  (C) The sushi restaurant
  (D) The bakery
@@ -3733,7 +3733,7 @@ Look at the graphic. Where will the man likely go next?
  (A) Saxton Mall
  (B) The sushi restaurant
  (C) The bakery
- (D) McDonald's(正解)
+ (D) McDonald's<font color="#dd0000">正解</font>
 請看圖表。該名男子接下來可能會前往以下何處？
 a.賽辛頓商城
 b.壽司餐廳
@@ -3780,7 +3780,7 @@ Ex. The flight was supposed to land two hours ago. 本次班機應該在兩小�
  
 What is the woman doing?
  (A) working a long day
- (B) grocery shopping(正解)
+ (B) grocery shopping<font color="#dd0000">正解</font>
  (C) vending goods
  (D) writing a formal complaint
 以下何者是這位女士正在進行的動作？
@@ -3797,7 +3797,7 @@ Why can't the price on the sign be honored?
  (A) the manager is unavailable
  (B) the line is too long
  (C) the wrong cans were chosen
- (D) the offer is no longer valid(正解)
+ (D) the offer is no longer valid<font color="#dd0000">正解</font>
 以下何者是價格不實的理由？
 a. 經理沒有時間
 b. 排隊隊伍過長
@@ -3811,7 +3811,7 @@ d. 報價不再有效
 What is the main reason given for the improper signage?
  (A) the customer is wrong
  (B) the shop is closing soon
- (C) the store has been very busy(正解)
+ (C) the store has been very busy<font color="#dd0000">正解</font>
  (D) it's a new shop
 以下何者是標示錯誤的主因？
 a. 這員工錯了
@@ -3871,7 +3871,7 @@ Ex. Please add a little bit of salt to the chicken soup. 請在雞湯裡加一�
  
 What is the couple looking for?
  (A) a gas station
- (B) a restaurant(正解)
+ (B) a restaurant<font color="#dd0000">正解</font>
  (C) a friend's house
  (D) a furniture store
 這對夫妻在找什麼？
@@ -3887,7 +3887,7 @@ d. 傢俱店
 Which word best describes the husband?
  (A) courageous
  (B) angry
- (C) stubborn(正解)
+ (C) stubborn<font color="#dd0000">正解</font>
  (D) optimistic
 以下哪個詞彙最能形容這位丈夫？
 a. 勇敢的
@@ -3902,7 +3902,7 @@ d. 樂觀的
 Who is the second man in the conversation?
  (A) a random guy on the street
  (B) a restaurant worker
- (C) a gas station attendant (正解)
+ (C) a gas station attendant <font color="#dd0000">正解</font>
  (D) a traffic control officer
 對話中第二位男士為以下何者？
 a. 街道上任意選的人
@@ -4020,7 +4020,7 @@ $47.50
  
 What service is being discussed?
  (A) translation
- (B) proofreading(正解)
+ (B) proofreading<font color="#dd0000">正解</font>
  (C) writing
  (D) recording
 對話中在討論以下何種工作？
@@ -4036,7 +4036,7 @@ D.記錄
 Look at the graphic. What is the missing amount on the bottom right?
  (A) $70.00
  (B) $90.00
- (C) $112.00(正解)
+ (C) $112.00<font color="#dd0000">正解</font>
  (D) $118.00
 請看圖表。右下角缺少了以下何者數字？
 A.$70.00
@@ -4049,7 +4049,7 @@ D.$118.00
 00:0000:02
  
 What can we infer about the woman?
- (A) She is going to pay the fee.(正解)
+ (A) She is going to pay the fee.<font color="#dd0000">正解</font>
  (B) She is going to demand a lower rate next time.
  (C) She isn't going to hire this man again.
  (D) She's going to check his email because she doesn't believe him.
@@ -4105,7 +4105,7 @@ B: Suit yourself. I'm still going to have steak, though. 你認為方便就好�
 00:0000:03
  
 What is the woman doing in this conversation?
- (A) buying a train ticket(正解)
+ (A) buying a train ticket<font color="#dd0000">正解</font>
  (B) asking for directions
  (C) requesting a refund
  (D) booking a flight
@@ -4121,7 +4121,7 @@ d. 訂機票
  
 When is the woman leaving?
  (A) Sunday morning
- (B) Saturday morning(正解)
+ (B) Saturday morning<font color="#dd0000">正解</font>
  (C) Saturday evening
  (D) Friday night
 以下何者是這位女士離開的時間？
@@ -4138,7 +4138,7 @@ What does the man imply?
  (A) He thinks that what the girl is doing is dangerous.
  (B) He will help the girl find a hotel room.
  (C) Crowded trains make him nervous.
- (D) He is surprised she wants a standing ticket.(正解)
+ (D) He is surprised she wants a standing ticket.<font color="#dd0000">正解</font>
 這男的在暗示什麼？
 a. 他覺得這女孩要做的事很危險
 b. 他會幫忙這女孩找旅館
@@ -4185,7 +4185,7 @@ Ex. My grandmother has started to have trouble reading the newspaper.
  
 What problem is the man having?
  (A) He doesn't know how to set up an email address.
- (B) He can't copy a file onto a storage device.(正解)
+ (B) He can't copy a file onto a storage device.<font color="#dd0000">正解</font>
  (C) He hasn't finished his presentation.
  (D) There isn't an internet connection in the conference room.
 這位男子遭遇到什麼麻煩？
@@ -4202,7 +4202,7 @@ What can we guess about Ms. Stringer?
  (A) She is the man's subordinate.
  (B) She hasn't eaten anything today.
  (C) Her anger stems from childhood experiences.
- (D) She is the man's superior.(正解)
+ (D) She is the man's superior.<font color="#dd0000">正解</font>
 我們可以猜測這位Stringer小姐的身分為何？
 a. 她是這位男士的下屬
 b. 她今天還沒吃任何東西
@@ -4215,7 +4215,7 @@ d. 她是這位男士的上司
 00:0000:04
  
 What is probably true about the meeting they are about to have?
- (A) It is quite important.(正解)
+ (A) It is quite important.<font color="#dd0000">正解</font>
  (B) It is not very important.
  (C) It is going to be very boring.
  (D) It will be very interesting.
@@ -4274,7 +4274,7 @@ Ex. As a matter of fact, our sales have dropped by five percent this quarter.
 00:0000:02
  
 What can we say about the man?
- (A) He can fix the CD tray.(正解)
+ (A) He can fix the CD tray.<font color="#dd0000">正解</font>
  (B) He doesn't know how to fix the computer.
  (C) He is making the woman unhappy.
  (D) His shop specializes in Macintosh computers.
@@ -4292,7 +4292,7 @@ What is the man's occupation?
  (A) CD cover artist
  (B) salesman
  (C) graphic designer
- (D) computer repairman(正解)
+ (D) computer repairman<font color="#dd0000">正解</font>
 以下何者是這位男士的職業？
 a. CD 封面藝術家
 b. 銷售員
@@ -4305,7 +4305,7 @@ d. 電腦維修員
  
 When does the woman need to pay?
  (A) immediately
- (B) when comes back to get the computer(正解)
+ (B) when comes back to get the computer<font color="#dd0000">正解</font>
  (C) at the end of the month.
  (D) at the beginning of the week
 以下何者是這位女士付錢的時間？
@@ -4381,7 +4381,7 @@ Woman: Thanks. I'd really appreciate that.
  
 Look at the graphic. What is meant by the expression, "FINAL SALE" on the receipt?
  (A) It is the last day of the store's sale.
- (B) No refunds or exchanges are allowed. (正解)
+ (B) No refunds or exchanges are allowed. <font color="#dd0000">正解</font>
  (C) The store will be closing soon.
  (D) This product is the last one in stock.
 請看圖表。收據上的「最終交易」是什麼意思？
@@ -4395,7 +4395,7 @@ D.該產品是最後一件庫存。
 00:0000:04
  
 Why can't the woman get what she wants?
- (A) It is against store policy. (正解)
+ (A) It is against store policy. <font color="#dd0000">正解</font>
  (B) She already wore the clothing.
  (C) She already washed the clothing.
  (D) She paid in cash.
@@ -4411,7 +4411,7 @@ D.她已用現金支付。
  
 How does the man help her at the end?
  (A) He finally lets her have what she wants.
- (B) He offers her an alternative solution to her problem. (正解)
+ (B) He offers her an alternative solution to her problem. <font color="#dd0000">正解</font>
  (C) He gives her a store credit.
  (D) He offers her a discount on future purchases.
 最後，該名男士如何幫她？
@@ -4472,7 +4472,7 @@ extension n. 延長，擴展
 What are the students requesting?
  (A) to be study partners for the final exam
  (B) a study guide
- (C) an extension for the final exam(正解)
+ (C) an extension for the final exam<font color="#dd0000">正解</font>
  (D) a higher grade on their tests
 以下何者是男子的要求？
 a. 期末考的念書夥伴
@@ -4487,7 +4487,7 @@ d. 拿到較高的考試分數
 What do we know about the female student?
  (A) The male student is her brother.
  (B) She doesn't care much about this course.
- (C) She has been sick recently. (正解)
+ (C) She has been sick recently. <font color="#dd0000">正解</font>
  (D) Her score on the final exam was really low.
 關於這位女學生，以下敘述何者正確？
 a. 男學生是她的兄弟。
@@ -4502,7 +4502,7 @@ d. 她期末考的分數很低。
 What will be on the final exam?
  (A) it will be comprehensive but exclude the final two chapters
  (B) only the final two chapters
- (C) it will be comprehensive and include the final two chapters(正解)
+ (C) it will be comprehensive and include the final two chapters<font color="#dd0000">正解</font>
  (D) only chapters 1 and 2
 以下何者是期末考的考試內容？
 a. 內容會是全面性的，但不包含最後兩章節
@@ -4551,7 +4551,7 @@ What can we say about the man?
  (A) He has a lot of money.
  (B) He is younger than the woman.
  (C) He really doesn't want to buy the earrings.
- (D) He is older than the woman. (正解)
+ (D) He is older than the woman. <font color="#dd0000">正解</font>
 我們怎麼描述這男士？
 a. 他很有錢
 b. 他比這女士年輕
@@ -4566,7 +4566,7 @@ Where is the man going?
  (A) the pharmacy
  (B) the library
  (C) the convenience store
- (D) the jewelry store(正解)
+ (D) the jewelry store<font color="#dd0000">正解</font>
 這男士要去哪裡？
 a. 藥妝店
 b. 圖書館
@@ -4578,7 +4578,7 @@ d. 珠寶店
 00:0000:02
  
 What will the man probably buy?
- (A) earrings(正解)
+ (A) earrings<font color="#dd0000">正解</font>
  (B) a necklace
  (C) medicine
  (D) dinner
@@ -4660,7 +4660,7 @@ Man: Certainly. I'm going to help you set up an online account next.
 Where are the speakers?
  (A) at an Internet service provider's office
  (B) at a gas station
- (C) in a bank(正解)
+ (C) in a bank<font color="#dd0000">正解</font>
  (D) in a legal firm
 說話者在以下何處？
 A.在網路服務業者的辦公室
@@ -4676,7 +4676,7 @@ Look at the graphic. Why was the $4.95 fee waived?
  (A) The customer opened a new account.
  (B) The customer opened a new savings account.
  (C) The customer paid the monthly fee.
- (D) The customer transferred $500. (正解)
+ (D) The customer transferred $500. <font color="#dd0000">正解</font>
 請看圖表。為什麼$4.95費用被豁免？
 A.客戶開了一個新帳戶。
 B.客戶開了新的定存賬戶。
@@ -4688,7 +4688,7 @@ D.客戶轉入500元加幣。
 00:0000:03
  
 What will the man do next?
- (A) Help the woman open an online account.(正解)
+ (A) Help the woman open an online account.<font color="#dd0000">正解</font>
  (B) Ask the woman to enter her password.
  (C) Give the woman her new card.
  (D) Ask the woman to come back later.
@@ -4748,7 +4748,7 @@ assistance n. 協助，幫助
 What is the woman's job?
  (A) pilot
  (B) sales person
- (C) customer service specialist (正解)
+ (C) customer service specialist <font color="#dd0000">正解</font>
  (D) airlines accountant
 以下何者是這位女士的工作？
 a. 飛行員
@@ -4762,7 +4762,7 @@ d. 航空公司的會計
  
 Why was the flight delayed?
  (A) weather
- (B) problems with the plane(正解)
+ (B) problems with the plane<font color="#dd0000">正解</font>
  (C) overcrowded flights
  (D) traffic
 以下何者是班機延遲的理由？
@@ -4778,7 +4778,7 @@ d. 交通
 What can we say about the woman?
  (A) She was very rude to the man.
  (B) She was unsure of what the man meant.
- (C) She was very polite to the man.(正解)
+ (C) She was very polite to the man.<font color="#dd0000">正解</font>
  (D) She couldn't help him at all.
 我們可以如何描述這位女士？
 a. 她對這男士非常無禮
@@ -4833,7 +4833,7 @@ Ex. Please add more salt to my pasta. 請在我的義大利麵裡多加點鹽。
 00:0000:02
  
 What are they talking about?
- (A) a mobile phone plan(正解)
+ (A) a mobile phone plan<font color="#dd0000">正解</font>
  (B) a misplaced order
  (C) new cell phones
  (D) a broken smartphone
@@ -4850,7 +4850,7 @@ d. 一支壞掉的智慧型手機
 How many gigabytes of data per month does the man currently have?
  (A) He doesn't say.
  (B) 12 gigs
- (C) 2 gigs(正解)
+ (C) 2 gigs<font color="#dd0000">正解</font>
  (D) 40 gigs
 這位男士目前的電話方案有多少流量？
 a. 並未提及
@@ -4863,7 +4863,7 @@ d. 40G
 00:0000:02
  
 What does the man want?
- (A) unlimited data(正解)
+ (A) unlimited data<font color="#dd0000">正解</font>
  (B) a new phone
  (C) a new SIM card
  (D) a new phone number
@@ -4912,7 +4912,7 @@ headquarters n. 總部，總辦公室
 Where does this conversation take place?
  (A) in the woman's office
  (B) in a conference room
- (C) in the man's office(正解)
+ (C) in the man's office<font color="#dd0000">正解</font>
  (D) in the break room
 以下何者是這段對話發生的地點？
 a. 在這位女士的辦公室
@@ -4926,7 +4926,7 @@ d. 在休息室
  
 When does the program start?
  (A) tomorrow
- (B) October(正解)
+ (B) October<font color="#dd0000">正解</font>
  (C) the end of the year
  (D) November
 這課程何時開始？
@@ -4942,7 +4942,7 @@ d. 十一月
 How does the woman feel about the news she was given?
  (A) She feels nervous.
  (B) She feels sad.
- (C) She feels excited.(正解)
+ (C) She feels excited.<font color="#dd0000">正解</font>
  (D) She feels overwhelmed.
 以下何者是這位女士聽到這個消息的感覺？
 a. 她覺得很緊張
@@ -4984,7 +4984,7 @@ Ex. What my coworker said doesn't make sense to me. 我的同事說的話對我�
  
 What are they talking about?
  (A) the annual meeting
- (B) tax returns(正解)
+ (B) tax returns<font color="#dd0000">正解</font>
  (C) an office memo
  (D) quarterly reports
 他們在聊什麼？
@@ -4998,7 +4998,7 @@ d. 季報
 00:0000:03
  
 Why did the office administrator email the man?
- (A) to confirm his home address(正解)
+ (A) to confirm his home address<font color="#dd0000">正解</font>
  (B) to tell him his taxes are late
  (C) to tell him that the office will be closed
  (D) to reschedule an appointment
@@ -5013,7 +5013,7 @@ d. 重新安排會面的時間
 00:0000:04
  
 Where will the office administrator mail the tax forms to?
- (A) to the employee's home(正解)
+ (A) to the employee's home<font color="#dd0000">正解</font>
  (B) to the employee's office
  (C) to the post office
  (D) to the man's secretary
@@ -5063,7 +5063,7 @@ Ex. Apart from having overpriced dishes, the restaurant is also dirty and noisy.
 00:0000:03
  
 What suggestion does the man give the woman?
- (A) attend a business fair at a local university(正解)
+ (A) attend a business fair at a local university<font color="#dd0000">正解</font>
  (B) buy more commercial space on the radio
  (C) send out flyers through the mail
  (D) personally call all of their clients
@@ -5079,7 +5079,7 @@ d. 親自打給所有的客戶
  
 What will the students win if they get all of the questions correct?
  (A) free college tuition
- (B) a USB storage device(正解)
+ (B) a USB storage device<font color="#dd0000">正解</font>
  (C) a new laptop computer
  (D) a new printer
 如果學生們答對所有的問題的話，會贏得以下何者？
@@ -5094,7 +5094,7 @@ d. 新的印表機
  
 What will the woman probably do?
  (A) fire the man
- (B) take the man's suggestion(正解)
+ (B) take the man's suggestion<font color="#dd0000">正解</font>
  (C) give the man a promotion
  (D) ask another employee's opinion
 以下何者是這位女士可能會做的？
@@ -5155,7 +5155,7 @@ Ex. My scooter broke down when I was on my way to work this morning. 我的機�
 Why is the man so upset?
  (A) He has to pay for lunch.
  (B) He has a lot of bills to pay.
- (C) His car broke down.(正解)
+ (C) His car broke down.<font color="#dd0000">正解</font>
  (D) His friend didn't pick him up.
 為什麼這男的這麼失落？
 a. 他必須付午餐錢
@@ -5169,7 +5169,7 @@ d. 他的朋友沒有來接他
  
 What does the woman mean by "You look very flustered"?
  (A) He looks happy.
- (B) He looks stressed.(正解)
+ (B) He looks stressed.<font color="#dd0000">正解</font>
  (C) He looks scared.
  (D) He looks excited.
 這女生說"你看起來很慌亂"是什麼意思？
@@ -5183,7 +5183,7 @@ d. 他看起來很興奮
 00:0000:04
  
 Does the man's mood change for the better by the end of the conversation?
- (A) Yes, because his friend offers to help him.(正解)
+ (A) Yes, because his friend offers to help him.<font color="#dd0000">正解</font>
  (B) His mood stays the same.
  (C) No, he gets more upset.
  (D) No, because he has to pay for his friend's lunch.
@@ -5237,7 +5237,7 @@ Where are they having this conversation?
  (A) at the mall
  (B) in the man's office
  (C) in the locker room
- (D) in the woman's office(正解)
+ (D) in the woman's office<font color="#dd0000">正解</font>
 他們在哪裡談話？
 a. 在購物中心
 b. 在這男士的辦公室
@@ -5251,7 +5251,7 @@ d. 在這女士的辦公室
 What is the man in trouble for?
  (A) for not turning in his uniform and nametag
  (B) for not knowing which cologne people will like
- (C) for inappropriate conduct at work(正解)
+ (C) for inappropriate conduct at work<font color="#dd0000">正解</font>
  (D) for not asking people to try on the cologne
 這男人為何會陷入困境？
 a. 沒有歸還制服和名牌
@@ -5265,7 +5265,7 @@ d. 沒有詢問人們是否想試擦古龍水
  
 What is the store's normal policy for selling cologne?
  (A) to spray it in the air so customers can smell it
- (B) to ask before spraying a customer on the wrist(正解)
+ (B) to ask before spraying a customer on the wrist<font color="#dd0000">正解</font>
  (C) to only spray women with cologne
  (D) to not spray cologne in the store ever
 以下何者是這間店販售古龍水的正常程序？
@@ -5373,7 +5373,7 @@ Woman: Yes. I really want to win over CTM Financial from our competitor. They us
 00:0000:02
  
 What kind of talk is this?
- (A) an employee self-evaluation(正解)
+ (A) an employee self-evaluation<font color="#dd0000">正解</font>
  (B) an interview for a new position
  (C) a budget proposal discussion
  (D) a casual chat about a promotion
@@ -5390,7 +5390,7 @@ D.關於升遷的閒聊
 Look at the graphic. What does "Period 1" represent?
  (A) the first week of the month
  (B) the first month of the year
- (C) the first 3 months of the year(正解)
+ (C) the first 3 months of the year<font color="#dd0000">正解</font>
  (D) the first 4 months of the year
 請看圖表。「Period 1」代表以下何者意思？
 A. 該月的第一週
@@ -5404,7 +5404,7 @@ D. 該年的前4個月
  
 What goal has the woman set for the upcoming period?
  (A) to beat her previous sales record
- (B) to get back an old customer(正解)
+ (B) to get back an old customer<font color="#dd0000">正解</font>
  (C) to be more efficient at work
  (D) to get a raise
 此女士對即將到來的一季有什麼目標？
@@ -5444,7 +5444,7 @@ Ex. Lots of kids in the West are allergic to peanuts. 西方國家很多孩童�
 00:0000:02
  
 Who is the woman in the conversation?
- (A) a doctor(正解)
+ (A) a doctor<font color="#dd0000">正解</font>
  (B) the man's best friend
  (C) the man's mother
  (D) a receptionist
@@ -5462,7 +5462,7 @@ How is the woman going to figure out what is wrong with Mr. Kennedy?
  (A) get him to change his diet
  (B) make him take some medicine
  (C) give him some cream
- (D) do some allergy tests(正解)
+ (D) do some allergy tests<font color="#dd0000">正解</font>
 這女士要怎麼知道Kennedy先生的狀況為何？
 a. 讓他改變他的節食計畫
 b. 讓他服用一些藥物
@@ -5476,7 +5476,7 @@ d. 做一些過敏測試
 What will happen next?
  (A) The man will pay his bill.
  (B) The food will be served.
- (C) The nurse will do some tests. (正解)
+ (C) The nurse will do some tests. <font color="#dd0000">正解</font>
  (D) The man will receive a prescription.
 等一下要發生什麼事？
 a. 這位男士將會繳帳單
@@ -5527,7 +5527,7 @@ Ex. All the students in the graduating class will dress up to attend the prom. �
 00:0000:02
  
 Where are the speakers?
- (A) in their house(正解)
+ (A) in their house<font color="#dd0000">正解</font>
  (B) at an engagement party
  (C) outside on the street
  (D) in a fitting room
@@ -5545,7 +5545,7 @@ What is this conversation about?
  (A) Whether they should give a gift of clothing or not.
  (B) The pictures that will be taken at the party.
  (C) Which suit to buy.
- (D) The clothes that the man will wear.(正解)
+ (D) The clothes that the man will wear.<font color="#dd0000">正解</font>
 以上對話與以下何者選項相關？
 a. 他們是否該送衣服當禮物
 b. 這場派對上拍攝的照片
@@ -5558,7 +5558,7 @@ d. 這男士所穿的衣服
  
 Why does the woman want her boyfriend to look nice?
  (A) Because her sister is his boss.
- (B) Because photographs will be taken today. (正解)
+ (B) Because photographs will be taken today. <font color="#dd0000">正解</font>
  (C) Because she wants him to make new professional contacts.
  (D) Because the mayor will be there.
 為什麼這女士想要她的男友看起來很體面？
@@ -5613,7 +5613,7 @@ Ex. I haven't heard anything from him since he moved to another country. 自從�
  
 Why does the woman want to talk to her boss?
  (A) She wants to talk to her about her drinking problem.
- (B) She does not say why she wants to talk to her.(正解)
+ (B) She does not say why she wants to talk to her.<font color="#dd0000">正解</font>
  (C) She wants to talk to her about her son.
  (D) She wants to talk to her about Jim in sales.
 為什麼這女士想跟她老闆談話？
@@ -5628,7 +5628,7 @@ d. 她想和她談銷售部Jim的事情
  
 What is the woman's opinion of her boss?
  (A) She thinks her boss gets nervous very easily.
- (B) She does not think highly of her boss.(正解)
+ (B) She does not think highly of her boss.<font color="#dd0000">正解</font>
  (C) She wishes her boss would not come to work.
  (D) She thinks her boss a very serious woman.
 這女士對她老闆的想法是什麼？
@@ -5645,7 +5645,7 @@ What can we infer about the boss?
  (A) She works hard from home.
  (B) She is a responsible mother.
  (C) She is a fun person to be around.
- (D) She won't be there much longer.(正解)
+ (D) She won't be there much longer.<font color="#dd0000">正解</font>
 我們可以怎麼推斷這位老闆？
 a. 她在家認真工作
 b. 她是一位負責任的媽媽
@@ -5696,7 +5696,7 @@ Ex. There's something wrong with my laptop. 我的手提電腦有點毛病
  
 Where are the man and woman?
  (A) at home
- (B) at the airport(正解)
+ (B) at the airport<font color="#dd0000">正解</font>
  (C) in a taxi
  (D) in an airplane
 以下何者是這位男士與女士的所在地？
@@ -5711,7 +5711,7 @@ d. 在飛機上
  
 What is happening in this situation?
  (A) They are having trouble buying plane tickets.
- (B) Their flight is late.(正解)
+ (B) Their flight is late.<font color="#dd0000">正解</font>
  (C) They are boarding a plane.
  (D) They have a two-hour layover.
 這個狀況中發生了什麼事？
@@ -5727,7 +5727,7 @@ d. 他們有兩小時的待轉機時間
 Was the problem solved by the end of the conversation?
  (A) No, so they went home.
  (B) Yes, the engine was fixed and they were able to board the plane.
- (C) No, they are waiting to find out. (正解)
+ (C) No, they are waiting to find out. <font color="#dd0000">正解</font>
  (D) Yes, they were able to catch both of their flights.
 最後問題是否獲得解決？
 a. 沒有，所以他們回家了
@@ -5902,7 +5902,7 @@ $249
  
 How many nights did the woman originally plan to stay in the hotel?
  (A) one
- (B) two(正解)
+ (B) two<font color="#dd0000">正解</font>
  (C) three
  (D) four
 該名女子本來打算在飯店住幾晚？
@@ -5916,7 +5916,7 @@ D. 4
 00:0000:03
  
 What two changes does the woman want to make?
- (A) longer stay and extra person(正解)
+ (A) longer stay and extra person<font color="#dd0000">正解</font>
  (B) longer stay and one person less
  (C) shorter stay and extra person
  (D) shorter stay and one less person
@@ -5933,7 +5933,7 @@ D. 停留短一點，減少一人
 Look at the graphic. Which room did the woman choose in the end?
  (A) Business Traveler
  (B) Econo-Room
- (C) Family Suite(正解)
+ (C) Family Suite<font color="#dd0000">正解</font>
  (D) VIP Penthouse
 請看圖表。此女人最後選了以下哪一種房型？
 A. 商旅房型
@@ -6011,7 +6011,7 @@ What mistake did the man make?
  (A) He wrote something negative about his manager on his Twitter page.
  (B) He allowed his company's website to be hacked into.
  (C) He posted an inappropriate photo on the Internet.
- (D) He mistook his company's social media account for his own. (正解)
+ (D) He mistook his company's social media account for his own. <font color="#dd0000">正解</font>
 此男士犯了什麼錯？
 A.他在他的Twitter頁面上寫了關於他的經理的負面評價。
 B.他讓公司的網站遭受駭客入侵。
@@ -6023,7 +6023,7 @@ D.他把公司的社交媒體帳戶誤認成自己的。
 00:0000:04
  
 What did the man do as soon as he realized his mistake?
- (A) He removed the content. (正解)
+ (A) He removed the content. <font color="#dd0000">正解</font>
  (B) He apologized to his boss.
  (C) He changed the website's security settings.
  (D) He did a virus scan on the computer.
@@ -6038,7 +6038,7 @@ D. 在電腦上執行病毒掃描。
 00:0000:05
  
 Look at the graphic. What department does Meg Jerrand work for?
- (A) human resources(正解)
+ (A) human resources<font color="#dd0000">正解</font>
  (B) payroll
  (C) management
  (D) accounting
@@ -6089,7 +6089,7 @@ Ex. I couldn't get out of attending my ex-girlfriend's wedding. 我無法逃避�
  
 Why do they have to work on the weekend?
  (A) Mrs. Stanphill is upset that people made plans.
- (B) The layoffs have produced more work for everyone.(正解)
+ (B) The layoffs have produced more work for everyone.<font color="#dd0000">正解</font>
  (C) Mrs. Stanphill wants to hang out with everybody.
  (D) They need to make up for the last weekend.
 為什麼他們週末需要工作？
@@ -6106,7 +6106,7 @@ What recreational plans did the man have for the weekend?
  (A) He is going to spend time with his family.
  (B) He is going to work at the office.
  (C) He doesn't have any plans.
- (D) He is going to a play. (正解)
+ (D) He is going to a play. <font color="#dd0000">正解</font>
 這男士週末有什麼娛樂計畫？
 a. 他打算花時間和家人相處
 b. 他打算在辦公室工作
@@ -6120,7 +6120,7 @@ d. 他打算去看戲劇表演
 Do you think the man believes the woman can get the weekend off for everybody?
  (A) Yes, he thinks it will be guaranteed.
  (B) He doesn't care.
- (C) No, he is skeptical.(正解)
+ (C) No, he is skeptical.<font color="#dd0000">正解</font>
  (D) No, she won't even try.
 你覺得這位男士相信女子可以為每個人爭取到週末休息嗎？
 a. 是的，他覺得可以保證
@@ -6186,7 +6186,7 @@ order n. 訂購，順序/v. 訂購
  
 What is the problem with the chair?
  (A) It hasn't arrived yet.
- (B) It broke in half. (正解)
+ (B) It broke in half. <font color="#dd0000">正解</font>
  (C) The warranty expired.
  (D) It's the wrong model.
 這張椅子怎麼了？
@@ -6202,7 +6202,7 @@ d. 寄錯商品
 When will the problem be fixed?
  (A) It cannot be fixed.
  (B) It will be fixed in two days.
- (C) in the next five days(正解)
+ (C) in the next five days<font color="#dd0000">正解</font>
  (D) in one year
 問題何時會被解決？
 a. 無法解決
@@ -6217,7 +6217,7 @@ d. 一年內
 How did the woman handle the situation?
  (A) She explained why the product was damaged.
  (B) She told the customer the product would be replaced.
- (C) She forwarded the call to her superior.(正解)
+ (C) She forwarded the call to her superior.<font color="#dd0000">正解</font>
  (D) She denied that any problem existed.
 這位女士如何處理這個情況？
 a. 她解釋這件商品為何被損壞。
@@ -6266,7 +6266,7 @@ Ex. The manager is worried about meeting the new client tomorrow. 經理正在�
  
 What is the woman trying to decide?
  (A) Whether or not she can pay for yoga classes.
- (B) Whether or not she wants to become a yoga teacher.(正解)
+ (B) Whether or not she wants to become a yoga teacher.<font color="#dd0000">正解</font>
  (C) Whether or not she can pay back the money she borrowed from the yoga teacher.
  (D) Whether or not she is good with people.
 以下何者是這位女士的決定？
@@ -6280,7 +6280,7 @@ d. 她是否能和他人和平共處
 00:0000:03
  
 What kind of relationship do you think they have?
- (A) husband and wife(正解)
+ (A) husband and wife<font color="#dd0000">正解</font>
  (B) father and daughter
  (C) daughter and son
  (D) brother and sister
@@ -6297,7 +6297,7 @@ d. 兄弟姐妹
 Does the man help her make a decision?
  (A) She is still undecided by the end.
  (B) No, he doesn't.
- (C) Yes, he does.(正解)
+ (C) Yes, he does.<font color="#dd0000">正解</font>
  (D) She already made the decision before the conversation.
 這男士是否幫忙她做決定？
 a. 她最後依舊未能決定
@@ -6356,7 +6356,7 @@ Ex. My decision about whether to go or not will depend on tomorrow's weather. �
 00:0000:03
  
 What is the reason for this call?
- (A) The man needs his car fixed.(正解)
+ (A) The man needs his car fixed.<font color="#dd0000">正解</font>
  (B) The man needs a new car.
  (C) The man needs to talk to someone.
  (D) The man needs someone to drive his car.
@@ -6373,7 +6373,7 @@ d. 這男的需要某人將他的車開走
 Why does he need a tow service?
  (A) He parked illegally.
  (B) Cars R' US requires it.
- (C) The car has some serious problems. (正解)
+ (C) The car has some serious problems. <font color="#dd0000">正解</font>
  (D) He is not at home where the car is.
 為什麼他需要拖吊服務？
 a. 他違法停車
@@ -6388,7 +6388,7 @@ d. 車子在家，但他不在
 When will the tow service be there to pick the man up?
  (A) It will be there tomorrow.
  (B) It will be there in a few days.
- (C) It will be there in half an hour. (正解)
+ (C) It will be there in half an hour. <font color="#dd0000">正解</font>
  (D) It will be there a few minutes.
 拖吊服務會在以下哪個時間接這位男士？
 a. 明天會到
@@ -6464,7 +6464,7 @@ What is the problem with the phone?
  (A) It won't turn on.
  (B) It doesn't have enough storage space.
  (C) The screen is cracked.
- (D) It has a faulty camera.(正解)
+ (D) It has a faulty camera.<font color="#dd0000">正解</font>
 這支手機出現什麼問題？
 a. 它沒辦法開機。
 b. 它沒有足夠的儲存空間。
@@ -6476,7 +6476,7 @@ d. 它的照相機有問題。
 00:0000:03
  
 How long is the woman's warranty good for?
- (A) 1 year(正解)
+ (A) 1 year<font color="#dd0000">正解</font>
  (B) 6 months
  (C) 2 years
  (D) She isn't covered under warranty.
@@ -6494,7 +6494,7 @@ What was the result of the conversation?
  (A) The shop will repair the product.
  (B) The shop will issue a new warranty.
  (C) The shop won't assist the woman.
- (D) The shop will replace the product. (正解)
+ (D) The shop will replace the product. <font color="#dd0000">正解</font>
 以下何者是這段對話的結果？
 a. 這家店會把該產品修好。
 b. 這家店會給新的保固期。
@@ -6559,7 +6559,7 @@ ex. People often call to mind their families while they are on the road. 人們�
 00:0000:03
  
 What is happening in this conversation?
- (A) The two men are interviewing the woman.(正解)
+ (A) The two men are interviewing the woman.<font color="#dd0000">正解</font>
  (B) The two men are reprimanding the woman.
  (C) The woman is complaining to the two men.
  (D) One man is interviewing a man and a woman.
@@ -6576,7 +6576,7 @@ d. 一名男士正在面試一男一女。
 Why does the woman have limited flexibility when it comes to travel?
  (A) She is afraid of flying
  (B) She just doesn't like traveling.
- (C) She has two children.(正解)
+ (C) She has two children.<font color="#dd0000">正解</font>
  (D) She thinks that she works better at home.
 以下何者是這名女子只能有限度地配合出差的原因？
 a. 她怕搭飛機。
@@ -6592,7 +6592,7 @@ What can we infer about the discussion?
  (A) The men are not pleased with the woman's responses.
  (B) It is not going to conclude with an agreement.
  (C) It isn't going so well for one of the men.
- (D) It is going well for the woman. (正解)
+ (D) It is going well for the woman. <font color="#dd0000">正解</font>
 以下何者是我們可以為這段討論所下的推論？
 a. 男子對女子的回應並不開心。
 b. 討論的結論並沒有達成雙方同意。
@@ -6659,7 +6659,7 @@ How much does it cost to change the order?
  (A) There's no charge.
  (B) twenty five dollars
  (C) It cannot be done.
- (D) two dollars and fifty cents(正解)
+ (D) two dollars and fifty cents<font color="#dd0000">正解</font>
 換餐點要收取多少費用？
 a. 免費。
 b. 二十五美金。
@@ -6673,7 +6673,7 @@ b. 兩塊五十分美金。
 Where does this conversation take place?
  (A) on an airplane
  (B) over the telephone
- (C) in a dining establishment(正解)
+ (C) in a dining establishment<font color="#dd0000">正解</font>
  (D) during a meeting
 以下何者是這段對話發生的場所？
 a. 在飛機上
@@ -6687,7 +6687,7 @@ d. 會議上
  
 What is the man's tone?
  (A) Rude.
- (B) Polite.(正解)
+ (B) Polite.<font color="#dd0000">正解</font>
  (C) Hurried.
  (D) Helpless.
 以下何者是這名男子的說話語氣？
@@ -6744,7 +6744,7 @@ ex. A person's character doesn't depend only on his or her appearance. 一個人
  
 What is true about the man and the woman?
  (A) They agree about the movie selection.
- (B) They disagree about the movie selection. (正解)
+ (B) They disagree about the movie selection. <font color="#dd0000">正解</font>
  (C) They both don't like action movies.
  (D) They have the same favorite movie.
 以下關於這名男子與女子的敘述何者正確？
@@ -6760,7 +6760,7 @@ d. 他們有相同的電影喜好。
 What type of movie is Goofball?
  (A) drama
  (B) action
- (C) comedy(正解)
+ (C) comedy<font color="#dd0000">正解</font>
  (D) romance
 「Goofball」是什麼類型的電影？
 a. 戲劇片
@@ -6773,7 +6773,7 @@ d. 愛情片
 00:0000:03
  
 What will the man and woman probably do?
- (A) They will choose another movie.(正解)
+ (A) They will choose another movie.<font color="#dd0000">正解</font>
  (B) They will go see Goofball.
  (C) They will move in together soon.
  (D) They won't go out to dinner.
@@ -6832,7 +6832,7 @@ What reason does the woman provide for not wanting to lose her job now?
  (A) She has two kids in college.
  (B) She has to fix her car.
  (C) She has to pay back student loans.
- (D) She just refinanced her mortgage.(正解)
+ (D) She just refinanced her mortgage.<font color="#dd0000">正解</font>
 以下何者是這名女子不想現在失去工作的原因？
 a. 她有兩個孩子在上大學。
 b. 她得修理她的汽車。
@@ -6845,7 +6845,7 @@ d. 她剛新增一筆貸款。
  
 What does the man imply about the economy?
  (A) It is very strong.
- (B) It isn't very strong.(正解)
+ (B) It isn't very strong.<font color="#dd0000">正解</font>
  (C) He doesn't understand economics.
  (D) He stands to make a lot of money.
 該男子暗示現在經濟情況如何？
@@ -6860,7 +6860,7 @@ d. 他會賺許多錢。
  
 What day will they have lunch together?
  (A) Monday
- (B) Thursday(正解)
+ (B) Thursday<font color="#dd0000">正解</font>
  (C) Wednesday
  (D) Friday
 以下何者是他們會一起吃午餐的日子？
@@ -6943,7 +6943,7 @@ Battered adj.裹麵糊的
 What complaint is NOT made?
  (A) The service is poor.
  (B) The prices are high.
- (C) The chefs are slow. (正解)
+ (C) The chefs are slow. <font color="#dd0000">正解</font>
  (D) There's a service charge.
 對話中沒有提及下列哪一項抱怨？
 a. 服務不佳
@@ -6956,7 +6956,7 @@ d. 收取服務費
 00:0000:04
  
 Look at the graphic. What dish did the man order?
- (A) Chicken Alfredo with Grated Parmesan(正解)
+ (A) Chicken Alfredo with Grated Parmesan<font color="#dd0000">正解</font>
  (B) Grilled Herb Chicken Fillet
  (C) Battered Fish & Chips
  (D) Caesar Salad with Prawns
@@ -6974,7 +6974,7 @@ What can we infer about the speakers?
  (A) They used to work in this restaurant.
  (B) They are family members.
  (C) They are colleagues.
- (D) They won't come here again. (正解)
+ (D) They won't come here again. <font color="#dd0000">正解</font>
 以下關於談話者的敘述，何者為正確的推論？
 a.他們曾經在這間餐廳工作過
 b. 他們是家人
@@ -7027,7 +7027,7 @@ Where does this conversation take place?
  (A) on a train
  (B) on an airplane
  (C) on a boat
- (D) in a taxi(正解)
+ (D) in a taxi<font color="#dd0000">正解</font>
 這段對話發生在以下何處？
 a. 火車上
 b. 飛機上
@@ -7042,7 +7042,7 @@ What can we infer about the woman?
  (A) She has to work overtime tonight.
  (B) She's used to taking buses.
  (C) She's in no rush.
- (D) She's late for a flight.(正解)
+ (D) She's late for a flight.<font color="#dd0000">正解</font>
 關於這名女子我們可以做什麼推論？
 a. 她今晚必須加班。
 b. 她已經習慣搭公車。
@@ -7056,7 +7056,7 @@ d. 她搭飛機要遲到了。
 Why does the man think that taking I-95 would be a bad idea?
  (A) It is rush hour.
  (B) He doesn't know how to get there.
- (C) There is road construction.(正解)
+ (C) There is road construction.<font color="#dd0000">正解</font>
  (D) They are too far away.
 為什麼這個男子覺得走I-95公路會是個壞主意？
 a. 正值尖峰時間。
@@ -7114,7 +7114,7 @@ ex. We won't change our minds, even though he apologized and begged us for forgi
 What does the man imply about the person who missed their shift?
  (A) He will be promoted.
  (B) He will go on holiday soon.
- (C) He won't come in soon.(正解)
+ (C) He won't come in soon.<font color="#dd0000">正解</font>
  (D) He thinks he's a nice guy.
 以下何者是該男子暗示那個沒來上班的人的下場？
 a. 他會被升職。
@@ -7129,7 +7129,7 @@ d. 他覺得他是個好人。
 Why doesn't the man give some of his tables to the woman?
  (A) He doesn't think that she will do a very good job.
  (B) He wants to impress a valuable customer.
- (C) He wants to make more money.(正解)
+ (C) He wants to make more money.<font color="#dd0000">正解</font>
  (D) He thinks that she has too many tables.
 為什麼這名男子沒有將一些桌子分給這個女子？
 a. 他不認為她會做得很好。
@@ -7144,7 +7144,7 @@ d. 他覺得她桌子太多了。
 What can we infer about the restaurant?
  (A) It is new.
  (B) It has terrible staff.
- (C) It is very busy.(正解)
+ (C) It is very busy.<font color="#dd0000">正解</font>
  (D) The food is fancy.
 我們可以推論這家餐廳的情況如何？
 a. 新開幕的。
@@ -7207,7 +7207,7 @@ How does the woman feel about the advertisement?
  (A) Pleasantly surprised.
  (B) Indifferent.
  (C) Impressed.
- (D) Unsatisfied. (正解)
+ (D) Unsatisfied. <font color="#dd0000">正解</font>
 女子覺得這則廣告如何？
 a. 愉快的驚喜。
 b. 不重要。 
@@ -7221,7 +7221,7 @@ d. 不滿意。
 What was the main problem?
  (A) The length.
  (B) The music.
- (C) The content. (正解)
+ (C) The content. <font color="#dd0000">正解</font>
  (D) The printing ink.
 主要的問題是什麼？
 a. 長度。
@@ -7234,7 +7234,7 @@ d. 印刷墨水。
 00:0000:04
  
 What is Creed in charge of at his place of employment?
- (A) quality control(正解)
+ (A) quality control<font color="#dd0000">正解</font>
  (B) creative design
  (C) human resources
  (D) sales
@@ -7302,7 +7302,7 @@ ex. According to financial experts, another economic crisis is just around the c
  
 According to the man, what is the likely reason the package hasn't arrived yet.
  (A) It was lost during shipping.
- (B) It was sent during a busy time. (正解)
+ (B) It was sent during a busy time. <font color="#dd0000">正解</font>
  (C) The woman sent it to the wrong address.
  (D) The shipping company changed ownership and suspended all services.
 據該男子所述，這個包裹尚未抵達的原因可能為何？
@@ -7318,7 +7318,7 @@ d. 貨運公司的所有權易主並暫停所有服務。
 What will the woman probably say to the manager?
  (A) She will ask if they are hiring.
  (B) She will tell him that she received excellent service.
- (C) She will file a complaint about unsatisfactory service. (正解)
+ (C) She will file a complaint about unsatisfactory service. <font color="#dd0000">正解</font>
  (D) She will ask if they are selling any new postal stamps.
 這名女子可能會跟經理說什麼？
 a. 她會詢問他們是否有在徵人。
@@ -7332,7 +7332,7 @@ d. 她會問他們是不是有賣任何新的郵票？
  
 How long ago did the woman send the package?
  (A) one week ago.
- (B) three weeks ago(正解)
+ (B) three weeks ago<font color="#dd0000">正解</font>
  (C) last month
  (D) She will send it today.
 該女子多久以前寄出這個包裹？
@@ -7467,7 +7467,7 @@ $1000
 What does the woman mean by "That's all Greek to me"?
  (A) She doesn't personally recommend this tactic.
  (B) She can speak Greek fluently.
- (C) She doesn't understand what he's talking about.(正解)
+ (C) She doesn't understand what he's talking about.<font color="#dd0000">正解</font>
  (D) She isn't interested in this topic of conversation.
 當這位女性說"That's all Greek to me"是代表什麼意思呢？
 a. 她個人不推薦這種行銷策略。
@@ -7480,7 +7480,7 @@ d. 她對於這段對話的主題不感興趣
 00:0000:05
  
 What might be the name of the e-course that the man wrote about on his website?
- (A) How to design a beautiful website from scratch. (正解)
+ (A) How to design a beautiful website from scratch. <font color="#dd0000">正解</font>
  (B) How to influence others on the Internet.
  (C) How to get rich online.
  (D) How to make money from affiliate marketing.
@@ -7498,7 +7498,7 @@ Look at the graphic. Which e-course is the man talking about?
  (A) #349
  (B) #350
  (C) #351
- (D) #352(正解)
+ (D) #352<font color="#dd0000">正解</font>
 看這張圖片。這位男士所談論的是那一種線上課程？
 a. #349
 b. #350
@@ -7610,7 +7610,7 @@ domestic adj. 國內的、家庭的
  
 What is Enrich Miles?
  (A) a hotel in Phuket, Thailand
- (B) an air miles rewards program(正解)
+ (B) an air miles rewards program<font color="#dd0000">正解</font>
  (C) a travel agency in Bangkok, Thailand
  (D) a Malaysia-based airline
 何謂哩程累積？
@@ -7627,7 +7627,7 @@ Look at the graphic. Which flight(s) is the man calling about?
  (A) flight #1
  (B) flight #1 and #4
  (C) flight #2
- (D) flight #2 and #3(正解)
+ (D) flight #2 and #3<font color="#dd0000">正解</font>
 請看圖表。這位男士在說哪一班飛機？
 a.班機#1
 b. 班機#1及#4
@@ -7640,7 +7640,7 @@ d. 班機#2及#3
  
 What can we infer the man will do next?
  (A) Upgrade to a gold card.
- (B) Give up on getting the points. (正解)
+ (B) Give up on getting the points. <font color="#dd0000">正解</font>
  (C) Cancel his upcoming flights.
  (D) Redeem his points for a free flight.
 我們可以推斷以下何者是這位男士的下一步？
@@ -7713,7 +7713,7 @@ ex. The soldier stuck to his commander's directions perfectly. 這個士兵堅�
 00:0000:02
  
 What is the man's relationship to the woman?
- (A) He is her patient.(正解)
+ (A) He is her patient.<font color="#dd0000">正解</font>
  (B) He is her sibling.
  (C) He is her spouse.
  (D) He is her colleague.
@@ -7730,7 +7730,7 @@ d. 他是她的同事。
 What suggestion does the woman give the man?
  (A) He needs to have surgery immediately.
  (B) He needs to change his diet.
- (C) He must exercise and stretch regularly. (正解)
+ (C) He must exercise and stretch regularly. <font color="#dd0000">正解</font>
  (D) He must sleep for eight hours a day.
 這名女子給了男子什麼建議？
 a. 他需要馬上動手術。
@@ -7744,7 +7744,7 @@ d. 他必須一天睡足八小時。
  
 What can we infer about the man's reaction to the diagnosis?
  (A) He is surprised at how quickly he will heal.
- (B) He is disappointed at how long it will take to heal.(正解)
+ (B) He is disappointed at how long it will take to heal.<font color="#dd0000">正解</font>
  (C) He is relieved to find that nothing is wrong.
  (D) He is depressed because he only has two months to live.
 我們從這名男子對診斷結果的反應可以推測出什麼？
@@ -7794,7 +7794,7 @@ Man: Either one. I'd like to have a look at them first.
 00:0000:05
  
 What happened to the navy blue and soft pink versions of the product?
- (A) They are sold out. (正解)
+ (A) They are sold out. <font color="#dd0000">正解</font>
  (B) The man doesn't like those colors.
  (C) They have been discontinued.
  (D) They aren't the right style.
@@ -7812,7 +7812,7 @@ Will the woman's shop have more in the future?
  (A) Yes, there will be some in the next order.
  (B) Yes, she can make a custom order.
  (C) No, they will never carry those products again.
- (D) She isn't sure at this time. (正解)
+ (D) She isn't sure at this time. <font color="#dd0000">正解</font>
 該女的商店裡未來會有更多茶具嗎？
 A. 會，下一批訂單會有一些。
 B. 會，她可以訂做一個。
@@ -7827,7 +7827,7 @@ Look at the graphic. Where does the man probably live?
  (A) Near the airport.
  (B) Near South Mall.
  (C) In East Moon.
- (D) In the downtown area. (正解)
+ (D) In the downtown area. <font color="#dd0000">正解</font>
 請看圖表。該男子可能住在哪裡？
 A. 機場附近。
 B. 南方商城附近。
@@ -7883,7 +7883,7 @@ What kind of performance is the man suggesting going to?
  (A) film
  (B) play
  (C) poetry reading
- (D) musical(正解)
+ (D) musical<font color="#dd0000">正解</font>
 該男子提議要去看哪種表演？
 a. 電影
 b. 舞台劇
@@ -7895,7 +7895,7 @@ d. 音樂
 00:0000:02
  
 Why is the woman upset?
- (A) She thinks the man never listens to her.(正解)
+ (A) She thinks the man never listens to her.<font color="#dd0000">正解</font>
  (B) The man offered his second ticket to somebody else first.
  (C) She had already made plans for that evening.
  (D) She is busy working and doesn't like to be disturbed.
@@ -7911,7 +7911,7 @@ d. 她忙著工作不喜歡被打擾。
  
 In the end, how does the woman respond to the invitation?
  (A) She agrees to go out with the man.
- (B) She doesn't want to go, and tells the man to go alone.(正解)
+ (B) She doesn't want to go, and tells the man to go alone.<font color="#dd0000">正解</font>
  (C) She suggests a different activity for them to do.
  (D) She takes both tickets and invites one of her friends to go.
 在對話的最後，該女子如何回應他的邀請？
@@ -7970,7 +7970,7 @@ ex. All cabin crew members must undergo a three-month training course in Atlanta
 What is the man's problem?
  (A) He has lost his flight ticket.
  (B) His flight has already taken off.
- (C) He was late to board his flight.(正解)
+ (C) He was late to board his flight.<font color="#dd0000">正解</font>
  (D) He is at the wrong gate.
 以下何者是該男子的主要問題？
 a. 他弄丟他的機票。
@@ -7984,7 +7984,7 @@ d. 他跑錯登機門。
  
 Why does he need to take this flight?
  (A) His wife is critically ill.
- (B) His first child is about to be born.(正解)
+ (B) His first child is about to be born.<font color="#dd0000">正解</font>
  (C) His child is inured.
  (D) He has an appointment for important medical treatment.
 以下何者是該男子必須搭上這班飛機的原因？
@@ -7998,7 +7998,7 @@ d. 他有一個重要的醫學治療約診。
 00:0000:03
  
 How does the woman try to help the man?
- (A) She tries to make contact with the flight crew.(正解)
+ (A) She tries to make contact with the flight crew.<font color="#dd0000">正解</font>
  (B) She tells the pilot not to take off.
  (C) She goes outside and stands in front of the plane.
  (D) She doesn't try to help the man.
@@ -8067,7 +8067,7 @@ ex. In the end that dishonest businessman is going to pay for cheating so many p
  
 Who is the woman talking to?
  (A) a maintenance worker
- (B) a ticket vendor (正解)
+ (B) a ticket vendor <font color="#dd0000">正解</font>
  (C) a steward
  (D) a ticket inspector
 以下何者正在與這名女子對話？
@@ -8082,7 +8082,7 @@ d. 驗票員
  
 What's the total cost for the tickets she will purchase?
  (A) $120
- (B) $100(正解)
+ (B) $100<font color="#dd0000">正解</font>
  (C) $160
  (D) $80
 她要買的票一共要花多少錢？
@@ -8096,7 +8096,7 @@ d. 80美金
 00:0000:03
  
 Which statement about the woman is true?
- (A) She is willing to pay more for a shorter ride.(正解)
+ (A) She is willing to pay more for a shorter ride.<font color="#dd0000">正解</font>
  (B) She almost never rides the train.
  (C) Her main objective is to save money.
  (D) She is traveling with three children.
@@ -8162,7 +8162,7 @@ ex. You need to hire a professional to sort out your financial situation. 你需
 What is the woman's job?
  (A) Hotel cleaner.
  (B) Hotel owner.
- (C) Hotel receptionist.(正解)
+ (C) Hotel receptionist.<font color="#dd0000">正解</font>
  (D) Taxi decorator.
 以下何者是這名女子的工作？
 a. 旅館清潔人員。
@@ -8176,7 +8176,7 @@ d. 計程車裝潢師。
  
 What does the man want?
  (A) A full refund for his room fee.
- (B) Someone to come and clean his room.(正解)
+ (B) Someone to come and clean his room.<font color="#dd0000">正解</font>
  (C) To be moved to another room.
  (D) A formal apology from the hotel manager.
 以下何者是該男子的要求？
@@ -8190,7 +8190,7 @@ d. 旅館經理正式道歉。
 00:0000:02
  
 How does the woman offer to help?
- (A) She offers to personally go and inspect the room.(正解)
+ (A) She offers to personally go and inspect the room.<font color="#dd0000">正解</font>
  (B) She offers to send a cleaner to the man's room.
  (C) She offers to send the manager to speak to the man.
  (D) She offers the man cleaning equipment to clean the room himself.
@@ -8260,7 +8260,7 @@ Hurry up! Your school bus is driving away now. 快一點!你的校車要開走�
  
 What are the two diners discussing?
  (A) whether to exchange or refund the item
- (B) the size of the tip(正解)
+ (B) the size of the tip<font color="#dd0000">正解</font>
  (C) how to pay the bill
  (D) the man's recent troubles
 以下何者是兩位用餐者正在討論的事項？
@@ -8274,7 +8274,7 @@ d. 該男子最近的煩惱。
 00:0000:02
  
 Why is the female diner displeased?
- (A) her meal was unsatisfactory(正解)
+ (A) her meal was unsatisfactory<font color="#dd0000">正解</font>
  (B) the server was rude
  (C) the service was too slow
  (D) her husband is cheap
@@ -8290,7 +8290,7 @@ d. 她的先生很小氣
  
 What does the waitress tell them at the end?
  (A) they don't accept tips in this restaurant
- (B) a service charge has been automatically added to the bill(正解)
+ (B) a service charge has been automatically added to the bill<font color="#dd0000">正解</font>
  (C) if the meal wasn't very good, the kitchen can remake it
  (D) she apologizes for the low quality of service
 最後服務生告知以下何者訊息？
@@ -8349,7 +8349,7 @@ ex. He was especially fond of the blue one. 他特別喜歡藍色的那一個。
  
 What are these two people discussing?
  (A) A newspaper article.
- (B) A novel.(正解)
+ (B) A novel.<font color="#dd0000">正解</font>
  (C) A relationship between two of their friends.
  (D) A television show.
 這兩個人在討論什麼？
@@ -8363,7 +8363,7 @@ d. 電視節目。
 00:0000:03
  
 Why does the man like going to the reading group?
- (A) He likes the free food and drinks.(正解)
+ (A) He likes the free food and drinks.<font color="#dd0000">正解</font>
  (B) He likes the people there.
  (C) He enjoys discussing books.
  (D) He often feels lonely and likes the company.
@@ -8381,7 +8381,7 @@ What can we infer about the relationship between these two people?
  (A) They have been friends for a long time.
  (B) They are married.
  (C) They respect each other's opinions.
- (D) They aren't too fond of each other.(正解)
+ (D) They aren't too fond of each other.<font color="#dd0000">正解</font>
 我們可以對這兩個人間的關係作怎樣的推論？
 a. 他們是很久的朋友了。
 b. 他們結婚了。
@@ -8420,7 +8420,7 @@ ex. My father will take us out to dinner this weekend to celebrate our wedding a
 00:0000:04
  
 How are the workers going to celebrate their high sales figures?
- (A) They are going out for a meal.(正解)
+ (A) They are going out for a meal.<font color="#dd0000">正解</font>
  (B) They are going bowling.
  (C) They are going to watch a movie.
  (D) They are going out to a pub.
@@ -8436,7 +8436,7 @@ d. 他們要去酒吧。
  
 What is true about the woman?
  (A) She has been working with this team for a long time.
- (B) She has recently started working with this team.(正解)
+ (B) She has recently started working with this team.<font color="#dd0000">正解</font>
  (C) She is inexperienced.
  (D) She will be retiring soon.
 以下關於這名女子的敘述何者正確？
@@ -8452,7 +8452,7 @@ d. 她很快就會退休。
 How does the woman respond to the invitation?
  (A) She rejects the invitation because she already has plans.
  (B) She accepts the invitation but wants to know more information.
- (C) She accepts the invitation enthusiastically.(正解)
+ (C) She accepts the invitation enthusiastically.<font color="#dd0000">正解</font>
  (D) She rejects the invitation because she has no interest in making friends.
 這名女子如何回應邀請？
 a. 她拒絕了邀請因為她已經有其他計畫。
@@ -8495,7 +8495,7 @@ Man: OK, OK. Sure, you can charge the card.
 What might be the name of the place where the speakers are having this conversation?
  (A) AMA Car Insurance
  (B) Sam's Auto Repairs
- (C) Budget Car Rentals(正解)
+ (C) Budget Car Rentals<font color="#dd0000">正解</font>
  (D) Highway 6 Drive in Theatre
 談話者可能是在什麼地方進行這段談話的?
 A. AMA汽車保險公司
@@ -8510,7 +8510,7 @@ D. 6號公路劇院
 Who was the person who initially signed the agreement for this service?
  (A) The woman in the conversation.
  (B) The man in the conversation.
- (C) The wife of the man in the conversation. (正解)
+ (C) The wife of the man in the conversation. <font color="#dd0000">正解</font>
  (D) The friend of the man in the conversation.
 誰是最初簽署了該服務協議的人？
 A.談話中的女人。
@@ -8526,7 +8526,7 @@ Look at the graphic. Which part of the vehicle was damaged?
  (A) 1
  (B) 2
  (C) 3
- (D) 4(正解)
+ (D) 4<font color="#dd0000">正解</font>
 請看圖表。車輛的哪一部分損壞了?
 A. 1 
 B. 2 
@@ -8577,7 +8577,7 @@ ex. The class will be split into small groups for the math exercise. 該班級�
 What time of day is this conversation taking place?
  (A) morning
  (B) lunchtime
- (C) evening(正解)
+ (C) evening<font color="#dd0000">正解</font>
  (D) afternoon
 這段對話發生在一天中的哪一個時間？
 a. 早上
@@ -8590,7 +8590,7 @@ d. 下午
 00:0000:05
  
 How does the man respond to the news that fifteen people are coming?
- (A) He says the restaurant doesn't have enough space on this occasion.(正解)
+ (A) He says the restaurant doesn't have enough space on this occasion.<font color="#dd0000">正解</font>
  (B) He says the group will have to wait for at least one hour.
  (C) He says the group could split up into smaller groups.
  (D) He says that the manager never allows such large groups in.
@@ -8605,7 +8605,7 @@ d. 他說經理從不讓這麼大的一群人進來。
 00:0000:04
  
 How long ago did the woman make the reservation?
- (A) Three weeks ago.(正解)
+ (A) Three weeks ago.<font color="#dd0000">正解</font>
  (B) Three days ago.
  (C) Three months ago.
  (D) The previous day.
@@ -8658,7 +8658,7 @@ ex. We cannot make exceptions for anyone. 我們不能為任何人破例。
  
 What are they discussing?
  (A) the upcoming midterm exam
- (B) a possible extension of a deadline(正解)
+ (B) a possible extension of a deadline<font color="#dd0000">正解</font>
  (C) the policy on student ethics
  (D) potential topics for the term paper
 以下何者是他們正在討論的問題？
@@ -8675,7 +8675,7 @@ What advice does Mrs. Garcia provide?
  (A) Carl should quit his job.
  (B) Carl should consider another essay topic.
  (C) Carl should attend more lectures.
- (D) Carl should organize his time better.(正解)
+ (D) Carl should organize his time better.<font color="#dd0000">正解</font>
 Garcia教授給了什麼建議？
 a. Carl應該辭掉他的工作。
 b. Carl應該考慮其他的報告題目。
@@ -8689,7 +8689,7 @@ d. Carl應該更妥善的安排他的時間。
 What will Carl most likely do?
  (A) He will try to drop the class.
  (B) He will make an appeal to the dean.
- (C) He will ask for a day off work.(正解)
+ (C) He will ask for a day off work.<font color="#dd0000">正解</font>
  (D) He will hire a tutor to help him.
 以下何者是Carl最可能要做的事？
 a. 他會試著放棄這門課。
@@ -8741,7 +8741,7 @@ ex. The client didn't accept the proposal in question. 委託人不接受正在�
 Who is this conversation taking place between?
  (A) Two parents.
  (B) Two police officers.
- (C) Two teachers.(正解)
+ (C) Two teachers.<font color="#dd0000">正解</font>
  (D) Two students.
 以下何者正在進行這段談話？
 a. 兩位家長。
@@ -8757,7 +8757,7 @@ How does the man feel about losing the child's homework?
  (A) He doesn't care.
  (B) He is happy, as he does not like the child in question.
  (C) He feels he should buy a small gift for the child.
- (D) He is worried about the consequences.(正解)
+ (D) He is worried about the consequences.<font color="#dd0000">正解</font>
 該男子對於弄丟這個小孩的作業感覺如何？
 a. 他不在乎。
 b. 他很高興，因為他不喜歡所討論的這個小孩。
@@ -8770,7 +8770,7 @@ d. 他擔心它的後果。
  
 How does the woman feel about the child in question?
  (A) The child is her favourite student.
- (B) She feels the child is not a very good student.(正解)
+ (B) She feels the child is not a very good student.<font color="#dd0000">正解</font>
  (C) She thinks he is responsible.
  (D) She loves the child, as he is her son.
 該女子覺得所討論的這個小孩如何？
@@ -8841,7 +8841,7 @@ Woman: Over 90% of our similar applications have been accepted. Still, I can't g
  
 What is the woman waiting for?
  (A) an imported product to arrive
- (B) an import license to be accepted(正解)
+ (B) an import license to be accepted<font color="#dd0000">正解</font>
  (C) an application to be made
  (D) a fee to be charged
 該名女子在等待以下何者？
@@ -8856,7 +8856,7 @@ D.要收取的費用
  
 What does the man want the woman to do?
  (A) cancel it
- (B) make it happen faster(正解)
+ (B) make it happen faster<font color="#dd0000">正解</font>
  (C) reverse the process
  (D) stop annoying people
 該名男子想要該女子進行以下何項動作？
@@ -8870,7 +8870,7 @@ D.不再惹惱任何人
 00:0000:04
  
 Look at the graphic. Who is Lesley Willis?
- (A) The man in the conversation. (正解)
+ (A) The man in the conversation. <font color="#dd0000">正解</font>
  (B) The woman in the conversation.
  (C) The boss of the man in the conversation.
  (D) The boss of the woman in the conversation.
@@ -8938,7 +8938,7 @@ ex. Let's step into this real estate agency and check out the prices in this nei
 00:0000:01
  
 Where do they work?
- (A) a real estate agency(正解)
+ (A) a real estate agency<font color="#dd0000">正解</font>
  (B) a wholesaler
  (C) a car dealership
  (D) a department store
@@ -8953,7 +8953,7 @@ d. 百貨公司
 00:0000:03
  
 Why might the man be considered for a promotion?
- (A) He has a lot of experience.(正解)
+ (A) He has a lot of experience.<font color="#dd0000">正解</font>
  (B) He has great sales numbers.
  (C) He is well-liked by his boss.
  (D) He is the oldest employee.
@@ -8971,7 +8971,7 @@ What can be inferred from this conversation?
  (A) Sara has the best chance at being promoted.
  (B) Steve is not interested in being promoted.
  (C) Mr. Amir was the top salesperson.
- (D) Steve has helped mentor Sara.(正解)
+ (D) Steve has helped mentor Sara.<font color="#dd0000">正解</font>
 以下何者可以從這段對話中推測出來？
 a. Sara最有機會獲得升遷。 
 b. Steve對晉升沒有興趣。 
@@ -9039,7 +9039,7 @@ W: He's good at what he does, but he's not a natural leader.
  
 Look at the graphic. Who wrote this?
  (A) Wendy
- (B) Mrs. Kamineski(正解)
+ (B) Mrs. Kamineski<font color="#dd0000">正解</font>
  (C) Hai Feng
  (D) Donald Allen
 請看圖表。這是誰寫的？
@@ -9056,7 +9056,7 @@ According to office rumors, who will be hired to replace this person?
  (A) someone from that team
  (B) someone from another department
  (C) someone from another team
- (D) someone from another company(正解)
+ (D) someone from another company<font color="#dd0000">正解</font>
 根據辦公室傳聞，以下何者將被聘用來接任這個職位？
 a. 團隊中的某一人
 b. 另一個部門的人
@@ -9068,7 +9068,7 @@ d. 另一間公司的人
 00:0000:05
  
 Why doesn't the woman think Donald Allen is suitable for the position?
- (A) He doesn't have the right personality to lead. (正解)
+ (A) He doesn't have the right personality to lead. <font color="#dd0000">正解</font>
  (B) He's not experienced enough.
  (C) He's too close to retirement.
  (D) He's been working for this company for too long.
@@ -9118,7 +9118,7 @@ ex. She is still recovering from a failed relationship. 她正從失戀復原中
 Where is this conversation taking place?
  (A) In an airport.
  (B) At the man's home.
- (C) In a travel agency.(正解)
+ (C) In a travel agency.<font color="#dd0000">正解</font>
  (D) At the man's office.
 以下何者是這段對話發生的地點？
 a. 機場。
@@ -9132,7 +9132,7 @@ d. 該男子的辦公室。
  
 Why does the man have time to wait?
  (A) He doesn't have a job.
- (B) He has taken the afternoon off work.(正解)
+ (B) He has taken the afternoon off work.<font color="#dd0000">正解</font>
  (C) He is recovering from an illness.
  (D) He is on vacation.
 為什麼該男子有時間可以等？
@@ -9146,7 +9146,7 @@ d. 他正在度假。
 00:0000:03
  
 When did the man originally plan to travel?
- (A) During summer.(正解)
+ (A) During summer.<font color="#dd0000">正解</font>
  (B) During spring.
  (C) During autumn.
  (D) During winter.
@@ -9217,7 +9217,7 @@ ex. No wonder the child fell down; he kept spinning around in circles! 難怪這
 00:0000:01
  
 What day is it?
- (A) Monday(正解)
+ (A) Monday<font color="#dd0000">正解</font>
  (B) Friday
  (C) Saturday
  (D) Sunday
@@ -9233,7 +9233,7 @@ d. 禮拜天。
  
 Why wasn't Miguel at the party?
  (A) He didn't know about it.
- (B) He didn't see his invitation.(正解)
+ (B) He didn't see his invitation.<font color="#dd0000">正解</font>
  (C) He wasn't invited to it.
  (D) He was too busy at home.
 Miguel為什麼沒有在派對上？
@@ -9249,7 +9249,7 @@ d. 他在家裡太忙了。
 Which of the following statement are true?
  (A) Miguel didn't go out at all.
  (B) Miguel deleted his social media profile.
- (C) Miguel had a productive weekend.(正解)
+ (C) Miguel had a productive weekend.<font color="#dd0000">正解</font>
  (D) Miguel is much older than the woman.
 下列敘述何者正確？
 a. Miguel完全沒有外出。 
@@ -9320,7 +9320,7 @@ ex. Please continue to handle the customer's issue until I return. 我回來之�
 Who is the woman talking to?
  (A) her business partner
  (B) the receiver of this parcel
- (C) a customer service agent(正解)
+ (C) a customer service agent<font color="#dd0000">正解</font>
  (D) a supervisor
 以下何者正在與該名女子通話？
 a. 她的生意夥伴
@@ -9334,7 +9334,7 @@ d. 主管
  
 What's the problem?
  (A) The package has been damaged.
- (B) The package will arrive late.(正解)
+ (B) The package will arrive late.<font color="#dd0000">正解</font>
  (C) The package was sent to the wrong place.
  (D) The package cannot be located.
 以下何者為對話討論的問題？
@@ -9351,7 +9351,7 @@ What conclusion can be drawn?
  (A) The woman's concerns have been dealt with.
  (B) The package was delayed due to human error.
  (C) The woman will file a complaint against the man.
- (D) The woman will continue to plea her case.(正解)
+ (D) The woman will continue to plea her case.<font color="#dd0000">正解</font>
 可以做怎樣的結論？
 a. 該女子的顧慮已經被解決了。
 b. 該包裹是因為人為疏失而被延誤。
@@ -9396,7 +9396,7 @@ How are these two people communicating?
  (A) In person.
  (B) By email.
  (C) Text messages.
- (D) Over the phone.(正解)
+ (D) Over the phone.<font color="#dd0000">正解</font>
 這兩個人如何溝通？
 a. 面對面。
 b. 透過電子郵件。
@@ -9409,7 +9409,7 @@ d. 透過電話。
  
 Why hasn't the man received the shoes he ordered?
  (A) The store has a long waiting list for those shoes.
- (B) The store doesn't have the shoes in the right size.(正解)
+ (B) The store doesn't have the shoes in the right size.<font color="#dd0000">正解</font>
  (C) The shoes were sent to the wrong address.
  (D) The shoes were accidentally sent to the complaints department.
 以下何者是該名男子尚未收到他訂的鞋子的原因？
@@ -9425,7 +9425,7 @@ d. 鞋子意外的被寄到客訴部門。
 When did the man place his order?
  (A) The previous day.
  (B) Two months ago.
- (C) The previous month.(正解)
+ (C) The previous month.<font color="#dd0000">正解</font>
  (D) The first day of the current month.
 該名男子何時下的訂單？
 a. 前一天。
@@ -9505,7 +9505,7 @@ What is the couple doing?
  (A) buying a used car
  (B) buying a new car
  (C) buying a new van
- (D) buying a used van(正解)
+ (D) buying a used van<font color="#dd0000">正解</font>
 這一對夫妻在做什麼？
 a. 買中古車
 b. 買新車
@@ -9518,7 +9518,7 @@ d. 買中古的廂型車
  
 How much do they agree to pay for the vehicle?
  (A) $23,000
- (B) $19,000(正解)
+ (B) $19,000<font color="#dd0000">正解</font>
  (C) $21,000
  (D) $17,000
 他們同意支付多少金額買這部車？
@@ -9533,7 +9533,7 @@ d. 一萬七千美金
  
 What does the man's offer include?
  (A) a free month of gas
- (B) a dealership warranty(正解)
+ (B) a dealership warranty<font color="#dd0000">正解</font>
  (C) a money back guarantee
  (D) a free estimate from a mechanic
 以下何者包含在該名男子所開列的條件中？
@@ -9663,7 +9663,7 @@ W: OK, I will tell them at once.
  
 What is the main topic of the conversation?
  (A) Hiring new staff members.
- (B) The duties of staff members. (正解)
+ (B) The duties of staff members. <font color="#dd0000">正解</font>
  (C) Firing staff members.
  (D) Staff member evaluations.
 這段對話的主題是什麼？
@@ -9678,7 +9678,7 @@ d. 職員的評價。
  
 What might Linda's role be?
  (A) CEO
- (B) team manager(正解)
+ (B) team manager<font color="#dd0000">正解</font>
  (C) personal assistant
  (D) secretary
 Linda可能是什麼角色？
@@ -9693,7 +9693,7 @@ d. 秘書
  
 Look at the graphic. In the future, who will prepare this table?
  (A) Mr. Tam
- (B) Eric (正解)
+ (B) Eric <font color="#dd0000">正解</font>
  (C) Terry
  (D) Nicholas
 請看圖表。未來將由以下何者準備這份表格？
@@ -9753,7 +9753,7 @@ What does the woman do for a living?
  (A) She's a bartender.
  (B) She's a professor.
  (C) She's a doctor.
- (D) She's a lawyer.(正解)
+ (D) She's a lawyer.<font color="#dd0000">正解</font>
 該女子從事什麼工作為生？
 a. 她是一名酒保。
 b. 她是一名教授。
@@ -9767,7 +9767,7 @@ d. 她是一名律師。
 What is the man's relation to the woman?
  (A) He's her boss.
  (B) He's her client.
- (C) He's her colleague.(正解)
+ (C) He's her colleague.<font color="#dd0000">正解</font>
  (D) He's her husband.
 該男子與這名女子是什麼關係？
 a. 他是她的老闆。
@@ -9780,7 +9780,7 @@ d. 他是她的丈夫。
 00:0000:03
  
 What can be inferred from the conversation?
- (A) It is uncertain whether they will go out.(正解)
+ (A) It is uncertain whether they will go out.<font color="#dd0000">正解</font>
  (B) The woman doesn't want to go out.
  (C) The man is too busy to go out.
  (D) They will get in trouble if they go out.
@@ -9840,7 +9840,7 @@ Who is this conversation between?
  (A) A teacher and a student.
  (B) A mother and a son.
  (C) Two doctors.
- (D) A doctor and a patient.(正解)
+ (D) A doctor and a patient.<font color="#dd0000">正解</font>
 這段是誰之間的對話？
 a. 老師與學生。
 b. 媽媽與兒子。
@@ -9853,7 +9853,7 @@ d. 醫生與病人。
  
 Where does the woman tell the man to go?
  (A) To the plastic surgery department.
- (B) To the blood drawing area.(正解)
+ (B) To the blood drawing area.<font color="#dd0000">正解</font>
  (C) To the X-ray area.
  (D) To the reception desk.
 該女子要這名男子去哪裏？
@@ -9869,7 +9869,7 @@ d. 去接待櫃台。
 Why does this man have reason to be worried?
  (A) The woman says his condition is very serious.
  (B) He doesn't like having his blood drawn.
- (C) The woman doesn't know exactly what illness he has.(正解)
+ (C) The woman doesn't know exactly what illness he has.<font color="#dd0000">正解</font>
  (D) He doesn't know how to get to the blood drawing area.
 為什麼該男子有理由擔心？
 a. 這名女子說他的狀況非常嚴重。
@@ -9939,7 +9939,7 @@ ex. I don't mind if the product is out of season, I just want it quickly. 我並
  
 Where are they?
  (A) at a shoe store
- (B) at a clothing retailer (正解)
+ (B) at a clothing retailer <font color="#dd0000">正解</font>
  (C) at a grocery store
  (D) at a furniture store
 以下何者是他們的所在之處？
@@ -9954,7 +9954,7 @@ d. 傢俱店
  
 How many items does the man have?
  (A) 5
- (B) 7(正解)
+ (B) 7<font color="#dd0000">正解</font>
  (C) 6
  (D) 8
 該男子手上有幾件衣服？
@@ -9971,7 +9971,7 @@ What can be inferred from the conversation?
  (A) No more than five items can be purchased.
  (B) The man can't find the changing rooms.
  (C) You must buy the items you try on.
- (D) Summer clothes are on sale.(正解)
+ (D) Summer clothes are on sale.<font color="#dd0000">正解</font>
 以下何者可以從這段對話中推測？
 a. 超過五件不得申購。
 b. 該男子找不到更衣室。
@@ -10039,7 +10039,7 @@ ex. Give it a shot and see what you can make. 放手一搏並且看看你能做�
  
 Who is the woman talking to?
  (A) her husband
- (B) a plumber(正解)
+ (B) a plumber<font color="#dd0000">正解</font>
  (C) a janitor
  (D) a carpenter
 以下何者誰在和該名女子通話？
@@ -10056,7 +10056,7 @@ What time will the man be able to come over?
  (A) around 11 am
  (B) around 6 pm
  (C) around 10 pm
- (D) around 2 pm(正解)
+ (D) around 2 pm<font color="#dd0000">正解</font>
 這名男子什麼時候可以到現場？
 a. 大約上午11點
 b. 大約下午6點
@@ -10070,7 +10070,7 @@ d. 大約下午2點
 Which of the following statements is correct?
  (A) She is angry that she has to wait.
  (B) She will have to call the man back.
- (C) She will try to fix it on her own.(正解)
+ (C) She will try to fix it on her own.<font color="#dd0000">正解</font>
  (D) She doesn't know how to use a plunger.
 下列敘述何者正確？
 a. 她為必須等候而感到生氣。
@@ -10121,7 +10121,7 @@ W: Exactly.
  
 What do we know about the factory?
  (A) It recently burned down.
- (B) It hasn't been built yet. (正解)
+ (B) It hasn't been built yet. <font color="#dd0000">正解</font>
  (C) It is going to be torn down soon.
  (D) It is really old.
 我們對工廠的了解有多少？
@@ -10137,7 +10137,7 @@ d. 它非常老舊。
 Look at the graphic. What was the original location of the staircase?
  (A) location 1
  (B) location 2
- (C) location 3(正解)
+ (C) location 3<font color="#dd0000">正解</font>
  (D) location 4
 請看圖表。哪一個是樓梯原來的位置？
 a. 位置1。
@@ -10152,7 +10152,7 @@ d. 位置4。
 Look at the graphic. What is the new location of the staircase?
  (A) location 5
  (B) location 6
- (C) location 7(正解)
+ (C) location 7<font color="#dd0000">正解</font>
  (D) location 8
 請看圖表。哪一個是樓梯的新位置？
 a. 位置5。
@@ -10230,7 +10230,7 @@ Who is the first man in the conversation?
  (A) the woman's roommate
  (B) the woman's dad
  (C) a door repairman
- (D) a landlord (正解)
+ (D) a landlord <font color="#dd0000">正解</font>
 對話中的第一位男士身分為以下何人？
 a. 女士的室友
 b. 女士的爸爸
@@ -10242,7 +10242,7 @@ d. 房東
 00:0000:02
  
 What is the problem with the door?
- (A) It fell of its track.(正解)
+ (A) It fell of its track.<font color="#dd0000">正解</font>
  (B) It's broken.
  (C) It won't slide.
  (D) The track is broken.
@@ -10259,7 +10259,7 @@ d. 壞掉了
 Who will need to pay for the repairs?
  (A) The repairman offered to do it free of charge.
  (B) The woman will need to pay for it.
- (C) The first man in the conversation will cover the cost. (正解)
+ (C) The first man in the conversation will cover the cost. <font color="#dd0000">正解</font>
  (D) It has not been settled who will pay for it.
 以下何人會支付修理的費用？
 a. 維修人員會免費維修。
@@ -10331,7 +10331,7 @@ W: 了解。
  
 How often does the web design unit currently check the comments on the company site?
  (A) once per hour
- (B) once per day (正解)
+ (B) once per day <font color="#dd0000">正解</font>
  (C) once per week
  (D) once per month
 網站設計小組目前多久會查看公司網站的評論？
@@ -10347,7 +10347,7 @@ d. 每月一次
 Look at the graphic. Who will likely see this information in the future?
  (A) the man in the conversation
  (B) the woman in the conversation
- (C) the web design unit(正解)
+ (C) the web design unit<font color="#dd0000">正解</font>
  (D) Jacky Sharp
 請見圖表。以下何者未來可能會看到這則訊息？
 a. 對話中的男子。
@@ -10361,7 +10361,7 @@ d. Jacky Sharp。
  
 Look at the graphic. What is the person who sees this likely do?
  (A) click "accept"
- (B) click "reject"(正解)
+ (B) click "reject"<font color="#dd0000">正解</font>
  (C) report this information to the woman in the conversation
  (D) send an email to Jacky Sharp
 請見圖表。看見這張表的人可能會進行以下哪一動作？
@@ -10498,7 +10498,7 @@ Market Analysis Report  市場分析報告
 00:0000:04
  
 Look at the graphic. Who is in charge of preparing this table?
- (A) the man in the conversation(正解)
+ (A) the man in the conversation<font color="#dd0000">正解</font>
  (B) the woman in the conversation
  (C) the research department
  (D) information not indicated
@@ -10514,7 +10514,7 @@ d. 資訊並未提及。
  
 Look at the graphic. Why are there so many blank spaces?
  (A) The person was unable to determine these figures.
- (B) The research department is very busy. (正解)
+ (B) The research department is very busy. <font color="#dd0000">正解</font>
  (C) The woman doesn't need those figures.
  (D) The original figures were incorrect.
 請見圖表。有這麼多留白的原因為何？
@@ -10528,7 +10528,7 @@ d. 原本的數據並不正確。
 00:0000:04
  
 What statement does the woman agree with at the end?
- (A) Nobody wants to work on Saturday and Sunday. (正解)
+ (A) Nobody wants to work on Saturday and Sunday. <font color="#dd0000">正解</font>
  (B) This report should have been finished already.
  (C) The research team isn't working hard enough.
  (D) Friday should remain a casual day.
@@ -10575,7 +10575,7 @@ excuse v. 原諒 /n. 藉口
  
 What is this conversation about?
  (A) It is about playing football.
- (B) It is about cancelling class.(正解)
+ (B) It is about cancelling class.<font color="#dd0000">正解</font>
  (C) It is about having bad excuses.
  (D) It is about watching football.
 這段對話與下列何者有關？
@@ -10589,7 +10589,7 @@ d. 觀看美式足球
 00:0000:04
  
 Why is having class on a regular basis important for Ada?
- (A) She relies on the money for her living expenses.(正解)
+ (A) She relies on the money for her living expenses.<font color="#dd0000">正解</font>
  (B) She really wants the man to learn Portuguese.
  (C) She doesn't want him to play football anymore.
  (D) She wants to practice teaching.
@@ -10606,7 +10606,7 @@ d. 她想要練習教學
 How do you think Ada feels at the end of the conversation?
  (A) She supports the man's love of football.
  (B) She is happy to meet the man.
- (C) She is in disagreement with the man. (正解)
+ (C) She is in disagreement with the man. <font color="#dd0000">正解</font>
  (D) She is tired and relieved.
 你覺得Ada在對話尾聲有甚麼感覺？
 a. 她支持這男士對美式足球的熱愛
@@ -10657,7 +10657,7 @@ be supposed to 應該（= should）
 What is their relationship?
  (A) teacher and student
  (B) father and daughter
- (C) boyfriend and girlfriend(正解)
+ (C) boyfriend and girlfriend<font color="#dd0000">正解</font>
  (D) mother and son.
 他們的關係是以下何者？
 a. 老師和學生
@@ -10673,7 +10673,7 @@ What are they trying to decide?
  (A) What the best restaurant in town is.
  (B) What the best Japanese place in town is.
  (C) What the best Mexican place in town is.
- (D) Where to buy lunch in town.(正解)
+ (D) Where to buy lunch in town.<font color="#dd0000">正解</font>
 他們要試著決定什麼？
 a. 鎮上最棒的餐廳是哪間
 b. 鎮上最棒的日式料理店是哪間
@@ -10685,7 +10685,7 @@ d.要去鎮上哪邊買午餐
 00:0000:02
  
 Do they agree in the end?
- (A) No, they do not agree.(正解)
+ (A) No, they do not agree.<font color="#dd0000">正解</font>
  (B) No, so she will go to both restaurants.
  (C) Yes, they agree on the restaurant.
  (D) Yes, they agree on Mexican.
@@ -10738,7 +10738,7 @@ shortly adv. 很快地，即將地
 How does the man want to get to the museum?
  (A) The fastest and most expensive way possible.
  (B) He wants to go how everyone else goes.
- (C) The best and cheapest way possible.(正解)
+ (C) The best and cheapest way possible.<font color="#dd0000">正解</font>
  (D) He does not want to go to the museum.
 這男的想要怎麼去博物館？
 a. 最快且最昂貴的方式
@@ -10752,7 +10752,7 @@ d. 他不想去博物館
  
 What does the hotel offer its guests?
  (A) A bus you have to pay for to go to and from the tourist sights.
- (B) A free bus that takes you to and from famous tourist sites.(正解)
+ (B) A free bus that takes you to and from famous tourist sites.<font color="#dd0000">正解</font>
  (C) A bus that only goes to the museum.
  (D) A free bus that can only take you to one of the tourist sites.
 以下何者是旅館提供顧客的方式？
@@ -10766,7 +10766,7 @@ d. 只能帶你去其中一個觀光景點的免費巴士
 00:0000:03
  
 When will the next bus arrive?
- (A) It will be there in 30 minutes.(正解)
+ (A) It will be there in 30 minutes.<font color="#dd0000">正解</font>
  (B) It will be there in a couple minutes.
  (C) It will be there at eight o'clock.
  (D) No more buses are scheduled to arrive.
@@ -10822,7 +10822,7 @@ Ex. The new place I live is very close to where my father lives. 我居住的新
  
 What is the man's first question about?
  (A) Which subway line to take.
- (B) Directions to the subway.(正解)
+ (B) Directions to the subway.<font color="#dd0000">正解</font>
  (C) What subway stop to get on.
  (D) What subway stop to get off.
 該男士的第一個問題為何？
@@ -10839,7 +10839,7 @@ Where does the man want to go on the subway?
  (A) He wants to go Christopher Street.
  (B) He wants to go to 66th Street.
  (C) He wants to go to Columbus Circle.
- (D) He wants to go to the Lincoln Center.(正解)
+ (D) He wants to go to the Lincoln Center.<font color="#dd0000">正解</font>
 這男的要搭地鐵去哪裡？
 a. 他想去克里斯多福街
 b. 他想去66街
@@ -10851,7 +10851,7 @@ d. 他想去林肯中心
 00:0000:04
  
 What subway stop does the man need to get off at?
- (A) 66th Street(正解)
+ (A) 66th Street<font color="#dd0000">正解</font>
  (B) Lincoln Center
  (C) Columbus Circle
  (D) Christopher Street
@@ -10943,7 +10943,7 @@ Where are the speakers?
  (A) at a bank
  (B) at the airport
  (C) at a border crossing
- (D) at the post office (正解)
+ (D) at the post office <font color="#dd0000">正解</font>
 談話者身處以下何處？
 a. 銀行裡。
 b. 機場裡。
@@ -10958,7 +10958,7 @@ Look at the graphic. What information should be indicated in the space with a qu
  (A) 230 ￥ /kg
  (B) 480 ￥ /kg
  (C) 154 ￥ /kg
- (D) unavailable (正解)
+ (D) unavailable <font color="#dd0000">正解</font>
 請見圖表。以下訊息何者應該被填入有問號的空格內？
 a. 230日圓/每公斤
 b. 480日圓/每公斤
@@ -10971,7 +10971,7 @@ d. 無此選項。
  
 What option does the man choose?
  (A) by sea
- (B) regular air(正解)
+ (B) regular air<font color="#dd0000">正解</font>
  (C) priority
  (D) he isn't sure yet
 男子會選擇下列何者？
@@ -11021,7 +11021,7 @@ What type of conversation are they having?
  (A) an interview
  (B) an introduction
  (C) an announcement
- (D) an argument(正解)
+ (D) an argument<font color="#dd0000">正解</font>
 他們在聊什麼類型的對話？
 a. 面試
 b. 介紹
@@ -11033,7 +11033,7 @@ d. 爭執
 00:0000:01
  
 What do they decide?
- (A) The man will take out the trash the next two times.(正解)
+ (A) The man will take out the trash the next two times.<font color="#dd0000">正解</font>
  (B) They will give up taking out the trash.
  (C) The woman will not take it out anymore.
  (D) The woman will take it out all the time.
@@ -11049,7 +11049,7 @@ d. 這女士將會每次都倒垃圾
  
 How do you think the man feels about the decision?
  (A) He is relieved.
- (B) He is annoyed.(正解)
+ (B) He is annoyed.<font color="#dd0000">正解</font>
  (C) He is anxious.
  (D) He is pleasantly surprised.
 你覺得這男士對這決定的感覺如何？
@@ -11098,7 +11098,7 @@ difficult adj. 困難的
 00:0000:03
  
 What is the main topic of their discussion?
- (A) the new salesman(正解)
+ (A) the new salesman<font color="#dd0000">正解</font>
  (B) the sales team
  (C) saving the company
  (D) the strict new manager
@@ -11115,7 +11115,7 @@ d. 嚴格的新任經理
 What negative comment does the man make about Carl?
  (A) He's sloppy.
  (B) He's always late.
- (C) He has a big ego. (正解)
+ (C) He has a big ego. <font color="#dd0000">正解</font>
  (D) He's not very creative.
 以下何者是該男子對Carl的負面評價？
 a. 他很懶散
@@ -11129,7 +11129,7 @@ d. 他不太有創意
  
 What positive thing does the man say about Carl?
  (A) He will save the company.
- (B) He may bring new ideas.(正解)
+ (B) He may bring new ideas.<font color="#dd0000">正解</font>
  (C) He gets along with everybody.
  (D) He is rich.
 以下何者是該男子對Carl的正面評價？
@@ -11183,7 +11183,7 @@ charge n. 購買的物品/v. 購買
 What is Janice Robinson doing?
  (A) Reporting a stolen credit card.
  (B) Cancelling a stolen credit card.
- (C) Cancelling and ordering a credit card.(正解)
+ (C) Cancelling and ordering a credit card.<font color="#dd0000">正解</font>
  (D) Signing up and ordering a credit card.
 以下何項是Janice Robinson 正在做的事？
 a. 報失遭竊的信用卡
@@ -11196,7 +11196,7 @@ d. 簽名並另訂一張信用卡
 00:0000:05
  
 Can the man provide help for all the services Ms. Robinson needs?
- (A) No, he has to direct her to another person.(正解)
+ (A) No, he has to direct her to another person.<font color="#dd0000">正解</font>
  (B) Yes, he can, but only one per today.
  (C) No, he needs to get someone to take care of everything.
  (D) Yes, he can take care of all her needs.
@@ -11214,7 +11214,7 @@ How can we infer that the woman feels when she hears the news at the end?
  (A) confused
  (B) defeated
  (C) disappointed
- (D) relieved(正解)
+ (D) relieved<font color="#dd0000">正解</font>
 我們推斷這女士最後聽到消息時她的感覺如何？
 a. 困惑的
 b. 挫敗的
@@ -11269,7 +11269,7 @@ Ex. I think my true calling is to be a pilot because I have been interested in a
 00:0000:03
  
 What is the woman doing in this conversation?
- (A) undergoing an interview(正解)
+ (A) undergoing an interview<font color="#dd0000">正解</font>
  (B) applying for college
  (C) She's on a date.
  (D) having a performance review
@@ -11286,7 +11286,7 @@ d. 在被業績評估中
 Where did the woman find the job listing?
  (A) through an email
  (B) from the park
- (C) on a website(正解)
+ (C) on a website<font color="#dd0000">正解</font>
  (D) at her school
 這女士在哪裡找到工作列表的？
 a. 藉由電子信件
@@ -11302,7 +11302,7 @@ In what area would Miss Bloom like to be placed at Yosemite?
  (A) She would like to work in the research department.
  (B) She wants to work in all different areas of the park.
  (C) She doesn't care where she will be placed.
- (D) She would like to be an educational tour guide.(正解)
+ (D) She would like to be an educational tour guide.<font color="#dd0000">正解</font>
 Bloom小姐想被安置在優勝美地的哪個區域？
 a. 她想在研究部門工作
 b. 她想在公園裡所有不同的區域工作
@@ -11348,7 +11348,7 @@ Ex. My parents signed me up for baseball and basketball summer camps. 我的父�
 Where are the speakers?
  (A) in a home decoration shop
  (B) in a bank
- (C) in a shoe store(正解)
+ (C) in a shoe store<font color="#dd0000">正解</font>
  (D) in a grocery store
 說話者在哪裡？
 a. 在居家裝潢店
@@ -11362,7 +11362,7 @@ d. 在雜貨店
  
 Why does the woman not want the customer care card at the beginning?
  (A) Because she already has one.
- (B) Because she already has too many cards.(正解)
+ (B) Because she already has too many cards.<font color="#dd0000">正解</font>
  (C) Because she doesn't like getting discounts.
  (D) Because she doesn't want to carry another bag.
 為什麼這女士一開始不想要顧客回饋卡？
@@ -11379,7 +11379,7 @@ What can we say about the woman?
  (A) She has too many items of clothing.
  (B) She is a busy woman.
  (C) She doesn't like to shop.
- (D) She is easily persuaded.(正解)
+ (D) She is easily persuaded.<font color="#dd0000">正解</font>
 我們可以怎麼描述這位女士？
 a. 她有太多衣物了
 b. 她是一個很忙碌的女性
@@ -11435,7 +11435,7 @@ Ex. Ever since the car accident, the young man hasn't been able to walk anymore.
 00:0000:02
  
 Who is this conversation between?
- (A) a woman and a police officer(正解)
+ (A) a woman and a police officer<font color="#dd0000">正解</font>
  (B) a woman and a doctor
  (C) a woman and her boss
  (D) a man and a police officer
@@ -11451,7 +11451,7 @@ d. 男士和警官
  
 What detail can the woman NOT remember about the man who took her bag?
  (A) his height
- (B) his clothes(正解)
+ (B) his clothes<font color="#dd0000">正解</font>
  (C) his hair colour
  (D) his facial hair
 以下關於拿走她手提袋的男子的細節何者是該女子不記得的？
@@ -11467,7 +11467,7 @@ d. 他的鬍子
 How does the man feel towards the woman at the end of this dialogue?
  (A) He is in love with her.
  (B) He doesn't want to help her.
- (C) He is irritated by her.(正解)
+ (C) He is irritated by her.<font color="#dd0000">正解</font>
  (D) He thinks she is lying about the bag.
 在這段對話的尾聲，該男對這位女士的感覺如何？
 a. 他愛上她
@@ -11528,7 +11528,7 @@ Ex. The train was supposed to depart ten minutes ago. 火車應該在十分鐘�
 Where are the speakers?
  (A) at a train station ticket desk
  (B) on a train
- (C) on a train station platform(正解)
+ (C) on a train station platform<font color="#dd0000">正解</font>
  (D) outside a train station
 談話人士在以下何處？
 a. 在火車站購票處
@@ -11543,7 +11543,7 @@ d. 在火車站的外面
 Why didn't they notice that their train was delayed?
  (A) They didn't hear the announcement.
  (B) The announcement was made in English.
- (C) The change wasn't posted in English. (正解)
+ (C) The change wasn't posted in English. <font color="#dd0000">正解</font>
  (D) They are at the wrong station.
 他們為什麼沒有注意到火車延遲？
 a. 他們沒有聽到公布廣播。
@@ -11557,7 +11557,7 @@ d. 他們在錯誤的火車站。
  
 What do they need to do now?
  (A) Change their tickets.
- (B) Wait longer. (正解)
+ (B) Wait longer. <font color="#dd0000">正解</font>
  (C) Go to a different platform.
  (D) Ask somebody else for help.
 他們現在需要做什麼？
@@ -11603,7 +11603,7 @@ Ex. Many high school students are addicted to reading science fiction novels. �
  
 Why is the man upset?
  (A) The woman has asked him to wash the dishes on this one occasion.
- (B) The woman has asked him to wash the dishes on several occasions.(正解)
+ (B) The woman has asked him to wash the dishes on several occasions.<font color="#dd0000">正解</font>
  (C) The woman spends more time with her friends than with him.
  (D) Every time the woman goes out with Lisa she comes home drunk.
 為什麼這男士這麼沮喪？
@@ -11620,7 +11620,7 @@ What relationship do these two people have between each other?
  (A) mother and son
  (B) father and daughter
  (C) friends
- (D) husband and wife(正解)
+ (D) husband and wife<font color="#dd0000">正解</font>
 這兩個人之間有什麼關係？
 a. 母子
 b. 父女
@@ -11632,7 +11632,7 @@ d. 夫妻
 00:0000:02
  
 What is Lisa's problem?
- (A) Her husband left her recently.(正解)
+ (A) Her husband left her recently.<font color="#dd0000">正解</font>
  (B) She has a serious illness.
  (C) Her son has run away from home.
  (D) She is addicted to alcohol.
@@ -11683,7 +11683,7 @@ Ex. The protest took place in front of the presidential house. 抗議事件在�
 Where is this conversation taking place?
  (A) in a real estate agent's office
  (B) over the phone
- (C) in an apartment(正解)
+ (C) in an apartment<font color="#dd0000">正解</font>
  (D) in a school
 以下何者是這段對話發生的地點？
 a. 在房地產仲介的辦公室
@@ -11699,7 +11699,7 @@ Who is the man?
  (A) someone looking for an apartment
  (B) the woman's husband
  (C) the current tenant
- (D) a landlord(正解)
+ (D) a landlord<font color="#dd0000">正解</font>
 該男子是以下何人？
 a. 某個正在找公寓的人
 b. 女人的丈夫
@@ -11712,7 +11712,7 @@ d. 房東
  
 What country can we infer the speakers are in?
  (A) the United States
- (B) the United Kingdom(正解)
+ (B) the United Kingdom<font color="#dd0000">正解</font>
  (C) Canada
  (D) Germany
 我們可以推斷談話者在哪個國家？
@@ -11792,7 +11792,7 @@ M: Hm…Let me have a chat with the band and see if I can convince them to let i
  
 Look at the graphic. Where is the speakers' business located?
  (A) 4-1
- (B) 4-2(正解)
+ (B) 4-2<font color="#dd0000">正解</font>
  (C) 4-3
  (D) 4-4
 請看圖表。談話者的營業地點在以下何處?
@@ -11806,7 +11806,7 @@ d. 4-4
 00:0000:02
  
 What caused the glitch in the song?
- (A) an instrument part broke(正解)
+ (A) an instrument part broke<font color="#dd0000">正解</font>
  (B) a person coughed
  (C) a musician made a mistake
  (D) a dog barked outside
@@ -11824,7 +11824,7 @@ What is the man going to do next?
  (A) edit out the glitch
  (B) redo the end of the song by himself
  (C) convince the woman not to worry about it
- (D) convince the musicians to change it(正解)
+ (D) convince the musicians to change it<font color="#dd0000">正解</font>
 該男子打算下一步要怎麼做?
 a. 使用從編輯程式將出錯部分刪除
 b. 自己重錄歌曲結尾
@@ -11893,7 +11893,7 @@ W: Please try again if you don't hear back from her today.
  
 Why will the renovation project be delayed?
  (A) The client hasn't replied yet.
- (B) Some important items haven't arrived. (正解)
+ (B) Some important items haven't arrived. <font color="#dd0000">正解</font>
  (C) Some employees are ill.
  (D) The weather is poor.
 為什麼裝修工程被延誤？
@@ -11908,7 +11908,7 @@ d. 氣候不佳。
  
 Look at the graphic. Which step will the renovation company begin on Thursday?
  (A) 1
- (B) 2(正解)
+ (B) 2<font color="#dd0000">正解</font>
  (C) 3
  (D) 4
 請看圖表。裝修公司將於周四開始進行以下哪一項步驟?
@@ -11925,7 +11925,7 @@ How does the client feel about the delay?
  (A) They are disappointed.
  (B) They can accept it.
  (C) They want to find a new renovation company.
- (D) They haven't replied yet. (正解)
+ (D) They haven't replied yet. <font color="#dd0000">正解</font>
 以下選項何者是客戶對進度延誤的感受?
 a. 他們很失望。 
 b. 他們可以接受。 
@@ -11974,7 +11974,7 @@ mutual adj. 相互的，互通的
  
 Where is this conversation taking place?
  (A) in the woman's home
- (B) in the man's home(正解)
+ (B) in the man's home<font color="#dd0000">正解</font>
  (C) at their office
  (D) at a mutual friend's home
 以下何者是這段對話發生的地點？
@@ -11990,7 +11990,7 @@ d. 在一位共同的朋友家
 What problem does the woman have with the man's cooking?
  (A) He has only cooked vegetables.
  (B) All the food is overcooked.
- (C) He has cooked meat, which she can't eat.(正解)
+ (C) He has cooked meat, which she can't eat.<font color="#dd0000">正解</font>
  (D) He has cooked fish, which she is allergic to.
 這女士對男子的廚藝有什麼問題嗎？
 a. 他只會煮蔬菜
@@ -12003,7 +12003,7 @@ d. 他煮了魚，但她對魚過敏
 00:0000:04
  
 Who gave the woman the recommendation to try the man's cooking?
- (A) mutual co-workers(正解)
+ (A) mutual co-workers<font color="#dd0000">正解</font>
  (B) mutual friends
  (C) her grandmother
  (D) the man himself
@@ -12060,7 +12060,7 @@ Ex. We will be landing at the domestic airport in a couple of hours. 我們將�
 What are the two people talking about?
  (A) buying birthday gifts for each other
  (B) collecting charity donations from their friends
- (C) buying a gift for someone they are both acquainted with(正解)
+ (C) buying a gift for someone they are both acquainted with<font color="#dd0000">正解</font>
  (D) planning a vacation with their friends
 以下何者是這兩個人在討論的內容？
 a. 互相買份生日禮物給對方
@@ -12074,7 +12074,7 @@ d. 計劃和他們朋友共度的假期
  
 What makes the man surprised?
  (A) The woman has just broken up with her boyfriend.
- (B) The woman doesn't know when her boyfriend's birthday is.(正解)
+ (B) The woman doesn't know when her boyfriend's birthday is.<font color="#dd0000">正解</font>
  (C) The woman does not want to buy a birthday gift for her boyfriend.
  (D) The woman says she is in love with a different man.
 以下何者讓該男子感到驚訝？
@@ -12091,7 +12091,7 @@ What can we infer about the man?
  (A) He loves buying expensive guitars.
  (B) He has many very close friends.
  (C) He himself is a guitar player.
- (D) He cares a lot about his friend, Mark.(正解)
+ (D) He cares a lot about his friend, Mark.<font color="#dd0000">正解</font>
 以下關於該男的敘述是我們可以推斷而得知的？
 a. 他喜歡買昂貴的吉他
 b. 他有很多親密的朋友
@@ -12139,7 +12139,7 @@ Ex. Our executive manager is very impressed with the new supervisor. 我們的�
  
 What category of movie did these people go to see?
  (A) horror
- (B) historical fiction(正解)
+ (B) historical fiction<font color="#dd0000">正解</font>
  (C) science fiction
  (D) comedy
 以下何者是他們去看的電影類型？
@@ -12153,7 +12153,7 @@ d. 喜劇片
 00:0000:02
  
 How did they feel about the movie?
- (A) They disagreed in their opinions.(正解)
+ (A) They disagreed in their opinions.<font color="#dd0000">正解</font>
  (B) They both loved it.
  (C) They both hated it.
  (D) They both didn't understand the ending.
@@ -12171,7 +12171,7 @@ What reason does the woman NOT give for disliking the film?
  (A) The writer hadn't done enough research.
  (B) The movie's conclusion didn't make any sense.
  (C) The acting was very bad.
- (D) The movie did not contain enough action.(正解)
+ (D) The movie did not contain enough action.<font color="#dd0000">正解</font>
 以下何者不是這女士不喜歡這部影片的理由？
 a. 編劇沒有做足夠的研究
 b. 電影的結尾不合理
@@ -12227,7 +12227,7 @@ Ex. The CEO plans to invest up to five million dollars in the organization. 公�
 Why is the man upset?
  (A) All of his clothes are old.
  (B) He doesn't like the clothes in this store.
- (C) He thinks the clerk is saying he is overweight.(正解)
+ (C) He thinks the clerk is saying he is overweight.<font color="#dd0000">正解</font>
  (D) He thinks the clerk is saying he is rude.
 為什麼這男的這麼沮喪？
 a. 他所有的衣服都是舊的
@@ -12241,7 +12241,7 @@ d. 他覺得這員工在說他無禮
  
 What problem does the man have in this clothing store?
  (A) All of the clothes are too big.
- (B) All of the clothes are too small.(正解)
+ (B) All of the clothes are too small.<font color="#dd0000">正解</font>
  (C) It is a women's clothing store.
  (D) It is a children's clothing store.
 這男士在這間服飾店遇到什麼問題？
@@ -12258,7 +12258,7 @@ What do we know about the woman?
  (A) She doesn't have a lot of previous work experience.
  (B) She is very young.
  (C) She used to work at a different clothes store.
- (D) She has not been working in this store for very long.(正解)
+ (D) She has not been working in this store for very long.<font color="#dd0000">正解</font>
 我們知道這女士什麼事情？
 a. 她之前的工作經驗不足 
 b. 她非常年輕
@@ -12300,7 +12300,7 @@ W: Sure, I can do that.
 Look at the graphic. How high should the "actually weekly sales" bar under the chicken category be?
  (A) about 9,500
  (B) about 12,000
- (C) about 15,000 (正解)
+ (C) about 15,000 <font color="#dd0000">正解</font>
  (D) about 18,000
 請看圖表。「每周實際銷售」中雞汁口味的銷售量有多高?
 a. 大約9,500。
@@ -12316,7 +12316,7 @@ Why are the salt & vinegar and cheddar categories performing so poorly?
  (A) They haven't been advertised adequately.
  (B) They haven't been made available in enough stores.
  (C) They are new so they will take a while to catch on.
- (D) They don't really match local taste. (正解)
+ (D) They don't really match local taste. <font color="#dd0000">正解</font>
 為什麼鹽醋口味以及巧達起司口味表現如此糟糕？
 a. 沒有充分的宣傳。 
 b. 公開販售的商家不足。 
@@ -12328,7 +12328,7 @@ d. 並不符合當地口味。
 00:0000:04
  
 Which of the following flavors might the company try to produce next?
- (A) spicy crab (正解)
+ (A) spicy crab <font color="#dd0000">正解</font>
  (B) ketchup
  (C) steak
  (D) sour cream & onion
@@ -12371,7 +12371,7 @@ behaviour n.(英)/ behavior n. (美) 行為
 00:0000:01
  
 Who is this woman?
- (A) a principal(正解)
+ (A) a principal<font color="#dd0000">正解</font>
  (B) a school teacher
  (C) an angry parent
  (D) a poorly-behaved student
@@ -12388,7 +12388,7 @@ d. 行為失當的學生
 How does the man feel about his son?
  (A) He doesn't think his son should go to school anymore.
  (B) He thinks his son should see a doctor.
- (C) He doesn't think his son's behaviour is a big problem.(正解)
+ (C) He doesn't think his son's behaviour is a big problem.<font color="#dd0000">正解</font>
  (D) He thinks his son has an anger management problem.
 這男士覺得他兒子怎麼樣？
 a. 他不覺得他兒子應該要再去上學
@@ -12402,7 +12402,7 @@ d. 他覺得他兒子有憤怒管理問題
  
 How could we describe the son's behaviour?
  (A) courteous
- (B) violent(正解)
+ (B) violent<font color="#dd0000">正解</font>
  (C) polite
  (D) passive
 我們可以如何描述兒子的行為？
@@ -12451,7 +12451,7 @@ contact v. 聯絡，接觸
  
 What kind of interaction is this?
  (A) a parent teacher meeting
- (B) a job interview(正解)
+ (B) a job interview<font color="#dd0000">正解</font>
  (C) a manager's evaluation of an employee
  (D) a break up
 以下何者是這段互動的類型？
@@ -12467,7 +12467,7 @@ d. 分手
 When does the man say he will be contacting the woman?
  (A) the following day
  (B) later the same day
- (C) within two weeks(正解)
+ (C) within two weeks<font color="#dd0000">正解</font>
  (D) within one week
 該男子說他何時會與這位女士聯絡？
 a. 隔一天
@@ -12480,7 +12480,7 @@ d. 一個禮拜內
 00:0000:05
  
 A worker in their second year receives how many days of paid holiday?
- (A) 27.5 days(正解)
+ (A) 27.5 days<font color="#dd0000">正解</font>
  (B) 25 days
  (C) 30 days
  (D) 20 days
@@ -12518,7 +12518,7 @@ ex. It’s not easy to wake up in the morning after staying up most of the night
 00:0000:02
  
 Who might respond to this announcement?
- (A) a heavy sleeper(正解)
+ (A) a heavy sleeper<font color="#dd0000">正解</font>
  (B) a light sleeper
  (C) only teenagers or parents
  (D) someone who likes to wake up naturally
@@ -12534,7 +12534,7 @@ d. 喜歡睡到自然醒的人
  
 How often does Re-beep make noise?
  (A) every ten seconds
- (B) It depends on the setting.(正解)
+ (B) It depends on the setting.<font color="#dd0000">正解</font>
  (C) every two minutes
  (D) every fifteen minutes
 Re-beep每隔多久會發出聲響？
@@ -12551,7 +12551,7 @@ Which of the following is NOT true about Re-beep?
  (A) It beeps rapidly.
  (B) More information can be found out about it via phone.
  (C) It beeps for ten seconds each time it makes noise.
- (D) It has a snooze button.(正解)
+ (D) It has a snooze button.<font color="#dd0000">正解</font>
 關於Re-beep下列何者為非？
 a. 它作響的很急促。
 b. 透過電話可以獲得更多關於它的資訊。
@@ -12578,7 +12578,7 @@ ex. A cold front is moving in and will bring dramatic weather changes. 一股冷
  
 Which of the following is uncommon in Florida?
  (A) for the temperature in Jacksonville to be 88 degrees
- (B) for a cold front to come in from the north(正解)
+ (B) for a cold front to come in from the north<font color="#dd0000">正解</font>
  (C) for it to be quite hot during the summer
  (D) for the temperature to be 95 degrees in Miami
 以下何者在佛羅里達州並不常見？
@@ -12594,7 +12594,7 @@ d. 邁阿密的氣溫到達華氏九十五度
 When should the temperatures drop by about 20 degrees?
  (A) by 4:00 PM
  (B) shortly after 11:00 AM
- (C) in the evening(正解)
+ (C) in the evening<font color="#dd0000">正解</font>
  (D) once the cold front leaves
 氣溫會在何時下降大約二十度？
 a. 下午四點 前
@@ -12607,7 +12607,7 @@ d. 冷鋒一離開後
 00:0000:03
  
 Where is this announcement being made?
- (A) at a news station(正解)
+ (A) at a news station<font color="#dd0000">正解</font>
  (B) on a TV commercial
  (C) at Jacob Jenkins's home
  (D) at a company meeting
@@ -12685,7 +12685,7 @@ ex. The money you donated will be used to help out the poor.你所捐贈的善�
 00:0000:02
  
 When will the group start driving?
- (A) in one and a half hours(正解)
+ (A) in one and a half hours<font color="#dd0000">正解</font>
  (B) in one hour
  (C) before 10:00 AM
  (D) after everyone has eaten breakfast
@@ -12702,7 +12702,7 @@ d. 大家都吃完早餐後
 What does the organizer need help with?
  (A) getting water
  (B) getting breakfast for those who haven't eaten
- (C) providing three people with a ride(正解)
+ (C) providing three people with a ride<font color="#dd0000">正解</font>
  (D) obtaining some necessary supplies
 以下何者是主辦人需要幫忙的項目？
 a. 取水
@@ -12718,7 +12718,7 @@ Look at the graphic. Which items on Nick's packing list does he not actually nee
  (A) two pairs of jeans
  (B) sleeping bag and tent
  (C) rain jacket
- (D) food and water(正解)
+ (D) food and water<font color="#dd0000">正解</font>
 請看圖表。在尼克的行李清單中，以下何者是其實是他不用帶？
 a.兩條牛仔褲
 b.睡袋及帳篷
@@ -12750,7 +12750,7 @@ ex. We will look for someone new to take over your job. 我們會找人來接管
  
 What did Mr. Frank study in college?
  (A) public relations
- (B) law(正解)
+ (B) law<font color="#dd0000">正解</font>
  (C) Mandarin
  (D) business administration
 以下何者是Frank先生在大學裡所學的？
@@ -12766,7 +12766,7 @@ d. 企管
 Who is being addressed in this announcement?
  (A) Mrs. Parks
  (B) those who graduated from Harvard University
- (C) the employees of the company(正解)
+ (C) the employees of the company<font color="#dd0000">正解</font>
  (D) the boss of the company
 以上內容是要對以下何人宣佈？
 a. Parks夫人
@@ -12782,7 +12782,7 @@ Who is speaking?
  (A) Mr. Frank.
  (B) the boss of the company
  (C) Mrs. Parks.
- (D) We aren't sure.(正解)
+ (D) We aren't sure.<font color="#dd0000">正解</font>
 說話的人是以下何者？
 a. Frank先生
 b. 這家公司的老闆
@@ -12840,7 +12840,7 @@ ex. The student answered the question as soon as his teacher asked him. 老師�
 Look at the graphic. What day is it today?
  (A) Monday
  (B) Friday
- (C) Saturday(正解)
+ (C) Saturday<font color="#dd0000">正解</font>
  (D) Sunday
 請看圖表。今天是星期幾？
 a.星期一
@@ -12853,7 +12853,7 @@ d.星期日
 00:0000:05
  
 According to the message, what are customers encouraged to ask about?
- (A) what produce is in season(正解)
+ (A) what produce is in season<font color="#dd0000">正解</font>
  (B) what makes the homemade snacks special
  (C) why nobody answered the phone
  (D) the store hours on Saturday
@@ -12869,7 +12869,7 @@ d. 禮拜六的營業時間
  
 What is probably true about the speaker?
  (A) He or she doesn't like fruits or vegetables.
- (B) He or she works at Bob's Barn.(正解)
+ (B) He or she works at Bob's Barn.<font color="#dd0000">正解</font>
  (C) He or she always calls back immediately.
  (D) He or she comes to the store every Sunday.
 以下關於這位說話者的選項何者正確？
@@ -12912,7 +12912,7 @@ ex. The VIP guest would like to have dinner in the restaurant as opposed to in h
 00:0000:03
  
 Which of the following should shoppers bring with them?
- (A) the items they own(正解)
+ (A) the items they own<font color="#dd0000">正解</font>
  (B) the items they were about to buy
  (C) whatever the police officers say they should bring
  (D) They shouldn't bring anything with them.
@@ -12929,7 +12929,7 @@ d. 他們不應該攜帶任何物品
 What is the purpose of this announcement?
  (A) to get shoppers to purchase more merchandise
  (B) to get shoppers to use stairwells, as opposed to elevators or escalators
- (C) to get shoppers to leave the building in a peaceful manner(正解)
+ (C) to get shoppers to leave the building in a peaceful manner<font color="#dd0000">正解</font>
  (D) to get shoppers to ask the floor managers questions about the products
 這則廣播的目的為何？
 a. 要購物者採買更多的商品
@@ -12945,7 +12945,7 @@ What might a floor manager do in this situation?
  (A) find an exit and leave the building
  (B) turn on the emergency exit alarms
  (C) escort the police officers downstairs
- (D) help shoppers find a way out(正解)
+ (D) help shoppers find a way out<font color="#dd0000">正解</font>
 樓層經理在這樣的情況下可能會怎麼做？
 a. 找個出口離開這棟大樓
 b. 開啟緊急出口警鈴
@@ -12970,7 +12970,7 @@ ex. Please dial the pound sign to confirm after you input your ID number. 在你
  
 At which of the following times will Spiderman 2 air?
  (A) PM 2:30
- (B) PM 4:30(正解)
+ (B) PM 4:30<font color="#dd0000">正解</font>
  (C) PM 11:00
  (D) PM 5:00
 蜘蛛人2將在以下哪個時間放映？
@@ -12984,7 +12984,7 @@ d. 下午5:00
 00:0000:05
  
 Which movie will air at 11:30 PM on weekdays?
- (A) The Aviator(正解)
+ (A) The Aviator<font color="#dd0000">正解</font>
  (B) The Incredibles
  (C) Eternal Sunshine of the Spotless Mind
  (D) Spiderman 2
@@ -13001,7 +13001,7 @@ d. 「蜘蛛人 2」
 Why might a caller press the pound sign?
  (A) to hear the show times of a different cinema
  (B) to find out when The Incredibles will air on Wednesday
- (C) to find out about weekend show times(正解)
+ (C) to find out about weekend show times<font color="#dd0000">正解</font>
  (D) to find out when Eternal Sunshine of the Spotless Mind will air on Friday
 致電者需要按下#字鍵的原因何在？ 
 a. 想聽聽看其他電影院的放映時間表
@@ -13087,7 +13087,7 @@ ex. He is an outstanding engineer as well as a talented chef. 他不但是個傑
  
 Which of the following is NOT one of the ingredients in Ketch-all?
  (A) vitamin B12
- (B) calcium(正解)
+ (B) calcium<font color="#dd0000">正解</font>
  (C) zinc
  (D) vitamin E
 下列何者不是Ketch-all的其中一項成分？
@@ -13101,7 +13101,7 @@ d. 維他命E
 00:0000:04
  
 What could the above passage be defined as?
- (A) an advertisement(正解)
+ (A) an advertisement<font color="#dd0000">正解</font>
  (B) a news report
  (C) a testimonial
  (D) a recorded message on an answering machine
@@ -13118,7 +13118,7 @@ d. 答錄機上的預錄訊息
 Look at the graphic. Which discount code will be applied on order placed over the phone now?
  (A) 344
  (B) 771
- (C) 621(正解)
+ (C) 621<font color="#dd0000">正解</font>
  (D) 109
 請看圖表。現在電話中的訂單會有以下何項折扣？
 A. 344
@@ -13156,7 +13156,7 @@ ex. His father took on all the family responsibilities after he lost his wife in
  
 What is this announcement?
  (A) a company introduction for some new staff members
- (B) an announcement of a layoff(正解)
+ (B) an announcement of a layoff<font color="#dd0000">正解</font>
  (C) an announcement of an imminent job opening in the company
  (D) an announcement of an employee's retirement
 以下何者是公司宣佈的消息？
@@ -13172,7 +13172,7 @@ d. 宣佈有名員工退休
 How will the affected employees be informed?
  (A) in another company meeting
  (B) by the department leaders
- (C) in a personal setting(正解)
+ (C) in a personal setting<font color="#dd0000">正解</font>
  (D) later in the announcement
 受波及的員工將如何被告知？
 a. 在另一個公司會議中
@@ -13188,7 +13188,7 @@ Why is the company reducing staff?
  (A) It doesn't need certain employees.
  (B) The boss doesn't like particular employees.
  (C) Next month won't be very busy.
- (D) The economy isn't doing well.(正解)
+ (D) The economy isn't doing well.<font color="#dd0000">正解</font>
 該公司為什麼要裁員？
 a. 不需要某些員工。
 b. 這位老闆不喜歡特定幾位員工。
@@ -13226,7 +13226,7 @@ ex. We should turn on the heater to warm the room. 我們應該打開暖氣使�
 Who is making the announcement?
  (A) a stewardess
  (B) one of the passengers
- (C) the pilot of the plane (正解)
+ (C) the pilot of the plane <font color="#dd0000">正解</font>
  (D) a TV ad voice actor
 這則廣播是由以下何者所發佈？
 a. 空中小姐
@@ -13242,7 +13242,7 @@ What can we infer about the situation?
  (A) The flight staff will serve a meal soon.
  (B) The fasten-seatbelt sign was turned off during the ascent.
  (C) There will be unexpected turbulence soon.
- (D) The plane has already taken off. (正解)
+ (D) The plane has already taken off. <font color="#dd0000">正解</font>
 我們可以做什麼推論？
 a. 空服員很快會送上餐點。
 b. 起飛過程中繫上安全帶的指示燈會熄滅。
@@ -13255,7 +13255,7 @@ d. 這架飛機已經起飛。
  
 When can passengers turn on electronic devices?
  (A) when the fasten-seatbelt sign turns back on
- (B) right now (正解)
+ (B) right now <font color="#dd0000">正解</font>
  (C) once the plane finishes its ascent
  (D) after the flight staff serves beverages
 乘客什麼時候可以開啟電子產品？
@@ -13290,7 +13290,7 @@ ex. My parents let my uncle move in temporarily. 我父母讓我叔叔暫時先�
 Where is this announcement being made?
  (A) at a news station
  (B) on the radio
- (C) in an office(正解)
+ (C) in an office<font color="#dd0000">正解</font>
  (D) at a public event
 這個訊息的是在以下何處宣布的？
 a. 新聞台
@@ -13306,7 +13306,7 @@ What is NOT true about Sherry Carr?
  (A) She's lived in the community for a long time.
  (B) She's painted many houses before.
  (C) She's the director of a small team of painters.
- (D) She will paint the new building by herself.(正解)
+ (D) She will paint the new building by herself.<font color="#dd0000">正解</font>
 關於Sherry Carr以下何者為非?
 a. 她已經在這個社區住了很長一段時間。
 b. 她已前曾粉刷過許多房屋。
@@ -13319,7 +13319,7 @@ d. 她將會自己粉刷這棟新建築。
  
 Why is the company changing buildings?
  (A) The old building doesn't look very nice.
- (B) The company needs more space for the new employees.(正解)
+ (B) The company needs more space for the new employees.<font color="#dd0000">正解</font>
  (C) The speaker likes the location of the new building.
  (D) Because Sherry Carr recommended it.
 這間公司為何要更換建築物？
@@ -13349,7 +13349,7 @@ ex. Many college students sign up for the army because they cannot find a job af
  
 How many days will the book fair last?
  (A) 7 days
- (B) 5 days(正解)
+ (B) 5 days<font color="#dd0000">正解</font>
  (C) 6 days
  (D) 4 days
 書展會持續展出多少天？
@@ -13364,7 +13364,7 @@ d. 4天
  
 Look at the graphic. Where will the book fair take place?
  (A) at the bookshop
- (B) at the Summerfield Public Library(正解)
+ (B) at the Summerfield Public Library<font color="#dd0000">正解</font>
  (C) at the Summerfield Community Center
  (D) at the Summerfield Park
 請看圖表。書展會在哪裡舉行？
@@ -13378,7 +13378,7 @@ d.夏田公園
 00:0000:08
  
 What should a person do if he or she wants to go to the book fair next week, but cannot make it until 5:00 PM?
- (A) go on Friday afternoon(正解)
+ (A) go on Friday afternoon<font color="#dd0000">正解</font>
  (B) go on Monday afternoon
  (C) call or visit the library and ask about weekend hours for the book fair
  (D) contact one of the volunteers that are helping out at the book fair
@@ -13417,7 +13417,7 @@ ex. Please put on your overcoat if you would like to go outside. 如果你想要
  
 What is the reason for this announcement?
  (A) to notify customers that the store will be closing soon
- (B) to notify customers that they can get free cotton candy(正解)
+ (B) to notify customers that they can get free cotton candy<font color="#dd0000">正解</font>
  (C) to get customers to shop at the front of the store
  (D) to get customers to purchase pens and card stock
 以下何者是這則廣播的原因？
@@ -13431,7 +13431,7 @@ d. 要顧客購買庫存的筆和卡片
 00:0000:04
  
 What tone of voice does the speaker most likely exhibit?
- (A) a polite tone of voice(正解)
+ (A) a polite tone of voice<font color="#dd0000">正解</font>
  (B) a pitiful tone of voice
  (C) an anxious tone of voice
  (D) a joking tone of voice
@@ -13448,7 +13448,7 @@ d. 開玩笑的
 In order to be eligible for free cotton candy, what must a customer do?
  (A) purchase something from the store
  (B) visit the booth at the front of the store
- (C) write a congratulatory note and put it on a particular wall(正解)
+ (C) write a congratulatory note and put it on a particular wall<font color="#dd0000">正解</font>
  (D) congratulate one of the employees
 為了有資格拿到免費的棉花糖，顧客必須做什麼事？ 
 a. 跟店裡買些東西
@@ -13476,7 +13476,7 @@ ex. It's up to you to make a decision about the destination for our trip. 我們
 00:0000:04
  
 Why was the speaker inspired to make the camera?
- (A) He took a photo and it wouldn't fit into part of his wallet.(正解)
+ (A) He took a photo and it wouldn't fit into part of his wallet.<font color="#dd0000">正解</font>
  (B) The company he works for asked him for ideas.
  (C) His friend said it was a good idea.
  (D) He loves all kinds of cameras.
@@ -13493,7 +13493,7 @@ d. 他喜歡各式各樣的相機。
 What's special about the company's camera?
  (A) Every photo it produces can fit into a wallet.
  (B) It's an ideal camera for couples.
- (C) It can create various sizes of photos.(正解)
+ (C) It can create various sizes of photos.<font color="#dd0000">正解</font>
  (D) It can make photos that are longer than fifteen centimeters.
 這家公司的相機有什麼特別的？
 a. 它製作出的每張照片都可以放進錢包裡。
@@ -13509,7 +13509,7 @@ According to the advertisement, how could the listener find out more information
  (A) by contacting the speaker
  (B) by studying photography
  (C) by calling the company
- (D) by visiting the company's website(正解)
+ (D) by visiting the company's website<font color="#dd0000">正解</font>
 根據這則廣告，收聽者要如何取得更多資訊？
 a. 連絡談話者
 b. 學習攝影
@@ -13579,7 +13579,7 @@ ex. All candidates are expected to participate in the debate. 所有的候選人
 Look at the graphic. Which part contains an error, according to the talk?
  (A) The date of the party.
  (B) The address.
- (C) The directions.(正解)
+ (C) The directions.<font color="#dd0000">正解</font>
  (D) The additional details.
 請看圖表。根據對話內容，以下選項何者與對話內容相悖？
 a. 派對日期
@@ -13595,7 +13595,7 @@ d. 附加細節
 In what situation can employees bring a guest?
  (A) The guest brings a gift for the Secret Santa gift exchange.
  (B) They bring the guest to work on Friday, for approval.
- (C) They notify the speaker before the event.(正解)
+ (C) They notify the speaker before the event.<font color="#dd0000">正解</font>
  (D) The guest knows Paul.
 員工在什麼情況可以額外攜伴參加？
 a. 訪客帶禮物來參加神祕聖誕交換禮物活動。
@@ -13609,7 +13609,7 @@ d. 外賓認識Paul。
  
 What is the purpose of this talk?
  (A) to persuade the employees to bring a gift for the gift exchange
- (B) to remind the employees about the Christmas party(正解)
+ (B) to remind the employees about the Christmas party<font color="#dd0000">正解</font>
  (C) to tell the employees' spouses and kids about the party
  (D) to remind the employees to stay late at work on Friday
 這段談話的目的為何？
@@ -13649,7 +13649,7 @@ ex. The murderer ended up doing thirty years in prison. 這個殺人犯最終在
 00:0000:03
  
 Who does this advertisement target?
- (A) women with greasy hair(正解)
+ (A) women with greasy hair<font color="#dd0000">正解</font>
  (B) everyone
  (C) all women
  (D) men with oily hair
@@ -13667,7 +13667,7 @@ What is the consistency of Streamline V?
  (A) runny and watery
  (B) about the same as other shampoos
  (C) waxy
- (D) thick(正解)
+ (D) thick<font color="#dd0000">正解</font>
 Streamline V的濃度如何？
 a. 稀得像水
 b. 差不多與其他洗髮精一樣
@@ -13681,7 +13681,7 @@ d. 稠密
 Which of the following is true about the product?
  (A) It is often used by men.
  (B) It lacks proteins.
- (C) It has essential oils.(正解)
+ (C) It has essential oils.<font color="#dd0000">正解</font>
  (D) It's a product that's been around for a while.
 關於這個產品下列何者正確？
 a. 經常是男士在使用。
@@ -13715,7 +13715,7 @@ ex. I can hold on to your boarding pass for you if you would like to use the was
  
 Where might we hear this announcement?
  (A) at a bus station
- (B) at an airport(正解)
+ (B) at an airport<font color="#dd0000">正解</font>
  (C) at a train station
  (D) on a cruise ship
 我們可能會在以下哪一地點聽到這則廣播？
@@ -13731,7 +13731,7 @@ d. 遊輪
 Which of the following people cannot board yet?
  (A) a woman with a baby
  (B) a first class passenger
- (C) an economy class passenger(正解)
+ (C) an economy class passenger<font color="#dd0000">正解</font>
  (D) a person with special needs
 下列何人還不能登機？
 a. 帶著嬰兒的婦人
@@ -13747,7 +13747,7 @@ What should a passenger take out?
  (A) his or her passport
  (B) his or her boarding pass
  (C) his or her passport, boarding pass, and an additional photo ID
- (D) his or her passport and boarding pass(正解)
+ (D) his or her passport and boarding pass<font color="#dd0000">正解</font>
 乘客應該將什麼拿出來？
 a. 他/她的護照
 b. 他/她的登機證
@@ -13847,7 +13847,7 @@ ex. I'd like to set up a meeting for the 4th of July at 2:30. 我想安排7月4�
 Why might the listener contact Vicky?
  (A) He or she has a medical emergency.
  (B) He or she doesn't want to talk to the doctor directly.
- (C) He or she would like to schedule an appointment.(正解)
+ (C) He or she would like to schedule an appointment.<font color="#dd0000">正解</font>
  (D) He or she needs to talk to Dr. Beamer right now.
 以下何者是聽者可能要連絡Vicky的原因？ 
 a. 他/她有緊急醫療事故。
@@ -13863,7 +13863,7 @@ Look at the graphic. Which reason would Dr. Jim Bremer check for his absence at 
  (A) Personal illness
  (B) Dental or medical appointment
  (C) Holiday
- (D) Family emergency(正解)
+ (D) Family emergency<font color="#dd0000">正解</font>
 請看圖表。Jim Bremer醫生會在他的工作缺席表上勾選以下何者？
 a.個人疾病
 b.牙齒或看疹
@@ -13877,7 +13877,7 @@ d.家庭緊急狀況
  
 What should the listener do if he or she has an emergency?
  (A) call Vicky
- (B) contact Florence Hospital(正解)
+ (B) contact Florence Hospital<font color="#dd0000">正解</font>
  (C) try contacting Dr. Beamer using a different method
  (D) wait until Dr. Beamer calls back
 如果聽者有緊急狀況的話應該怎麼辦？
@@ -13913,7 +13913,7 @@ ex. We don't have any new information on the murder case, so for the time being,
  
 Who would be interested in this announcement?
  (A) students
- (B) students and faculty members(正解)
+ (B) students and faculty members<font color="#dd0000">正解</font>
  (C) faculty members
  (D) anyone who visits The University of Iowa's website
 以下何者會對這則通告感興趣？
@@ -13929,7 +13929,7 @@ d. 任何造訪愛荷華大學網站的人
 What can we infer about this predicament?
  (A) Someone on campus polluted the water lines.
  (B) Public Health and Safety probably won't contact the school for a long time.
- (C) The problem will be remedied soon.(正解)
+ (C) The problem will be remedied soon.<font color="#dd0000">正解</font>
  (D) No one will use the taps until the problem is fixed.
 於這個困境我們可以做什麼推論？
 a. 校園裡有人污染了自來水管線
@@ -13942,7 +13942,7 @@ d. 直到問題解決前，沒有人會使用水龍頭。
 00:0000:03
  
 Who or what caused the contamination?
- (A) We aren't sure.(正解)
+ (A) We aren't sure.<font color="#dd0000">正解</font>
  (B) a member of the university's sewage management team
  (C) a student
  (D) a hole in one of the water pipes
@@ -13980,7 +13980,7 @@ ex. The worker standing in the river is in danger. 站在河裡的工人有危�
 How long has the chase been happening?
  (A) we aren't sure
  (B) not quite 20 minutes
- (C) over 20 minutes(正解)
+ (C) over 20 minutes<font color="#dd0000">正解</font>
  (D) exactly 20 minutes
 這個追逐行動發生多久了？
 a. 不確定
@@ -13993,7 +13993,7 @@ d. 正好20分鐘
 00:0000:02
  
 How fast is the driver driving?
- (A) around 90 miles per hour(正解)
+ (A) around 90 miles per hour<font color="#dd0000">正解</font>
  (B) about the same speed as other traffic
  (C) not quite 90 miles per hour
  (D) over 90 miles per hour
@@ -14011,7 +14011,7 @@ What will probably happen?
  (A) The driver will get away.
  (B) The police will catch the driver.
  (C) The driver will injure some other drivers.
- (D) We can't be sure.(正解)
+ (D) We can't be sure.<font color="#dd0000">正解</font>
 可能會發生什麼事？
 a. 該名駕駛會逃脫。
 b. 警方會抓到這名駕駛。
@@ -14070,7 +14070,7 @@ Ex. My scooter broke down when I was on my way to work this morning. 我的機�
 Why is the man so upset?
  (A) He has to pay for lunch.
  (B) He has a lot of bills to pay.
- (C) His car broke down.(正解)
+ (C) His car broke down.<font color="#dd0000">正解</font>
  (D) His friend didn't pick him up.
 為什麼這男的這麼失落？
 a. 他必須付午餐錢
@@ -14084,7 +14084,7 @@ d. 他的朋友沒有來接他
  
 What does the woman mean by "You look very flustered"?
  (A) He looks happy.
- (B) He looks stressed.(正解)
+ (B) He looks stressed.<font color="#dd0000">正解</font>
  (C) He looks scared.
  (D) He looks excited.
 這女生說"你看起來很慌亂"是什麼意思？
@@ -14098,7 +14098,7 @@ d. 他看起來很興奮
 00:0000:04
  
 Does the man's mood change for the better by the end of the conversation?
- (A) Yes, because his friend offers to help him.(正解)
+ (A) Yes, because his friend offers to help him.<font color="#dd0000">正解</font>
  (B) His mood stays the same.
  (C) No, he gets more upset.
  (D) No, because he has to pay for his friend's lunch.
@@ -14152,7 +14152,7 @@ Where are they having this conversation?
  (A) at the mall
  (B) in the man's office
  (C) in the locker room
- (D) in the woman's office(正解)
+ (D) in the woman's office<font color="#dd0000">正解</font>
 他們在哪裡談話？
 a. 在購物中心
 b. 在這男士的辦公室
@@ -14166,7 +14166,7 @@ d. 在這女士的辦公室
 What is the man in trouble for?
  (A) for not turning in his uniform and nametag
  (B) for not knowing which cologne people will like
- (C) for inappropriate conduct at work(正解)
+ (C) for inappropriate conduct at work<font color="#dd0000">正解</font>
  (D) for not asking people to try on the cologne
 這男人為何會陷入困境？
 a. 沒有歸還制服和名牌
@@ -14180,7 +14180,7 @@ d. 沒有詢問人們是否想試擦古龍水
  
 What is the store's normal policy for selling cologne?
  (A) to spray it in the air so customers can smell it
- (B) to ask before spraying a customer on the wrist(正解)
+ (B) to ask before spraying a customer on the wrist<font color="#dd0000">正解</font>
  (C) to only spray women with cologne
  (D) to not spray cologne in the store ever
 以下何者是這間店販售古龍水的正常程序？
@@ -14288,7 +14288,7 @@ Woman: Yes. I really want to win over CTM Financial from our competitor. They us
 00:0000:02
  
 What kind of talk is this?
- (A) an employee self-evaluation(正解)
+ (A) an employee self-evaluation<font color="#dd0000">正解</font>
  (B) an interview for a new position
  (C) a budget proposal discussion
  (D) a casual chat about a promotion
@@ -14305,7 +14305,7 @@ D.關於升遷的閒聊
 Look at the graphic. What does "Period 1" represent?
  (A) the first week of the month
  (B) the first month of the year
- (C) the first 3 months of the year(正解)
+ (C) the first 3 months of the year<font color="#dd0000">正解</font>
  (D) the first 4 months of the year
 請看圖表。「Period 1」代表以下何者意思？
 A. 該月的第一週
@@ -14319,7 +14319,7 @@ D. 該年的前4個月
  
 What goal has the woman set for the upcoming period?
  (A) to beat her previous sales record
- (B) to get back an old customer(正解)
+ (B) to get back an old customer<font color="#dd0000">正解</font>
  (C) to be more efficient at work
  (D) to get a raise
 此女士對即將到來的一季有什麼目標？
@@ -14359,7 +14359,7 @@ Ex. Lots of kids in the West are allergic to peanuts. 西方國家很多孩童�
 00:0000:02
  
 Who is the woman in the conversation?
- (A) a doctor(正解)
+ (A) a doctor<font color="#dd0000">正解</font>
  (B) the man's best friend
  (C) the man's mother
  (D) a receptionist
@@ -14377,7 +14377,7 @@ How is the woman going to figure out what is wrong with Mr. Kennedy?
  (A) get him to change his diet
  (B) make him take some medicine
  (C) give him some cream
- (D) do some allergy tests(正解)
+ (D) do some allergy tests<font color="#dd0000">正解</font>
 這女士要怎麼知道Kennedy先生的狀況為何？
 a. 讓他改變他的節食計畫
 b. 讓他服用一些藥物
@@ -14391,7 +14391,7 @@ d. 做一些過敏測試
 What will happen next?
  (A) The man will pay his bill.
  (B) The food will be served.
- (C) The nurse will do some tests. (正解)
+ (C) The nurse will do some tests. <font color="#dd0000">正解</font>
  (D) The man will receive a prescription.
 等一下要發生什麼事？
 a. 這位男士將會繳帳單
@@ -14442,7 +14442,7 @@ Ex. All the students in the graduating class will dress up to attend the prom. �
 00:0000:02
  
 Where are the speakers?
- (A) in their house(正解)
+ (A) in their house<font color="#dd0000">正解</font>
  (B) at an engagement party
  (C) outside on the street
  (D) in a fitting room
@@ -14460,7 +14460,7 @@ What is this conversation about?
  (A) Whether they should give a gift of clothing or not.
  (B) The pictures that will be taken at the party.
  (C) Which suit to buy.
- (D) The clothes that the man will wear.(正解)
+ (D) The clothes that the man will wear.<font color="#dd0000">正解</font>
 以上對話與以下何者選項相關？
 a. 他們是否該送衣服當禮物
 b. 這場派對上拍攝的照片
@@ -14473,7 +14473,7 @@ d. 這男士所穿的衣服
  
 Why does the woman want her boyfriend to look nice?
  (A) Because her sister is his boss.
- (B) Because photographs will be taken today. (正解)
+ (B) Because photographs will be taken today. <font color="#dd0000">正解</font>
  (C) Because she wants him to make new professional contacts.
  (D) Because the mayor will be there.
 為什麼這女士想要她的男友看起來很體面？
@@ -14528,7 +14528,7 @@ Ex. I haven't heard anything from him since he moved to another country. 自從�
  
 Why does the woman want to talk to her boss?
  (A) She wants to talk to her about her drinking problem.
- (B) She does not say why she wants to talk to her.(正解)
+ (B) She does not say why she wants to talk to her.<font color="#dd0000">正解</font>
  (C) She wants to talk to her about her son.
  (D) She wants to talk to her about Jim in sales.
 為什麼這女士想跟她老闆談話？
@@ -14543,7 +14543,7 @@ d. 她想和她談銷售部Jim的事情
  
 What is the woman's opinion of her boss?
  (A) She thinks her boss gets nervous very easily.
- (B) She does not think highly of her boss.(正解)
+ (B) She does not think highly of her boss.<font color="#dd0000">正解</font>
  (C) She wishes her boss would not come to work.
  (D) She thinks her boss a very serious woman.
 這女士對她老闆的想法是什麼？
@@ -14560,7 +14560,7 @@ What can we infer about the boss?
  (A) She works hard from home.
  (B) She is a responsible mother.
  (C) She is a fun person to be around.
- (D) She won't be there much longer.(正解)
+ (D) She won't be there much longer.<font color="#dd0000">正解</font>
 我們可以怎麼推斷這位老闆？
 a. 她在家認真工作
 b. 她是一位負責任的媽媽
@@ -14611,7 +14611,7 @@ Ex. There's something wrong with my laptop. 我的手提電腦有點毛病
  
 Where are the man and woman?
  (A) at home
- (B) at the airport(正解)
+ (B) at the airport<font color="#dd0000">正解</font>
  (C) in a taxi
  (D) in an airplane
 以下何者是這位男士與女士的所在地？
@@ -14626,7 +14626,7 @@ d. 在飛機上
  
 What is happening in this situation?
  (A) They are having trouble buying plane tickets.
- (B) Their flight is late.(正解)
+ (B) Their flight is late.<font color="#dd0000">正解</font>
  (C) They are boarding a plane.
  (D) They have a two-hour layover.
 這個狀況中發生了什麼事？
@@ -14642,7 +14642,7 @@ d. 他們有兩小時的待轉機時間
 Was the problem solved by the end of the conversation?
  (A) No, so they went home.
  (B) Yes, the engine was fixed and they were able to board the plane.
- (C) No, they are waiting to find out. (正解)
+ (C) No, they are waiting to find out. <font color="#dd0000">正解</font>
  (D) Yes, they were able to catch both of their flights.
 最後問題是否獲得解決？
 a. 沒有，所以他們回家了
@@ -14817,7 +14817,7 @@ $249
  
 How many nights did the woman originally plan to stay in the hotel?
  (A) one
- (B) two(正解)
+ (B) two<font color="#dd0000">正解</font>
  (C) three
  (D) four
 該名女子本來打算在飯店住幾晚？
@@ -14831,7 +14831,7 @@ D. 4
 00:0000:03
  
 What two changes does the woman want to make?
- (A) longer stay and extra person(正解)
+ (A) longer stay and extra person<font color="#dd0000">正解</font>
  (B) longer stay and one person less
  (C) shorter stay and extra person
  (D) shorter stay and one less person
@@ -14848,7 +14848,7 @@ D. 停留短一點，減少一人
 Look at the graphic. Which room did the woman choose in the end?
  (A) Business Traveler
  (B) Econo-Room
- (C) Family Suite(正解)
+ (C) Family Suite<font color="#dd0000">正解</font>
  (D) VIP Penthouse
 請看圖表。此女人最後選了以下哪一種房型？
 A. 商旅房型
@@ -14926,7 +14926,7 @@ What mistake did the man make?
  (A) He wrote something negative about his manager on his Twitter page.
  (B) He allowed his company's website to be hacked into.
  (C) He posted an inappropriate photo on the Internet.
- (D) He mistook his company's social media account for his own. (正解)
+ (D) He mistook his company's social media account for his own. <font color="#dd0000">正解</font>
 此男士犯了什麼錯？
 A.他在他的Twitter頁面上寫了關於他的經理的負面評價。
 B.他讓公司的網站遭受駭客入侵。
@@ -14938,7 +14938,7 @@ D.他把公司的社交媒體帳戶誤認成自己的。
 00:0000:04
  
 What did the man do as soon as he realized his mistake?
- (A) He removed the content. (正解)
+ (A) He removed the content. <font color="#dd0000">正解</font>
  (B) He apologized to his boss.
  (C) He changed the website's security settings.
  (D) He did a virus scan on the computer.
@@ -14953,7 +14953,7 @@ D. 在電腦上執行病毒掃描。
 00:0000:05
  
 Look at the graphic. What department does Meg Jerrand work for?
- (A) human resources(正解)
+ (A) human resources<font color="#dd0000">正解</font>
  (B) payroll
  (C) management
  (D) accounting
@@ -15004,7 +15004,7 @@ Ex. I couldn't get out of attending my ex-girlfriend's wedding. 我無法逃避�
  
 Why do they have to work on the weekend?
  (A) Mrs. Stanphill is upset that people made plans.
- (B) The layoffs have produced more work for everyone.(正解)
+ (B) The layoffs have produced more work for everyone.<font color="#dd0000">正解</font>
  (C) Mrs. Stanphill wants to hang out with everybody.
  (D) They need to make up for the last weekend.
 為什麼他們週末需要工作？
@@ -15021,7 +15021,7 @@ What recreational plans did the man have for the weekend?
  (A) He is going to spend time with his family.
  (B) He is going to work at the office.
  (C) He doesn't have any plans.
- (D) He is going to a play. (正解)
+ (D) He is going to a play. <font color="#dd0000">正解</font>
 這男士週末有什麼娛樂計畫？
 a. 他打算花時間和家人相處
 b. 他打算在辦公室工作
@@ -15035,7 +15035,7 @@ d. 他打算去看戲劇表演
 Do you think the man believes the woman can get the weekend off for everybody?
  (A) Yes, he thinks it will be guaranteed.
  (B) He doesn't care.
- (C) No, he is skeptical.(正解)
+ (C) No, he is skeptical.<font color="#dd0000">正解</font>
  (D) No, she won't even try.
 你覺得這位男士相信女子可以為每個人爭取到週末休息嗎？
 a. 是的，他覺得可以保證
@@ -15101,7 +15101,7 @@ order n. 訂購，順序/v. 訂購
  
 What is the problem with the chair?
  (A) It hasn't arrived yet.
- (B) It broke in half. (正解)
+ (B) It broke in half. <font color="#dd0000">正解</font>
  (C) The warranty expired.
  (D) It's the wrong model.
 這張椅子怎麼了？
@@ -15117,7 +15117,7 @@ d. 寄錯商品
 When will the problem be fixed?
  (A) It cannot be fixed.
  (B) It will be fixed in two days.
- (C) in the next five days(正解)
+ (C) in the next five days<font color="#dd0000">正解</font>
  (D) in one year
 問題何時會被解決？
 a. 無法解決
@@ -15132,7 +15132,7 @@ d. 一年內
 How did the woman handle the situation?
  (A) She explained why the product was damaged.
  (B) She told the customer the product would be replaced.
- (C) She forwarded the call to her superior.(正解)
+ (C) She forwarded the call to her superior.<font color="#dd0000">正解</font>
  (D) She denied that any problem existed.
 這位女士如何處理這個情況？
 a. 她解釋這件商品為何被損壞。
@@ -15181,7 +15181,7 @@ Ex. The manager is worried about meeting the new client tomorrow. 經理正在�
  
 What is the woman trying to decide?
  (A) Whether or not she can pay for yoga classes.
- (B) Whether or not she wants to become a yoga teacher.(正解)
+ (B) Whether or not she wants to become a yoga teacher.<font color="#dd0000">正解</font>
  (C) Whether or not she can pay back the money she borrowed from the yoga teacher.
  (D) Whether or not she is good with people.
 以下何者是這位女士的決定？
@@ -15195,7 +15195,7 @@ d. 她是否能和他人和平共處
 00:0000:03
  
 What kind of relationship do you think they have?
- (A) husband and wife(正解)
+ (A) husband and wife<font color="#dd0000">正解</font>
  (B) father and daughter
  (C) daughter and son
  (D) brother and sister
@@ -15212,7 +15212,7 @@ d. 兄弟姐妹
 Does the man help her make a decision?
  (A) She is still undecided by the end.
  (B) No, he doesn't.
- (C) Yes, he does.(正解)
+ (C) Yes, he does.<font color="#dd0000">正解</font>
  (D) She already made the decision before the conversation.
 這男士是否幫忙她做決定？
 a. 她最後依舊未能決定
@@ -15271,7 +15271,7 @@ Ex. My decision about whether to go or not will depend on tomorrow's weather. �
 00:0000:03
  
 What is the reason for this call?
- (A) The man needs his car fixed.(正解)
+ (A) The man needs his car fixed.<font color="#dd0000">正解</font>
  (B) The man needs a new car.
  (C) The man needs to talk to someone.
  (D) The man needs someone to drive his car.
@@ -15288,7 +15288,7 @@ d. 這男的需要某人將他的車開走
 Why does he need a tow service?
  (A) He parked illegally.
  (B) Cars R' US requires it.
- (C) The car has some serious problems. (正解)
+ (C) The car has some serious problems. <font color="#dd0000">正解</font>
  (D) He is not at home where the car is.
 為什麼他需要拖吊服務？
 a. 他違法停車
@@ -15303,7 +15303,7 @@ d. 車子在家，但他不在
 When will the tow service be there to pick the man up?
  (A) It will be there tomorrow.
  (B) It will be there in a few days.
- (C) It will be there in half an hour. (正解)
+ (C) It will be there in half an hour. <font color="#dd0000">正解</font>
  (D) It will be there a few minutes.
 拖吊服務會在以下哪個時間接這位男士？
 a. 明天會到
@@ -15339,7 +15339,7 @@ Ex. The construction company is desperately in need of funds. 那間建築公司
  
 Where did this announcement take place?
  (A) on a train
- (B) on a bus(正解)
+ (B) on a bus<font color="#dd0000">正解</font>
  (C) on a ship
  (D) on a plane
 本則公告在以下在何處發佈?
@@ -15354,7 +15354,7 @@ d. 在飛機上
  
 Which of the following statements are true?
  (A) Passengers are currently doing stretches outside.
- (B) There is a scheduled stopover coming up.(正解)
+ (B) There is a scheduled stopover coming up.<font color="#dd0000">正解</font>
  (C) A mechanical problem will cause a short delay.
  (D) The restaurant is a good place for a snack.
 以下何者敘述正確?
@@ -15371,7 +15371,7 @@ What can be inferred from the announcement?
  (A) A delivery will be made at the final destination.
  (B) Some new passengers will be boarding.
  (C) Passengers should have their tickets ready.
- (D) Passengers must remain near the vehicle.(正解)
+ (D) Passengers must remain near the vehicle.<font color="#dd0000">正解</font>
 從公告內容，可以得到何種推論?
 a. 運送將會在最終目的地執行。
 b. 有幾位新乘客即將上車。
@@ -15397,7 +15397,7 @@ Ex. In addition to shoes, the store also carries women's clothing and cosmetics.
 00:0000:03
  
 Where did this announcement take place?
- (A) a grocery store(正解)
+ (A) a grocery store<font color="#dd0000">正解</font>
  (B) a department store
  (C) a convenience store
  (D) a hardware store
@@ -15414,7 +15414,7 @@ d. 五金行
 Which of the following is NOT a purpose of the announcement?
  (A) to inform customers the store will soon close
  (B) to tell customers about a weekly promotion
- (C) to announce the winner of the million dollar prize(正解)
+ (C) to announce the winner of the million dollar prize<font color="#dd0000">正解</font>
  (D) to let customers know about discount items
 以下何者不是本則公告的目的?
 a. 通知顧客快要打烊了。
@@ -15428,7 +15428,7 @@ d. 讓顧客知道關於折扣商品。
  
 Where should customers who require carry-out service go?
  (A) the customer service desk
- (B) till #7 or #8(正解)
+ (B) till #7 or #8<font color="#dd0000">正解</font>
  (C) till #1 or the customer service desk
  (D) till #1 or #8
 需要商品送到車上服務的顧客應在何處辦理?
@@ -15460,7 +15460,7 @@ Ex. As a result of being sick, the scholar was unable to deliver his lecture at 
  
 Where is this announcement being made?
  (A) a boat
- (B) a plane(正解)
+ (B) a plane<font color="#dd0000">正解</font>
  (C) a bus
  (D) a train
 本則公告將在以下何處宣布？
@@ -15477,7 +15477,7 @@ What are passengers instructed to do?
  (A) promptly finish their meals
  (B) turn off their entertainment systems
  (C) make sure their bags are stowed
- (D) securely fasten their seat belts(正解)
+ (D) securely fasten their seat belts<font color="#dd0000">正解</font>
 以下何者是乘客被指示的項目？
 a. 趕快吃完餐點。
 b. 關閉娛樂系統。
@@ -15491,7 +15491,7 @@ d. 繫好安全帶。
 What can be inferred from this announcement?
  (A) The passengers are in grave danger.
  (B) Their arrival will be slightly delayed.
- (C) The disturbance will be brief.(正解)
+ (C) The disturbance will be brief.<font color="#dd0000">正解</font>
  (D) There is a long line for the bathroom.
 從上述公告，可以得到何種推論？
 a. 乘客身處危險之中。
@@ -15560,7 +15560,7 @@ Ex. This biotechnology laboratory is equipped with all the latest devices. 這�
 What is the Wondercloud?
  (A) a foot massage machine
  (B) a mattress
- (C) a pillow(正解)
+ (C) a pillow<font color="#dd0000">正解</font>
  (D) a heated blanket
 Wondercloud是什麼?
 a. 腿部按摩機。
@@ -15575,7 +15575,7 @@ d. 發熱棉被。
 Look at the graphic. What information is missing?
  (A) one
  (B) two
- (C) three(正解)
+ (C) three<font color="#dd0000">正解</font>
  (D) four
 看這張圖片。缺少了的資訊是多少？
 A. 1
@@ -15588,7 +15588,7 @@ D. 4
 00:0000:02
  
 What can be inferred from the ad?
- (A) batteries are not required(正解)
+ (A) batteries are not required<font color="#dd0000">正解</font>
  (B) supplies are limited
  (C) the warranty can be extended
  (D) international delivery costs extra
@@ -15621,7 +15621,7 @@ Who is the man calling?
  (A) the health department
  (B) a doctor
  (C) his neighbor's friend
- (D) a lawyer(正解)
+ (D) a lawyer<font color="#dd0000">正解</font>
 這位男子打電話給誰?
 a. 衛生部。
 b. 醫生。
@@ -15635,7 +15635,7 @@ d. 律師。
 What is the man's problem?
  (A) he was injured at work
  (B) he was discriminated against
- (C) he was served tainted food(正解)
+ (C) he was served tainted food<font color="#dd0000">正解</font>
  (D) he was in a car accident
 這位男子的問題是什麼?
 a. 他在工作場所受傷了。
@@ -15651,7 +15651,7 @@ Which of the following statements is true?
  (A) Wilfredo will be unavailable after lunch.
  (B) Wilfredo is unable to work.
  (C) Wilfredo is late for a meeting.
- (D) Wilfredo will be home in the evening.(正解)
+ (D) Wilfredo will be home in the evening.<font color="#dd0000">正解</font>
 下列何者敘述正確?
 a. 午餐後就無法聯絡 Wilfredo。
 b. Wilfredo無法去上班。
@@ -15712,7 +15712,7 @@ Who was this message recorded by?
  (A) pediatricians
  (B) veterinarians
  (C) chiropractors
- (D) dentists(正解)
+ (D) dentists<font color="#dd0000">正解</font>
 本則留言由以下何人所錄?
 a. 兒科醫生。
 b. 獸醫。
@@ -15727,7 +15727,7 @@ At which of the following times can an appointment NOT be made?
  (A) Monday at 7:30pm
  (B) Saturday at 10:30am
  (C) Monday at 9:15am
- (D) Saturday at. 3:00pm(正解)
+ (D) Saturday at. 3:00pm<font color="#dd0000">正解</font>
 下列哪一個時間不提供預約的?
 a. 星期一晚上7點半。
 B. 星期六早上10點半。
@@ -15740,7 +15740,7 @@ D. 星期六下午3點。
  
 Look at the graphic. In what case should people call the hotline?
  (A) to make a reservation for later today
- (B) to get help with an emergency(正解)
+ (B) to get help with an emergency<font color="#dd0000">正解</font>
  (C) to speak to either doctor right now
  (D) to find out the opening hours
 看這張圖片。什麼樣的人會播打客戶關心專線？
@@ -15788,7 +15788,7 @@ Ex. According to the police officer who I talked to, you are wanted for question
 Which of the following is NOT among the list of stolen goods?
  (A) money
  (B) sunglasses
- (C) a baseball bat(正解)
+ (C) a baseball bat<font color="#dd0000">正解</font>
  (D) golf clubs
 下列哪一個沒有列在遭竊商品的清單之中?
 a. 金錢。
@@ -15802,7 +15802,7 @@ d. 高爾夫球棒。
  
 Which of the following statements are true?
  (A) The assailant is young.
- (B) The assailant is thin.(正解)
+ (B) The assailant is thin.<font color="#dd0000">正解</font>
  (C) The assailant is tall.
  (D) The assailant is male.
 下列敘述何者正確?
@@ -15819,7 +15819,7 @@ What have police advised residents to do?
  (A) avoid leaving their cars outside
  (B) confront anyone suspicious
  (C) lock their doors at night
- (D) park near streetlights(正解)
+ (D) park near streetlights<font color="#dd0000">正解</font>
 警方建議居民做什麼?
 a. 避免把車子放在外面。
 b. 對抗任何可疑的人。
@@ -15849,7 +15849,7 @@ Where is this announcement taking place?
  (A) in the security check line
  (B) on board the airplane
  (C) in the arrivals section
- (D) in the boarding lounge(正解)
+ (D) in the boarding lounge<font color="#dd0000">正解</font>
 本則公告是在以下何處發佈?
 a. 保安檢查隊裡。
 b. 飛機客艙上。
@@ -15863,7 +15863,7 @@ d. 候機室裡。
 Where are passengers with babies instructed to go?
  (A) remain seated and wait
  (B) line up on the left side
- (C) line up on the right side(正解)
+ (C) line up on the right side<font color="#dd0000">正解</font>
  (D) move to the front of the line
 帶嬰兒的旅客被指示於何處排隊?
 a. 仍然就坐等待。
@@ -15877,7 +15877,7 @@ d. 移動到隊伍前方。
  
 What can be inferred from the announcement?
  (A) The plane is ready to take off.
- (B) The flight has been slightly delayed.(正解)
+ (B) The flight has been slightly delayed.<font color="#dd0000">正解</font>
  (C) Some passengers are upset.
  (D) First class passengers will board first.
 從本公告的內容可以得到以下何種推論?
@@ -15954,7 +15954,7 @@ Ex. We should always be grateful for the people around us and not take them for 
 What is the purpose of this ad?
  (A) to announce a store-wide sale
  (B) to sell tickets for a raffle
- (C) to promote a food drive(正解)
+ (C) to promote a food drive<font color="#dd0000">正解</font>
  (D) to help encourage clothing donations
 本則廣告的目的為何?
 a. 公布全國商店促銷。
@@ -15969,7 +15969,7 @@ d. 鼓勵大家捐贈衣服。
 How many days will this event last?
  (A) 1
  (B) 2
- (C) 3(正解)
+ (C) 3<font color="#dd0000">正解</font>
  (D) 4
 活動將會持續幾天?
 a. 1。
@@ -15985,7 +15985,7 @@ Look at the graphic. Which of the prizes is NOT mentioned in the talk?
  (A) All-expenses-paid trip to Hawaii for 2
  (B) $250 gift card for our grocery store
  (C) Anthem 27.5 Giant Mountain Bike
- (D) Epson Powerlite Home Movie Projector(正解)
+ (D) Epson Powerlite Home Movie Projector<font color="#dd0000">正解</font>
 請看圖表。下列一項獎項沒有被提到？
 a. 全額免費夏威夷雙人行
 b. 超市的$250禮物卡
@@ -16015,7 +16015,7 @@ Ex. Cough syrup is usually a mix of active medicinal ingredients, coloring, and 
  
 What range of days is covered in the forecast?
  (A) Friday overnight to Sunday overnight
- (B) Friday evening to Sunday afternoon(正解)
+ (B) Friday evening to Sunday afternoon<font color="#dd0000">正解</font>
  (C) Saturday morning to Sunday morning
  (D) Saturday afternoon to Sunday evening
 本次天氣預報範圍包含以下哪幾天?
@@ -16031,7 +16031,7 @@ d. 星期六下午至星期日傍晚。
 What will be the highest temperature reached during this period?
  (A) 31 degrees
  (B) 33 degrees
- (C) 35 degrees(正解)
+ (C) 35 degrees<font color="#dd0000">正解</font>
  (D) 37 degrees
 周末最高溫將會達到幾度?
 a. 31度。
@@ -16047,7 +16047,7 @@ Which of the following statements is true?
  (A) It will be hot and sunny Saturday afternoon.
  (B) It will rain heavily Saturday morning.
  (C) It will begin to clear late Friday
- (D) It will be very windy Friday night.(正解)
+ (D) It will be very windy Friday night.<font color="#dd0000">正解</font>
 下列敘述何者正確?
 a. 禮拜六的天氣將會是炎熱及晴朗。
 b. 禮拜六將會下大雨。
@@ -16078,7 +16078,7 @@ placement n. 佈置
 00:0000:02
  
 Who would be interested in this talk?
- (A) someone seeking a new career(正解)
+ (A) someone seeking a new career<font color="#dd0000">正解</font>
  (B) someone that needs a new computer
  (C) someone seeking a spouse
  (D) someone that needs a new car
@@ -16095,7 +16095,7 @@ d. 需要新車的人。
 What does Saber Online College specialize in?
  (A) childhood education
  (B) computer education only
- (C) adult education(正解)
+ (C) adult education<font color="#dd0000">正解</font>
  (D) career placement
 下列何者是賽博線上大學專攻的部分？
 a. 兒童教育。
@@ -16111,7 +16111,7 @@ What can we infer about Saber Online College?
  (A) They mainly employ women.
  (B) You have to physically attend classes with Saber.
  (C) Online classes are only offered to those who currently have a family.
- (D) Most of their customers work and take classes.(正解)
+ (D) Most of their customers work and take classes.<font color="#dd0000">正解</font>
 關於賽博線上大學敘述，可以得到何種推論？
 a. 他們主要僱用女性。 
 b. 你必須親自與賽博一起上課。
@@ -16145,7 +16145,7 @@ Ex. The poor young man is eager to become successful and rich. 那位貧窮的�
  
 What has happened in this announcement?
  (A) China brought sanctions against the United States.
- (B) The Philippines bought airplanes from the US. (正解)
+ (B) The Philippines bought airplanes from the US. <font color="#dd0000">正解</font>
  (C) The US military was caught spying on China.
  (D) China invaded the Philippines.
 依上列公告內容，以下何者是目前正發生的事?
@@ -16161,7 +16161,7 @@ d. 中國入侵菲律賓。
 What does the speaker imply about China?
  (A) They will invade the Philippines immediately.
  (B) They will cut all ties with the West.
- (C) They will not be happy about this transaction. (正解)
+ (C) They will not be happy about this transaction. <font color="#dd0000">正解</font>
  (D) They will use sanctions against the US.
 有關大陸方面，文章作者的意思為何?
 a. 他們會馬上入侵菲律賓。 
@@ -16177,7 +16177,7 @@ What does the speaker think will be interesting to see in the future?
  (A) when the Philippines become a part of China
  (B) who will purchase the ships
  (C) when the war will end
- (D) what China's reaction to the purchase will be(正解)
+ (D) what China's reaction to the purchase will be<font color="#dd0000">正解</font>
 文章作者認為，未來可以看到什麼樣的有趣事情?
 a. 菲律賓何時成為大陸的一部分。
 b. 誰會購買船隻。
@@ -16278,7 +16278,7 @@ Ex. The businessman refused the invitation and walked out of the meeting room in
  
 Look at the graphic. Which week of December did Hiruki Tanaka take off from work?
  (A) the first
- (B) the second(正解)
+ (B) the second<font color="#dd0000">正解</font>
  (C) the third
  (D) the fourth
 請看圖表。12月的哪一周Hiruki Tanaka是休假日？
@@ -16293,7 +16293,7 @@ d. 第四週。
  
 If you need to speak to someone about a recent order, what should you do?
  (A) call Mr. Tanaka's personal phone
- (B) contact Todd Brenner(正解)
+ (B) contact Todd Brenner<font color="#dd0000">正解</font>
  (C) send Mr. Tanaka an email
  (D) wait until Mr. Tanaka returns
 若要找聯絡人討論關於最近的訂購，您應該做什麼？
@@ -16309,7 +16309,7 @@ d. 等到Tanaka 先生回來。
 What does the speaker imply at the end of the message?
  (A) Only call in extreme circumstances.
  (B) Don't call him at all; send an email.
- (C) If you need to call, go right ahead.(正解)
+ (C) If you need to call, go right ahead.<font color="#dd0000">正解</font>
  (D) He will not have phone service.
 說話者在最後的留言提到了什麼？
 a. 只要在特殊情況打電話。 
@@ -16347,7 +16347,7 @@ Ex. When crossing the street, don't forget to watch out for cars coming from bot
  
 Who is making this announcement?
  (A) the coach of a football team
- (B) a scuba diving instructor(正解)
+ (B) a scuba diving instructor<font color="#dd0000">正解</font>
  (C) the captain of a boat
  (D) a worried customer
 以下何者正在發佈此則公告？
@@ -16363,7 +16363,7 @@ d. 擔心的顧客。
 How deep will they go on the dive?
  (A) 30 meters
  (B) 28 meters
- (C) 25 meters(正解)
+ (C) 25 meters<font color="#dd0000">正解</font>
  (D) 35 meters
 他們會繼續潛水多深？
 a. 30 公尺。
@@ -16376,7 +16376,7 @@ d. 35公尺。
 00:0000:03
  
 What reminder is made at the end?
- (A) Don't forget your equipment.(正解)
+ (A) Don't forget your equipment.<font color="#dd0000">正解</font>
  (B) Look out for sharks!
  (C) Keep an eye on your air.
  (D) Don't hold your breath when ascending.
@@ -16408,7 +16408,7 @@ Ex. It looked verywas romantic when the leading actor focused his eyesight on th
  
 What can we infer about this talk?
  (A) Mike and Tim are colleagues.
- (B) Tim was in class, but Mike was not. (正解)
+ (B) Tim was in class, but Mike was not. <font color="#dd0000">正解</font>
  (C) Mike is Tim's boss.
  (D) Tim is Mike's teacher.
 從本段談話中，以下何者是你可以得到的推論?
@@ -16424,7 +16424,7 @@ d. Tim 是Mike的老師。
 What are they studying?
  (A) math
  (B) World War II
- (C) the Civil War(正解)
+ (C) the Civil War<font color="#dd0000">正解</font>
  (D) English
 以下何者是他們正在學習的內容?
 a. 數學。
@@ -16438,7 +16438,7 @@ d. 英文。
  
 What was NOT covered in class?
  (A) Lincoln's assassination
- (B) the Gettysburg Address(正解)
+ (B) the Gettysburg Address<font color="#dd0000">正解</font>
  (C) Appomattox Courthouse
  (D) Reconstruction
 以下何者並非課程中所包含的內容? 
@@ -16538,7 +16538,7 @@ Ex. The victim tried to describe the robber's appearance in detail. 受害者試
 00:0000:03
  
 Where does this announcement take place?
- (A) a bowling alley (正解)
+ (A) a bowling alley <font color="#dd0000">正解</font>
  (B) a convenience store
  (C) a shopping mall
  (D) a baseball field
@@ -16556,7 +16556,7 @@ Look at the graphic. Which of the left behind items in being discussed?
  (A) brown backpack
  (B) yellow purse
  (C) man's parka
- (D) grey backpack(正解)
+ (D) grey backpack<font color="#dd0000">正解</font>
 請看圖表。選項中何者是討論中的遺失物？
 a. 棕色背包
 b. 黃色提包 
@@ -16571,7 +16571,7 @@ Where must the owner go to retrieve the items?
  (A) lost and found
  (B) the manager's office
  (C) the security counter
- (D) the customer service counter(正解)
+ (D) the customer service counter<font color="#dd0000">正解</font>
 物主必須去以下何處取回遺失物品？
 a. 失物招領。
 b. 經理辦公室。
@@ -16698,7 +16698,7 @@ participate v. (+in) 參與，參加
 Look at the graphic. Which branch does the speaker belong to?
  (A) Bromley
  (B) Cornwall
- (C) London(正解)
+ (C) London<font color="#dd0000">正解</font>
  (D) Manchester
 請看圖表。談話者屬於哪家分店？
 A. 布朗姆利
@@ -16713,7 +16713,7 @@ D. 曼徹斯特
 What does the speaker imply about the employment status of sales people?
  (A) Their jobs are at risk.
  (B) They will have to take a wage cut.
- (C) Their jobs are safe.(正解)
+ (C) Their jobs are safe.<font color="#dd0000">正解</font>
  (D) They will be terminated.
 關於業務人員的聘僱狀況，說話者意旨為何？
 a. 他們的工作有風險。
@@ -16729,7 +16729,7 @@ What is this talk about?
  (A) the acquisition of a new company
  (B) a grand opening
  (C) bankruptcy
- (D) the merger of two branches(正解)
+ (D) the merger of two branches<font color="#dd0000">正解</font>
 本段談話內容是關於以下何者？
 a. 取得新公司。
 b. 盛大開幕。
@@ -16759,7 +16759,7 @@ travel due west (氣象廣播用語) = travel toward the west (口) 表【向西
 00:0000:02
  
 What kind of an announcement is this?
- (A) tornado warning(正解)
+ (A) tornado warning<font color="#dd0000">正解</font>
  (B) earthquake warning
  (C) hurricane warning
  (D) winter weather warning
@@ -16775,7 +16775,7 @@ d. 冬天警報。
  
 What is recommended by this report?
  (A) Get in a car and drive far away.
- (B) Seek shelter underground.(正解)
+ (B) Seek shelter underground.<font color="#dd0000">正解</font>
  (C) Evacuate the city of St. Louis.
  (D) Go shopping for supplies.
 本則公告的建議為何?
@@ -16792,7 +16792,7 @@ What is NOT expected to happen?
  (A) dangerous winds
  (B) torrential rain
  (C) cloud-to-ground lightning
- (D) heavy snow(正解)
+ (D) heavy snow<font color="#dd0000">正解</font>
 上述公告中預估將發生的事情，何者為非?
 a. 危險強風。
 b. 暴雨。
@@ -16831,7 +16831,7 @@ Ex. The head office decided to lay 1000 workers off. 總部決定裁員1000名�
 What was the purpose of this talk?
  (A) to notify employees of a new business opportunity
  (B) to announce changes regarding office policy
- (C) to introduce a new employee(正解)
+ (C) to introduce a new employee<font color="#dd0000">正解</font>
  (D) to talk about dress code
 本次演講目的是什麼？
 a. 通知員工關於新商機。
@@ -16847,7 +16847,7 @@ What does the speaker imply?
  (A) The environmental law of California isn't justified.
  (B) The Stanford School of Law isn't very good at all.
  (C) The firm will be laying people off.
- (D) Ms. Peterson will be a valuable employee.(正解)
+ (D) Ms. Peterson will be a valuable employee.<font color="#dd0000">正解</font>
 以下何者是談話者所暗示的意思？
 a. 加州環境法律不公平。
 b. 斯坦福法律系一點都不好。
@@ -16860,7 +16860,7 @@ d. Peterson小姐將是很有用的員工。
  
 What is NOT true about Ms. Peterson?
  (A) She graduated from Stanford
- (B) She doesn't know much about environmental policy.(正解)
+ (B) She doesn't know much about environmental policy.<font color="#dd0000">正解</font>
  (C) She specializes in tax law and cooperate fraud.
  (D) She will be able to help in the Norton Manufacturing case.
 關於Peterson小姐，以下敘述何者為非？
@@ -16892,7 +16892,7 @@ Ex. Just have a little bit of the cake and tell me how you find it! 就吃一點
  
 Where does the announcement take place?
  (A) on a bus
- (B) on an airplane(正解)
+ (B) on an airplane<font color="#dd0000">正解</font>
  (C) in an airport
  (D) on a train
 本則公告於以下何處廣播？
@@ -16906,7 +16906,7 @@ d. 火車上。
 00:0000:06
  
 What does the announcer NOT ask the passengers or flight attendants to do?
- (A) open the overhead bins(正解)
+ (A) open the overhead bins<font color="#dd0000">正解</font>
  (B) return to their seats
  (C) suspend the beverage service
  (D) fasten their seatbelts
@@ -16923,7 +16923,7 @@ d. 繫好安全帶。
 Why does the speaker give the announcement?
  (A) They are going to take off.
  (B) They will be landing soon.
- (C) They will experience turbulence. (正解)
+ (C) They will experience turbulence. <font color="#dd0000">正解</font>
  (D) They will be delayed.
 廣播者為何發佈此則公告？
 a. 飛機即將起飛。
@@ -16954,7 +16954,7 @@ Ex. The secretary will have to get in touch with the designer to make another ap
 00:0000:03
  
 What kind of business does Jean Granville run?
- (A) a translation company(正解)
+ (A) a translation company<font color="#dd0000">正解</font>
  (B) an online shopping website
  (C) an illegal currency exchange service
  (D) an employment agency
@@ -16972,7 +16972,7 @@ Why has Jean recorded this message?
  (A) She doesn't like answering her phone.
  (B) She wants people to know her son's phone number.
  (C) to advertise her business
- (D) in case people call her while she's away on vacation(正解)
+ (D) in case people call her while she's away on vacation<font color="#dd0000">正解</font>
 Jean為什麼錄這個留言？
 a. 她不喜歡接電話。
 b. 她要大家知道她兒子的電話號碼。
@@ -16986,7 +16986,7 @@ d. 以防她出去度假時，有人打給他。
 What can we infer about Jean Granville?
  (A) She is a very good translator.
  (B) Her son has already graduated from university.
- (C) She is self-employed.(正解)
+ (C) She is self-employed.<font color="#dd0000">正解</font>
  (D) She is married.
 關於Jean Granville，我們可以得知以下何者推論？
 a. 她是很好的翻譯員。
@@ -17049,7 +17049,7 @@ Ex. Please tune in to the PPS World News at the same time tomorrow! 請在明天
 What kind of announcement is this?
  (A) a recorded voice message
  (B) an after dinner speech
- (C) a live radio advertisement(正解)
+ (C) a live radio advertisement<font color="#dd0000">正解</font>
  (D) an automated answering machine service
 本則公告的類型為以下何者？
 a. 錄音檔留言。
@@ -17064,7 +17064,7 @@ d. 自動答錄機服務。
 Look at the graphic. What is considered to be the main event at the Stockbridge town fair?
  (A) Vegetable of the Year competition
  (B) Amusement park open all day
- (C) Jimmy Basset's Elephant Show (正解)
+ (C) Jimmy Basset's Elephant Show <font color="#dd0000">正解</font>
  (D) Sunny Park Rock Concert
 請看圖表。以下何者被視為史塔克橋市集的主要活動？
 a.年度蔬菜大賽。
@@ -17077,7 +17077,7 @@ d.陽光公園搖滾音樂會。
 00:0000:03
  
 What kind of radio station is this?
- (A) a local radio station(正解)
+ (A) a local radio station<font color="#dd0000">正解</font>
  (B) an online digital radio station
  (C) a nationwide radio station
  (D) an Asian language radio station
@@ -17115,7 +17115,7 @@ Who is the intended audience of this announcement?
  (A) All the staff in the Human Resources department.
  (B) Only one manager from the company.
  (C) All London Marathon participants.
- (D) All the staff in the company.(正解)
+ (D) All the staff in the company.<font color="#dd0000">正解</font>
 本則公告針對以下那些讀者？
 a. 人力資源部的全體員工。
 b. 公司唯一的經理。 
@@ -17129,7 +17129,7 @@ d. 公司全體員工。
 How long has Brian been suffering from depression?
  (A) For several days.
  (B) Since the previous evening.
- (C) For several years.(正解)
+ (C) For several years.<font color="#dd0000">正解</font>
  (D) Since before he was born.
 Brian罹患憂鬱症長達多久？
 a. 好幾天。
@@ -17144,7 +17144,7 @@ d. 自從出生前。
 What can we infer about Brian Buckle?
  (A) He likes to be indoors a lot.
  (B) He is very sociable.
- (C) He is very fit and healthy.(正解)
+ (C) He is very fit and healthy.<font color="#dd0000">正解</font>
  (D) He doesn't like strenuous exercise.
 關於Brian Buckle，以下何者是我們可以推斷的推論？
 a. 他非常喜歡室內活動。
@@ -17174,7 +17174,7 @@ Look at the graphic. What is the current location of the hurricane?
  (A) 1
  (B) 2
  (C) 3
- (D) 4(正解)
+ (D) 4<font color="#dd0000">正解</font>
 請看圖表。颶風的當前位置是哪裡？
 A. 1 
 B. 2
@@ -17189,7 +17189,7 @@ What are people NOT told to do?
  (A) stay inside
  (B) secure their doors
  (C) secure their windows
- (D) buy emergency food(正解)
+ (D) buy emergency food<font color="#dd0000">正解</font>
 下列哪一項沒有建議居民？
 a. 待在屋內。
 b. 關緊門。
@@ -17203,7 +17203,7 @@ d. 買緊急食物。
 Where is this announcement being broadcast?
  (A) on the radio
  (B) on a billboard
- (C) on the television(正解)
+ (C) on the television<font color="#dd0000">正解</font>
  (D) over a loudspeaker
 本則公告在以下何處播放？
 a. 收音機。
@@ -17232,7 +17232,7 @@ Ex. Many passengers on board were waving goodbye to their friends and family on 
  
 What kind of announcement is this?
  (A) a turbulence warning
- (B) a call for emergency help(正解)
+ (B) a call for emergency help<font color="#dd0000">正解</font>
  (C) a welcome announcement
  (D) an advertisement
 本則公告的類型為何？
@@ -17249,7 +17249,7 @@ Where is the man injured?
  (A) his upper leg
  (B) his arm
  (C) his head
- (D) his lower leg(正解)
+ (D) his lower leg<font color="#dd0000">正解</font>
 這位男子的受傷部位為以下何者？
 a. 他的大腿。
 b. 他的手臂。
@@ -17262,7 +17262,7 @@ d. 他的小腿。
  
 Look at the graphic. In which section of the plane was the man when he was injured?
  (A) Section 1
- (B) Section 2(正解)
+ (B) Section 2<font color="#dd0000">正解</font>
  (C) Section 3
  (D) Section 4
 請看圖表。男子受傷的時候在正在飛機的哪個區域？
@@ -17302,7 +17302,7 @@ What time was this traffic announcement made?
  (A) Early in the morning.
  (B) After 8:30pm.
  (C) At 5:23pm.
- (D) Between 5pm and 9pm.(正解)
+ (D) Between 5pm and 9pm.<font color="#dd0000">正解</font>
 本則交通公告於幾點發佈消息？
 a. 一大早。
 b. 晚上八點半後。
@@ -17315,7 +17315,7 @@ d. 下午五點至晚上九點之間。
  
 What do we NOT know about the incident?
  (A) The time the incident occurred.
- (B) How many people were involved.(正解)
+ (B) How many people were involved.<font color="#dd0000">正解</font>
  (C) The location of the incident.
  (D) How many people died as a result of the incident.
 關於本則事故，以下何者是我們無法得知的消息？
@@ -17330,7 +17330,7 @@ d. 有多少人因這次事件而傷亡。
  
 Why is it important for people to know about this incident?
  (A) To teach people about the dangers of drunk-driving.
- (B) So people know to avoid taking driving home on the M1.(正解)
+ (B) So people know to avoid taking driving home on the M1.<font color="#dd0000">正解</font>
  (C) So people can go to take photos of the damaged vehicles.
  (D) So people know that buying a blue car will bring bad luck.
 以下何者是告知民眾本事故的原因？
@@ -17362,7 +17362,7 @@ Where is this event taking place?
  (A) North Warwickshire High School.
  (B) a local sports stadium
  (C) a local leisure centre
- (D) North Warwickshire Primary School.(正解)
+ (D) North Warwickshire Primary School.<font color="#dd0000">正解</font>
 本活動的舉辦地點在以下何處？
 a. 北霍威奇夏爾高中。
 b. 當地的體育館。
@@ -17375,7 +17375,7 @@ d. 北霍威奇夏爾國小。
  
 What's happening right now?
  (A) the awards are being handed out
- (B) a break(正解)
+ (B) a break<font color="#dd0000">正解</font>
  (C) the 40-meter race
  (D) a marching band is playing music
 現在正發生了什麼？
@@ -17392,7 +17392,7 @@ Who is likely to make up the majority of the audience?
  (A) teachers at the school
  (B) government officials
  (C) athletics talent scouts
- (D) family members of the students(正解)
+ (D) family members of the students<font color="#dd0000">正解</font>
 以下何者可能會成為本活動的主要觀眾？
 a. 學校老師。
 b. 政府官員。
@@ -17428,7 +17428,7 @@ Ex. The inbound train is about to depart on Platform 7. 往市區的火車將在
  
 How do the Westwicks feel towards each other?
  (A) They are happy to be married to each other.
- (B) They are tired of their married lives with each other.(正解)
+ (B) They are tired of their married lives with each other.<font color="#dd0000">正解</font>
  (C) They are suspicious of each other.
  (D) They hate each other.
 Westwick夫婦對彼此的感覺如何?
@@ -17443,7 +17443,7 @@ d. 他們互相討厭。
  
 When will the show next be aired?
  (A) next summer
- (B) in October(正解)
+ (B) in October<font color="#dd0000">正解</font>
  (C) in the spring
  (D) tomorrow evening
 這部電視劇何時會接著播出?
@@ -17459,7 +17459,7 @@ d. 明天晚上。
 What indication of the show's popularity is NOT given in the announcement?
  (A) A second season has already been commissioned.
  (B) The show has received great reviews.
- (C) The main actors in the show have both won awards.(正解)
+ (C) The main actors in the show have both won awards.<font color="#dd0000">正解</font>
  (D) The show is about to be aired in a second country.
 關於該劇情的受歡迎程度，下列何者非本公告中提到的內容?
 a. 第二季已經被籌畫開拍。
@@ -17493,7 +17493,7 @@ When is this announcement being made?
  (A) at the start of the working day
  (B) at the end of a meeting
  (C) during the workers' lunch break
- (D) at the start of a meeting(正解)
+ (D) at the start of a meeting<font color="#dd0000">正解</font>
 本則消息何時發佈?
 a. 工作日開始。
 b. 會議要結束時。
@@ -17506,7 +17506,7 @@ d. 會議開始時。
  
 What do we know about Greg's injury?
  (A) It is only a minor injury.
- (B) The injury is very severe.(正解)
+ (B) The injury is very severe.<font color="#dd0000">正解</font>
  (C) The injury will involve a short recovery period.
  (D) The injury will prevent him from ever working again.
 關於Greg的受傷情況，以下何者是我們所得知的?
@@ -17523,7 +17523,7 @@ When did the injury occur?
  (A) on a Wednesday evening
  (B) that morning before work
  (C) the previous week
- (D) the previous evening(正解)
+ (D) the previous evening<font color="#dd0000">正解</font>
 這次的受傷事件何時發生?
 a. 星期三傍晚。
 b. 上班前的那天早上。
@@ -17556,7 +17556,7 @@ Ex. In her speech, the Native American mentioned that she was proud to be who sh
 Why might the call be put on hold?
  (A) All the advisors are currently on their lunch breaks.
  (B) The staff members are mostly untrained and unprofessional.
- (C) There are currently a lot of people trying to call the bank.(正解)
+ (C) There are currently a lot of people trying to call the bank.<font color="#dd0000">正解</font>
  (D) The bank is understaffed.
 以下選項何者可能是來電會被保留的原因？
 a. 所有的服務人員正在午休。
@@ -17569,7 +17569,7 @@ d. 銀行的人手不足。
 00:0000:05
  
 What button should you press if your bank card has stopped working?
- (A) one(正解)
+ (A) one<font color="#dd0000">正解</font>
  (B) two
  (C) three
  (D) four
@@ -17585,7 +17585,7 @@ d. 四。
  
 What do we know about this bank?
  (A) They have customers all over the world.
- (B) They are based in the UK.(正解)
+ (B) They are based in the UK.<font color="#dd0000">正解</font>
  (C) It is a new bank.
  (D) They are one of the UK's most popular banks.
 我們可以得知這間銀行的相關內容？
@@ -17624,7 +17624,7 @@ Ex. He was not in a fit shape to understand what everyone was talking about. 他
  
 Why wasn't the head pilot able to land the plane?
  (A) He had a heart attack.
- (B) He went into shock.(正解)
+ (B) He went into shock.<font color="#dd0000">正解</font>
  (C) He suffered sudden blindness.
  (D) He died.
 機長為何無法降落這架飛機？
@@ -17639,7 +17639,7 @@ d. 他死了。
  
 What effect did the crash have on the passengers?
  (A) Most of the passengers were hurt.
- (B) Some passengers were hurt.(正解)
+ (B) Some passengers were hurt.<font color="#dd0000">正解</font>
  (C) All of the passengers died.
  (D) All of the passengers were unharmed.
 這場事故對乘客有什麼影響？
@@ -17655,7 +17655,7 @@ d. 所有的乘客都安然無恙。
 How will Steven Naismith be viewed by the public following this incident?
  (A) He will be viewed as a normal person.
  (B) He will be hated.
- (C) He will be viewed as a hero.(正解)
+ (C) He will be viewed as a hero.<font color="#dd0000">正解</font>
  (D) No one will know who he is.
 這場事故發生後，民眾將會如何看待Steven Naismith？
 a. 他會被當成一般人。
@@ -17724,7 +17724,7 @@ Ex. I don't want to take up too much of your time, but can you please help me to
 00:0000:03
  
 When is this announcement being made?
- (A) in the morning(正解)
+ (A) in the morning<font color="#dd0000">正解</font>
  (B) in the afternoon
  (C) at lunchtime
  (D) in the evening
@@ -17740,7 +17740,7 @@ d. 晚上
  
 Look at the graphic. Who is in charge of task #3?
  (A) all team members
- (B) team leaders(正解)
+ (B) team leaders<font color="#dd0000">正解</font>
  (C) chief of the fire department
  (D) floor managers
 請見圖表。以下何人負責任務3？
@@ -17754,7 +17754,7 @@ d. 樓層經理
 00:0000:05
  
 What should the workers do with their briefcases when the alarm sounds?
- (A) leave them in the office(正解)
+ (A) leave them in the office<font color="#dd0000">正解</font>
  (B) throw them out of the window
  (C) take them outside
  (D) burn them
@@ -17787,7 +17787,7 @@ Ex. One of the audience members will be invited up to the stage to draw the winn
 00:0000:02
  
 How many people is the prize for?
- (A) 2(正解)
+ (A) 2<font color="#dd0000">正解</font>
  (B) 1
  (C) 3
  (D) 4
@@ -17805,7 +17805,7 @@ Where would you hear this announcement?
  (A) on the television
  (B) on the radio
  (C) when talking to a friend
- (D) over the telephone(正解)
+ (D) over the telephone<font color="#dd0000">正解</font>
 你會在哪裡聽到這則通告？
 a. 電視上
 b. 收音機裡
@@ -17819,7 +17819,7 @@ d. 電話裡
 How much does the winner have to pay to go on the cruise?
  (A) one hundred dollars
  (B) one dollar
- (C) nothing(正解)
+ (C) nothing<font color="#dd0000">正解</font>
  (D) only the cost of the plane ticket
 得獎者必須交多少錢才能去搭這個遊輪？
 a. 一百美金
@@ -17852,7 +17852,7 @@ Ex. We should be on our way out in the next couple minutes; otherwise, we will m
 00:0000:02
  
 Where would you hear this announcement?
- (A) in a stadium(正解)
+ (A) in a stadium<font color="#dd0000">正解</font>
  (B) on the television
  (C) in a store
  (D) over the telephone
@@ -17870,7 +17870,7 @@ Look at the graphic. Where is the Ford Mondeo currently parked?
  (A) area #1
  (B) area #2
  (C) area #3
- (D) area #4(正解)
+ (D) area #4<font color="#dd0000">正解</font>
 請見圖表。這台Ford Mondeo目前停在以下何處？
 a. 一區
 b. 二區
@@ -17884,7 +17884,7 @@ d. 四區
 How much warning time is the car owner given to move their car?
  (A) five minutes
  (B) ten hours
- (C) ten minutes(正解)
+ (C) ten minutes<font color="#dd0000">正解</font>
  (D) one day
 車主有多少的警告時間可以移走他的轎車？
 a. 五分鐘
@@ -17951,7 +17951,7 @@ Ex. The new colleague talks as if/as though he were my boss. 新同事講話得�
 00:0000:03
  
 What is this announcement advertising?
- (A) a store which sells many things(正解)
+ (A) a store which sells many things<font color="#dd0000">正解</font>
  (B) a food and drink store
  (C) a medical supplies store
  (D) an electrical appliance store
@@ -17968,7 +17968,7 @@ d. 一間電器用品店。
 Look at the graphic. What does the number 50 mean?
  (A) 50 items are on sale today.
  (B) Everything is 50% off.
- (C) The store has been open for 50 years. (正解)
+ (C) The store has been open for 50 years. <font color="#dd0000">正解</font>
  (D) The store opened its 50th branch.
 請見圖表。數字50的意思為何？
 a. 今天有50件商品在特價。
@@ -17982,7 +17982,7 @@ d. 這間店的第五十間店新開幕。
  
 When is this sale taking place?
  (A) winter
- (B) summer(正解)
+ (B) summer<font color="#dd0000">正解</font>
  (C) autumn
  (D) spring
 這個促銷活動在以下何時舉行？
@@ -18021,7 +18021,7 @@ Ex. The female executive mentioned that she had worked her way up from the botto
 00:0000:02
  
 What kind of announcement is this?
- (A) a warning about the content of a show (正解)
+ (A) a warning about the content of a show <font color="#dd0000">正解</font>
  (B) a severe weather warning
  (C) an advertisement for a television show
  (D) a news bulletin
@@ -18038,7 +18038,7 @@ d. 新聞快報
 When is this announcement being made?
  (A) after a television show
  (B) during a television show
- (C) before a television show(正解)
+ (C) before a television show<font color="#dd0000">正解</font>
  (D) before every television show that day
 這則訊息會在以下那一個時段播出？
 a. 電視節目播出後
@@ -18054,7 +18054,7 @@ Which body part is NOT affected by drug taking?
  (A) the brain
  (B) the lungs
  (C) the heart
- (D) the ankles (正解)
+ (D) the ankles <font color="#dd0000">正解</font>
 以下身體的哪個部份不受使用毒品影響？
 a. 腦部
 b. 肺部
@@ -18088,7 +18088,7 @@ Ex. In all honesty, I was speechless and didn't know how to react to his proposa
 00:0000:02
  
 What occasion is this?
- (A) a retirement celebration(正解)
+ (A) a retirement celebration<font color="#dd0000">正解</font>
  (B) a birthday party
  (C) a funeral
  (D) an anniversary
@@ -18106,7 +18106,7 @@ How does the speaker feel about Donny Donaldson?
  (A) He is in love with him.
  (B) He thinks Donny is very professional.
  (C) He thinks Donny is dishonest.
- (D) He thinks Donny is a great friend.(正解)
+ (D) He thinks Donny is a great friend.<font color="#dd0000">正解</font>
 以下選項何者是談話者對Donny Donaldson的感覺？
 a. 他愛上了他。
 b. 他覺得Donny非常專業。
@@ -18121,7 +18121,7 @@ What can we infer about Donny?
  (A) He is very young.
  (B) He has a lot of professional qualifications.
  (C) He has a wife and kids.
- (D) He is very healthy.(正解)
+ (D) He is very healthy.<font color="#dd0000">正解</font>
 關於Donny我們可以做什麼推論？
 a. 他很年輕。
 b. 他擁有許多專業證照。
@@ -18155,7 +18155,7 @@ documentary n. 紀錄片
 Who was present when John Jackson broke the world record?
  (A) only a doctor
  (B) he was alone
- (C) a large crowd(正解)
+ (C) a large crowd<font color="#dd0000">正解</font>
  (D) his wife
 當John Jackson打破世界紀錄時以下何者在場？
 a. 只有一位醫生
@@ -18168,7 +18168,7 @@ d. 他的太太。
 00:0000:05
  
 What after effects did the record attempt have on John Jackson's eyes?
- (A) There were no long term effects.(正解)
+ (A) There were no long term effects.<font color="#dd0000">正解</font>
  (B) He died.
  (C) He went blind.
  (D) He had to wear glasses for the next few days.
@@ -18184,7 +18184,7 @@ d. 他接下來的幾天都必須戴眼鏡。
  
 On what kind of television program would you hear this announcement?
  (A) a drama series
- (B) a news program(正解)
+ (B) a news program<font color="#dd0000">正解</font>
  (C) a sports highlights show
  (D) a documentary
 在以下什麼類型的電視節目上可以聽到這則消息？
@@ -18218,7 +18218,7 @@ Ex. The presidential candidates will arrive at the city hall in no time. 總統�
 00:0000:03
  
 Where can you buy a bottle of Zap?
- (A) from a supermarket(正解)
+ (A) from a supermarket<font color="#dd0000">正解</font>
  (B) from a fruit shop
  (C) from an airport
  (D) from a movie theatre
@@ -18235,7 +18235,7 @@ d. 電影院
 What kind of announcement is this?
  (A) an emergency warning
  (B) an after dinner speech
- (C) an advertisement(正解)
+ (C) an advertisement<font color="#dd0000">正解</font>
  (D) a political party broadcast
 這是以下哪種類別的通知？
 a. 緊急警報
@@ -18251,7 +18251,7 @@ What is the main function of Zap?
  (A) to zap mosquitoes in your bathroom
  (B) to keep you occupied while using the toilet
  (C) to make your toilet flush better
- (D) to clean the inside of toilets (正解)
+ (D) to clean the inside of toilets <font color="#dd0000">正解</font>
 以下何者是Zap的主要功用？
 a. 殺光你浴室裡的蚊子
 b. 讓你在上馬桶時不會閒著
@@ -18282,7 +18282,7 @@ What kind of performance is going to be given?
  (A) a concert
  (B) a live poetry reading
  (C) a comedy performance
- (D) a book reading(正解)
+ (D) a book reading<font color="#dd0000">正解</font>
 以下什麼類型的表演即將進行？
 a. 音樂會
 b. 現場朗讀詩
@@ -18297,7 +18297,7 @@ Where is the performance taking place?
  (A) at a school
  (B) in a restaurant
  (C) in a park
- (D) in a bookstore(正解)
+ (D) in a bookstore<font color="#dd0000">正解</font>
 以下何處是這個演出進行的地點？
 a. 學校
 b. 餐廳
@@ -18310,7 +18310,7 @@ d. 書店
  
 What can we infer about Damian Cartwright?
  (A) He is very old.
- (B) He is a very talented writer.(正解)
+ (B) He is a very talented writer.<font color="#dd0000">正解</font>
  (C) He has dozens of books.
  (D) He is not very sociable.
 關於Damian Cartwright我們可以作什麼推論？
@@ -18354,7 +18354,7 @@ Ex. The carpenter rushed to the next construction site. 木工匠匆忙趕到下
  
 Where is this announcement being made?
  (A) at a news station
- (B) in an airport(正解)
+ (B) in an airport<font color="#dd0000">正解</font>
  (C) at a weather center
  (D) at a bus station
 這則訊息是在以下何處廣播？
@@ -18370,7 +18370,7 @@ d. 公車站
 Why are they making this announcement?
  (A) The restaurants have funded the announcement to boost sales.
  (B) The airport wants to reduce foot traffic.
- (C) Passengers must be informed about flight delays. (正解)
+ (C) Passengers must be informed about flight delays. <font color="#dd0000">正解</font>
  (D) The airport is going out of business.
 他們為什麼要廣播這則訊息？
 a. 這家餐廳資助這則廣播以增進銷售業績。
@@ -18383,7 +18383,7 @@ d. 機場將關門大吉。
 00:0000:04
  
 What does the announcer reinforce at the end of the announcement?
- (A) to be patient(正解)
+ (A) to be patient<font color="#dd0000">正解</font>
  (B) the location of the information desks
  (C) safety procedures
  (D) the current weather conditions
@@ -18422,7 +18422,7 @@ Which county is this NOT a warning for?
  (A) Douglas County
  (B) Biltmore County
  (C) Piston County
- (D) Muscle Shoals County(正解)
+ (D) Muscle Shoals County<font color="#dd0000">正解</font>
 以下哪一個郡不在警告之列？
 a. 道格拉斯郡
 b. 比特莫郡
@@ -18434,7 +18434,7 @@ d. 麻首郡
 00:0000:03
  
 If you are not at home, what should you do?
- (A) Go to your nearest tornado shelter.(正解)
+ (A) Go to your nearest tornado shelter.<font color="#dd0000">正解</font>
  (B) Stay in your car.
  (C) Go to Muscle Shoals.
  (D) Stay where you are.
@@ -18450,7 +18450,7 @@ d. 留在原地。
  
 What can we infer about this announcement?
  (A) The warning is not important.
- (B) The warning is urgent.(正解)
+ (B) The warning is urgent.<font color="#dd0000">正解</font>
  (C) The tornado will eventually pass.
  (D) The tornado is taking its time.
 關於這則發布的消息我們可以作以下何者推論？
@@ -18481,7 +18481,7 @@ regretful adj. 後悔的
 Where will the new branch be?
  (A) Nevada
  (B) Buffalo, New York
- (C) Burlington, Iowa(正解)
+ (C) Burlington, Iowa<font color="#dd0000">正解</font>
  (D) Columbus, Georgia
 新分公司會設在哪裡？
 a. 內華達州 
@@ -18495,7 +18495,7 @@ d. 喬治亞州的哥倫布市
  
 When will the new branch be opening?
  (A) in five days
- (B) in one month(正解)
+ (B) in one month<font color="#dd0000">正解</font>
  (C) in one day
  (D) in two months
 新分公司會在何時開幕？
@@ -18509,7 +18509,7 @@ d. 兩個月內
 00:0000:04
  
 What kind of outlook does the speaker have at the end of the announcement?
- (A) hopeful(正解)
+ (A) hopeful<font color="#dd0000">正解</font>
  (B) nervous
  (C) regretful
  (D) proud
@@ -18540,7 +18540,7 @@ Ex. The island is surrounded by shallow water, which often sparkles in the sunse
  
 Where did Joanna Bimbley win a trip to?
  (A) a spa
- (B) Bermuda(正解)
+ (B) Bermuda<font color="#dd0000">正解</font>
  (C) a five-star restaurant
  (D) the Bahamas
 Joanna Bimbley贏得的行程要去以何處？
@@ -18556,7 +18556,7 @@ d. 巴哈馬
 Who is giving this prize away?
  (A) The Reefs Hotel
  (B) Alonzo Benatar
- (C) Wanderlust Travel Agency(正解)
+ (C) Wanderlust Travel Agency<font color="#dd0000">正解</font>
  (D) the president of Bermuda
 以下何者給予這個獎品？
 a. Reefs Hotel
@@ -18570,7 +18570,7 @@ d. 百慕達的總理
  
 What happens if she doesn't pick up her prize package?
  (A) They will give it to the second place winner.
- (B) They choose a new winner.(正解)
+ (B) They choose a new winner.<font color="#dd0000">正解</font>
  (C) They will continue to contact her.
  (D) No one will get the prize.
 如果她沒有領取她的套裝行程獎品會怎樣？
@@ -18676,7 +18676,7 @@ Ex. The machine broke down after running non-stop for more than three days. 機�
 00:0000:06
  
 Look at the graphic. Which product is this advertisement for?
- (A) Bye Bye Fat(正解)
+ (A) Bye Bye Fat<font color="#dd0000">正解</font>
  (B) Fat Burner Delight
  (C) Slim Powder
  (D) Slim & Healthy
@@ -18694,7 +18694,7 @@ What are the side effects of this product?
  (A) You will feel sleepy.
  (B) It will make you hungry.
  (C) It will make you sick.
- (D) There are no significant ones. (正解)
+ (D) There are no significant ones. <font color="#dd0000">正解</font>
 這個藥丸有何副作用？
 a. 你會覺得很睏。.
 b. 會讓你覺得飢餓。
@@ -18706,7 +18706,7 @@ d. 沒有明顯的副作用。
 00:0000:03
  
 How does this product help you lose weight?
- (A) It helps digest fat and make you want to eat less. (正解)
+ (A) It helps digest fat and make you want to eat less. <font color="#dd0000">正解</font>
  (B) It gives you the vitamins that you need.
  (C) It actually doesn't make you lose weight.
  (D) It encourages you to go to the gym.
@@ -18738,7 +18738,7 @@ code n. 規則，規範，代碼，密碼
  
 What is the topic of this talk?
  (A) recent complaints
- (B) a new piece of equipment(正解)
+ (B) a new piece of equipment<font color="#dd0000">正解</font>
  (C) closing time
  (D) employee attendance sheets
 這段談話的主旨為以下何者？
@@ -18755,7 +18755,7 @@ What time will the sessions begin?
  (A) 10am
  (B) 9am
  (C) 9:30am
- (D) 8:30am(正解)
+ (D) 8:30am<font color="#dd0000">正解</font>
 講習何時開始？
 a. 上午十點
 b. 上午九點
@@ -18769,7 +18769,7 @@ d. 上午八點半
 What will happen if you do not show up to one of the sessions?
  (A) Your lunch break will only be thirty minutes long.
  (B) Nothing will happen.
- (C) You will not receive your code to make copies.(正解)
+ (C) You will not receive your code to make copies.<font color="#dd0000">正解</font>
  (D) You can make up the session the next day.
 如果你一場都沒參加會發生以下何事？
 a. 你的中午用餐休息時間只有三十分鐘。
@@ -18875,7 +18875,7 @@ Ex. Everyone in town dressed up in their finest outfits to attend the ball at th
  
 Where will the party be?
  (A) in a haunted house
- (B) in a company warehouse(正解)
+ (B) in a company warehouse<font color="#dd0000">正解</font>
  (C) in the office
  (D) at a restaurant
 派對會在哪裡舉行？
@@ -18891,7 +18891,7 @@ d. 在一家餐廳
 What will NOT be at the Halloween party?
  (A) games
  (B) a haunted maze
- (C) ghost stories(正解)
+ (C) ghost stories<font color="#dd0000">正解</font>
  (D) refreshments
 以下何者是萬聖節派對沒有的？
 a. 遊戲
@@ -18905,7 +18905,7 @@ d. 茶點
  
 Look at the graphic. What should people write on the lines at the bottom?
  (A) their costume ideas
- (B) their names(正解)
+ (B) their names<font color="#dd0000">正解</font>
  (C) yes or no
  (D) their phone numbers
 請看圖表。人們應該在底線處填寫什麼內容？
@@ -18966,7 +18966,7 @@ Ex. The city mayor will be held responsible for the failure of the new policy. �
 What part of the office does this announcement concern?
  (A) the conference room
  (B) every part of the office
- (C) the kitchen(正解)
+ (C) the kitchen<font color="#dd0000">正解</font>
  (D) It is not in the office.
 這則公告與辦公室的哪個部分有關？
 a. 會議室
@@ -18981,7 +18981,7 @@ d. 與辦公室無關。
 Look at the graphic. Where is this note found?
  (A) on the fridge
  (B) on the toaster oven
- (C) on the microwave(正解)
+ (C) on the microwave<font color="#dd0000">正解</font>
  (D) on the hot water boiler
 請看圖表。本則公告用於以下何處？
 a. 冰箱
@@ -18994,7 +18994,7 @@ d. 燒水壺
 00:0000:05
  
 What will happen if people do not follow the directions of the speaker?
- (A) A clean-up system will be put into place(正解)
+ (A) A clean-up system will be put into place<font color="#dd0000">正解</font>
  (B) Nothing will happen.
  (C) They will no longer be able to eat in the office.
  (D) They will not receive bonuses.
@@ -19031,7 +19031,7 @@ Ex. I can take up to nine people in my vehicle. 我的汽車最多能坐九人�
 What is the purpose of this announcement?
  (A) to let people know where the new mattress store is
  (B) to inform consumers what kind of mattresses they have
- (C) to tell people about their clearance sale(正解)
+ (C) to tell people about their clearance sale<font color="#dd0000">正解</font>
  (D) to tell people when the new mattress store will open
 發佈這則訊息的目的為以下何者？
 a. 讓大家知道這家新的床墊賣場在哪裡
@@ -19047,7 +19047,7 @@ What happens if you arrive at the store less than thirty minutes after hearing t
  (A) You will get an additional 10% off your entire purchase.
  (B) You will get 50% off a mattress.
  (C) You will get one mattress for free.
- (D) You will get an additional 20% off your entire purchase.(正解)
+ (D) You will get an additional 20% off your entire purchase.<font color="#dd0000">正解</font>
 如果你在聽到這則訊息三十分鐘內到店裡消費的話會發生以下何種情況？
 a. 你可以額外獲得總金額一成的折扣。
 b. 你可以半價購得一張床墊。
@@ -19059,7 +19059,7 @@ d. 你可以額外獲得總金額的二成折扣。
 00:0000:04
  
 What information is not provided about the shop?
- (A) the sales rep's name(正解)
+ (A) the sales rep's name<font color="#dd0000">正解</font>
  (B) the location
  (C) nearby businesses
  (D) the shop's name
@@ -19091,7 +19091,7 @@ Ex. The treasure found underwater now belongs to the government of Spain. 水底
 00:0000:03
  
 Who does this voicemail recording belong to?
- (A) Daniel Wells(正解)
+ (A) Daniel Wells<font color="#dd0000">正解</font>
  (B) Giraffe Publishing
  (C) the assistant
  (D) Jessica Beasley
@@ -19107,7 +19107,7 @@ d. Jessica Beasley
  
 When will the speaker return to work?
  (A) in a few days
- (B) January 7, 2015(正解)
+ (B) January 7, 2015<font color="#dd0000">正解</font>
  (C) the information is not given
  (D) in seven days
 說話者何時會返回辦公室上班？
@@ -19123,7 +19123,7 @@ d. 七天內
 Who can we assume might be calling this office?
  (A) a zookeeper
  (B) a giraffe specialist
- (C) an author(正解)
+ (C) an author<font color="#dd0000">正解</font>
  (D) a doctor
 我們可以猜測是誰致電辦公室？
 a. 一名動物園管理員
@@ -19141,7 +19141,7 @@ Question 1.
  
 ____________ Kelly R. Murji, professor of neurosciences at the University of Wellington, the study of neural networks is the most promising new branch of neuroscience.
  (A) In contrast to
- (B) According to(正解)
+ (B) According to<font color="#dd0000">正解</font>
  (C) In accordance to
  (D) In comparison to
 根據威靈頓大學的神經科學教授Kelly R. Murji，研究神經網路是神經科裡最有前景的新科系。
@@ -19158,7 +19158,7 @@ Question 2.
 ____________ he had just filled the car, the gas meter still said it was empty.
  (A) Despite
  (B) Even
- (C) Even though(正解)
+ (C) Even though<font color="#dd0000">正解</font>
  (D) Since
 雖然他剛把車子加滿油，油表仍然顯示空箱已空。
 a.儘管、不論(介詞)
@@ -19166,13 +19166,13 @@ b.甚至(副詞)
 c.雖然、即使(連接詞)
 d.自….以來(介詞)、由於(連接詞)
 
-解析：本句前後兩句語意相反，前句【filled the car車子剛加滿油】後句【it was empty還是空的】，選(c)表【雖然、即使】與選項(a)表【儘管】都可使用在連接語氣相反的子句，但選項(a)【despite=in spite of】為介係詞用法，後接名詞；選項(c)後接子句。從空格後方【he(主詞) had just filled(動詞) the car】可判斷本句為子句，故選項(c)為正解。
+解析：本句前後兩句語意相反，前句【filled the car車子剛加滿油】後句【it was empty還是空的】，選(c)表【雖然、即使】與選項(a)表【儘管】都可使用在連接語氣相反的子句，但選項(a)【despite=in spite of】為介係詞用法，後接名詞；選項(c)後接子句。從空格後方【he(主詞) had just filled(動詞) the car】可判斷本句為子句，故選項(c)<font color="#dd0000">正解</font>
  
 答錯
 Question 3.	 
  
 After the big merger, several positions were ____________ and half the office workers were laid off.
- (A) cut(正解)
+ (A) cut<font color="#dd0000">正解</font>
  (B) broke
  (C) snapped
  (D) disappeared
@@ -19182,7 +19182,7 @@ b. 打破 (動詞)
 c. 拉斷 (動詞)
 d. 消失(動詞)
 
-解析：根據關鍵單字【merger合併】【were laid off被裁員】可判斷主詞【several positions數個職位】會愈變愈少，故可判斷選項(a)為正解。其餘選項意思與題意不符。
+解析：根據關鍵單字【merger合併】【were laid off被裁員】可判斷主詞【several positions數個職位】會愈變愈少，故可判斷選項(a)<font color="#dd0000">正解</font>其餘選項意思與題意不符。
  
 答錯
 Question 4.	 
@@ -19190,7 +19190,7 @@ Question 4.
 The karate instructor made the students ____________ to build up their strength and flexibility.
  (A) to do some moves
  (B) done some moves
- (C) do some moves(正解)
+ (C) do some moves<font color="#dd0000">正解</font>
  (D) doing some moves
 空手道教練要學生做一些提升自己的強度與柔軟度的動作。
 a. 不定詞to+原型動詞do
@@ -19198,13 +19198,13 @@ b. do的過去分詞用法
 c. do的原型動詞用法
 d. do的現在分詞用法
 
-解析：句意為主動語氣時，使役動詞【have, make, let】後接原形動詞，故選(c)為正解。為被動語氣時，使役動詞後接過去分詞V-pp。由本句的使役動詞【made】後方的受詞【the students】與動詞【do】的關係可判斷兩者為主動，故動詞【do】為原形動詞，選項(c)為正解。
+解析：句意為主動語氣時，使役動詞【have, make, let】後接原形動詞，故選(c)<font color="#dd0000">正解</font>為被動語氣時，使役動詞後接過去分詞V-pp。由本句的使役動詞【made】後方的受詞【the students】與動詞【do】的關係可判斷兩者為主動，故動詞【do】為原形動詞，選項(c)<font color="#dd0000">正解</font>
  
 答錯
 Question 5.	 
  
 Having been in a ____________ relationship for more than a decade, Brett and Yoko finally decided to get married.
- (A) committed(正解)
+ (A) committed<font color="#dd0000">正解</font>
  (B) commented
  (C) recommended
  (D) commercialized
@@ -19221,7 +19221,7 @@ Question 6.
  
 ____________ for the management position were asked to submit their CVs no later than the 5 December 2012.
  (A) Apply
- (B) Applicants(正解)
+ (B) Applicants<font color="#dd0000">正解</font>
  (C) Applications
  (D) Applicators
 應徵管理職位者最晚於2012年12月5日需繳交個人履歷表。
@@ -19230,7 +19230,7 @@ b. 申請人 (名詞複數)
 c. 申請表 (名詞複數)
 d. 塗藥器 (名詞複數)
 
-解析：根據空格後方的關鍵單字【for the management position管理職位】及動詞【were asked被要求】可判斷前方主詞為人，主詞為人才能去申請管理職位，故選項(b)符合題意為正解。
+解析：根據空格後方的關鍵單字【for the management position管理職位】及動詞【were asked被要求】可判斷前方主詞為人，主詞為人才能去申請管理職位，故選項(b)符合題意<font color="#dd0000">正解</font>
  
 答錯
 Question 7.	 
@@ -19239,14 +19239,14 @@ According to the directions, this medicine should be taken ____________ a glass 
  (A) for
  (B) by
  (C) around
- (D) with(正解)
+ (D) with<font color="#dd0000">正解</font>
 依藥物說明，這種藥必須連同溫水一起服用。
 a. 因為(介係詞)
 b. 藉由…(方法) (介係詞)
 c. 大約、大概(介係詞)
 d. 和、與、有、用(介係詞)
 
-解析：根據題意，服用藥物需搭配溫水服下，選項中只有(d)可當【搭配、附加…、有、用、和、連同…一起】的意思，其餘選項並無此意，故(d)為正解。
+解析：根據題意，服用藥物需搭配溫水服下，選項中只有(d)可當【搭配、附加…、有、用、和、連同…一起】的意思，其餘選項並無此意，故(d)<font color="#dd0000">正解</font>
  
 答對
 Question 8.	 
@@ -19254,7 +19254,7 @@ Question 8.
 Following the seven-car accident, over ten people ____________ to the local hospital.
  (A) took
  (B) taken
- (C) were taken(正解)
+ (C) were taken<font color="#dd0000">正解</font>
  (D) are taking
 由於七部汽車連環撞的意外，造成超過十人被送到當地的醫院。
 a. 過去式
@@ -19262,7 +19262,7 @@ b. 過去分詞
 c. 過去式的被動語氣(主詞複數)
 d. 現在進行式(主詞複數)
 
-解析：根據句意，後句【主詞over ten people】是被送到醫院裡的，故本句為被動語氣Be-V+V-pp，故選(c)為正解。
+解析：根據句意，後句【主詞over ten people】是被送到醫院裡的，故本句為被動語氣Be-V+V-pp，故選(c)<font color="#dd0000">正解</font>
  
 答錯
 Question 9.	 
@@ -19271,14 +19271,14 @@ The ____________ of the audience into discussion groups will take place after th
  (A) divide
  (B) divisive
  (C) dividend
- (D) division(正解)
+ (D) division<font color="#dd0000">正解</font>
 第一場演講後會將觀眾分組進行討論會。
 a. 區分 (動詞) 
 b. 區分的 (形容詞)
 c. 紅利 (名詞)
 d. 分配、分開 (名詞)
 
-解析：空格前的定冠詞【the】後需接名詞，故只有選項(d)為正解。選項(c)也是名詞，但意思與本句不符。
+解析：空格前的定冠詞【the】後需接名詞，故只有選項(d)<font color="#dd0000">正解</font>選項(c)也是名詞，但意思與本句不符。
 
  
 答對
@@ -19286,7 +19286,7 @@ Question 10.
  
 If the customer wants to pay with a credit card, just take the card and ____________ it with this device.
  (A) stripe
- (B) swipe(正解)
+ (B) swipe<font color="#dd0000">正解</font>
  (C) spike
  (D) snipe
 假如顧客想要用信用卡付款，只要用這台裝置刷卡即可。
@@ -19303,7 +19303,7 @@ Question 11.
 Don't forget to ____________ your back pills after you eat dinner, Grandpa!
  (A) sniff
  (B) drink
- (C) take(正解)
+ (C) take<font color="#dd0000">正解</font>
  (D) eat
 爺爺！晚飯後別忘記吃治療背痛的藥丸！
 a. 嗅、聞(動詞)
@@ -19311,14 +19311,14 @@ b. 喝 (動詞)
 c. 服藥(動詞)
 d. 吃 (動詞)
 
-解析：【吃藥】的常用語法為【take…(顆粒狀藥丸類)】，【擦藥】的常用語法則為【apply(藥膏乳液類)on(身體部位)】。根據空格後方的關鍵單字【pill藥丸】可得知選項(c)為正解。選項(b)適用於【液狀】的藥物，與本句敘述不符。
+解析：【吃藥】的常用語法為【take…(顆粒狀藥丸類)】，【擦藥】的常用語法則為【apply(藥膏乳液類)on(身體部位)】。根據空格後方的關鍵單字【pill藥丸】可得知選項(c)<font color="#dd0000">正解</font>選項(b)適用於【液狀】的藥物，與本句敘述不符。
  
 答對
 Question 12.	 
  
 Don't forget to collect all the bags that don't have any holes in them and are still ____________.
  (A) user
- (B) usable(正解)
+ (B) usable<font color="#dd0000">正解</font>
  (C) useless
  (D) used
 別忘了將所有沒有破洞及依然可使用的袋子收集起來。
@@ -19327,14 +19327,14 @@ b. 可用的 (形容詞)
 c. 無用的 (形容詞)
 d. 用過的、二手的 (形容詞)
 
-解析：空格處用來修飾後句受詞【all the bags所有的袋子】，受詞為名詞用法故需選擇形容詞來修飾名詞，故選項(b)為正解。選項(c)(d)同為形容詞，但意義不符合本句。
+解析：空格處用來修飾後句受詞【all the bags所有的袋子】，受詞為名詞用法故需選擇形容詞來修飾名詞，故選項(b)<font color="#dd0000">正解</font>選項(c)(d)同為形容詞，但意義不符合本句。
  
 答對
 Question 13.	 
  
 The only way I can finish this project on time is to concentrate ____________ completing all these charts and not get distracted by all the noise outside.
  (A) in
- (B) on(正解)
+ (B) on<font color="#dd0000">正解</font>
  (C) by
  (D) for
 唯一讓我可以如期完成這個計畫的方法是專注完成這些表格且不被外面的聲音干擾。
@@ -19343,14 +19343,14 @@ b. 在..上面/部分
 c. 藉由…(方法)
 d. 為了…(原因)
 
-解析：動詞【concentrate專注於】為不及物動詞，需接介係詞【on】才能接受詞，故選項(b)為正解。其他選項的介係詞皆不可搭配動詞【concentrate專注於】使用。
+解析：動詞【concentrate專注於】為不及物動詞，需接介係詞【on】才能接受詞，故選項(b)<font color="#dd0000">正解</font>其他選項的介係詞皆不可搭配動詞【concentrate專注於】使用。
 
  
 答對
 Question 14.	 
  
 The last time I ____________ in the city marathon was so long ago that I can't even remember it.
- (A) participated(正解)
+ (A) participated<font color="#dd0000">正解</font>
  (B) would participate
  (C) will participate
  (D) participate
@@ -19360,14 +19360,14 @@ b. 過去式助動詞+原型動詞 (會參加)
 c. 助動詞+原型動詞 (將會參加)
 d. 原型動詞 (參加)
 
-解析：根據時間副詞【The last time上一次】可判斷前句為過去式，故選(a)為正解。
+解析：根據時間副詞【The last time上一次】可判斷前句為過去式，故選(a)<font color="#dd0000">正解</font>
  
 答錯
 Question 15.	 
  
 First, we'd like to thank you for your ____________ on the Jack Steels case.
  (A) cooperate
- (B) cooperation(正解)
+ (B) cooperation<font color="#dd0000">正解</font>
  (C) conclusion
  (D) contamination
 首先，非常感謝你在Jack Steel案子上的協助。
@@ -19376,13 +19376,13 @@ b. 合作 (名詞)
 c. 結論、推論 (名詞)
 d. 汙染 (名詞)
 
-解析：空格前的所有格【your】後接名詞，故只有選項(b)符合本句句意為正解。其餘選項皆與本句句意不符。
+解析：空格前的所有格【your】後接名詞，故只有選項(b)符合本句句意<font color="#dd0000">正解</font>其餘選項皆與本句句意不符。
  
 答錯
 Question 16.	 
  
 To ____________ exactly did you mail your application for the government subsidy?
- (A) whom(正解)
+ (A) whom<font color="#dd0000">正解</font>
  (B) who
  (C) whose
  (D) which
@@ -19392,7 +19392,7 @@ b. 關係代名詞(先行詞為人)的主詞用法
 c. 關係代名詞(先行詞為人/非人接可)的所有格用法
 d. 關係代名詞(先行詞為非人)的主詞用法
 
-解析：空格前的不定詞【to】後接【受詞】，選項(b)的疑問詞who為主詞用法，需選擇選項(a)為受詞用法為正解。
+解析：空格前的不定詞【to】後接【受詞】，選項(b)的疑問詞who為主詞用法，需選擇選項(a)為受詞用法<font color="#dd0000">正解</font>
  
 答對
 Question 17.	 
@@ -19400,7 +19400,7 @@ Question 17.
 The value of the US dollar has been ____________ steadily since the end of last month.
  (A) downing
  (B) downsizing
- (C) decreasing(正解)
+ (C) decreasing<font color="#dd0000">正解</font>
  (D) narrowing
 自上個月底以來，美元價值已在趨緩。
 a. 向下 (動詞)
@@ -19408,13 +19408,13 @@ b. 規模縮小 (動詞)
 c. 減少 (動詞)
 d. 變窄 (動詞)
 
-解析：本句主詞為【The value of the US dollar美元的價值】可判斷價值的高低可增加或減小，除選項(c)外其餘選項意思皆不符，故為正解。
+解析：本句主詞為【The value of the US dollar美元的價值】可判斷價值的高低可增加或減小，除選項(c)外其餘選項意思皆不符，故<font color="#dd0000">正解</font>
  
 答對
 Question 18.	 
  
 The construction of this nuclear facility was done primarily ____________ the years of 1999 and 2001.
- (A) between(正解)
+ (A) between<font color="#dd0000">正解</font>
  (B) for
  (C) through
  (D) on
@@ -19424,7 +19424,7 @@ b. 後接一段時間(時間介係詞)
 c. 從頭到尾(時間介係詞)
 d. 後接某一個特定日期(時間介係詞)
 
-解析：選項四個介係詞中，只有選項(a)可用來搭配空格後方的連接詞【and】→表示【between A and B在AB兩者之間】，故(a)為正解。選項(b)(d)不可搭配後方的連接詞【and】。空格前方表示主詞【was done已經完工】選項(c)意義與本句敘述不合。
+解析：選項四個介係詞中，只有選項(a)可用來搭配空格後方的連接詞【and】→表示【between A and B在AB兩者之間】，故(a)<font color="#dd0000">正解</font>選項(b)(d)不可搭配後方的連接詞【and】。空格前方表示主詞【was done已經完工】選項(c)意義與本句敘述不合。
  
 答錯
 Question 19.	 
@@ -19433,14 +19433,14 @@ America's richest and most successful people have one thing in common: they alwa
  (A) hug
  (B) hold
  (C) catch
- (D) grab(正解)
+ (D) grab<font color="#dd0000">正解</font>
 美國最富有、最成功的人都有一項共同的特徵：他們總是抓住眼前的每個機會。
 a. 擁抱
 b. 握、舉行
 c. 抓住、捕獵、捕抓
 d. 緊抓、抓取
 
-解析：根據空格後的關鍵單字【opportunity機會】可得知搭配的動詞需使用【grab every opportunity】表【抓住每個機會】，故選項(d)為正解。選項(c)表【捕抓】使用於抓住較具體的物件。選項(b)則表示【握住、持有】具體的物件，故兩者選項皆不適用於本句。
+解析：根據空格後的關鍵單字【opportunity機會】可得知搭配的動詞需使用【grab every opportunity】表【抓住每個機會】，故選項(d)<font color="#dd0000">正解</font>選項(c)表【捕抓】使用於抓住較具體的物件。選項(b)則表示【握住、持有】具體的物件，故兩者選項皆不適用於本句。
  
 答對
 Question 20.	 
@@ -19448,7 +19448,7 @@ Question 20.
 Due to increased ____________ from foreign travel agencies, Santana Tours was forced to lower its package tour prices.
  (A) compete
  (B) contemplate
- (C) competition(正解)
+ (C) competition<font color="#dd0000">正解</font>
  (D) continuation
 由於來自國外旅行社的競爭激烈，桑塔納旅行社的旅行套裝被迫降價。
 a.競爭 (動詞)
@@ -19456,7 +19456,7 @@ b.思量、仔細考慮 (動詞)
 c.競爭 (名詞)
 d.延續 (名詞)
 
-解析：空格前方【increased增加的】為過去分詞【V-pp】當形容詞用，做前位修飾後方的名詞，只有選項(c)為名詞又符合題意，故為正解。其他選項的意思皆與題意不符。
+解析：空格前方【increased增加的】為過去分詞【V-pp】當形容詞用，做前位修飾後方的名詞，只有選項(c)為名詞又符合題意，故<font color="#dd0000">正解</font>其他選項的意思皆與題意不符。
  
 答錯
 Question 21.	 
@@ -19464,7 +19464,7 @@ Question 21.
 I'd like to request that all these window frames ____________ in a color that matches our front porch.
  (A) painted
  (B) will paint
- (C) be painted(正解)
+ (C) be painted<font color="#dd0000">正解</font>
  (D) were painted
 我想要求窗戶外框的油漆塗色要搭配我們前廊。
 a. 過去式
@@ -19472,14 +19472,14 @@ b. 未來式助動詞+原型動詞
 c. 被動語氣
 d. 過去式的被動語氣	
 
-解析：動詞【request要求】後接【to+原形動詞】，不定詞【to】可省略，故選項(c)為正解。
+解析：動詞【request要求】後接【to+原形動詞】，不定詞【to】可省略，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 22.	 
  
 Dr. Clark was so exhausted from working all night ____________ he collapsed on the bed when he got home.
  (A) such
- (B) that(正解)
+ (B) that<font color="#dd0000">正解</font>
  (C) where
  (D) which
 克拉克醫生整晚工作太疲憊，因此到家後馬上倒在床上。
@@ -19488,14 +19488,14 @@ b.搭配句型使用，見解析
 c.哪裡(疑問詞)
 d.哪一個(疑問詞)
 
-解析：根據空格前方的關鍵單字【so】可判斷本句使用句型【so…that…】表【如此…以致於(+結果)】，故選項(b)為正解。
+解析：根據空格前方的關鍵單字【so】可判斷本句使用句型【so…that…】表【如此…以致於(+結果)】，故選項(b)<font color="#dd0000">正解</font>
  
 答錯
 Question 23.	 
  
 All first-time patients at the Glenrose Community Health Center ___________ to fill out a personal information form.
  (A) were asking
- (B) are asked(正解)
+ (B) are asked<font color="#dd0000">正解</font>
  (C) asked
  (D) had been asked
 第一次來格蘭洛斯社區健康中心的患者要填寫個人資料表。
@@ -19504,7 +19504,7 @@ b. 現在式的被動語氣
 c. 過去式
 d. 過去完成式的被動語氣
 
-解析：根據句意，主詞【All first-time patients初診的病患】會被要求要填寫表格，可判斷為被動語氣，故選項(b)為正解。選項(d)為過去完成的被動語氣，表某動作在過去持續發生一段時間，本句表達一件事實，並沒有持續一段時間，故選項(d)與用法不符。
+解析：根據句意，主詞【All first-time patients初診的病患】會被要求要填寫表格，可判斷為被動語氣，故選項(b)<font color="#dd0000">正解</font>選項(d)為過去完成的被動語氣，表某動作在過去持續發生一段時間，本句表達一件事實，並沒有持續一段時間，故選項(d)與用法不符。
  
 答錯
 Question 24.	 
@@ -19513,14 +19513,14 @@ The judge sentenced the accused man to seven months in jail for he ____________ 
  (A) have
  (B) has
  (C) had
- (D) had been (正解)
+ (D) had been <font color="#dd0000">正解</font>
 由於被告過去有兩次偷竊被捕的紀錄，法官判他入監服刑七個月。
 a. 現在完成式(have+V-pp)
 b. 現在完成式(has+V-pp) (搭配主詞三單)
 c. 過去完成(had+V-pp)
 d. 過去完成式的被動語氣(had+been+V-pp)
 
-解析：兩個皆發生在過去的動詞，為區隔發生的前後順序。先發生用過去完成式【had+V-pp】，後發生則用過去簡單式【V-pt】。根據題意可判斷後句的時間副詞【theft …before之前…偷竊】，所以之後才會被【sentenced…jail入監服刑】，故選項(d)為正解。
+解析：兩個皆發生在過去的動詞，為區隔發生的前後順序。先發生用過去完成式【had+V-pp】，後發生則用過去簡單式【V-pt】。根據題意可判斷後句的時間副詞【theft …before之前…偷竊】，所以之後才會被【sentenced…jail入監服刑】，故選項(d)<font color="#dd0000">正解</font>
  
 答錯
 Question 25.	 
@@ -19528,7 +19528,7 @@ Question 25.
 He ___________ seem like a very inactive man, but Mr. Cutting loves to hike in the mountains behind his neighborhood every weekend.
  (A) could
  (B) must
- (C) may(正解)
+ (C) may<font color="#dd0000">正解</font>
  (D) would
 卡丁先生看起來似乎是個非常怠惰的人，但他喜歡每個禮拜去他家後面爬山。
 a. 能夠(can的過去式)
@@ -19544,7 +19544,7 @@ Question 26.
 The CEO was arrested for ____________ in a variety of illegal activities, including money laundering and bribery.
  (A) enlarging
  (B) enraging
- (C) engaging (正解)
+ (C) engaging <font color="#dd0000">正解</font>
  (D) encaging
 該執行長因涉及各種非法活動而被逮捕，包含洗錢及賄賂。
 a. 擴大 (動名詞)
@@ -19552,14 +19552,14 @@ b. 使憤怒 (動名詞)
 c. 從事、參與 (動名詞)
 d. 關入籠中 (動名詞)
 
-解析：根據關鍵單字【a variety of illegal activities各種非法行動】故可判斷主詞被逮捕是因為【The CEO】介入這些活動，故選項(c)為正解。其他選項的意思與本句不符。
+解析：根據關鍵單字【a variety of illegal activities各種非法行動】故可判斷主詞被逮捕是因為【The CEO】介入這些活動，故選項(c)<font color="#dd0000">正解</font>其他選項的意思與本句不符。
  
 答錯
 Question 27.	 
  
 This is the town ____________ Jesus Christ was born.
  (A) which
- (B) in which(正解)
+ (B) in which<font color="#dd0000">正解</font>
  (C) at
  (D) when
 這裡是耶穌基督誕生的城鎮。
@@ -19574,7 +19574,7 @@ d. 代替時間(關係副詞)
 Question 28.	 
  
 Even though ____________ of my coworkers are being forced to attend the meeting, my boss gave me permission to give it a miss.
- (A) most(正解)
+ (A) most<font color="#dd0000">正解</font>
  (B) neither
  (C) each
  (D) most of all
@@ -19584,13 +19584,13 @@ b. 兩者任一都非
 c. 每一個的
 d. 最重要的
 
-解析：根據空格後方的Be動詞【are】可判斷主詞為複數，選項(b)表【任一皆非】選項(c)表【每一個】兩個選項皆為單數用法，而選項(d)搭配後方名詞【most of all】文法錯誤。故只有選項(a)為正解。
+解析：根據空格後方的Be動詞【are】可判斷主詞為複數，選項(b)表【任一皆非】選項(c)表【每一個】兩個選項皆為單數用法，而選項(d)搭配後方名詞【most of all】文法錯誤。故只有選項(a)<font color="#dd0000">正解</font>
  
 答錯
 Question 29.	 
  
 ____________ people, such as those with injuries or in wheelchairs, can use the elevator to reach the second and third floors.
- (A) Disabled(正解)
+ (A) Disabled<font color="#dd0000">正解</font>
  (B) Disinterested
  (C) Disconnected
  (D) Disappeared
@@ -19600,7 +19600,7 @@ b. 無私的、公正的 (形容詞)
 c. 無聯繫的 、分離的(形容詞)
 d. 消失的 (形容詞)
 
-解析：後句【those with injuries or in wheelchairs受傷或坐輪椅的那些人】可知這些人為身體有行動障礙，故選(a)符合題意為正解。其餘選項的意思皆不合題意。
+解析：後句【those with injuries or in wheelchairs受傷或坐輪椅的那些人】可知這些人為身體有行動障礙，故選(a)符合題意<font color="#dd0000">正解</font>其餘選項的意思皆不合題意。
  
 答錯
 Question 30.	 
@@ -19609,14 +19609,14 @@ Dr. Coolridge is neither a doctor ____________ a real man. It's just a brand nam
  (A) or
  (B) and also
  (C) and
- (D) nor(正解)
+ (D) nor<font color="#dd0000">正解</font>
 Dr. Coolridge不是醫生也不是個真人，它是品牌名。
 a. 或者
 b. 也
 c. 和、然後
 d. 也非
 
-解析：由空格前方的關鍵單字【neither】可得知句型【neither…nor…】表【不是A…也不是B】，故選(d)為正解。
+解析：由空格前方的關鍵單字【neither】可得知句型【neither…nor…】表【不是A…也不是B】，故選(d)<font color="#dd0000">正解</font>
  
 只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
@@ -19626,7 +19626,7 @@ d. 也非
 Question 1.	 
  
 I can't tell you how much ____________ it will be until we arrive, because I don't have the slightest clue where we are.
- (A) longer(正解)
+ (A) longer<font color="#dd0000">正解</font>
  (B) faster
  (C) farther
  (D) quicker
@@ -19636,14 +19636,14 @@ b. 更快的 (速度) (比較級形容詞)
 c. 更遠的 (距離) (比較級形容詞)
 d. 更快的(速度) (比較級形容詞)
 
-解析：根據空格後關鍵字【until we arrive直到我們到達】可判斷本句在詢問到達的時間，故選項(a)為正解。選項(b)(d)指動作速度，而選項(c)指距離皆與題意不符。
+解析：根據空格後關鍵字【until we arrive直到我們到達】可判斷本句在詢問到達的時間，故選項(a)<font color="#dd0000">正解</font>選項(b)(d)指動作速度，而選項(c)指距離皆與題意不符。
  
 答錯
 Question 2.	 
  
 The product must undergo a series ____________ quality assurance tests before being introduced to the market.
  (A) on
- (B) of(正解)
+ (B) of<font color="#dd0000">正解</font>
  (C) for
  (D) to
 一件未上市的產品必須事先經過一系列的品質保證檢驗。
@@ -19652,13 +19652,13 @@ b. …的(後接名詞)
 c. 表目地 (後接名詞)
 d. 表目的 (後接原形動詞)
 
-解析：由空格前方的關鍵單字【a series】可得知空格處為片語【a series of】表【一連串的、一系列的】，故選項(b)為正解。其餘選項不可與關鍵單字合併使用。
+解析：由空格前方的關鍵單字【a series】可得知空格處為片語【a series of】表【一連串的、一系列的】，故選項(b)<font color="#dd0000">正解</font>其餘選項不可與關鍵單字合併使用。
  
 答錯
 Question 3.	 
  
 This is the hotel bar ____________ the Singapore Sling, a world-famous fruity cocktail, was invented.
- (A) in which(正解)
+ (A) in which<font color="#dd0000">正解</font>
  (B) whose
  (C) in that
  (D) that
@@ -19668,14 +19668,14 @@ b. 關係代名詞(先行詞為人/非人皆可)的所有格用法
 c. 無此用法
 d. 關係代名詞(先行詞為人/非人皆可)的用法
 
-解析：本句以關係代名詞連接後方的形容詞子句，子句還原後→【The Singapore Sling, a world-famous fruity cocktail, was invented in this hotel bar.】，本句中介係詞可被提到關代which之前，故選項(a)為正解。
+解析：本句以關係代名詞連接後方的形容詞子句，子句還原後→【The Singapore Sling, a world-famous fruity cocktail, was invented in this hotel bar.】，本句中介係詞可被提到關代which之前，故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 4.	 
  
 Swipe your card on the electronic reader then ____________ the station to the left.
  (A) collide
- (B) exit(正解)
+ (B) exit<font color="#dd0000">正解</font>
  (C) outside
  (D) off
 你可以把卡片刷在電子閱讀器上，然後從車站的左手邊出去。
@@ -19684,7 +19684,7 @@ b. 出去 (動詞)
 c. 外面 (形容詞)；外部、外面(名詞)
 d. 離開 (介詞)
 
-解析：根據前句可知刷卡後可進入也可出站，四個選項中只有選項(b)的意思符合題意，故為正解。
+解析：根據前句可知刷卡後可進入也可出站，四個選項中只有選項(b)的意思符合題意，故<font color="#dd0000">正解</font>
  
 答對
 Question 5.	 
@@ -19693,14 +19693,14 @@ I am totally convinced that Brazil ____________ this year's World Cup.
  (A) wins
  (B) had won
  (C) has won
- (D) will win(正解)
+ (D) will win<font color="#dd0000">正解</font>
 我完全地確信巴西將會贏得今年世足賽。
 a. 現在簡單式
 b. 過去完成式
 c. 現在完成式 
 d. 未來式
 
-解析：根據空格後方的時間副詞【this year今年】可知動作尚未完成，故需選未來式，選項(d)為正解。
+解析：根據空格後方的時間副詞【this year今年】可知動作尚未完成，故需選未來式，選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 6.	 
@@ -19708,7 +19708,7 @@ Question 6.
 Excuse me, sir. We need to ask you to leave the bar because of your ____________ behavior.
  (A) appropriate
  (B) acceptable
- (C) inappropriate(正解)
+ (C) inappropriate<font color="#dd0000">正解</font>
  (D) inappropriately
 先生，不好意思，由於你的行為不當，我們必須要求你離開酒吧。
 a. 適當的 (形容詞)
@@ -19716,7 +19716,7 @@ b. 可接受的(形容詞)
 c. 不適當的(形容詞)
 d. 不適當地(副詞)
 
-解析：根據句意可知主詞被請出酒吧是因為行為不佳，故可知空格處需加入形容詞修飾空格後方的名詞，故選項(c)為正解。其餘選項意思與本句題意不符。
+解析：根據句意可知主詞被請出酒吧是因為行為不佳，故可知空格處需加入形容詞修飾空格後方的名詞，故選項(c)<font color="#dd0000">正解</font>其餘選項意思與本句題意不符。
  
 答對
 Question 7.	 
@@ -19725,21 +19725,21 @@ Due to the ____________ of a spy in the department, an emergency meeting was cal
  (A) presents
  (B) permanence
  (C) pretense
- (D) presence(正解)
+ (D) presence<font color="#dd0000">正解</font>
 由於發現部門裡有間諜存在，所以公司馬上召開緊急會議。
 a. 現在、目前 (名詞)；出席的、在場的(形容詞)
 b. 永久(名詞)
 c. 假裝(名詞)
 d. 存在 (名詞)
 
-解析：後句會召開【emergency meeting緊急會議】的原因在於部門裡發現有間諜存在，故選項(d)符合題意為正解。選項(a)【the present】表【在目前】與題意不符；其餘選項意思與句意不符。
+解析：後句會召開【emergency meeting緊急會議】的原因在於部門裡發現有間諜存在，故選項(d)符合題意<font color="#dd0000">正解</font>選項(a)【the present】表【在目前】與題意不符；其餘選項意思與句意不符。
  
 答對
 Question 8.	 
  
 When driving on the highway, it is essential that you are not ____________ and don't drive too fast.
  (A) care
- (B) careless(正解)
+ (B) careless<font color="#dd0000">正解</font>
  (C) careful
  (D) caring
 當你在高速公路行駛時，不要粗心大意也不要開太快是很重要的。
@@ -19747,13 +19747,13 @@ a. 照顧(名詞)
 b. 粗心(形容詞)
 c. 小心(形容詞)
 d. 有愛心的(形容詞)
-解析：根據後句【don't drive too fast不要開太快】可判斷空格前指主詞開車不可【粗心大意】，故選項(b)較符合題意為正解。其餘選項意思與本句不符。
+解析：根據後句【don't drive too fast不要開太快】可判斷空格前指主詞開車不可【粗心大意】，故選項(b)較符合題意<font color="#dd0000">正解</font>其餘選項意思與本句不符。
  
 答錯
 Question 9.	 
  
 It shouldn't ____________ you more than an hour or two to figure out the problem with this piece of equipment.
- (A) take(正解)
+ (A) take<font color="#dd0000">正解</font>
  (B) spend
  (C) cost
  (D) last
@@ -19763,7 +19763,7 @@ b. 花費【+時間/錢】的句型，主詞為人
 c. 花費【+錢】的句型，主詞為事物
 d. 持續
 
-解析：三花動詞定律: 【人+spend+時/金】【事物+take+時】【事物+cost+金】。本句前方主詞為【事物】後方接【時間】故可判斷選項(a)為正解。
+解析：三花動詞定律: 【人+spend+時/金】【事物+take+時】【事物+cost+金】。本句前方主詞為【事物】後方接【時間】故可判斷選項(a)<font color="#dd0000">正解</font>
  
 答錯
 Question 10.	 
@@ -19772,19 +19772,19 @@ Miss Campbell had a lot of ____________ in her neck so she got a Swedish massage
  (A) digestion
  (B) expansion
  (C) sanction
- (D) tension(正解)
+ (D) tension<font color="#dd0000">正解</font>
 Campbell的肩頸很緊繃，所以下班後，她去做瑞典式按摩。
 a. 消化 (名詞)
 b. 擴展、膨脹 (名詞)
 c. 贊成、批准 (名詞)
 d. 緊繃 (名詞)
-解析：根據後句【got a Swedish massage瑞典式按摩】可知主詞Miss Campbell的肩頸很緊繃，故只有選項(d)符合題意為正解。其他選項的意思皆不合題意。
+解析：根據後句【got a Swedish massage瑞典式按摩】可知主詞Miss Campbell的肩頸很緊繃，故只有選項(d)符合題意<font color="#dd0000">正解</font>其他選項的意思皆不合題意。
  
 答錯
 Question 11.	 
  
 Westerners traditionally dine with a spoon, knife and fork, ____________ Easterners have the habit of using chopsticks.
- (A) whereas(正解)
+ (A) whereas<font color="#dd0000">正解</font>
  (B) what
  (C) where
  (D) when
@@ -19800,7 +19800,7 @@ Question 12.
 Currently, the e-reader market ____________ by three major brands.
  (A) dominates
  (B) dominated
- (C) is dominated(正解)
+ (C) is dominated<font color="#dd0000">正解</font>
  (D) was dominated
 目前，電子閱讀器的市場由三大主要品牌支配。
 a. 現在簡單式(搭配主詞三單)
@@ -19808,14 +19808,14 @@ b. 過去簡單式
 c. 現在簡單被動式
 d. 過去簡單被動式
 
-解析：根據空格後介係詞【by】可判斷主詞【the e-reader market電子閱讀器的市場】被三大品牌所支配，故本句為被動語氣用法【be+V-pp】，選項(c)為正解。
+解析：根據空格後介係詞【by】可判斷主詞【the e-reader market電子閱讀器的市場】被三大品牌所支配，故本句為被動語氣用法【be+V-pp】，選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 13.	 
  
 One of Mao Zedong's greatest achievements was to ____________ Chinese characters, reducing the number of strokes required to write many of them.
  (A) simple
- (B) simplify(正解)
+ (B) simplify<font color="#dd0000">正解</font>
  (C) simplified
  (D) simplicity
 毛澤東最偉大的成就之一是簡化漢字，減少很多漢字原來的筆畫。
@@ -19824,7 +19824,7 @@ b. 簡化、精簡(動詞)
 c. 被簡化的(過去分詞)
 d. 簡單、簡易(名詞)
 
-解析：空格前方的不定詞【to】後接原形動詞及名詞，故選項(b)(d)皆有可能。但選項(d)【Mao Zedong's greatest achievements was to simplicity】表【毛的成就變得簡易】，與本句要表達的意思不符，故選項(b)為正解。
+解析：空格前方的不定詞【to】後接原形動詞及名詞，故選項(b)(d)皆有可能。但選項(d)【Mao Zedong's greatest achievements was to simplicity】表【毛的成就變得簡易】，與本句要表達的意思不符，故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 14.	 
@@ -19832,21 +19832,21 @@ Question 14.
 The massive turkey was roasted to ____________ and then cut into thin slices by the chef.
  (A) perfect
  (B) perfected
- (C) perfection(正解)
+ (C) perfection<font color="#dd0000">正解</font>
  (D) perfectly
 那隻大火雞烤到全熟後主廚將它切成薄片。
 a. 形容詞【完美的】、動詞【使完美】
 b. 動詞過去分詞【使完美】
 c. 名詞 【完美、完善、成功】
 d. 副詞【完美地】
-解析：不定詞後方可接原形動詞(decide to leave )表(決定去...做另一個動作) , 或當介係詞使用時亦可接名詞/動名詞, 如(be accustomed to 習慣於+N/Ving),或(He was hit to death(N).), 但不可接形容詞或副詞用法, 故選項(a)(b)(d)皆非 。本題中的主詞turkey搭配動詞 roast to 表示烤到某種狀態, 選項(c) roast to perfection 表烤到全熟的狀態,為名詞用法, 故(c)符合用法為正解 。
+解析：不定詞後方可接原形動詞(decide to leave )表(決定去...做另一個動作) , 或當介係詞使用時亦可接名詞/動名詞, 如(be accustomed to 習慣於+N/Ving),或(He was hit to death(N).), 但不可接形容詞或副詞用法, 故選項(a)(b)(d)皆非 。本題中的主詞turkey搭配動詞 roast to 表示烤到某種狀態, 選項(c) roast to perfection 表烤到全熟的狀態,為名詞用法, 故(c)符合用法<font color="#dd0000">正解</font>。
  
 答錯
 Question 15.	 
  
 America was the only NATO country that didn't ____________ the trade agreement.
  (A) register
- (B) ratify(正解)
+ (B) ratify<font color="#dd0000">正解</font>
  (C) resign
  (D) reapply
 美國是唯一不認可貿易協定的北大西洋公約組織的國家。
@@ -19855,13 +19855,13 @@ b. 批准、認可(動詞)
 c. 辭職(動詞)
 d. 從新申請(動詞)
 
-解析：根據空格後的關鍵字【didn't…the trade agreement貿易協定】可判斷主詞American美國是唯一沒有簽約的國家，故選項(b)為正解。其餘意思皆與句意不符。
+解析：根據空格後的關鍵字【didn't…the trade agreement貿易協定】可判斷主詞American美國是唯一沒有簽約的國家，故選項(b)<font color="#dd0000">正解</font>其餘意思皆與句意不符。
  
 答對
 Question 16.	 
  
 If you ____________ an appointment, we wouldn't have had to wait for two hours to see the specialist!
- (A) had made(正解)
+ (A) had made<font color="#dd0000">正解</font>
  (B) made
  (C) has made
  (D) make
@@ -19871,7 +19871,7 @@ b. 過去簡單式
 c. 現在完成式
 d. 現在簡單式
 
-解析：根據後句【wouldn't have had】可判斷本句為【與過去事實相反的假設】故前句需用過去完成【had+V-pp】→句型為【if+ 過去完成式(had+V-pp), S+would/might/could/should+have+Vpp】，故選項(a)為正解。
+解析：根據後句【wouldn't have had】可判斷本句為【與過去事實相反的假設】故前句需用過去完成【had+V-pp】→句型為【if+ 過去完成式(had+V-pp), S+would/might/could/should+have+Vpp】，故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 17.	 
@@ -19879,7 +19879,7 @@ Question 17.
 He filmed such a nice video that he ___________ the responsibility of assisting with all future video projects.
  (A) gave
  (B) has been giving
- (C) was given(正解)
+ (C) was given<font color="#dd0000">正解</font>
  (D) is giving
 他拍的影片很好看，因此他被賦予負責協助未來所有拍攝影片的責任。
 a. 過去簡單式 (V-pt)
@@ -19887,7 +19887,7 @@ b. 現在完成進行式 (have/has been +Ving)
 c. 過去式的被動語氣 (was/were+V-pp)
 d. 現在進行式 (am/is/are+Ving)
 
-解析：根據後句【the responsibility of assisting協助拍攝的責任】可判斷主詞的責任歸屬是被給予的，故可判斷本句為被動語氣用法【beV+Vpp】，選項(c)為正解。
+解析：根據後句【the responsibility of assisting協助拍攝的責任】可判斷主詞的責任歸屬是被給予的，故可判斷本句為被動語氣用法【beV+Vpp】，選項(c)<font color="#dd0000">正解</font>
  
 答錯
 Question 18.	 
@@ -19895,7 +19895,7 @@ Question 18.
 After twelve weeks of ____________, the chemist was finally ready to conduct the experiment.
  (A) prepares
  (B) preparatory
- (C) preparations(正解)
+ (C) preparations<font color="#dd0000">正解</font>
  (D) prepared
 經過十二個禮拜的籌備後，化學家終於可以開始進行試驗。
 a. 準備(動詞)
@@ -19903,7 +19903,7 @@ b. 預備的(形容詞)、預備學校(名詞)
 c. 預備、準備(名詞)
 d. 已準備的(過去分詞)
 
-解析：由空格前方的介係詞【of】可得知空格為名詞，只有選項(c)為名詞用法故為正解。其餘用法皆不符。
+解析：由空格前方的介係詞【of】可得知空格為名詞，只有選項(c)為名詞用法故<font color="#dd0000">正解</font>其餘用法皆不符。
  
 答對
 Question 19.	 
@@ -19911,7 +19911,7 @@ Question 19.
 After the price of oil ____________ for several weeks, it finally became stable.
  (A) calibrated
  (B) punctuated
- (C) fluctuated(正解)
+ (C) fluctuated<font color="#dd0000">正解</font>
  (D) eliminated
 經過好幾個禮拜的油價波動後，油價終於穩定下來了。
 a. 使……標準化(動詞)
@@ -19919,14 +19919,14 @@ b. 加標點符號(動詞)
 c. 波動、起伏不斷(動詞)
 d. 排除，消除(動詞)
 
-解析：根據後句【it finally became stable.終於穩定下來】可判斷前句的油價起起伏伏不斷，故只有選項(c)為正解。其餘選項的意思與本句題意不符。
+解析：根據後句【it finally became stable.終於穩定下來】可判斷前句的油價起起伏伏不斷，故只有選項(c)<font color="#dd0000">正解</font>其餘選項的意思與本句題意不符。
  
 答錯
 Question 20.	 
  
 Having forgotten to take the laundry out of the drier, Eva had no other choice ____________ to wear damp clothes to work.
  (A) so
- (B) but(正解)
+ (B) but<font color="#dd0000">正解</font>
  (C) and
  (D) because
 由於忘了把衣服從烘乾機拿出來，Eva只好穿潮濕的衣服去上班。
@@ -19935,14 +19935,14 @@ b. 搭配句型使用，見解析
 c. 和、與 (連接詞)
 d. 因為 (連接詞)
 
-解析：根據前句【forgotten to take the laundry out of the drier忘了把衣服從烘乾機拿出來】可得知主詞Eva只能穿著潮濕的衣服去上班。句型【have no other choice but】表【不得不】符合題意，故選項(b)為正解。其餘選項無法與空格前【have no other choice】搭配使用。
+解析：根據前句【forgotten to take the laundry out of the drier忘了把衣服從烘乾機拿出來】可得知主詞Eva只能穿著潮濕的衣服去上班。句型【have no other choice but】表【不得不】符合題意，故選項(b)<font color="#dd0000">正解</font>其餘選項無法與空格前【have no other choice】搭配使用。
  
 答對
 Question 21.	 
  
 Cory was really upset because ____________ had stolen his brand new Armani suit jacket.
  (A) anybody
- (B) somebody(正解)
+ (B) somebody<font color="#dd0000">正解</font>
  (C) nobody
  (D) everybody
 Cory非常生氣因為有人偷了他的全新亞瑪尼外套。
@@ -19951,14 +19951,14 @@ b. 某個人、有人
 c. 沒有人
 d. 每一個人
 
-解析：根據後句，因為有人偷走了主詞Cory的全新阿曼尼西裝外套，但主詞不確定是何人，故可知選項(b)為正解。選項(a)適用於否定及疑問句。
+解析：根據後句，因為有人偷走了主詞Cory的全新阿曼尼西裝外套，但主詞不確定是何人，故可知選項(b)<font color="#dd0000">正解</font>選項(a)適用於否定及疑問句。
  
 答錯
 Question 22.	 
  
 When coming in to work, make sure you follow the dress code as ____________ on page 35 of your worker's manual.
  (A) describe
- (B) described(正解)
+ (B) described<font color="#dd0000">正解</font>
  (C) describes
  (D) describing
 當你來上班的時候，請確認你的衣著須符合員工作手冊第35頁敘述的服裝規定。
@@ -19967,14 +19967,14 @@ b. 過去分詞
 c. 現在式動詞(搭配主詞三單)
 d. 現在分詞
 
-解析：後句表示【dress code服裝規定】被列在工作手冊的35頁，由受詞【dress code服裝規定】與動詞【describe描述】的關係判斷為被動語氣，故需選項(b)表【被描述的】為【過去分詞用法當形容詞】使用來修飾受詞為正解。 
+解析：後句表示【dress code服裝規定】被列在工作手冊的35頁，由受詞【dress code服裝規定】與動詞【describe描述】的關係判斷為被動語氣，故需選項(b)表【被描述的】為【過去分詞用法當形容詞】使用來修飾受詞<font color="#dd0000">正解</font> 
  
 答錯
 Question 23.	 
  
 I ____________ to find the right lid for this container, but I'm still looking.
  (A) hadn't been able
- (B) haven't been able(正解)
+ (B) haven't been able<font color="#dd0000">正解</font>
  (C) am not able
  (D) won't be able
 我無法找到適合這個容器的蓋子，但是我仍然在找。
@@ -19983,14 +19983,14 @@ b. 現在完成式【have/has+V-pp】
 c. 現在簡單式
 d. 未來式【will+V.R】
 
-解析：根據後句現在式動詞【am】可知主詞到現在都還沒找到容器的蓋子，故使用現在完成式【have+V-pp】來表示【到目前為止都還沒有找到】。故選項(b)為正解。選項(a)為過去完成，用來表示【某動作從過去某時間點持續發生到過去便結束了】。選項(c)表示【現在還在進行中】，根據後句【I'm still looking還在找】，時式前後矛盾。
+解析：根據後句現在式動詞【am】可知主詞到現在都還沒找到容器的蓋子，故使用現在完成式【have+V-pp】來表示【到目前為止都還沒有找到】。故選項(b)<font color="#dd0000">正解</font>選項(a)為過去完成，用來表示【某動作從過去某時間點持續發生到過去便結束了】。選項(c)表示【現在還在進行中】，根據後句【I'm still looking還在找】，時式前後矛盾。
  
 答錯
 Question 24.	 
  
 The driver will ____________ the shipment onto the dock and then you need to make sure everything is there and sign the form.
  (A) untie
- (B) unload(正解)
+ (B) unload<font color="#dd0000">正解</font>
  (C) undo
  (D) uncover
 司機會把船運的貨物卸到碼頭上，然後你必須確保所有的東西都在那裡，並在這個表單上簽名。
@@ -19999,13 +19999,13 @@ b. 卸下(動詞)
 c. 解開、取消(動詞)
 d. 打開蓋子(動詞)
 
-解析：根據空格後【onto the dock移置到碼頭上】可知主詞需將【the shipment船運的貨物】卸下再移到碼頭上，故選項(b)符合選項為正解。其餘選項的意思與題意不合。
+解析：根據空格後【onto the dock移置到碼頭上】可知主詞需將【the shipment船運的貨物】卸下再移到碼頭上，故選項(b)符合選項<font color="#dd0000">正解</font>其餘選項的意思與題意不合。
  
 答對
 Question 25.	 
  
 I don't like going to Thailand ____________ because it's too crowded with tourists from all over the world.
- (A) anymore(正解)
+ (A) anymore<font color="#dd0000">正解</font>
  (B) any longer
  (C) no more
  (D) somehow
@@ -20015,14 +20015,14 @@ b. 無此用法，正確為【no longer，否定副詞，置於動詞之前，�
 c. 不再 (否定副詞，置句尾)
 d. 不知怎麼的 (形容詞)
 
-解析：根據後句【it's too crowded太擁擠】可判斷主詞不再喜歡去泰國，故選項a)為正解。
+解析：根據後句【it's too crowded太擁擠】可判斷主詞不再喜歡去泰國，故選項a)<font color="#dd0000">正解</font>
  
 答錯
 Question 26.	 
  
 ____________ conclusion, our study has proved that students learn less if they don't take a break and stretch their bodies at least once every hour.
  (A) On
- (B) In(正解)
+ (B) In<font color="#dd0000">正解</font>
  (C) In a
  (D) On the
 總而言之，我們的研究證明，如果學生沒有休息或者沒有做伸展至少每小時一次，他們的學習效果會變更少。
@@ -20031,14 +20031,14 @@ b. 搭配句型使用，見解析
 c. 無此用法
 d. 無此用法
 
-解析：副詞片語【in conclusion】表【總結而言】，只有選項(b)為正解，其餘選項皆無法搭配空格後方名詞使用。
+解析：副詞片語【in conclusion】表【總結而言】，只有選項(b)<font color="#dd0000">正解</font>其餘選項皆無法搭配空格後方名詞使用。
  
 答錯
 Question 27.	 
  
 Kent's sales were only surpassed ____________ Kim's, the company's most experienced sales rep.
  (A) beyond
- (B) by(正解)
+ (B) by<font color="#dd0000">正解</font>
  (C) between
  (D) below
 Kent 的銷售業績只有被公司最資深的業務代表Kim超過。
@@ -20047,14 +20047,14 @@ b. 由、被 (介詞)
 c. 在…之間(介詞)
 d. 在下面(介詞)
 
-解析：根據主詞【Kent's sales業績】被受詞【Kim】超過，故動詞【be surpassed】為被動語氣，後方介係詞需接【by】。故選項(b)為正解。
+解析：根據主詞【Kent's sales業績】被受詞【Kim】超過，故動詞【be surpassed】為被動語氣，後方介係詞需接【by】。故選項(b)<font color="#dd0000">正解</font>
  
 答錯
 Question 28.	 
  
 The dance instructor was really ____________ for being ten minutes late for the class.
  (A) apology
- (B) apologetic(正解)
+ (B) apologetic<font color="#dd0000">正解</font>
  (C) apologizer
  (D) apologize
 舞蹈老師因上課遲到10分鐘而感到非常抱歉。
@@ -20063,13 +20063,13 @@ b. 形容詞
 c. 無此用法
 d. 動詞
 
-解析：空格處位於Be-V後方為形容詞，用來形容主詞【The dance instructor舞蹈老師】，選項(a)為名詞表【歉意】與題意不符，選項(d)為動詞接在Be-V後需改為【V-ing】表進行式或改為【V-pp】表被動語氣，選項(c)為名詞表【道歉的人】與題意不符。故選項(b)為正解，用來修飾主詞表【具有歉意的】。
+解析：空格處位於Be-V後方為形容詞，用來形容主詞【The dance instructor舞蹈老師】，選項(a)為名詞表【歉意】與題意不符，選項(d)為動詞接在Be-V後需改為【V-ing】表進行式或改為【V-pp】表被動語氣，選項(c)為名詞表【道歉的人】與題意不符。故選項(b)<font color="#dd0000">正解</font>用來修飾主詞表【具有歉意的】。
  
 答對
 Question 29.	 
  
 This corporation offers a comprehensive benefits package ____________ massive discounts on merchandise to all its senior employees.
- (A) as well as(正解)
+ (A) as well as<font color="#dd0000">正解</font>
  (B) as long as
  (C) as well
  (D) as soon as
@@ -20088,14 +20088,14 @@ I failed ____________ why we had to wait in a line for four hours only to ask a 
  (A) understand
  (B) understood
  (C) for understanding
- (D) to understand (正解)
+ (D) to understand <font color="#dd0000">正解</font>
 我無法瞭解為什麼我們必須為了詢問非常簡單的問題而排隊好幾個小時。
 a. 原形動詞
 b. 過去分詞
 c. 介係詞 +V-ing
 d. 不定詞 +原型動詞
 
-解析：動詞【failed做…失敗】後接不定詞【to+原形動詞】，故選項(d)為正解。
+解析：動詞【failed做…失敗】後接不定詞【to+原形動詞】，故選項(d)<font color="#dd0000">正解</font>
  
 只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
@@ -20108,21 +20108,21 @@ __________ we had to pay for all our snacks and drinks, we quite enjoyed the bud
  (A) As though
  (B) Despite
  (C) Rather than
- (D) Even though(正解)
+ (D) Even though<font color="#dd0000">正解</font>
 雖然我們必須負擔全部的點心與飲料費，但是我們喜歡搭這趟廉價航空飛往曼谷。
 a. 仿佛、似乎
 b. 儘管
 c. 而不是
 d. 雖然
 
-解析：前句提及主詞【had to pay for all our snacks and drinks必須負擔全部的點心與飲料費】後句的關鍵單字提及【enjoyed the budget airline flight喜歡這趟廉價航空的旅程】，可判斷前後兩句語意相反，故選(d)為正解。選項(a)【as though/as if】表【好像】則用於假設語氣，與本句不符。
+解析：前句提及主詞【had to pay for all our snacks and drinks必須負擔全部的點心與飲料費】後句的關鍵單字提及【enjoyed the budget airline flight喜歡這趟廉價航空的旅程】，可判斷前後兩句語意相反，故選(d)<font color="#dd0000">正解</font>選項(a)【as though/as if】表【好像】則用於假設語氣，與本句不符。
  
 答對
 Question 2.	 
  
 You can move the cursor across the screen __________ using a mouse.
  (A) with
- (B) by(正解)
+ (B) by<font color="#dd0000">正解</font>
  (C) for
  (D) in
 你可以用滑鼠將游標移到螢幕的另一邊。
@@ -20131,7 +20131,7 @@ b. 藉由…(方法或工具) (介詞)
 c. 為了 (介詞)
 d. 在…方面 (介詞)
 
-解析：前句要將游標移到螢幕的另一邊，需藉由使用滑鼠。故選項(b)表【藉由…(方法或工具) 】為正解。選項(a)表【用、有…(工具)】→須改為【with a mouse】，故不符本句用法。
+解析：前句要將游標移到螢幕的另一邊，需藉由使用滑鼠。故選項(b)表【藉由…(方法或工具) 】<font color="#dd0000">正解</font>選項(a)表【用、有…(工具)】→須改為【with a mouse】，故不符本句用法。
  
 答錯
 Question 3.	 
@@ -20140,21 +20140,21 @@ Advance tickets for the movie premiere go __________ at exactly noon this Friday
  (A) for sale
  (B) to sell
  (C) on sales
- (D) on sale(正解)
+ (D) on sale<font color="#dd0000">正解</font>
 電影首映的預售票將在這星期五中午準時折扣特賣。
 a. 待售 (片語)
 b. 賣 (不定詞)
 c. 無此用法
 d. 折扣 (片語)
 
-解析：選項(a)表【販售中】而選項(d)表【折扣中】，選項(a)不可與空格前方的動詞【go】合併使用，故選項(d)【go on sale】為正解。
+解析：選項(a)表【販售中】而選項(d)表【折扣中】，選項(a)不可與空格前方的動詞【go】合併使用，故選項(d)【go on sale】<font color="#dd0000">正解</font>
  
 答對
 Question 4.	 
  
 Currency analysts __________ for years that the value of the dollar would plummet, but it still hasn't happened.
  (A) will predict
- (B) have been predicting(正解)
+ (B) have been predicting<font color="#dd0000">正解</font>
  (C) has predicted
  (D) are predicting
 貨幣分析師好幾年來都預測美元價值會下降，但是到目前為止仍然還沒發生。 
@@ -20164,14 +20164,14 @@ c. 現在完成式
 d. 現在進行式
 
 
-解析：根據空格後方的時間副詞【for years】可判斷【某動作持續了一段時間】故需使用【完成式have+V-pp】或【完成進行式have+been+V-ing】，此外主詞為複數，故選項(b)為正解。
+解析：根據空格後方的時間副詞【for years】可判斷【某動作持續了一段時間】故需使用【完成式have+V-pp】或【完成進行式have+been+V-ing】，此外主詞為複數，故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 5.	 
  
 Don't even consider registering for the competition __________ first asking your wife!
  (A) with
- (B) without(正解)
+ (B) without<font color="#dd0000">正解</font>
  (C) within
  (D) withheld
 沒先問過你太太，千萬不要想報名參賽！
@@ -20180,7 +20180,7 @@ b. 沒有、不 (介詞)
 c. 在…之內 (介詞)
 d. 抑制、保留 (動詞)
 
-解析：由空格後【first asking your wife先問過你的太太】搭配前句的關鍵單字【Don't even consider甚至別考慮】可判斷句意為要先詢問過太太才能參加，如果沒有，連考慮都不用。根據句意可判斷選項(b)符合題意為正解，其餘選項的意思如上所示，皆不符合題意。
+解析：由空格後【first asking your wife先問過你的太太】搭配前句的關鍵單字【Don't even consider甚至別考慮】可判斷句意為要先詢問過太太才能參加，如果沒有，連考慮都不用。根據句意可判斷選項(b)符合題意<font color="#dd0000">正解</font>其餘選項的意思如上所示，皆不符合題意。
  
 答對
 Question 6.	 
@@ -20189,20 +20189,20 @@ After waiting in line for over three hours to buy tickets for the Oasis concert,
  (A) rejected
  (B) denied
  (C) declined
- (D) abandoned(正解)
+ (D) abandoned<font color="#dd0000">正解</font>
 Kelly為了買Oasis演唱會票排隊超過三給小時之後，她最後放棄然後回家。
 a. 拒絕(動詞)
 b. 否認(動詞)
 c. 下降(動詞)
 d. 拋棄 (動詞)
 
-解析：根據前句的關鍵單字【waiting in line for over three hours排隊超過三小時】加上後句的關鍵單字【went home回家】可判斷主詞排隊一段時間後就放棄了然後回家。故選項(d)為正解。其他選項皆與本句句意不符。
+解析：根據前句的關鍵單字【waiting in line for over three hours排隊超過三小時】加上後句的關鍵單字【went home回家】可判斷主詞排隊一段時間後就放棄了然後回家。故選項(d)<font color="#dd0000">正解</font>其他選項皆與本句句意不符。
  
 答對
 Question 7.	 
  
 If I __________ you, I'd apologize to that man at once.
- (A) were(正解)
+ (A) were<font color="#dd0000">正解</font>
  (B) was
  (C) am
  (D) would be
@@ -20212,14 +20212,14 @@ b. 過去式的be動詞
 c. 現在式的be動詞 (主詞為第一人稱)
 d. 將成為 (在過去時間發生的未來式)
 
-解析：根據語意以及後句的關鍵單字【I'd apologize= I would apologize(助動詞+動詞原形)】可判斷本句為【與現在事實的假設語氣】，句型為【If+過去式/were, 主詞+would/could/should/might+原形動詞】。故選項(a)為正解。
+解析：根據語意以及後句的關鍵單字【I'd apologize= I would apologize(助動詞+動詞原形)】可判斷本句為【與現在事實的假設語氣】，句型為【If+過去式/were, 主詞+would/could/should/might+原形動詞】。故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 8.	 
  
 Come on everybody, __________ haste and find your seats!
  (A) take
- (B) make(正解)
+ (B) make<font color="#dd0000">正解</font>
  (C) break
  (D) fake
 大家快點過來找您的座位。
@@ -20228,13 +20228,13 @@ b. 搭配句型使用，見解析
 c. 休息 (名詞)、打破(動詞)
 d. 假的 (形容詞)
 
-解析：空格的名詞【haste】需搭配動詞【make】使用，故選項(b)【make haste】表【動作快】為正解。
+解析：空格的名詞【haste】需搭配動詞【make】使用，故選項(b)【make haste】表【動作快】<font color="#dd0000">正解</font>
  
 答對
 Question 9.	 
  
 In order to get your ears pierced, you must have this form signed by your parents or a person who is __________ responsible for you, such as your guardian.
- (A) legally(正解)
+ (A) legally<font color="#dd0000">正解</font>
  (B) legal
  (C) law
  (D) a lawyer
@@ -20244,14 +20244,14 @@ b. 合法的(形容詞)
 c. 法律 (名詞)
 d. 律師 (名詞)
 
-解析：根據空格後形容詞【responsible】可判斷空格處為副詞，才可用來修飾後方的形容詞。故選項(a)為正解。其他選項的詞性如選項所示，皆不合本句文法。
+解析：根據空格後形容詞【responsible】可判斷空格處為副詞，才可用來修飾後方的形容詞。故選項(a)<font color="#dd0000">正解</font>其他選項的詞性如選項所示，皆不合本句文法。
  
 答對
 Question 10.	 
  
 The main reason Walden got the lecturing position at the technical institute was that his old professor had written a letter of __________ for him.
  (A) revelation
- (B) recommendation(正解)
+ (B) recommendation<font color="#dd0000">正解</font>
  (C) respiration
  (D) renovation
 Walden能去那間技術學院當講師的主要原因是他以前的教授幫他寫推薦信。
@@ -20260,13 +20260,13 @@ b. 推薦(名詞)
 c. 呼吸(名詞)
 d. 裝潢、改裝(名詞)
 
-解析：根據前方題意，主詞Walden得到工作機會的原因是因為他以前的教授寫的信件。故可得知教授幫他寫推薦信讓他得到教職，故選項(b)的意思符合題意為正解。其餘選項的意思皆不合題意。
+解析：根據前方題意，主詞Walden得到工作機會的原因是因為他以前的教授寫的信件。故可得知教授幫他寫推薦信讓他得到教職，故選項(b)的意思符合題意<font color="#dd0000">正解</font>其餘選項的意思皆不合題意。
  
 答對
 Question 11.	 
  
 Alright, folks, let's break __________ lunch and restart the meeting at one o'clock.
- (A) for(正解)
+ (A) for<font color="#dd0000">正解</font>
  (B) from
  (C) to
  (D) before
@@ -20276,14 +20276,14 @@ b. 自從… (介係詞)
 c. 去、到 (介係詞)
 d. 在…之前 (連接詞、介係詞、副詞)
 
-解析：根據後句【restart the meeting再繼續開會】可得知主詞一點鐘時再繼續開會，故前句的【let's break休息一下】是要去吃午餐休息，吃午餐是休息的原因，故選項(a)表【因為】為正解。
+解析：根據後句【restart the meeting再繼續開會】可得知主詞一點鐘時再繼續開會，故前句的【let's break休息一下】是要去吃午餐休息，吃午餐是休息的原因，故選項(a)表【因為】<font color="#dd0000">正解</font>
  
 答對
 Question 12.	 
  
 Renovations shall commence on July 24 and the motel __________ for a period of two to four weeks.
  (A) closed
- (B) will be closed(正解)
+ (B) will be closed<font color="#dd0000">正解</font>
  (C) has been closed
  (D) was not closed
 飯店將於7月24日開始整修，然後將會休業二到四周之久。
@@ -20292,7 +20292,7 @@ b. 未來被動式
 c. 現在完成被動式
 d. 過去被動式
 
-解析：由前方的助動詞【shall將會】可得知本句為未來式，由句尾的時間副詞【for a period of two to four weeks二到四周之久】可得知本句的連續時間為完成式用法，故可得知本句為未來完成式，故選項(b)為正解。
+解析：由前方的助動詞【shall將會】可得知本句為未來式，由句尾的時間副詞【for a period of two to four weeks二到四周之久】可得知本句的連續時間為完成式用法，故可得知本句為未來完成式，故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 13.	 
@@ -20300,7 +20300,7 @@ Question 13.
 Do not __________ to contact me if you have any questions or concerns about the brochure.
  (A) anticipate
  (B) consider
- (C) hesitate(正解)
+ (C) hesitate<font color="#dd0000">正解</font>
  (D) debate
 假如你對廣告冊的內容有任何問題或疑慮，請不要猶疑聯絡我。
 a. 預期、期望、預料 (動詞)
@@ -20308,13 +20308,13 @@ b. 考慮(動詞)
 c. 遲疑、猶疑(動詞)
 d. 辯論(動詞)
 
-解析：根據後句【if you have any questions 假如你有任何的問題】可判斷前句表示【不要遲疑】有問題時要趕快連絡，只有選項(c)符合題意為正解。
+解析：根據後句【if you have any questions 假如你有任何的問題】可判斷前句表示【不要遲疑】有問題時要趕快連絡，只有選項(c)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 14.	 
  
 So __________ water was leaking onto the floor that the factory crew had to call in an emergency plumber in the middle of the night.
- (A) much(正解)
+ (A) much<font color="#dd0000">正解</font>
  (B) little
  (C) many
  (D) lots of
@@ -20324,7 +20324,7 @@ b. 幾乎沒有的 (+不可數名詞)
 c. 多的 (+可數名詞)
 d. 多的(+可數/不可數名詞)，前不可與So搭配使用
 
-解析：後句提及【call in an emergency plumber打電話緊急請水電工】可知前句的漏水情況一定很嚴重，由空格後的不可數名詞【water】可判斷選項(a)為正解。而選項(b)【little】表【幾乎不】為否定字，與句意不符。
+解析：後句提及【call in an emergency plumber打電話緊急請水電工】可知前句的漏水情況一定很嚴重，由空格後的不可數名詞【water】可判斷選項(a)<font color="#dd0000">正解</font>而選項(b)【little】表【幾乎不】為否定字，與句意不符。
  
 答對
 Question 15.	 
@@ -20332,7 +20332,7 @@ Question 15.
 The price of property in downtown Vancouver has __________ to nearly double what it was five years ago.
  (A) tightened
  (B) plummeted
- (C) skyrocketed(正解)
+ (C) skyrocketed<font color="#dd0000">正解</font>
  (D) widened
 溫哥華市區的房價比五年前劇增了將近兩倍之多。
 a. 使變緊、使緊繃(動詞)
@@ -20340,14 +20340,14 @@ b. 筆直落下、驟降(動詞)
 c. 劇增、猛然上升 (動詞)
 d. 使變寬(動詞)
 
-解析：根據空格後的關鍵單字【nearly double將近兩倍】可判斷主詞的價格是上升的，故選項(c)為正解。
+解析：根據空格後的關鍵單字【nearly double將近兩倍】可判斷主詞的價格是上升的，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 16.	 
  
 Assuming __________ the train arrives on schedule, we should be in Moscow by noon.
  (A) what
- (B) that(正解)
+ (B) that<font color="#dd0000">正解</font>
  (C) when
  (D) which
 假設火車準時抵達的話，我們應該最晚中午前會抵達莫斯科。
@@ -20356,7 +20356,7 @@ b. that引導名詞子句，為前方動詞所接的受詞使用
 c. 問何時(疑問詞)
 d. 代替非人的先行詞(關係代名詞)
 
-解析：本句為分詞構句，分詞構句刪除【連接詞】及【相同的主詞】再根據子句語意是【主動】或【被動】將動詞改為【現在分詞V-ing】或【過去分詞V-pp】，故本句還原後→【If we assume __________ the train arrives on schedule, we should be in Moscow by noon.】。空格前方為動詞，動詞後接受詞，故空格處需接名詞子句，故選項(b)為正解。
+解析：本句為分詞構句，分詞構句刪除【連接詞】及【相同的主詞】再根據子句語意是【主動】或【被動】將動詞改為【現在分詞V-ing】或【過去分詞V-pp】，故本句還原後→【If we assume __________ the train arrives on schedule, we should be in Moscow by noon.】。空格前方為動詞，動詞後接受詞，故空格處需接名詞子句，故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 17.	 
@@ -20364,7 +20364,7 @@ Question 17.
 After working in the import-export industry for half her life, Kelly decided to quit and __________ a career in fashion design.
  (A) produce
  (B) peruse
- (C) pursue(正解)
+ (C) pursue<font color="#dd0000">正解</font>
  (D) purpose
 Kelly在進出口產業工作大半輩子後決定辭職，然後轉職到流行設計產業上班。
 a. 生產、製造(動詞)
@@ -20372,13 +20372,13 @@ b. 細讀、精讀(動詞)
 c. 追求、從事(動詞)
 d. 目的(名詞)
 
-解析：前句指出主詞在進口商工作大半輩子，後句的動詞【quit辭職】指出主詞辭職，再搭配關鍵單字【…a career in fashion design在流行設計產業的工作】可得知主詞轉職到流行設計產業工作。故選項(c)表【pursue a career從事某份工作】符合句意為正解。
+解析：前句指出主詞在進口商工作大半輩子，後句的動詞【quit辭職】指出主詞辭職，再搭配關鍵單字【…a career in fashion design在流行設計產業的工作】可得知主詞轉職到流行設計產業工作。故選項(c)表【pursue a career從事某份工作】符合句意<font color="#dd0000">正解</font>
  
 答對
 Question 18.	 
  
 I'd give my right arm _________ the Queen of England in person.
- (A) to meet(正解)
+ (A) to meet<font color="#dd0000">正解</font>
  (B) meet
  (C) to met
  (D) to be meeting
@@ -20388,7 +20388,7 @@ b. 原形動詞
 c. 無此用法
 d. 現在分詞
 
-解析：動詞【give給、與】後方需接不定詞【to】再接另一個動詞，故選項(a)為正解。
+解析：動詞【give給、與】後方需接不定詞【to】再接另一個動詞，故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 19.	 
@@ -20396,7 +20396,7 @@ Question 19.
 If you don't have anything __________ to say, then don't say anything at all.
  (A) construct
  (B) construction
- (C) constructive(正解)
+ (C) constructive<font color="#dd0000">正解</font>
  (D) constructively
 若你沒有任何建設性的意見，就不要說話。
 a. 建造、構成(動詞)
@@ -20404,14 +20404,14 @@ b. 建築物、建設(名詞)
 c. 有建設性的(形容詞)
 d. 有建設性地(副詞)
 
-解析：【any/every/no】與【thing/body(one)/where】的九種搭配用法(例：anything/everything/nothing…等)，其修飾的形容詞位置與一般形容詞不同。一般形容詞置於名詞前方，但遇到這九種代名詞時，形容詞置於後方。故選項(c)為正解。
+解析：【any/every/no】與【thing/body(one)/where】的九種搭配用法(例：anything/everything/nothing…等)，其修飾的形容詞位置與一般形容詞不同。一般形容詞置於名詞前方，但遇到這九種代名詞時，形容詞置於後方。故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 20.	 
  
 Kim has __________ been a film editor for more than twenty years.
  (A) yet
- (B) already(正解)
+ (B) already<font color="#dd0000">正解</font>
  (C) ever
  (D) before
 Kin從事電影編輯工作已經超過20年之久。
@@ -20420,14 +20420,14 @@ b. 已經
 c. 曾經
 d. 之前
 
-解析：根據題意，主詞Kim已經從事這份工作超過20年之久。故選項(b)符合題意為正解。選項(a)常用於否定句【not…yet】表【尚未】，而選項(c)則用於疑問句。選項(d)則用來表示發生在過去的動作。
+解析：根據題意，主詞Kim已經從事這份工作超過20年之久。故選項(b)符合題意<font color="#dd0000">正解</font>選項(a)常用於否定句【not…yet】表【尚未】，而選項(c)則用於疑問句。選項(d)則用來表示發生在過去的動作。
  
 答對
 Question 21.	 
  
 There has been a __________ in the law regarding the use of seat belts in Sacramento.
  (A) relax
- (B) relaxation(正解)
+ (B) relaxation<font color="#dd0000">正解</font>
  (C) relaxed
  (D) relaxes
 對於安全帶的使用，薩克拉門托地區政府已放寬了相關法律。
@@ -20436,7 +20436,7 @@ b. 名詞
 d. 現在動詞(搭配主詞三單)
 c. 過去動詞
 
-解析：由空格前方的冠詞【a】可得知後接名詞，故空格需選擇名詞。只有選項(b)為正解。其餘選項的詞性如選項所示。
+解析：由空格前方的冠詞【a】可得知後接名詞，故空格需選擇名詞。只有選項(b)<font color="#dd0000">正解</font>其餘選項的詞性如選項所示。
  
 答對
 Question 22.	 
@@ -20444,7 +20444,7 @@ Question 22.
 __________ entertaining as this car race is, I'm really tired and want to go home.
  (A) So
  (B) Too
- (C) As (正解)
+ (C) As <font color="#dd0000">正解</font>
  (D) Such
 雖然這場賽車很精采，但我真的很累而且想回家。
 a. 【so/as…as】表【和…一樣】
@@ -20452,13 +20452,13 @@ b. 表【太】後接形容詞
 c. 表【雖然】
 d. 表【如此的】後接名詞
 
-解析：當選項(a)(c)和空格後方的介係詞【as】連用時，其中【so/as…as】表【和…一樣】，但不符合本句的句意。選項(c)的用法多種，不但可表【和…一樣】、後方連接子句時也可表示【當…時】等等。而在本句中，選項(c)【as】表示【雖然、即便、即使】符合題意為正解。選項(b)後方也可接形容詞，卻與本句題意不合。
+解析：當選項(a)(c)和空格後方的介係詞【as】連用時，其中【so/as…as】表【和…一樣】，但不符合本句的句意。選項(c)的用法多種，不但可表【和…一樣】、後方連接子句時也可表示【當…時】等等。而在本句中，選項(c)【as】表示【雖然、即便、即使】符合題意<font color="#dd0000">正解</font>選項(b)後方也可接形容詞，卻與本句題意不合。
  
 答對
 Question 23.	 
  
 We'd like stop purchasing from that supplier because delayed deliveries have been a __________ problem.
- (A) constant(正解)
+ (A) constant<font color="#dd0000">正解</font>
  (B) continue
  (C) regulated
  (D) regulation
@@ -20468,7 +20468,7 @@ b. 繼續 (動詞)
 c. 使規則化(動詞)
 d. 規定(名詞)
 
-解析：由空格後方的名詞【problem】可得知空格為形容詞用法來修飾名詞，搭配前句指出主詞要停止向那間供應商叫貨，故可知名詞【problem問題】不只發生一次。故選項(a)為形容詞用法為正解。
+解析：由空格後方的名詞【problem】可得知空格為形容詞用法來修飾名詞，搭配前句指出主詞要停止向那間供應商叫貨，故可知名詞【problem問題】不只發生一次。故選項(a)為形容詞用法<font color="#dd0000">正解</font>
  
 答對
 Question 24.	 
@@ -20476,7 +20476,7 @@ Question 24.
 Is it required for all employees to get a health check to remain ____________ with this firm?
  (A) employ
  (B) employing
- (C) employed(正解)
+ (C) employed<font color="#dd0000">正解</font>
  (D) to employ
 公司員工是否要有健康檢查報告才能繼續被公司僱用？
 a. 原形動詞
@@ -20484,13 +20484,13 @@ b. 現在分詞
 c. 過去分詞
 d. 不定詞
 
-解析：本句【all employees所有職員】都是被公司所聘雇的，可知受詞【all employees所有職員】與動詞【employ】的關係為被動語氣，故空格處需選擇過去分詞(V-pp)表示被動語氣，故選項(c)為正解。
+解析：本句【all employees所有職員】都是被公司所聘雇的，可知受詞【all employees所有職員】與動詞【employ】的關係為被動語氣，故空格處需選擇過去分詞(V-pp)表示被動語氣，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 25.	 
  
 It is generally believed that a glass of red wine per day can __________ oxidants from the body.
- (A) eliminate(正解)
+ (A) eliminate<font color="#dd0000">正解</font>
  (B) eliminated
  (C) eliminating
  (D) to eliminate
@@ -20500,7 +20500,7 @@ b. 過去式
 c. 現在分詞
 d. 不定詞+原型動詞
 
-解析：由空格前方的助動詞【can】後接動詞原形，故可判斷空格選擇(a)選項為正解。其餘皆與本句文法不符。
+解析：由空格前方的助動詞【can】後接動詞原形，故可判斷空格選擇(a)選項<font color="#dd0000">正解</font>其餘皆與本句文法不符。
  
 答對
 Question 26.	 
@@ -20508,7 +20508,7 @@ Question 26.
 Mrs. Lee doesn't care for the opera, __________ does she enjoy going to watch ballet performances.
  (A) and not
  (B) or never
- (C) nor(正解)
+ (C) nor<font color="#dd0000">正解</font>
  (D) neither
 李太太對歌劇沒有興趣也不喜歡看芭蕾舞表演。
 a. 和不
@@ -20525,14 +20525,14 @@ The company is intending __________ its foreign affairs division due to the acqu
  (A) expanding
  (B) expand
  (C) to be expanded
- (D) to expand(正解)
+ (D) to expand<font color="#dd0000">正解</font>
 由於幾名主要的國際客戶的增加，公司有意擴展海外部門， 
 a. 動名詞
 b. 原形動詞
 c. 被動式【be-V+V-pp】
 d. 不定詞
 
-解析：根據後句的關鍵單字【the acquisition of several key international clients增加幾名主要的國際客戶】可得知主詞想要延伸海外部門，故可知本句為主動語氣，而動詞【intend】後需接不定詞【to】才能接另一個動詞，故選項(d)為正解。選項(c)為被動語氣不符合本句句意。而選項(a)(b)不符合本句文法。
+解析：根據後句的關鍵單字【the acquisition of several key international clients增加幾名主要的國際客戶】可得知主詞想要延伸海外部門，故可知本句為主動語氣，而動詞【intend】後需接不定詞【to】才能接另一個動詞，故選項(d)<font color="#dd0000">正解</font>選項(c)為被動語氣不符合本句句意。而選項(a)(b)不符合本句文法。
  
 答對
 Question 28.	 
@@ -20540,7 +20540,7 @@ Question 28.
 Over 50% of the speakers have dropped out of the conference; __________, it will still take place as scheduled.
  (A) furthermore
  (B) therefore
- (C) nevertheless(正解)
+ (C) nevertheless<font color="#dd0000">正解</font>
  (D) even more
 有超過百分之五十的演講者退出會議，但會議依然如期舉行。
 a. 此外(副詞)
@@ -20548,7 +20548,7 @@ b. 因此(副詞)
 c. 然而(副詞)
 d. 甚至更多(比較級形容詞)
 
-解析：根據前句關鍵單字【dropped out of the conference退出會議】搭配後句【still take place as scheduled依然照計畫舉行】可得知前後兩句句意相反，故選(c)為正解。選項(a)用來連接兩句語意相同的子句；選項(b)用來連接因果關係句；而選項(d)則用來補充說明前一句的內容。
+解析：根據前句關鍵單字【dropped out of the conference退出會議】搭配後句【still take place as scheduled依然照計畫舉行】可得知前後兩句句意相反，故選(c)<font color="#dd0000">正解</font>選項(a)用來連接兩句語意相同的子句；選項(b)用來連接因果關係句；而選項(d)則用來補充說明前一句的內容。
  
 答對
 Question 29.	 
@@ -20557,14 +20557,14 @@ Kaylan felt carsick from driving around so many turns on the __________ road up 
  (A) wintery
  (B) windy
  (C) winning
- (D) winding(正解)
+ (D) winding<font color="#dd0000">正解</font>
 Kaylan因開車上山經過很多彎道路讓她覺得暈車了。
 a. 寒冷的、冷淡的(形容詞)
 b. 多風的(形容詞)
 c. 獲勝的(形容詞)
 d. 彎曲的(形容詞)
 
-解析：前句提及主詞【felt carsick暈車】是因為車輛行駛時經過【so many turns很多彎道】，故可判斷後方名詞【road道路】的狀況很彎曲，故選項(d)的單字意思符合題意為正解。
+解析：前句提及主詞【felt carsick暈車】是因為車輛行駛時經過【so many turns很多彎道】，故可判斷後方名詞【road道路】的狀況很彎曲，故選項(d)的單字意思符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 30.	 
@@ -20572,7 +20572,7 @@ Question 30.
 Instead of purchasing a new desktop, Randy bought individual components and put the computer together __________ himself.
  (A) all for
  (B) to have
- (C) all by(正解)
+ (C) all by<font color="#dd0000">正解</font>
  (D) all on
 Randy沒有購買一台新的桌上型電腦，反而買了單獨的零件自己組裝電腦。
 a. 全部為了【for oneself】
@@ -20580,7 +20580,7 @@ b. 不定詞+原形動詞
 c. 獨自地【by oneself】
 d. 無此用法
 
-解析：根據本句的關鍵單字【Instead of purchasing a new desktop沒有購買一台新的桌上型電腦】再加上【put the computer together組裝電腦】可得知主詞自己購買零件組裝電腦，故副詞片語【by himself = on his won】表【獨自地…】，表主詞自己組裝電腦，故選項(c)為正解。
+解析：根據本句的關鍵單字【Instead of purchasing a new desktop沒有購買一台新的桌上型電腦】再加上【put the computer together組裝電腦】可得知主詞自己購買零件組裝電腦，故副詞片語【by himself = on his won】表【獨自地…】，表主詞自己組裝電腦，故選項(c)<font color="#dd0000">正解</font>
  
 只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
@@ -20593,20 +20593,20 @@ __________, what we are trying to tell you is that you are fired.
  (A) Essence
  (B) Essential
  (C) Essentials
- (D) Essentially (正解)
+ (D) Essentially <font color="#dd0000">正解</font>
 本來，我們想告訴你，你被解雇了。
 a. 本質、實質(名詞)
 b. 重要的 (形容詞)
 c. 要素 (名詞)
 d. 實質上、本來(副詞)
-解析：空格後方有逗點與主要子句隔開，故可判斷空格處為副詞用法。而選項中只有(d)為副詞，故選項(d)為正解。其他選項詞性請見選項翻譯。
+解析：空格後方有逗點與主要子句隔開，故可判斷空格處為副詞用法。而選項中只有(d)為副詞，故選項(d)<font color="#dd0000">正解</font>其他選項詞性請見選項翻譯。
  
 答對
 Question 2.	 
  
 Your responsibilities __________ updating the software, resolving IT issues, and eliminating viruses.
  (A) will be including
- (B) will include(正解)
+ (B) will include<font color="#dd0000">正解</font>
  (C) will be included
  (D) will have included
 你的責任範圍包涵軟體的更新、解決IT問題以及刪除電腦病毒。
@@ -20614,7 +20614,7 @@ a. 未來進行式
 b. 未來式
 c. 未來被動式
 d. 未來完成式
-解析：本句主詞【Your responsibilities你的責任】涵蓋後方的三個項目，故可判斷本句為主動語氣，選項(b)為正解。選項(a)表【某一動作確認在未來某一刻會發生】；選項(c)表【未來的被動語氣】；選項(d)表【某一動作會重複發生一段時間到未來】。
+解析：本句主詞【Your responsibilities你的責任】涵蓋後方的三個項目，故可判斷本句為主動語氣，選項(b)<font color="#dd0000">正解</font>選項(a)表【某一動作確認在未來某一刻會發生】；選項(c)表【未來的被動語氣】；選項(d)表【某一動作會重複發生一段時間到未來】。
  
 答對
 Question 3.	 
@@ -20623,21 +20623,21 @@ The audience burst into __________ when the mayoral candidate promised he would 
  (A) applaud
  (B) applauds
  (C) applauding
- (D) applause(正解)
+ (D) applause<font color="#dd0000">正解</font>
 市長候選人承諾要減少街頭犯罪率時，所有的觀眾突然鼓掌。
 a. 原形動詞
 b. 現在式動詞(主詞三單)
 c. 現在分詞，可當形容詞
 d. 名詞
 
-解析：片語【burst into tears/laughter/applause】表示【突然大哭/大笑/鼓掌】，介係詞【into】後接名詞(N)或動名詞(Ving)，故選項(d)為正解。動詞【applaud鼓掌】有名詞用法【applause鼓掌】，選項(c)雖可當動名詞使用，但不可當此動詞的名詞。
+解析：片語【burst into tears/laughter/applause】表示【突然大哭/大笑/鼓掌】，介係詞【into】後接名詞(N)或動名詞(Ving)，故選項(d)<font color="#dd0000">正解</font>動詞【applaud鼓掌】有名詞用法【applause鼓掌】，選項(c)雖可當動名詞使用，但不可當此動詞的名詞。
  
 答對
 Question 4.	 
  
 The author receives a __________ cheque of 13.5% of his book sales every quarter.
  (A) royal
- (B) royalty(正解)
+ (B) royalty<font color="#dd0000">正解</font>
  (C) penalty
  (D) subsidy
 作者每一季會收到書本銷售的百分之13.5的版稅支票。
@@ -20646,7 +20646,7 @@ b. 版稅；皇室成員(名詞)
 c. 處罰、刑罰、罰款(名詞)
 d. 補助金、津貼(名詞)
 
-解析：根據後句的關鍵單字【13.5% of his book sales 書本銷售的百分之13.5】可知主詞收得的版稅的收入，故選項(b)為正解。其他選項皆不合題意。
+解析：根據後句的關鍵單字【13.5% of his book sales 書本銷售的百分之13.5】可知主詞收得的版稅的收入，故選項(b)<font color="#dd0000">正解</font>其他選項皆不合題意。
  
 答對
 Question 5.	 
@@ -20655,14 +20655,14 @@ In breaking news, the president of Avago Media, Inc. announced yesterday that hi
  (A) acquired
  (B) will acquired
  (C) will be acquired
- (D) will be acquiring (正解)
+ (D) will be acquiring <font color="#dd0000">正解</font>
 新聞快報，維格傳媒的總裁昨天宣佈他們明年二月將收購費事達公司。
 a. 過去分詞
 b. 無此用法
 c. 未來被動式
 d. 未來進行式
 
-解析：根據時間副詞【next February明年二月】可得知主詞的公司將在未來的某個明確時間收購Festar, Inc.(費事達公司)，故可判斷本句為未來式。選項(b)選項錯誤應改正成→【will acquire (助動詞+原形動詞)】。而選項(c)為【未來的被動語氣】與本句的主動語氣不符。故只有選項(d) 【未來進行式】表示【某動作在未來的某時間且發生的可能性極大】為正解。
+解析：根據時間副詞【next February明年二月】可得知主詞的公司將在未來的某個明確時間收購Festar, Inc.(費事達公司)，故可判斷本句為未來式。選項(b)選項錯誤應改正成→【will acquire (助動詞+原形動詞)】。而選項(c)為【未來的被動語氣】與本句的主動語氣不符。故只有選項(d) 【未來進行式】表示【某動作在未來的某時間且發生的可能性極大】<font color="#dd0000">正解</font>
  
 答對
 Question 6.	 
@@ -20671,20 +20671,20 @@ If all of the employees travel to the trade fair __________ rail as opposed to f
  (A) in
  (B) on
  (C) on the
- (D) by(正解)
+ (D) by<font color="#dd0000">正解</font>
 與搭飛機的費用相比，若所有員工搭火車去參加貿易展，我們可以省下高達一萬五千塊美金的交通費。
 a. 在..裡面 (介詞)
 b. 在…上面 (介詞)
 c. 在..某物的上面 (介詞)
 d. 搭 後接交通工具 (介詞)
 
-解析：由空格後方的關鍵單字【rail 鐵路/火車】可判斷所有員工搭乘這一項交通工具去參加貿易展，故可知副詞片語【by+交通工具】表【搭乘…(交通工具)】選項(d)為正解。
+解析：由空格後方的關鍵單字【rail 鐵路/火車】可判斷所有員工搭乘這一項交通工具去參加貿易展，故可知副詞片語【by+交通工具】表【搭乘…(交通工具)】選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 7.	 
  
 Minimum __________ in the state of Colorado has been increased to USD8.00/hour.
- (A) wage(正解)
+ (A) wage<font color="#dd0000">正解</font>
  (B) payment
  (C) earning
  (D) salary
@@ -20694,7 +20694,7 @@ b. 支付 (名詞)
 c. 收入(名詞)
 d. 月薪(名詞)
 
-解析：根據後方關鍵單字【USD8.00/hour每小時八塊美金】可判斷本句在討論時薪，故選項(a)為正解，選項(d)為【月俸/月薪】非正確選項。
+解析：根據後方關鍵單字【USD8.00/hour每小時八塊美金】可判斷本句在討論時薪，故選項(a)<font color="#dd0000">正解</font>選項(d)為【月俸/月薪】非正確選項。
  
 答對
 Question 8.	 
@@ -20702,7 +20702,7 @@ Question 8.
 I'm counting __________ you to make the sale, Maggie!
  (A) around
  (B) about
- (C) on(正解)
+ (C) on<font color="#dd0000">正解</font>
  (D) for
 Maggie，這一筆買賣就靠你了。
 a. 在…周圍(介詞)
@@ -20710,14 +20710,14 @@ b. 大約、大概(介詞)
 c. 介係詞搭配片語使用，見解析
 d. 因為(介詞)
 
-解析：動詞片語【count on】表【依靠、依賴】，其他選項無法搭配前方動詞使用，故選項(c)為正解。
+解析：動詞片語【count on】表【依靠、依賴】，其他選項無法搭配前方動詞使用，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 9.	 
  
 __________, I don't need to tell you this information after all.
  (A) No wonder
- (B) Never mind(正解)
+ (B) Never mind<font color="#dd0000">正解</font>
  (C) Don't mind
  (D) Don't care
 沒關係，畢竟我不需要告訴你這些訊息。
@@ -20726,7 +20726,7 @@ b. 沒關係
 c. 別介意
 d. 不在乎
 
-解析：根據後句的題意可判斷主詞完全不需要告知這項訊息，故另一方知不知道並無所謂。因此可判斷選項(b)較符合題意為正解。選項(a)後方可直接子句→【No wonder (that) I don't need to tell you this information after all. 】不需接逗點。選項(d)後不可再接任何子句→【Don't care. I don't need to tell you this information after all. 】。
+解析：根據後句的題意可判斷主詞完全不需要告知這項訊息，故另一方知不知道並無所謂。因此可判斷選項(b)較符合題意<font color="#dd0000">正解</font>選項(a)後方可直接子句→【No wonder (that) I don't need to tell you this information after all. 】不需接逗點。選項(d)後不可再接任何子句→【Don't care. I don't need to tell you this information after all. 】。
  
 答對
 Question 10.	 
@@ -20734,7 +20734,7 @@ Question 10.
 The handicapped parking space must be situated no __________ than 10 meters from the entrance to the building.
  (A) far
  (B) much
- (C) more(正解)
+ (C) more<font color="#dd0000">正解</font>
  (D) distance
 身障停車場的距離距大樓入口處需小於10公尺。
 a. 遠的 (原級形容詞)
@@ -20742,7 +20742,7 @@ b. 更…(副詞，修飾比較級形容詞)
 c. 更多的 (比較級形容詞)
 d. 距離(名詞)
 
-解析：本句以數字【10 meters(公尺)】做比較，表示停車場的距離不可多於10公尺，選項(c)用來形容【多於10公尺or小於10公尺】故為正解。
+解析：本句以數字【10 meters(公尺)】做比較，表示停車場的距離不可多於10公尺，選項(c)用來形容【多於10公尺or小於10公尺】故<font color="#dd0000">正解</font>
 選項(a)的形容詞則用來形容【遠或近】後方不可接本句中提及的數字【10 meters(公尺)】故不可選。
  
 答對
@@ -20750,7 +20750,7 @@ Question 11.
  
 The __________ went wild when the boxer threw the knockout punch.
  (A) investigators
- (B) spectators(正解)
+ (B) spectators<font color="#dd0000">正解</font>
  (C) expeditors
  (D) interviewees
 當拳擊手擊出決定性的一拳，觀眾為之瘋狂。
@@ -20759,7 +20759,7 @@ b. 觀眾(名詞)
 c. 催料員(名詞)
 d. 受訪者 (名詞)
 
-解析：根據後句【the boxer threw the knockout punch拳擊手擊出絕對性的一拳】可判斷前句主詞須為【觀看的人】才會為之瘋狂，故選項(b)符合題意為正解。
+解析：根據後句【the boxer threw the knockout punch拳擊手擊出絕對性的一拳】可判斷前句主詞須為【觀看的人】才會為之瘋狂，故選項(b)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 12.	 
@@ -20768,14 +20768,14 @@ This movie is not __________ for children because it contains violence and foul 
  (A) suit
  (B) suited
  (C) suiting
- (D) suitable(正解)
+ (D) suitable<font color="#dd0000">正解</font>
 這部電影不適合小朋友，因為內容充斥暴力與髒話。
 a. 合適 (動詞)
 b. 合適的 (過去分詞當形容詞)
 c. 西服料 (名詞)
 d. 適合的、適當的 (形容詞)
 
-解析：選項(A)【suit】為及物動詞後可直接受詞，不需多加介係詞。選項(b)搭配前方動詞【is】為被動語氣用法，而選項(c)為名詞用法，故選項(d)形容詞片語【be suitable for】表【適合…】為正解。
+解析：選項(A)【suit】為及物動詞後可直接受詞，不需多加介係詞。選項(b)搭配前方動詞【is】為被動語氣用法，而選項(c)為名詞用法，故選項(d)形容詞片語【be suitable for】表【適合…】<font color="#dd0000">正解</font>
  
 答對
 Question 13.	 
@@ -20783,7 +20783,7 @@ Question 13.
 Make sure to __________ all the cords from the sockets before you leave the office.
  (A) turn off
  (B) close
- (C) unplug(正解)
+ (C) unplug<font color="#dd0000">正解</font>
  (D) shut down
 離開辦公室前，請務必確定你已將所有的電線從插座上拔起。
 a. 關掉 (動詞片語)
@@ -20791,7 +20791,7 @@ b. 關閉 (動詞)
 c. 拔掉 (動詞)
 d. 關閉 (動詞片語)
 
-解析：根據後句【before you leave the office離開辦公室之前】加上關鍵單字【from the sockets 從插座上…】可判斷在主詞離開之前要將電器的【cords電線】從插座上拔起，故可知選項(c)為正解。
+解析：根據後句【before you leave the office離開辦公室之前】加上關鍵單字【from the sockets 從插座上…】可判斷在主詞離開之前要將電器的【cords電線】從插座上拔起，故可知選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 14.	 
@@ -20800,20 +20800,20 @@ Excuse me. I think I was __________ for this product. It should cost 19.99 but m
  (A) overpaid
  (B) overcharged
  (C) underpaid
- (D) undercharged(正解)
+ (D) undercharged<font color="#dd0000">正解</font>
 不好意思，我想你少算錢了。這件商品應該是19.99，但是我的收據上只有17.99。
 a. 多付(動詞)
 b. 多收(動詞)
 c. 少付 ..工資(動詞)
 d. 少收 (動詞)
 
-解析：根據後句內容得知，產品價格為【$19.99】但收據上只有【$17.99】可判斷產品的價格短少，故選項(d)符合題意為正解。
+解析：根據後句內容得知，產品價格為【$19.99】但收據上只有【$17.99】可判斷產品的價格短少，故選項(d)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 15.	 
  
 Miss Peterson, according to your travel __________, you will have a press conference today at noon, and then three hours of sightseeing with the director of the tourism department.
- (A) itinerary(正解)
+ (A) itinerary<font color="#dd0000">正解</font>
  (B) mystery
  (C) complimentary
  (D) legendary
@@ -20823,7 +20823,7 @@ b. 神祕 (名詞)
 c. 贈送的 (形容詞)
 d. 傳說的 (形容詞)
 
-解析：根據後句的內容【主詞Miss Peterson中午有會議，之後和觀光部門的主管去觀光】，故可得知本句在解釋主詞的行程表，故空格處為選項(a)表【觀光行程】為正解。
+解析：根據後句的內容【主詞Miss Peterson中午有會議，之後和觀光部門的主管去觀光】，故可得知本句在解釋主詞的行程表，故空格處為選項(a)表【觀光行程】<font color="#dd0000">正解</font>
  
 答對
 Question 16.	 
@@ -20832,21 +20832,21 @@ Nepal is a Himalayan kingdom known for its mountainous __________.
  (A) scene
  (B) lookout
  (C) view
- (D) scenery(正解)
+ (D) scenery<font color="#dd0000">正解</font>
 尼泊爾是以群山美景著稱的喜馬拉雅王國。
 a. 場景(名詞)
 b. 瞭望所 (名詞)
 c. 景色、觀點、視野 (名詞)
 d. 風景、景色 (名詞)
 
-解析：形容詞【mountainous峰峰相連的】後接名詞用法，由形容詞的意思可判斷空格處為景色，故選項(d)常用於指【自然風景/某地區的景色】故為正解。選項(c)也有【景色】之意，但常用於【從某處/地看到的視野範圍的景色】。
+解析：形容詞【mountainous峰峰相連的】後接名詞用法，由形容詞的意思可判斷空格處為景色，故選項(d)常用於指【自然風景/某地區的景色】故<font color="#dd0000">正解</font>選項(c)也有【景色】之意，但常用於【從某處/地看到的視野範圍的景色】。
  
 答對
 Question 17.	 
  
 As __________ usual, we will meet in the cafe on Friday at 4 PM.
  (A) of
- (B) per(正解)
+ (B) per<font color="#dd0000">正解</font>
  (C) so
  (D) for
 一如往常，我們會於禮拜五下午四點在咖啡廳開會。
@@ -20855,7 +20855,7 @@ b. 搭配片語使用，請見解析
 c. 如此 (後接形容詞)
 d. 為了 (介詞)
 
-解析：片語【as per usual】與【as usual, as always】同義表【與平常一樣】為固定用法，故只有選項(b)為正解。其他介係詞不可搭配使用。
+解析：片語【as per usual】與【as usual, as always】同義表【與平常一樣】為固定用法，故只有選項(b)<font color="#dd0000">正解</font>其他介係詞不可搭配使用。
  
 答對
 Question 18.	 
@@ -20863,7 +20863,7 @@ Question 18.
 __________ her good looks and young age, Nathanial found Kim unattractive because she was a workaholic.
  (A) Thanks to
  (B) In accordance to
- (C) In spite of (正解)
+ (C) In spite of <font color="#dd0000">正解</font>
  (D) Owing to
 儘管Kim的外型漂亮又年輕，Nathanial仍然認為她沒有吸引力因為她是個工作狂。
 a. 幸虧(後接名詞)
@@ -20871,7 +20871,7 @@ b. 無此用法，正確為【In accordance with，表根據】
 c. 儘管、不管(後接名詞)
 d. 由於(後接名詞)
 
-解析：前句指出【good looks and young age外型漂亮又年輕】後句卻指出【unattractive不具吸引力的】可判斷前句兩句的語意相反，選項(a)(b)(d)皆用來連接因果關係句，選項(c)則用來連接語氣相反的子句，故選項(c)為正解。
+解析：前句指出【good looks and young age外型漂亮又年輕】後句卻指出【unattractive不具吸引力的】可判斷前句兩句的語意相反，選項(a)(b)(d)皆用來連接因果關係句，選項(c)則用來連接語氣相反的子句，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 19.	 
@@ -20879,7 +20879,7 @@ Question 19.
 With the rainy season quickly __________, we need to repair these cracks in the windows.
  (A) appointment
  (B) appropriate
- (C) approaching(正解)
+ (C) approaching<font color="#dd0000">正解</font>
  (D) apartment
 雨季即將來臨，我們必須把窗戶上的裂縫修補好。
 a. 約會、約定 (名詞)
@@ -20896,13 +20896,13 @@ The oil refinery was caught dumping toxic waste into a local stream; __________,
  (A) result in
  (B) result from
  (C) resulting
- (D) as a result(正解)
+ (D) as a result<font color="#dd0000">正解</font>
 煉油廠被發現傾倒有毒廢物到當地河川，因此他們被罰了六萬美金。
 a. 導致 (片語)
 b. 起因於 (片語)
 c. 現在分詞/動名詞
 d. 結果、因此 (副詞)
-解析：根據前後文的句意判斷可知，前句主詞被抓到傾倒有毒廢物到當地河川中，才導致後句被罰款的結果，故可得知前後兩句為因果關係句。選項中只有(a)(d)後接結果句，但選項(a)為動詞片語後接名詞；而本句空格處後方以逗點與後句隔開，可得知空格處為副詞用法，故只有選項(d)為副詞用法故為正解。
+解析：根據前後文的句意判斷可知，前句主詞被抓到傾倒有毒廢物到當地河川中，才導致後句被罰款的結果，故可得知前後兩句為因果關係句。選項中只有(a)(d)後接結果句，但選項(a)為動詞片語後接名詞；而本句空格處後方以逗點與後句隔開，可得知空格處為副詞用法，故只有選項(d)為副詞用法故<font color="#dd0000">正解</font>
  
 答對
 Question 21.	 
@@ -20910,7 +20910,7 @@ Question 21.
 Further testing __________ that the soy beans were unsafe for human consumption.
  (A) told
  (B) instructed
- (C) revealed(正解)
+ (C) revealed<font color="#dd0000">正解</font>
  (D) introduced
 進一步的測試發現食用黃豆對人類並不安全。
 a. 告知 (動詞)
@@ -20926,7 +20926,7 @@ Question 22.
 I am unsatisfied with this burger because it looks smaller than the one on the menu picture; __________, the lettuce on it is stale.
  (A) likewise
  (B) fortunately
- (C) moreover(正解)
+ (C) moreover<font color="#dd0000">正解</font>
  (D) consequently
 我對這份漢堡不滿意，因為看起來比照片上的更小。此外，上面的生菜也不新鮮。
 a. 同樣地 (副詞)
@@ -20934,7 +20934,7 @@ b. 幸運地 (副詞)
 c. 此外 (副詞)
 d. 結果，因此 (副詞)
 
-解析：根據關鍵單字【stale不新鮮的、陳舊的】可知主詞不滿意的部分有二：漢堡及生菜。選項(c)用來連接兩句語氣相同的子句，選項(d)則用來連接因果關係句，故選項(c)為正解。
+解析：根據關鍵單字【stale不新鮮的、陳舊的】可知主詞不滿意的部分有二：漢堡及生菜。選項(c)用來連接兩句語氣相同的子句，選項(d)則用來連接因果關係句，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 23.	 
@@ -20943,7 +20943,7 @@ The hotel laundry service is unavailable __________ next Tuesday.
  (A) for
  (B) while
  (C) during
- (D) until(正解)
+ (D) until<font color="#dd0000">正解</font>
 飯店不會提供送洗衣服服務直到下禮拜二。
 a. 後接一段時間 (時間介詞)
 b. 當…時候(副詞連接詞)
@@ -20956,7 +20956,7 @@ d. 直到 (副詞連接詞)
 Question 24.	 
  
 The 1918 flu pandemic was the __________ virus since the Black Plague.
- (A) deadliest(正解)
+ (A) deadliest<font color="#dd0000">正解</font>
  (B) deadened
  (C) deadly
  (D) dead
@@ -20966,7 +20966,7 @@ b. 沒有前途的工作(名詞)
 c. 致命的 (形容詞)
 d. 死者 (名詞)
 
-解析：本句以【the Black Plague黑死病】與【1918 flu pandemic 1918年的流感】做比較，表示此種病毒是繼黑死病後最致命的病毒。由空格名詞【virus病毒】可得知空格處為形容詞用法，故選項(a)最符合題意為正解。
+解析：本句以【the Black Plague黑死病】與【1918 flu pandemic 1918年的流感】做比較，表示此種病毒是繼黑死病後最致命的病毒。由空格名詞【virus病毒】可得知空格處為形容詞用法，故選項(a)最符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 25.	 
@@ -20974,7 +20974,7 @@ Question 25.
 Guests at the wedding __________ to sign the guestbook before they leave.
  (A) encourage
  (B) are encouraging
- (C) are encouraged (正解)
+ (C) are encouraged <font color="#dd0000">正解</font>
  (D) have been encouraged
 參加婚禮的貴賓被鼓勵離開前要在客人名冊上留名。
 a. 現在簡單式
@@ -20982,14 +20982,14 @@ b. 現在進行式
 c. 現在簡單被動式
 d. 現在完成被動式
 
-解析：根據題意，主詞是被鼓勵在簽名冊留名的，故本句為被動語氣，選項(c)為正解。而選項(d) 【現在完成式的被動語氣】表【某一動作從過去某時間重複發生一段時間到現在】不符合本句時式。
+解析：根據題意，主詞是被鼓勵在簽名冊留名的，故本句為被動語氣，選項(c)<font color="#dd0000">正解</font>而選項(d) 【現在完成式的被動語氣】表【某一動作從過去某時間重複發生一段時間到現在】不符合本句時式。
  
 答對
 Question 26.	 
  
 It took Dr. Calstein a decade __________ his surgical skills.
  (A) improve
- (B) to improve(正解)
+ (B) to improve<font color="#dd0000">正解</font>
  (C) improved
  (D) improving
 Dr. Calstein花了十年的時間增進他的開刀技術。
@@ -21004,7 +21004,7 @@ d. 現在分詞
 Question 27.	 
  
 Madagascar's climate is __________ by a hot, rainy summer and a cool, dry winter.
- (A) characterized(正解)
+ (A) characterized<font color="#dd0000">正解</font>
  (B) qualified
  (C) described
  (D) accepted
@@ -21014,14 +21014,14 @@ b. 有資格(動詞)
 c. 說明、描述(動詞)
 d. 接受(動詞)
 
-解析：根據空格後的介係詞【by】可得知主詞【Madagascar's climate馬達加斯加的氣候】是由於空格後方的氣候型態所定型，依此選項(a)符合題意為正解。
+解析：根據空格後的介係詞【by】可得知主詞【Madagascar's climate馬達加斯加的氣候】是由於空格後方的氣候型態所定型，依此選項(a)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 28.	 
  
 The main __________ for writing this article is that your name will be printed on the front of the magazine.
  (A) intensive
- (B) incentive(正解)
+ (B) incentive<font color="#dd0000">正解</font>
  (C) sensitive
  (D) incense
 你的名字將會被印在雜誌封面上是促使你寫這篇文章的主因。
@@ -21030,7 +21030,7 @@ b. 誘因 (名詞)
 c. 敏感的 (形容詞)
 d. 香味、香氣 (名詞)
 
-解析：根據空格前的形容詞【main主要的】可知空格處為名詞，搭配後句【your name will be printed on the front名字將會出現在封面上】可知這是寫文章的一大好處，故可判斷選項(b)較符合題意為正解。
+解析：根據空格前的形容詞【main主要的】可知空格處為名詞，搭配後句【your name will be printed on the front名字將會出現在封面上】可知這是寫文章的一大好處，故可判斷選項(b)較符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 29.	 
@@ -21039,20 +21039,20 @@ All the files __________, Boss; what should I do now?
  (A) was uploaded
  (B) have been uploading
  (C) will have been uploaded
- (D) have been uploaded(正解)
+ (D) have been uploaded<font color="#dd0000">正解</font>
 老闆，所有的檔案已上傳完畢，我現在應該要做什麼?
 a. 過去簡單被動式
 b. 現在完成進行式
 c. 未來完成被動式
 d. 現在完成被動式
 
-解析：主詞【All the files 所有的檔案】是被上傳的，故可判斷本句為被動語氣，搭配後句的時間副詞【now】表示主詞到目前為止已被上傳完成，故只能使用現在完成的被動語氣，只有選項(d)為正解。
+解析：主詞【All the files 所有的檔案】是被上傳的，故可判斷本句為被動語氣，搭配後句的時間副詞【now】表示主詞到目前為止已被上傳完成，故只能使用現在完成的被動語氣，只有選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 30.	 
  
 After sustaining serious injuries in the fire, Prescott decided he didn't want to be a firefighter __________.
- (A) anymore(正解)
+ (A) anymore<font color="#dd0000">正解</font>
  (B) anywhere
  (C) any more
  (D) anything
@@ -21071,7 +21071,7 @@ d. 任何東西 (代名詞)
 Question 1.	 
  
 __________ you handed in your application a day late, it cannot be considered.
- (A) Because(正解)
+ (A) Because<font color="#dd0000">正解</font>
  (B) Because of
  (C) Due to
  (D) Owing to
@@ -21081,7 +21081,7 @@ b. 由於(介詞)(+名詞)
 c. 由於(介詞)(+名詞)
 d. 由於(介詞)(+名詞)
 
-解析：前句【you handed in your application你繳交申請表】為子句【S+V】，故需使用【連接詞】來連接這兩個句子，選項(b)(c)(d)表【由於】後接【名詞N/動名詞V-ing】，選項(a)【因為】為連接詞後接子句，故為正解。
+解析：前句【you handed in your application你繳交申請表】為子句【S+V】，故需使用【連接詞】來連接這兩個句子，選項(b)(c)(d)表【由於】後接【名詞N/動名詞V-ing】，選項(a)【因為】為連接詞後接子句，故<font color="#dd0000">正解</font>
  
 答對
 Question 2.	 
@@ -21089,7 +21089,7 @@ Question 2.
 This __________ movie producer has won more than six academy awards.
  (A) all known
  (B) ever known
- (C) well-known(正解)
+ (C) well-known<font color="#dd0000">正解</font>
  (D) unknown
 這個知名電影製片已經拿下超過六個奧斯卡獎項。
 a. 無此用法
@@ -21097,13 +21097,13 @@ b. 完成式的用法
 c. 知名的 (形容詞)
 d. 未知的、默默無聞的 (形容詞)
 
-解析：常用形容詞【well -known】表【知名的】，【unknown】表【未知的、默默無聞的】，從後面的句子【has won more than six academy awards已經贏得超過六個奧斯卡獎項】，可判斷該電影製片很有名，故選(c)為正解。
+解析：常用形容詞【well -known】表【知名的】，【unknown】表【未知的、默默無聞的】，從後面的句子【has won more than six academy awards已經贏得超過六個奧斯卡獎項】，可判斷該電影製片很有名，故選(c)<font color="#dd0000">正解</font>
  
 答對
 Question 3.	 
  
 These two items are __________ in many ways, except their prices are quite different.
- (A) alike(正解)
+ (A) alike<font color="#dd0000">正解</font>
  (B) likened
  (C) like
  (D) unlike
@@ -21114,7 +21114,7 @@ c. 相像的 (形容詞)
 d. 不像、不同 (形容詞)
 
 解析：根據空格前的【be動詞】可得知空格處可填入同為形容詞用法的選項(a)(c)(d)，選項(d)不合題意不合。選項(c)用來比較兩個名詞，如【This item is like that one.這項產品和那項很相像】，比較兩個名詞的用法時選項(a)【alike】必須放在句尾，如【The boss treats everyone alike.老闆對待每個人都一樣】。
-而此題句子主詞為These two items (複數的主詞)，並非兩個名詞比較的句型，所以不能用選項(c)的like，而選項(a)的alike符合題意及用法故為正解。
+而此題句子主詞為These two items (複數的主詞)，並非兩個名詞比較的句型，所以不能用選項(c)的like，而選項(a)的alike符合題意及用法故<font color="#dd0000">正解</font>
  
 答對
 Question 4.	 
@@ -21122,7 +21122,7 @@ Question 4.
 I __________ like to speak with the human resource manager, please.
  (A) could
  (B) should
- (C) would(正解)
+ (C) would<font color="#dd0000">正解</font>
  (D) could not
 不好意思，我想要和人事經理談話。
 a. 可以、會、可能 (can的過去助動詞)
@@ -21130,7 +21130,7 @@ b. 應該 (助動詞)
 c. 搭配like使用，請見解析
 d. 不能夠 (can的過去助動詞的否定用法)
 
-解析：動詞【would like】後需接【to+原形動詞】表【想要】故選(c)為正解。
+解析：動詞【would like】後需接【to+原形動詞】表【想要】故選(c)<font color="#dd0000">正解</font>
  
 答對
 Question 5.	 
@@ -21139,20 +21139,20 @@ I'm willing __________ flexible on this matter if you are, too.
  (A) to being
  (B) to have been
  (C) to not be
- (D) to be (正解)
+ (D) to be <font color="#dd0000">正解</font>
 如果你也願意，我願意在此事情上讓步。
 a. 無此用法
 b. 不定詞+完成式
 c. 不定詞+否定詞+Be動詞原形
 d. 不定詞+Be動詞原形
 
-解析：根據空格前方的關鍵字【be willing】可知本處為片語【be willing to願意去…】後接【原形動詞】。而空格後方的【flexible有彈性的、可變通的】為形容詞，因此形容詞前需加【be動詞】故選(d)為正解。其他選項不符合用法。
+解析：根據空格前方的關鍵字【be willing】可知本處為片語【be willing to願意去…】後接【原形動詞】。而空格後方的【flexible有彈性的、可變通的】為形容詞，因此形容詞前需加【be動詞】故選(d)<font color="#dd0000">正解</font>其他選項不符合用法。
  
 答對
 Question 6.	 
  
 Let me begin __________ explaining how our company was founded.
- (A) by (正解)
+ (A) by <font color="#dd0000">正解</font>
  (B) before
  (C) while
  (D) about
@@ -21162,7 +21162,7 @@ b. 在…之前(副詞連接詞)
 c. 正當…時(副詞連接詞)
 d. 關於、大約、大概(介係詞)
 
-解析：介系詞【by】表【藉由…(方式)】的意思，根據關鍵單字【explaining說明】，可判斷主詞要【藉由公司如何建立的這件事開始說明起】開始，故選(a)為正解。
+解析：介系詞【by】表【藉由…(方式)】的意思，根據關鍵單字【explaining說明】，可判斷主詞要【藉由公司如何建立的這件事開始說明起】開始，故選(a)<font color="#dd0000">正解</font>
  
 答對
 Question 7.	 
@@ -21170,7 +21170,7 @@ Question 7.
 How __________ you pay us half of the total cost now, and half when the project is finished?
  (A) can
  (B) much
- (C) about(正解)
+ (C) about<font color="#dd0000">正解</font>
  (D) ever
 你認為我們現在先付總費用的一半，然後當計畫完成後再付另外一半如何？
 a. 可以(助動詞)
@@ -21178,7 +21178,7 @@ b. 【how much】表【某物的數量】
 c. 【how about +S+V】表【建議做某事】
 d. 無此用法，【ever】表【曾經】
 
-解析：疑問詞【how】意在詢問【方式/方式】，但後句句意已經提供付費的方法，故可判斷以【疑問詞how】詢問不合題意，故選項(a)不符；選項(b)【how much】表【多少…】不符題意；而選項(c)【how about】表【建議做某事】時使用，故選(c)較其他選項符合題意為正解。
+解析：疑問詞【how】意在詢問【方式/方式】，但後句句意已經提供付費的方法，故可判斷以【疑問詞how】詢問不合題意，故選項(a)不符；選項(b)【how much】表【多少…】不符題意；而選項(c)【how about】表【建議做某事】時使用，故選(c)較其他選項符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 8.	 
@@ -21186,7 +21186,7 @@ Question 8.
 Despite all the __________ reviews, this book is still worth a read!
  (A) negate
  (B) positive
- (C) negative(正解)
+ (C) negative<font color="#dd0000">正解</font>
  (D) glowing
 儘管所有的評論都是負面的，但這本書仍然值得一讀。
 a. 否定 (動詞)
@@ -21194,7 +21194,7 @@ b. 正面的 (形容詞)
 c. 負面的 (形容詞)
 d. 評論極佳的 (形容詞)
 
-解析：介詞【Despite儘管】用來連接前後兩句的轉折語氣，後句【worth a read 值得讀】為正面語氣，故可判斷前句應為負面語氣，可知這本書得到的評論為負面的，故選(c)為正解。
+解析：介詞【Despite儘管】用來連接前後兩句的轉折語氣，後句【worth a read 值得讀】為正面語氣，故可判斷前句應為負面語氣，可知這本書得到的評論為負面的，故選(c)<font color="#dd0000">正解</font>
 
  
 答對
@@ -21203,7 +21203,7 @@ Question 9.
 For a full refund, just send the product in its original __________ back to this address.
  (A) boxing
  (B) texting
- (C) packaging(正解)
+ (C) packaging<font color="#dd0000">正解</font>
  (D) gifting
 若要全額退款，你只要把原裝產品寄到這個地址即可。
 a. 裝箱
@@ -21211,14 +21211,14 @@ b. 傳文字訊息
 c. 包裝
 d. 禮品
 
-解析：從受詞【product 產品】搭配【to this address】，可判斷是指產品被寄送到某住址，且根據空格前的形容詞【original原來的】可得知產品被裝回【原來的包裝】寄送到某住址，故選(c)較符合題意為正解。
+解析：從受詞【product 產品】搭配【to this address】，可判斷是指產品被寄送到某住址，且根據空格前的形容詞【original原來的】可得知產品被裝回【原來的包裝】寄送到某住址，故選(c)較符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 10.	 
  
 By the end of the day, we __________ more than forty letters to our customers.
  (A) were mailed
- (B) will have mailed(正解)
+ (B) will have mailed<font color="#dd0000">正解</font>
  (C) will be mailed
  (D) will mailed to
 到今天截止前，我們已經寄出超過四十封信給顧客。
@@ -21227,13 +21227,13 @@ b.未來完成式的被動語氣
 c.未來式的被動語氣
 d.無此用法
 
-解析：【未來完成式】用以表示在【未來的某個時間點】為止的動作完成，常與【before, by, by the time】 副詞合用，從關鍵詞【by the end of the day截止】，可判斷要使用【未來完成式】時態，故選(b) 為正解。
+解析：【未來完成式】用以表示在【未來的某個時間點】為止的動作完成，常與【before, by, by the time】 副詞合用，從關鍵詞【by the end of the day截止】，可判斷要使用【未來完成式】時態，故選(b) <font color="#dd0000">正解</font>
  
 答對
 Question 11.	 
  
 __________ warranty you go with, make sure you think about it carefully first and ensure it's the right one for you.
- (A) Whichever(正解)
+ (A) Whichever<font color="#dd0000">正解</font>
  (B) Whenever
  (C) Wherever
  (D) However
@@ -21251,7 +21251,7 @@ Question 12.
 The __________ has been on the increase since the heavy rain came to an end yesterday.
  (A) Celsius
  (B) Fahrenheit
- (C) temperature(正解)
+ (C) temperature<font color="#dd0000">正解</font>
  (D) degrees
 自從昨天大雨過後，氣溫已在上升中。
 a. 攝氏溫標
@@ -21259,7 +21259,7 @@ b. 華氏溫標
 c. 氣溫
 d. 度數、學位、等級
 
-解析：根據前句關鍵詞【on the increase上升中】以及後句的【heavy rain came to an end 大雨過後】，可判斷是【氣溫】正在上升，故選(c)為正解。
+解析：根據前句關鍵詞【on the increase上升中】以及後句的【heavy rain came to an end 大雨過後】，可判斷是【氣溫】正在上升，故選(c)<font color="#dd0000">正解</font>
  
 答對
 Question 13.	 
@@ -21267,7 +21267,7 @@ Question 13.
 Our real __________ is that if we register for official status, we will be a legal company, but we will have to pay way more money.
  (A) division
  (B) dialog
- (C) dilemma(正解)
+ (C) dilemma<font color="#dd0000">正解</font>
  (D) difference
 我們真正的困境是如果我們註冊為法定身分，我們將會成為合法公司，但是我們必須付的錢更多。
 a. 部門 (名詞)
@@ -21275,7 +21275,7 @@ b. 對話 (名詞)
 c. 困境、進退兩難 (名詞)
 d. 不同 (名詞)
 
-解析：本句最後兩句【be a legal company成為合法公司】和【pay way more money付更多的錢 】意思相反，表示【他們正在對是否成為法定公司煩惱】，故選(c) 為正解。
+解析：本句最後兩句【be a legal company成為合法公司】和【pay way more money付更多的錢 】意思相反，表示【他們正在對是否成為法定公司煩惱】，故選(c) <font color="#dd0000">正解</font>
  
 答對
 Question 14.	 
@@ -21284,14 +21284,14 @@ Please __________ in mind that this letter is only a conditional acceptance; you
  (A) barren
  (B) bare
  (C) barely
- (D) bear(正解)
+ (D) bear<font color="#dd0000">正解</font>
 請記住這封信只是有條件的錄取；你必須付學費才能正式錄取。
 a. 荒廢的 (形容詞)
 b. 裸的 (形容詞)
 c. 幾乎不 (副詞)
 d. 動詞片語，請見解析
 
-解析：前句【Please】為命令句後需接【原形動詞】，根據空格後方關鍵單字【in mind】可判斷片語【bear in mind】表【記住】，故選(d)符合用法為正解。
+解析：前句【Please】為命令句後需接【原形動詞】，根據空格後方關鍵單字【in mind】可判斷片語【bear in mind】表【記住】，故選(d)符合用法<font color="#dd0000">正解</font>
  
 答對
 Question 15.	 
@@ -21299,7 +21299,7 @@ Question 15.
 It's not my fault that I __________ the test; the teacher made it too hard!
  (A) fell
  (B) fallen
- (C) failed(正解)
+ (C) failed<font color="#dd0000">正解</font>
  (D) follow
 考不及格不是我的錯；是老師的題目太難了！
 a. 跌倒 (過去式)
@@ -21307,7 +21307,7 @@ b. 跌倒 (過去分詞)
 c. 不及格 (過去式)
 d. 遵守、跟隨 (原形動詞)
 
-解析：根據空格後方的關鍵單字【the test】及【the teacher made it too hard老師出的題目太難】可得知主詞的考試不及格，故選(c)符合題意為正解。
+解析：根據空格後方的關鍵單字【the test】及【the teacher made it too hard老師出的題目太難】可得知主詞的考試不及格，故選(c)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 16.	 
@@ -21315,7 +21315,7 @@ Question 16.
 This film documents the life of the man __________ rose to the top of Wall Street.
  (A) to whom
  (B) whom
- (C) who(正解)
+ (C) who<font color="#dd0000">正解</font>
  (D) whoever
 這部電影紀錄關於某個男人躍升到華爾街頂端的個人傳記。
 a. 介係詞+關係代名詞=關係副詞
@@ -21323,7 +21323,7 @@ b. 關係代名詞(先行詞為人)的主詞用法
 c. 關係代名詞(先行詞為人)的主詞用法
 d. 無論是誰=【no matter who】(代名詞)
 
-解析：本句為以下兩句【This film documents the life of the man.及The man rose to the top of Wall Street.】的合併句，句中以關係代名詞將兩句連接成一句。句子的先行詞為【人】，因此兩句用【who】連接→【This film documents the life of the man who rose to the top of Wall Street】，故選(c) 為正解。選項(a)(b)皆為受詞用法不合題意；而選項(d)為代名詞，但沒有連接詞功能，不可用來連接這兩個子句。
+解析：本句為以下兩句【This film documents the life of the man.及The man rose to the top of Wall Street.】的合併句，句中以關係代名詞將兩句連接成一句。句子的先行詞為【人】，因此兩句用【who】連接→【This film documents the life of the man who rose to the top of Wall Street】，故選(c) <font color="#dd0000">正解</font>選項(a)(b)皆為受詞用法不合題意；而選項(d)為代名詞，但沒有連接詞功能，不可用來連接這兩個子句。
  
 答對
 Question 17.	 
@@ -21331,7 +21331,7 @@ Question 17.
 Please __________ the lights and bring out the birthday cake for Myla.
  (A) dark
  (B) down
- (C) dim(正解)
+ (C) dim<font color="#dd0000">正解</font>
  (D) damp
 請把燈調暗並拿出生日蛋糕給蜜菈。
 a. 暗的 (形容詞)
@@ -21339,7 +21339,7 @@ b. 向下 (介詞)
 c. 調暗 (動詞)
 d. 潮濕的(形容詞)
 
-解析：前句【Please】為命令句，後需接【原形動詞】上述選項只有(c)選項是動詞，且根據後句關鍵單字【bring out the birthday cake拿出生日蛋糕】故得知將蛋糕端出來時會將燈光調暗，故選項(c)為正解。
+解析：前句【Please】為命令句，後需接【原形動詞】上述選項只有(c)選項是動詞，且根據後句關鍵單字【bring out the birthday cake拿出生日蛋糕】故得知將蛋糕端出來時會將燈光調暗，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 18.	 
@@ -21348,14 +21348,14 @@ All the goods are __________ in this facility until they are ready to be shipped
  (A) storable
  (B) storage
  (C) storing
- (D) stored(正解)
+ (D) stored<font color="#dd0000">正解</font>
 所有貨物都被儲存在這個地方直到準備出貨之前。
 a. 可儲存的(形容詞)
 b. 儲存 (名詞)
 c. 儲存 (現在分詞)
 d. 儲存 (過去分詞)
 
-解析：主詞【all the goods所有的產品】會被儲存在這個場所，可判斷本句為被動語氣【be+V-pp】，故選項(d)搭配前方動詞【are stored】表被動語氣為正解。
+解析：主詞【all the goods所有的產品】會被儲存在這個場所，可判斷本句為被動語氣【be+V-pp】，故選項(d)搭配前方動詞【are stored】表被動語氣<font color="#dd0000">正解</font>
  
 答對
 Question 19.	 
@@ -21363,7 +21363,7 @@ Question 19.
 Do you have any __________ questions before we finish?
  (A) farther
  (B) former
- (C) further(正解)
+ (C) further<font color="#dd0000">正解</font>
  (D) future
 在我們結束前，你有任何其他問題嗎？
 a. 更遠的(距離)(形容詞)
@@ -21379,7 +21379,7 @@ Question 20.
 Don't worry. I'll __________ your concerns to the relevant authority.
  (A) shoot
  (B) straight
- (C) forward(正解)
+ (C) forward<font color="#dd0000">正解</font>
  (D) advance
 別擔心。我會把你關心的事情轉述至相關單位。
 a. 發射 (動詞)
@@ -21388,13 +21388,13 @@ c. 轉述 (動詞)
 d. 預付 (動詞)
 
 
-解析：根據關鍵詞【concerns 關心的事情】和【relevant authority 責任單位】，可判斷主詞會將受詞you所關心的事情轉述至權責單位，故選(c)為正解。
+解析：根據關鍵詞【concerns 關心的事情】和【relevant authority 責任單位】，可判斷主詞會將受詞you所關心的事情轉述至權責單位，故選(c)<font color="#dd0000">正解</font>
  
 答對
 Question 21.	 
  
 The translation fee is a __________ two dollars per Spanish word.
- (A) non-negotiable(正解)
+ (A) non-negotiable<font color="#dd0000">正解</font>
  (B) non-respectable
  (C) non-reusable
  (D) non-departmental
@@ -21404,7 +21404,7 @@ b. 不尊敬的
 c. 不能再使用的
 d. 不可細分的
 
-解析：前句關鍵詞【the translation fee翻譯費】和後句【two dollars per Spanish word每西班牙字兩塊錢】，可判斷空格處與翻譯費的價格有關，故選(d)為較符合題意為正解。其餘選項的意思街不合題意。
+解析：前句關鍵詞【the translation fee翻譯費】和後句【two dollars per Spanish word每西班牙字兩塊錢】，可判斷空格處與翻譯費的價格有關，故選(d)為較符合題意<font color="#dd0000">正解</font>其餘選項的意思街不合題意。
  
 答對
 Question 22.	 
@@ -21413,14 +21413,14 @@ Our tickets may not be the cheapest, __________ we offer flights to more destina
  (A) between
  (B) because
  (C) before
- (D) but(正解)
+ (D) but<font color="#dd0000">正解</font>
 我們的票可能不是最便宜的，但是我們比起其它他航空公司提供更多的目的地。
 a. 在…..之間 (介詞)
 b. 因為 (連接詞)
 c. 在…之前 (連接詞)
 d. 但是 (連接詞)
 
-解析：本句前後兩句語意相反，前句【may not be the cheapest可能不是最便宜的】後句【offer flights to more destinations提供更多的目的地】前後兩句的語氣相反，需選擇可連接相反語氣的連接詞，故選(d)表【但是】為正解。
+解析：本句前後兩句語意相反，前句【may not be the cheapest可能不是最便宜的】後句【offer flights to more destinations提供更多的目的地】前後兩句的語氣相反，需選擇可連接相反語氣的連接詞，故選(d)表【但是】<font color="#dd0000">正解</font>
  
 答對
 Question 23.	 
@@ -21429,14 +21429,14 @@ This service allows you to compare prices __________ any product from various on
  (A) to
  (B) from
  (C) about
- (D) on(正解)
+ (D) on<font color="#dd0000">正解</font>
 這一項服務可以讓你在各大網路精品店上比較任何商品的價格。
 a. 往、去 (介詞)
 b. 自從… (介詞)
 c. 大約 (介詞)
 d. (無生命所有格)…的 (介詞)
 
-解析：根據空格前後的名詞【prices價格】與【any product任何產品】可得知本句在比較【產品的價格】故選項(d)符合題意為正解。
+解析：根據空格前後的名詞【prices價格】與【any product任何產品】可得知本句在比較【產品的價格】故選項(d)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 24.	 
@@ -21444,7 +21444,7 @@ Question 24.
 After a __________ discussion on the matter with Kate, I'm convinced that she is right.
  (A) though
  (B) thought
- (C) thorough(正解)
+ (C) thorough<font color="#dd0000">正解</font>
  (D) throughout
 與凱蒂仔細地討論關於這件事情後，我確信她是對的。
 a. 雖然 (連接詞)
@@ -21452,14 +21452,14 @@ b. 想法 (名詞)
 c. 徹底的、仔細的 (形容詞)
 d. 遍及 (介詞)
 
-解析：根據空格後方的名詞【discussion討論】可得知空格為形容詞用法，用來修飾後方的名詞，故唯一的形容詞選項(c)為正解。
+解析：根據空格後方的名詞【discussion討論】可得知空格為形容詞用法，用來修飾後方的名詞，故唯一的形容詞選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 25.	 
  
 Please review the contract, sign it, and get it back to me by tomorrow at __________.
  (A) the last
- (B) the latest(正解)
+ (B) the latest<font color="#dd0000">正解</font>
  (C) latest
  (D) the most
 請再檢查合約，簽署後最晚明天交回給我。
@@ -21468,13 +21468,13 @@ b. 最遲地、最晚地
 c. 最新的 
 d. 最多的
 
-解析：形容詞或副詞最高級前面要加【the】定冠詞，根據關鍵詞【tomorrow明天】，只有【the latest最遲的】符合句義，故選(b)為正解。
+解析：形容詞或副詞最高級前面要加【the】定冠詞，根據關鍵詞【tomorrow明天】，只有【the latest最遲的】符合句義，故選(b)<font color="#dd0000">正解</font>
  
 答對
 Question 26.	 
  
 Mr. Prahad is the __________ of regional sales in South Asia and the Middle East.
- (A) director(正解)
+ (A) director<font color="#dd0000">正解</font>
  (B) direction
  (C) directory
  (D) direct
@@ -21492,7 +21492,7 @@ Question 27.
 For those who __________ between the regular package and the honeymoon package, please see this chart explaining the differences between the two.
  (A) tear
  (B) torn
- (C) are torn(正解)
+ (C) are torn<font color="#dd0000">正解</font>
  (D) are tearing
 那些對一般套裝及蜜月套裝行程無法取捨的人，請看這張圖表解釋兩者之間的不同。
 a. 撕破 (動詞原形)
@@ -21500,7 +21500,7 @@ b. 撕破了(過去分詞)
 c. 搭配介係詞用法，見解析
 d. 正在撕破(現在進行式)
 
-解析：根據前句關鍵單字【the regular package and the honeymoon package一般套裝及蜜月套裝行程】搭配後句【the differences between the two兩者之間的不同】可判斷空格為在兩者之間選擇的人，故可得知空格可與後方介係詞【between】搭配使用→形容詞片語【be torn between A and B】表【在(兩者)之間左右為難/難以取捨】，故選項(c)符合題意為正解。
+解析：根據前句關鍵單字【the regular package and the honeymoon package一般套裝及蜜月套裝行程】搭配後句【the differences between the two兩者之間的不同】可判斷空格為在兩者之間選擇的人，故可得知空格可與後方介係詞【between】搭配使用→形容詞片語【be torn between A and B】表【在(兩者)之間左右為難/難以取捨】，故選項(c)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 28.	 
@@ -21508,7 +21508,7 @@ Question 28.
 Our main priority at the moment is to get our website __________ and running ASAP.
  (A) high
  (B) tall
- (C) up (正解)
+ (C) up <font color="#dd0000">正解</font>
  (D) strong
 目前我們主要優先考量是讓我們的網站可以盡快的運作。
 a. 高的 (形容詞)
@@ -21516,14 +21516,14 @@ b. 高的(形容詞)
 c. 上面 (介詞)
 d. 強壯的 (形容詞)
 
-解析：根據前句【main priority主要優先考量】和後句的關鍵詞【ASAP (as soon as possible縮寫)】表示【盡快】，可判斷句子優先的考量是能讓網站能盡快開始運轉，故選項(c)【get something up and running】表【快速實現並運行】符合題意為正解。
+解析：根據前句【main priority主要優先考量】和後句的關鍵詞【ASAP (as soon as possible縮寫)】表示【盡快】，可判斷句子優先的考量是能讓網站能盡快開始運轉，故選項(c)【get something up and running】表【快速實現並運行】符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 29.	 
  
 Joel handed in his letter of __________ with tears in his eyes.
  (A) resumption
- (B) resignation(正解)
+ (B) resignation<font color="#dd0000">正解</font>
  (C) dedication
  (D) contribution
 Joel眼裡含著淚水交出他的辭呈信。
@@ -21532,14 +21532,14 @@ b. 辭呈 (名詞)
 c. 奉獻(名詞)
 d. 貢獻 (名詞)
 
-解析：根據前句動詞【handed in 交出】以及【letter信】，可判斷Joel交出【辭呈信letter of resignation】，故選(b)為正解。其餘選項的意思不合題意。
+解析：根據前句動詞【handed in 交出】以及【letter信】，可判斷Joel交出【辭呈信letter of resignation】，故選(b)<font color="#dd0000">正解</font>其餘選項的意思不合題意。
  
 答對
 Question 30.	 
  
 Parents with baby __________ are asked to use the elevator in the metro station.
  (A) saddles
- (B) strollers(正解)
+ (B) strollers<font color="#dd0000">正解</font>
  (C) sitters
  (D) stretchers
 在捷運站裡，有帶嬰兒摺疊車的家長被請去使用電梯。
@@ -21548,7 +21548,7 @@ b. 摺疊式嬰兒車
 c. 保母
 d. 撐具、擔架
 
-解析：根據關鍵詞【use the elevator使用電梯】搭配【in the metro station在捷運站】，可判斷是有主詞為帶嬰兒車的家長被請去使用捷運站裡的電梯，故選(b)為正解。
+解析：根據關鍵詞【use the elevator使用電梯】搭配【in the metro station在捷運站】，可判斷是有主詞為帶嬰兒車的家長被請去使用捷運站裡的電梯，故選(b)<font color="#dd0000">正解</font>
  
 只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
@@ -21560,7 +21560,7 @@ Question 1.
 I found this expired contract when I was going ____________ some old files.
  (A) about
  (B) for
- (C) through(正解)
+ (C) through<font color="#dd0000">正解</font>
  (D) on
 當我仔細翻閱舊檔案時，我找到了這份過期的合約。
 a. 片語【go about】表【從事， 忙於】
@@ -21568,14 +21568,14 @@ b. 片語【go for】表【爭取】
 c. 片語【go through】表【仔細翻閱】
 d. 片語【go on】表【繼續】
 
-解析：片語【go through】表【仔細翻閱】，選項(c)符合題意為正解。
+解析：片語【go through】表【仔細翻閱】，選項(c)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 2.	 
  
 ____________ on how soon you need the ink cartridge, you can choose the regular mail or priority mail option at the bottom of the order form.
  (A) Depends
- (B) Depending(正解)
+ (B) Depending<font color="#dd0000">正解</font>
  (C) To depend
  (D) Be dependent
 你可以依據多久需要墨水匣而按訂購單下的一般配送或是優先配送按鈕。
@@ -21584,7 +21584,7 @@ b. 分詞片語
 c. 不定詞+動詞原型
 d. 形容詞片語 
 
-解析：選項(a)(b)(d)皆表示【依靠、依賴、視…而定】，但用法皆有不同。選項(a)為動詞片語，故前方需接主詞，但本句卻沒有，故(a)不正確。選項(d)為形容詞片語，前方需接主詞，故也不正確。三個用法中唯一一個前方不需有主詞的只有選項(b)故為正解。
+解析：選項(a)(b)(d)皆表示【依靠、依賴、視…而定】，但用法皆有不同。選項(a)為動詞片語，故前方需接主詞，但本句卻沒有，故(a)不正確。選項(d)為形容詞片語，前方需接主詞，故也不正確。三個用法中唯一一個前方不需有主詞的只有選項(b)故<font color="#dd0000">正解</font>
  
 答對
 Question 3.	 
@@ -21592,7 +21592,7 @@ Question 3.
 Our complete list of products ____________ summarized on pages 44 to 49 of this brochure.
  (A) was
  (B) are
- (C) is(正解)
+ (C) is<font color="#dd0000">正解</font>
  (D) were
 本公司的所有產品列表在本宣傳單第44至49頁。
 a. 過去式be動詞 (主詞單數)
@@ -21600,7 +21600,7 @@ b. 現在式be動詞 (主詞複數)
 c. 現在式be動詞 (主詞單數)
 d. 過去式be動詞 (主詞複數)
 
-解析：本句的主詞為【Our complete list of products全部的產品列表】，【list表單】為單數故選項(c)為正解。
+解析：本句的主詞為【Our complete list of products全部的產品列表】，【list表單】為單數故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 4.	 
@@ -21608,7 +21608,7 @@ Question 4.
 This government has a good ____________ program, offering public aid such as universal health care, unemployment insurance, and subsidies for the elderly and ill.
  (A) wellbeing
  (B) cab fare
- (C) welfare(正解)
+ (C) welfare<font color="#dd0000">正解</font>
  (D) health fare
 政府有很好的福利制度，提供了公眾救助：如完善的醫療照顧、失業保險、還有老年及病患補助金。
 a. 保重、再見
@@ -21616,13 +21616,13 @@ b. 計程車費
 c. 福利事業
 d. 醫療費
 
-解析：根據後句的【health care, insurance, subsidies健保、保險、補助金】可判斷這些是主詞政府所提供的服務項目，故選項(c)符合題意為正解。
+解析：根據後句的【health care, insurance, subsidies健保、保險、補助金】可判斷這些是主詞政府所提供的服務項目，故選項(c)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 5.	 
  
 Cassidy was so exhausted ____________ he collapsed on the bed as soon as he returned to his hotel room.
- (A) that(正解)
+ (A) that<font color="#dd0000">正解</font>
  (B) if
  (C) while
  (D) during
@@ -21632,7 +21632,7 @@ b. 如果，是否 (連接詞)
 c. 當…的時候 (連接詞、介詞)
 d. 在..期間 (介詞)
 
-解析：根據空格前的關鍵字【so】可得知本句為句型【so…that…】表【如此…以至於(結果)】為因果關係句，故可判斷只有選項(a)可搭配【so】為正解。其餘選項不可與【so】搭配使用。
+解析：根據空格前的關鍵字【so】可得知本句為句型【so…that…】表【如此…以至於(結果)】為因果關係句，故可判斷只有選項(a)可搭配【so】<font color="#dd0000">正解</font>其餘選項不可與【so】搭配使用。
  
 答對
 Question 6.	 
@@ -21641,14 +21641,14 @@ ____________ the fact that your first application was rejected, you can make an 
  (A) Even though
  (B) In spite
  (C) As though
- (D) Despite (正解)
+ (D) Despite <font color="#dd0000">正解</font>
 儘管你的第一次申請被駁回，但你可最晚於2014年1月31日之前提出上訴。
 a. 雖然 (連接詞)
 b. 無此用法，正確【In spite of】 
 c. 好像 (連接詞)
 d. 儘管 
 
-解析：前句為條件子句，不論前句的條件如何後句的結果依然不受影響。這種情況下通使用選項(d)表【儘管、不論、不管】來連接兩句意義，故為正解。選項(b)需改正→【In spite of】；選項(a)表【即使、雖然】用來連接兩句語氣相反的子句；選項(c)表【好像】常用於假設語氣。
+解析：前句為條件子句，不論前句的條件如何後句的結果依然不受影響。這種情況下通使用選項(d)表【儘管、不論、不管】來連接兩句意義，故<font color="#dd0000">正解</font>選項(b)需改正→【In spite of】；選項(a)表【即使、雖然】用來連接兩句語氣相反的子句；選項(c)表【好像】常用於假設語氣。
  
 答對
 Question 7.	 
@@ -21656,7 +21656,7 @@ Question 7.
 Entering this construction site without wearing a helmet or safety gear ____________ several risks.
  (A) retells
  (B) details
- (C) entails(正解)
+ (C) entails<font color="#dd0000">正解</font>
  (D) retails
 沒有戴安全帽或防護裝備進去工地就要承擔風險。
 a. 重新敘述、複述 (動詞)
@@ -21664,7 +21664,7 @@ b. 詳細說明 (動詞)、細節(名詞)
 c. 承擔、承受 (動詞)
 d. 零售 (名詞)
 
-解析：根據前句的句意【Entering this construction site without wearing a helmet沒有戴防護裝備進去工地裡】可得知主詞若這樣做要承受可能發生的風險/危險，故只有選項(c)符合題意為正解。
+解析：根據前句的句意【Entering this construction site without wearing a helmet沒有戴防護裝備進去工地裡】可得知主詞若這樣做要承受可能發生的風險/危險，故只有選項(c)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 8.	 
@@ -21672,7 +21672,7 @@ Question 8.
 The stars on our country's flag are ____________ of the fifty states.
  (A) represent
  (B) representation
- (C) representative(正解)
+ (C) representative<font color="#dd0000">正解</font>
  (D) representatively
 我們國旗上的星星代表五十個州。
 a. 代表 (動詞)
@@ -21680,13 +21680,13 @@ b. 代表 (名詞)
 c. 代表性的 (形容詞)
 d. 具代表性地、典型地 (副詞)
 
-解析：由空格前方的Be動詞【are】可判斷空格處為形容詞或名詞，搭配空格後方的介係詞【of】可得知本句為形容詞片語【be representative of】表【代表…】因此選項(c)為正解。選項(b)後方不須接介係詞【of】使用。
+解析：由空格前方的Be動詞【are】可判斷空格處為形容詞或名詞，搭配空格後方的介係詞【of】可得知本句為形容詞片語【be representative of】表【代表…】因此選項(c)<font color="#dd0000">正解</font>選項(b)後方不須接介係詞【of】使用。
  
 答對
 Question 9.	 
  
 The clerk was caught ____________ money from shop's tip jar.
- (A) stealing(正解)
+ (A) stealing<font color="#dd0000">正解</font>
  (B) stealers
  (C) steals
  (D) stolen
@@ -21696,7 +21696,7 @@ b. 偷東西的人(名詞)
 c. 偷(主詞三單的現在式動詞)
 d. 被偷的(過去分詞)
 
-解析：本句的主詞【The clerk員工】與動詞【steal偷竊】兩者為主動語氣的關係，故動詞改為現在分詞【v-ing】。故選項(a)為正解。
+解析：本句的主詞【The clerk員工】與動詞【steal偷竊】兩者為主動語氣的關係，故動詞改為現在分詞【v-ing】。故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 10.	 
@@ -21705,14 +21705,14 @@ There are several eateries and cafes in close ____________ to our office.
  (A) address
  (B) location
  (C) distance
- (D) proximity (正解)
+ (D) proximity <font color="#dd0000">正解</font>
 辦公室附近有很多小飯館和咖啡廳。
 a. 地址 (名詞)
 b. 位置 (名詞)
 c. 距離 (名詞)
 d. 接近、鄰近 (名詞)
 
-解析：根據空格後方的不定詞【to】，可得知選項(d)的名詞【proximity 後可接to/of】表【接近、鄰近】因此只有選項(d)為正解。
+解析：根據空格後方的不定詞【to】，可得知選項(d)的名詞【proximity 後可接to/of】表【接近、鄰近】因此只有選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 11.	 
@@ -21721,21 +21721,21 @@ I ____________ to Prague, but I'd sure love to go!
  (A) have been
  (B) had been
  (C) will be going
- (D) have never been(正解)
+ (D) have never been<font color="#dd0000">正解</font>
 我沒去過布拉格，但我很想要去。
 a. 去過(現在完成式)
 b. 過去曾經去過(過去完成式)
 c. 未來會去(未來進行式)
 d. 未曾去過(現在完成式的否定)
 
-解析：根據後句【I'd sure love to go 我確定我想要去】可判斷前句主詞從未去過，故選項(d)為正解。
+解析：根據後句【I'd sure love to go 我確定我想要去】可判斷前句主詞從未去過，故選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 12.	 
  
 Jamal, if I have to ask you one more time to ____________ these shelves, I'm going to lose my mind!
  (A) stocks
- (B) stock(正解)
+ (B) stock<font color="#dd0000">正解</font>
  (C) stocking
  (D) be stocked
 Jamal，如果我還要再一次叫你去補這些架子上的貨，我會抓狂。
@@ -21744,13 +21744,13 @@ b. 原形動詞
 c. 現在分詞
 d. 被動語氣
 
-解析：動詞【ask(人)to(事物)】表【要求(人)去做(事物)】，故連接動詞的不定詞【to】後接原形動詞。故選項(b)為正解。
+解析：動詞【ask(人)to(事物)】表【要求(人)去做(事物)】，故連接動詞的不定詞【to】後接原形動詞。故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 13.	 
  
 This ____________ used technique can help avoid the development of rust on your bumper.
- (A) widely(正解)
+ (A) widely<font color="#dd0000">正解</font>
  (B) exceptionally
  (C) perfectly
  (D) quickly
@@ -21760,7 +21760,7 @@ b. 例外地 (副詞)
 c. 完美地 (副詞)
 d. 快速地 (副詞)
 
-解析：空格後方的單字【used已使用的】為【形容詞】，故可判斷空格處為副詞作為前位修飾後方的形容詞，四個選項皆為副詞但(a)較符合題意故為正解。
+解析：空格後方的單字【used已使用的】為【形容詞】，故可判斷空格處為副詞作為前位修飾後方的形容詞，四個選項皆為副詞但(a)較符合題意故<font color="#dd0000">正解</font>
  
 答對
 Question 14.	 
@@ -21768,7 +21768,7 @@ Question 14.
 ____________ you happen to go, make sure you carry this handy little electronic device with you.
  (A) Whenever
  (B) Whichever
- (C) Wherever(正解)
+ (C) Wherever<font color="#dd0000">正解</font>
  (D) However
 無論你去何處，請確保必須隨身攜帶這個便利的電子產品。
 a. 無論何時= no matter when
@@ -21776,14 +21776,14 @@ b. 無論哪一個= no matter which one
 c. 無論何處= no matter where
 d. 無論如何= no matter how
 
-解析：根據前句句尾的動詞【go走、去…(地方)】可判斷本句為【去…某的地方】故選項(c)表【不論何處】為正解。
+解析：根據前句句尾的動詞【go走、去…(地方)】可判斷本句為【去…某的地方】故選項(c)表【不論何處】<font color="#dd0000">正解</font>
  
 答對
 Question 15.	 
  
 The report is ____________ finished; I just need to double check some of the figures.
  (A) more and more
- (B) more or less(正解)
+ (B) more or less<font color="#dd0000">正解</font>
  (C) no more than
  (D) anymore
 這份報告大致已完成；我只需要再一次檢查這些數字。
@@ -21792,7 +21792,7 @@ b. 大約
 c. 僅僅、只不過
 d. 無此用法，使用在否定句→【not…anymore不再】
 
-解析：根據後句的關鍵單字【need to double check需要再檢查一次】就完成報告了，可知前句主詞【The report這份報告】大致已完成，故選項(b)符合題意為正解。
+解析：根據後句的關鍵單字【need to double check需要再檢查一次】就完成報告了，可知前句主詞【The report這份報告】大致已完成，故選項(b)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 16.	 
@@ -21800,7 +21800,7 @@ Question 16.
 This corporation treats its staff as if they were ____________; the employees are often told that anybody else could easily do their jobs.
  (A) replacing
  (B) replaced
- (C) replaceable(正解)
+ (C) replaceable<font color="#dd0000">正解</font>
  (D) to be replaced
 這家公司對待他們的員工就如他們可以被替換的一樣；員工常常被告知任何人可以輕易地替換他們的工作。
 a. 取代(現在分詞)
@@ -21808,13 +21808,13 @@ b. 取代(過去分詞)
 c. 可被取代的(形容詞)
 d. 被取代的(被動語氣)
 
-解析：根據空格前Be動詞【were】後可接形容詞、動詞或名詞用法。根據後句【anybody else could easily do their jobs被告知任何人可以輕易地替換他們的工作】可判斷員工感覺可輕易被取代，故選項(c)符合題意為正解。選項(a)【were replacing】為【過去進行式】表【那時正在取代】；選項(b)【were replaced】為【過去式被動語氣】表【被取代】；選項(d)【were to】為【未來式】表【將要去】。
+解析：根據空格前Be動詞【were】後可接形容詞、動詞或名詞用法。根據後句【anybody else could easily do their jobs被告知任何人可以輕易地替換他們的工作】可判斷員工感覺可輕易被取代，故選項(c)符合題意<font color="#dd0000">正解</font>選項(a)【were replacing】為【過去進行式】表【那時正在取代】；選項(b)【were replaced】為【過去式被動語氣】表【被取代】；選項(d)【were to】為【未來式】表【將要去】。
  
 答對
 Question 17.	 
  
 Just take this voucher to your local Save-On-Foods and ____________ it for a free gift basket.
- (A) redeem(正解)
+ (A) redeem<font color="#dd0000">正解</font>
  (B) refund
  (C) reply
  (D) return
@@ -21824,13 +21824,13 @@ b. 退還 (動詞)
 c. 回覆 (動詞)
 d. 回來 (動詞)
 
-解析：前句要將【this voucher這張票券】拿到商店裡，就可得到後句【free gift免費的禮物】，故選項(a)的動詞符合題意為正解。其餘選項均不合題意。
+解析：前句要將【this voucher這張票券】拿到商店裡，就可得到後句【free gift免費的禮物】，故選項(a)的動詞符合題意<font color="#dd0000">正解</font>其餘選項均不合題意。
  
 答對
 Question 18.	 
  
 This new Sony model is more ____________, costing twenty-nine dollars less than the last one.
- (A) economical(正解)
+ (A) economical<font color="#dd0000">正解</font>
  (B) economize
  (C) economic
  (D) economy
@@ -21840,14 +21840,14 @@ b. 節約、節省 (動詞)
 c. 經濟上的、經濟學的 (名詞)
 d. 經濟 (名詞)
 
-解析：根據空格前方的【more】可判斷空格處為【形容詞/副詞的比較級】故選項(a)形容詞為正解，其餘選項皆不符合文法。
+解析：根據空格前方的【more】可判斷空格處為【形容詞/副詞的比較級】故選項(a)形容詞<font color="#dd0000">正解</font>其餘選項皆不符合文法。
  
 答對
 Question 19.	 
  
 ____________ the agenda for today's meeting are the new employee regulations regarding work safety and the upcoming holiday period.
  (A) In
- (B) On(正解)
+ (B) On<font color="#dd0000">正解</font>
  (C) Under
  (D) Upon
 今天的議程是關於新員工規定之工作安全以及下一年度的假期事宜。
@@ -21856,7 +21856,7 @@ b. 在..(表面)上面 (介詞)
 c. 在..下方 (介詞)
 d. 在(地方)的上面 (介詞)
 
-解析：根據空格後的名詞【the agenda行程表】可判斷其搭配的介係詞為【on】→片語【on the agenda】表【寫在行程表上】，故選項(b)為正解。
+解析：根據空格後的名詞【the agenda行程表】可判斷其搭配的介係詞為【on】→片語【on the agenda】表【寫在行程表上】，故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 20.	 
@@ -21864,7 +21864,7 @@ Question 20.
 Please help ____________ to some complimentary cookies and drinks from the table at the back.
  (A) you
  (B) on your own
- (C) yourself(正解)
+ (C) yourself<font color="#dd0000">正解</font>
  (D) you're
 請自行從後面的桌上取用免費餅乾和飲料。 
 a. 主詞用法
@@ -21872,7 +21872,7 @@ b. 片語表示靠自己
 c. 反身代名詞
 d. 主詞+be動詞
 
-解析：根據後句可得知桌上有餅乾及飲料，故常用語【help oneself to+物】表【自己動手拿…(物)】符合題意為正解。其餘選項無法與前方動詞【help】合併使用。
+解析：根據後句可得知桌上有餅乾及飲料，故常用語【help oneself to+物】表【自己動手拿…(物)】符合題意<font color="#dd0000">正解</font>其餘選項無法與前方動詞【help】合併使用。
  
 答對
 Question 21.	 
@@ -21880,7 +21880,7 @@ Question 21.
 It is a common ____________ to believe that you can turn right at a red light in this city.
  (A) wrong
  (B) false
- (C) error(正解)
+ (C) error<font color="#dd0000">正解</font>
  (D) mistook
 認為在這個城市可以紅燈時右轉，是個常見的錯誤觀念。
 a. 錯誤的 (形容詞)
@@ -21888,14 +21888,14 @@ b. 錯誤的 (形容詞)
 c. 錯誤、失誤 (名詞)
 d. 誤解 (動詞過去式)
 
-解析：空格前的單字【common常見的】為【形容詞】故後需接名詞用法，選項中只有(c)為名詞為正解。
+解析：空格前的單字【common常見的】為【形容詞】故後需接名詞用法，選項中只有(c)為名詞<font color="#dd0000">正解</font>
  
 答對
 Question 22.	 
  
 The upcoming ball sounds glorious! ____________, my wife and I won't be able to make it because we already have plans that evening.
  (A) Fortunately
- (B) Unfortunately(正解)
+ (B) Unfortunately<font color="#dd0000">正解</font>
  (C) Therefore
  (D) Moreover
 即將到來的舞會聽起來很美好。遺憾地，我和妻子無法參加，因為我們當晚有約了。
@@ -21904,14 +21904,14 @@ b. 不幸運地、遺憾地 (副詞)
 c. 因此 (副詞)
 d. 此外 (副詞)
 
-解析：根據前句【sounds glorious聽起來很美好】與後句【won't be able to無法參加】可知前後兩句的語意相反，故只有選項(b)可用來連接語氣轉折的子句為正解。選項(c)用來連接因果關係句；選項(d)用來連接語氣相同的子句。
+解析：根據前句【sounds glorious聽起來很美好】與後句【won't be able to無法參加】可知前後兩句的語意相反，故只有選項(b)可用來連接語氣轉折的子句<font color="#dd0000">正解</font>選項(c)用來連接因果關係句；選項(d)用來連接語氣相同的子句。
  
 答對
 Question 23.	 
  
 Attendance at voting polls across the state ____________ in the last two elections.
  (A) decreases
- (B) has dropped(正解)
+ (B) has dropped<font color="#dd0000">正解</font>
  (C) downed
  (D) is divided
 在過去兩場選舉中，全國投票所的出席率下滑。
@@ -21920,14 +21920,14 @@ b. 已經下降 (現在完成式)
 c. 下降 (過去式)
 d. 劃分 (現在式被動語氣)
 
-解析：根據題意後方的關鍵單字【in the last two elections在過去兩場選舉中】，可得知主詞【Attendance出席率】的動作從過去某時間發生持續到現在，雖然可能增加也可能減少，但只有選項(b)【現在完成式】符合時式故為正解。
+解析：根據題意後方的關鍵單字【in the last two elections在過去兩場選舉中】，可得知主詞【Attendance出席率】的動作從過去某時間發生持續到現在，雖然可能增加也可能減少，但只有選項(b)【現在完成式】符合時式故<font color="#dd0000">正解</font>
  
 答對
 Question 24.	 
  
 In the ____________, the Apple headquarters was located in Steve Jobs' garage.
  (A) begin
- (B) beginning(正解)
+ (B) beginning<font color="#dd0000">正解</font>
  (C) start
  (D) forward
 一開始，蘋果總部設在賈伯斯的車庫裡。
@@ -21936,14 +21936,14 @@ b. 開端(動名詞)
 c. 開始(動詞)
 d. 向前地(副詞)
 
-解析：根據空格前的冠詞【the】可知空格處為名詞，故選項(b)為正解。其餘選項的詞性請見選項翻譯。
+解析：根據空格前的冠詞【the】可知空格處為名詞，故選項(b)<font color="#dd0000">正解</font>其餘選項的詞性請見選項翻譯。
  
 答對
 Question 25.	 
  
 No matter ____________ difficult it may seem to reach your target, you must try your hardest.
  (A) how much
- (B) how(正解)
+ (B) how<font color="#dd0000">正解</font>
  (C) however
  (D) how about
 無論如何，雖然達到目的似乎看起來很困難，但你必須盡最大的努力。
@@ -21952,13 +21952,13 @@ b. 【how後接形容詞】表式 【感嘆句】
 c. 【however】則表示【不論如何=no matter how】
 d. 【how about後接名詞】表【…如何】問意見如何
 
-解析：空格後方為形容詞，故可判斷空格處需填疑問詞【how後接形容詞】為正解。選項(a)【how much】表【某物的數量】，選項(d)【how about後接名詞】表【…如何】問意見如何，而選項(c)【however】則表示【不論如何=no matter how】用法皆非。
+解析：空格後方為形容詞，故可判斷空格處需填疑問詞【how後接形容詞】<font color="#dd0000">正解</font>選項(a)【how much】表【某物的數量】，選項(d)【how about後接名詞】表【…如何】問意見如何，而選項(c)【however】則表示【不論如何=no matter how】用法皆非。
  
 答對
 Question 26.	 
  
 These days, the majority of people prefer to ____________ their shopping online.
- (A) do (正解)
+ (A) do <font color="#dd0000">正解</font>
  (B) make
  (C) have
  (D) prepare
@@ -21968,7 +21968,7 @@ b. 做某物
 c. 有
 d. 準備
 
-解析：【shopping購物】為名詞用法時，片語用法為【do some shopping(名詞)】=【go shopping(動名詞)】=【 shop(動詞)】。故根據空格後方【their shopping】可判斷空格選項(a)為正解。
+解析：【shopping購物】為名詞用法時，片語用法為【do some shopping(名詞)】=【go shopping(動名詞)】=【 shop(動詞)】。故根據空格後方【their shopping】可判斷空格選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 27.	 
@@ -21977,14 +21977,14 @@ We are ____________ a professional videographer to make our wedding video.
  (A) searching
  (B) glancing
  (C) looking
- (D) seeking(正解)
+ (D) seeking<font color="#dd0000">正解</font>
 我們正在尋找可以幫我們製作婚禮短片的專業攝影師。
 a. 搜查 (+for) (動詞) 
 b. 看 (動詞)
 c. 看 (動詞)
 d. 尋找 (動詞)
 
-解析：根據題意可知主詞要【make our wedding video製作婚禮短片】故可判斷主詞要尋找一位專業的攝影師，故選項(d)為正解，而選項(c)動詞【look】【注視、看著】→動詞片語【look for】才表示【尋找】；選項(a) 動詞【search】表【搜尋】→動詞片語【search for】才表示【尋找】；而選項(b)不及物動詞【glance】後須皆介係詞→【glance at】表【注視著】。
+解析：根據題意可知主詞要【make our wedding video製作婚禮短片】故可判斷主詞要尋找一位專業的攝影師，故選項(d)<font color="#dd0000">正解</font>而選項(c)動詞【look】【注視、看著】→動詞片語【look for】才表示【尋找】；選項(a) 動詞【search】表【搜尋】→動詞片語【search for】才表示【尋找】；而選項(b)不及物動詞【glance】後須皆介係詞→【glance at】表【注視著】。
  
 答對
 Question 28.	 
@@ -21993,20 +21993,20 @@ The color enhancements will only be applied to the photo once the size _________
  (A) was
  (B) will be
  (C) will have been
- (D) has been (正解)
+ (D) has been <font color="#dd0000">正解</font>
 一但照片尺寸修改後才能應用色彩增強。
 a. 過去式
 b. 未來式
 c. 未來完成式
 d. 現在完成式
 
-解析：根據本句的副詞連接詞【once一旦】可判斷只要後句的動作，完成前句的照片就可以被修改。故可判斷後句需使用【完成式】表示【某動作已經/尚未/剛剛】完成，故選項(d)為正解。
+解析：根據本句的副詞連接詞【once一旦】可判斷只要後句的動作，完成前句的照片就可以被修改。故可判斷後句需使用【完成式】表示【某動作已經/尚未/剛剛】完成，故選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 29.	 
  
 Today's seminar has been postponed ____________ Friday.
- (A) to(正解)
+ (A) to<font color="#dd0000">正解</font>
  (B) on
  (C) for
  (D) within
@@ -22016,7 +22016,7 @@ b. 後接某一個日期，表【在…(某一天)】(時間介係詞)
 c. 後接一段連續時間(時間介係詞)
 d. 在…(時間)之內 (時間介係詞)
 
-解析：根據空格前方的動詞【postpone延期】可判斷空格處可使用常用【postpone to】表【延期到…(時間)】故選項(a)為正解，而其他選項無此用法。
+解析：根據空格前方的動詞【postpone延期】可判斷空格處可使用常用【postpone to】表【延期到…(時間)】故選項(a)<font color="#dd0000">正解</font>而其他選項無此用法。
  
 答對
 Question 30.	 
@@ -22024,7 +22024,7 @@ Question 30.
 I couldn't ____________ my eyes when I saw the magician pull a rabbit from his hat.
  (A) understand
  (B) recognize
- (C) believe (正解)
+ (C) believe <font color="#dd0000">正解</font>
  (D) familiarize
 當我看到魔術師從他的帽子裡拉出一隻兔子，我簡直不敢相信我的眼睛。
 a. 明白、瞭解 (動詞)
@@ -22032,7 +22032,7 @@ b. 認出 (動詞)
 c. 相信 (動詞)
 d. 使熟悉 (動詞)
 
-解析：根據後句【I saw the magician pull a rabbit from his hat我看到魔術師從他的帽子裡拉出一隻兔子】可判斷主詞一定感到驚訝而不敢相信自己的眼睛，故常用語【can't believe my eyes】表【不敢相信我的眼睛】，故選項(C)為正解。其餘選項皆不合題意。
+解析：根據後句【I saw the magician pull a rabbit from his hat我看到魔術師從他的帽子裡拉出一隻兔子】可判斷主詞一定感到驚訝而不敢相信自己的眼睛，故常用語【can't believe my eyes】表【不敢相信我的眼睛】，故選項(C)<font color="#dd0000">正解</font>其餘選項皆不合題意。
  
 只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
@@ -22044,7 +22044,7 @@ Question 1.
 This tool is ____________! It broke after I used it only once!
  (A) used
  (B) using
- (C) useless(正解)
+ (C) useless<font color="#dd0000">正解</font>
  (D) users
 這件工具毫無用處！我只用一次就壞了。
 a. 使用 (過去分詞)
@@ -22052,13 +22052,13 @@ b. 使用 (現在分詞)
 c. 無用的 (形容詞)
 d. 使用者 (名詞)
 
-解析：根據後句【It broke after I used 我使用後就壞了】可判斷主詞【This tool這件工具】功用性不好，故選項(c)為正解。
+解析：根據後句【It broke after I used 我使用後就壞了】可判斷主詞【This tool這件工具】功用性不好，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 2.	 
  
 Corben ____________ in France for twenty years and still had never been to the Eiffel Tower.
- (A) had been living(正解)
+ (A) had been living<font color="#dd0000">正解</font>
  (B) has lived
  (C) had to be living
  (D) lives
@@ -22068,14 +22068,14 @@ b. 曾經住在(現在完成式)
 c. 必須居住在(進行式)
 d. 現居在(現在式)
 
-解析：根據時間副詞【for twenty years長達二十年】可知本句為【完成式】用以表達某動作持續進行了一段時間，搭配後句的【had never been to過去完成式】可知前句的動作發生時間也在過去，故選項(a)過去完成式為正解。
+解析：根據時間副詞【for twenty years長達二十年】可知本句為【完成式】用以表達某動作持續進行了一段時間，搭配後句的【had never been to過去完成式】可知前句的動作發生時間也在過去，故選項(a)過去完成式<font color="#dd0000">正解</font>
  
 答對
 Question 3.	 
  
 I did not see ____________ of you at the board meeting yesterday.
  (A) anyone
- (B) any(正解)
+ (B) any<font color="#dd0000">正解</font>
  (C) all
  (D) someone
 我昨日沒有看到你們任何一個人參加董事會。
@@ -22084,14 +22084,14 @@ b. 任何人(代名詞)
 c. 全部的
 d. 某個人
 
-解析：空格後的人稱代名詞【you】可得知空格處不需填入選項(a)(c)代替人的代名詞；選項(d)用在肯定句。故只有選項(b)為正解。
+解析：空格後的人稱代名詞【you】可得知空格處不需填入選項(a)(c)代替人的代名詞；選項(d)用在肯定句。故只有選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 4.	 
  
 The next applicant is the one over there on the sofa ____________ out the application form.
  (A) fill
- (B) filling(正解)
+ (B) filling<font color="#dd0000">正解</font>
  (C) has been filling
  (D) to be filled
 下一個應徵者是正在沙發上填寫申請表的那位。
@@ -22100,13 +22100,13 @@ b. 現在分詞
 c. 現在完成進行式
 d. 不定詞+被動語氣
 
-解析：本句為分詞構句，還原後→【The next applicant is the one over there on the sofa, who is filling out the application form.】根據主詞與動詞【fill】兩者之間關係判斷為【主動語氣】，故使用現在分詞(V-ing)表主動語氣，若為被動語氣則使用過去分詞(V-pp)。可判斷選項(b)為正解。
+解析：本句為分詞構句，還原後→【The next applicant is the one over there on the sofa, who is filling out the application form.】根據主詞與動詞【fill】兩者之間關係判斷為【主動語氣】，故使用現在分詞(V-ing)表主動語氣，若為被動語氣則使用過去分詞(V-pp)。可判斷選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 5.	 
  
 Unfortunately, your delivery has been ____________ due to a shortage of drivers.
- (A) delayed(正解)
+ (A) delayed<font color="#dd0000">正解</font>
  (B) late
  (C) later
  (D) stopping
@@ -22116,13 +22116,13 @@ b. 遲到 (形容詞)
 c. 較晚的(形容詞)、後來(副詞)
 d. 停止 (動名詞)
 
-解析：根據副詞【Unfortunately不幸地】搭配後句【a shortage of drivers運送司機人員短缺】可知送達的貨物被延遲送達，可知選項(a)【V-pp】可搭配空格前方動詞【has been】→表【現在完成被動語氣】為正解。
+解析：根據副詞【Unfortunately不幸地】搭配後句【a shortage of drivers運送司機人員短缺】可知送達的貨物被延遲送達，可知選項(a)【V-pp】可搭配空格前方動詞【has been】→表【現在完成被動語氣】<font color="#dd0000">正解</font>
  
 答對
 Question 6.	 
  
 ____________ the group of kids being watched by a teacher?
- (A) Was(正解)
+ (A) Was<font color="#dd0000">正解</font>
  (B) Were
  (C) Why
  (D) While
@@ -22132,14 +22132,14 @@ b. be動詞的過去式 (主詞複數)
 c. 為什麼 (疑問詞)
 d. 當…的時候 (連接詞)
 
-解析：根據動詞【being watched by】可判斷本句為【進行式的被動語氣】，由主詞【the group of kids】可得知主詞為單數，故選項(a)【Be動詞was】為正解。選項(c)(d)為疑問詞，仍需搭配Be動詞使用句意才會正確，故不可選。
+解析：根據動詞【being watched by】可判斷本句為【進行式的被動語氣】，由主詞【the group of kids】可得知主詞為單數，故選項(a)【Be動詞was】<font color="#dd0000">正解</font>選項(c)(d)為疑問詞，仍需搭配Be動詞使用句意才會正確，故不可選。
  
 答對
 Question 7.	 
  
 I apologize in advance for any ____________ this may cause you.
  (A) incompetence
- (B) inconvenience(正解)
+ (B) inconvenience<font color="#dd0000">正解</font>
  (C) impatience
  (D) insistence
 我要為可能會對你造成的不便先說抱歉。
@@ -22148,13 +22148,13 @@ b. 不便利 (名詞)
 c. 沒有耐心(名詞)
 d. 堅持(名詞)
 
-解析：根據前句關鍵單字【apologize道歉】搭配後句【this may cause you這可能對你造成…】可判斷主詞要道歉的內容是選項(b)為正解。其餘選項與句意不符。
+解析：根據前句關鍵單字【apologize道歉】搭配後句【this may cause you這可能對你造成…】可判斷主詞要道歉的內容是選項(b)<font color="#dd0000">正解</font>其餘選項與句意不符。
  
 答對
 Question 8.	 
  
 Post-it notes were first ____________ in 1978.
- (A) marketed(正解)
+ (A) marketed<font color="#dd0000">正解</font>
  (B) marketing
  (C) to be marketed
  (D) markets
@@ -22164,13 +22164,13 @@ b. 現在名詞
 c. 被動語氣
 d. 現在式動詞
 
-解析：主詞【Post-it notes便利貼】為【事物】故本句為被動語氣【Be動詞+V-pp】，故選項(a)為正解。
+解析：主詞【Post-it notes便利貼】為【事物】故本句為被動語氣【Be動詞+V-pp】，故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 9.	 
  
 The processing fee must be ____________ no later than July 6.
- (A) paid(正解)
+ (A) paid<font color="#dd0000">正解</font>
  (B) owed
  (C) completed
  (D) dealt
@@ -22180,7 +22180,7 @@ b. 欠(款)
 c. 完成
 d. 處理
 
-解析：主詞【processing fee處理費用】需要被支付，故可判斷本句為被動語氣，故選項(a)為正解。
+解析：主詞【processing fee處理費用】需要被支付，故可判斷本句為被動語氣，故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 10.	 
@@ -22188,7 +22188,7 @@ Question 10.
 The CEO was arrested on charges of ____________, including accepting bribes.
  (A) function
  (B) eruption
- (C) corruption(正解)
+ (C) corruption<font color="#dd0000">正解</font>
  (D) consumption
 執行長因被指控貪汙而被逮捕，包含收賄罪名。
 a. 功能(名詞)
@@ -22196,7 +22196,7 @@ b. 爆發(名詞)
 c. 貪汙 (名詞)
 d. 消費、消耗(名詞)
 
-解析：根據後方關鍵單字【accepting bribes接收賄賂】可判斷這是主詞被逮捕的原因，故選項(c)為正解。
+解析：根據後方關鍵單字【accepting bribes接收賄賂】可判斷這是主詞被逮捕的原因，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 11.	 
@@ -22204,7 +22204,7 @@ Question 11.
 Do you recall the time ____________ Wayne made a fool of himself during a poker game?
  (A) where
  (B) while
- (C) that(正解)
+ (C) that<font color="#dd0000">正解</font>
  (D) whom
 你是否還記得當時Wayne在玩撲克牌出糗的模樣嗎?
 a. 關係代名詞 (先行詞為地方)的用法
@@ -22213,7 +22213,7 @@ c. 關係代名詞 (先行詞為人/非人皆可)的用法
 d. 關係代名詞(先行詞為人)的受詞用法
 
 
-解析：關係代名詞【which/that】用於替代空格前方的先行詞(名詞)，故選項(c)為正解。
+解析：關係代名詞【which/that】用於替代空格前方的先行詞(名詞)，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 12.	 
@@ -22221,7 +22221,7 @@ Question 12.
 Police are ____________ searching the city for the lost 4-year-old boy.
  (A) system
  (B) systemic
- (C) systematically(正解)
+ (C) systematically<font color="#dd0000">正解</font>
  (D) systematic
 警方正在城市裡有計畫地尋找四歲的失蹤男孩。
 a. 系統 (名詞)
@@ -22229,7 +22229,7 @@ b. 系統的、組織的、(生理)全身的 (形容詞)
 c. 有系統地、有組織地 (副詞)
 d. 有條理的、(做事)有系統的 (形容詞)
 
-解析：根據空格後方的動詞【searching】可判斷前方空格做前位修飾，故選選項(c)副詞用來修飾形容詞為正解。其他選項詞性請見選項翻譯。
+解析：根據空格後方的動詞【searching】可判斷前方空格做前位修飾，故選選項(c)副詞用來修飾形容詞<font color="#dd0000">正解</font>其他選項詞性請見選項翻譯。
  
 答對
 Question 13.	 
@@ -22238,21 +22238,21 @@ ____________, the wife of the victim didn't want to speak to the reporters knock
  (A) Unfortunately
  (B) Unacceptably
  (C) Undeniably
- (D) Understandably (正解)
+ (D) Understandably <font color="#dd0000">正解</font>
 可理解地，受害者的妻子不願向敲門的記者採訪，因為離事故發生後還為時過早。
 a. 不幸地、遺憾地(副詞)
 b. 不可接受地(副詞)
 c. 不可否認地(副詞)
 d. 可理解地(副詞)
 
-解析：根據前句關鍵【the wife of the victim didn't want to speak to the reporters受害者的太太不想和記者談話】可判斷本句敘述是件可理解的行為，故選項(d)為正解。
+解析：根據前句關鍵【the wife of the victim didn't want to speak to the reporters受害者的太太不想和記者談話】可判斷本句敘述是件可理解的行為，故選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 14.	 
  
 Humphrey devotes a lot of his time to ____________ the stock market.
  (A) study
- (B) studying(正解)
+ (B) studying<font color="#dd0000">正解</font>
  (C) studies
  (D) have studied
 Humphrey投入很多時間專心研究股票市場。
@@ -22261,14 +22261,14 @@ b. 現在分詞
 c. 現在式動詞(主詞三單)
 d. 現在完成式
 
-解析：動詞【devote to 】表【致力於】後接【V-ing】，故選項(b)為正解。
+解析：動詞【devote to 】表【致力於】後接【V-ing】，故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 15.	 
  
 Singapore lies near the equator so the sun sets ____________ six o'clock every day of the year.
  (A) between
- (B) around(正解)
+ (B) around<font color="#dd0000">正解</font>
  (C) beyond
  (D) on
 新加坡位於赤道附近，因此全年的日落時間大約六點鐘。
@@ -22277,13 +22277,13 @@ b. 大約(介詞)
 c. 超越(介詞)
 d. 在 (介詞)
 
-解析：根據空格後方的時間副詞【six o'clock】可判斷空格處需接【時間介係詞】故選項(b)表【大約、大概】為正解；選項(d)後接【指定的日期】。
+解析：根據空格後方的時間副詞【six o'clock】可判斷空格處需接【時間介係詞】故選項(b)表【大約、大概】<font color="#dd0000">正解</font>選項(d)後接【指定的日期】。
  
 答對
 Question 16.	 
  
 The price of oil has been ____________ wildly since March.
- (A) fluctuating(正解)
+ (A) fluctuating<font color="#dd0000">正解</font>
  (B) vibrating
  (C) enhance
  (D) upping
@@ -22293,14 +22293,14 @@ b. 震動
 c. 提升、加強
 d. 提高、增加
 
-解析：題意表示從三月起油價的改變急遽【wildly】，故可判斷空格處可為上升或下降，選項中只有(a)可用來表示價格的變化故為正解。
+解析：題意表示從三月起油價的改變急遽【wildly】，故可判斷空格處可為上升或下降，選項中只有(a)可用來表示價格的變化故<font color="#dd0000">正解</font>
  
 答對
 Question 17.	 
  
 Doctor Fitzgerald has cancelled the appointment ____________ he believes you don't need the surgery.
  (A) due to
- (B) because(正解)
+ (B) because<font color="#dd0000">正解</font>
  (C) owing
  (D) result of
 Fitzgerald醫生已經取消會面，因為他認為你不需要動手術。
@@ -22309,14 +22309,14 @@ b. 因為 (連接詞)
 c. 無此用法，使用時需加 【+to 】→【owing to 由於】
 d. 無此用法，使用時，需加 【as + a result of 】→【由於】
 
-解析：根據後句【you don't need the surgery你不需要手術】才造成前句【cancelled the appointment取消會面】的結果，可知本句為因果關係句。由於後句為原因，故選項(b)為正解。
+解析：根據後句【you don't need the surgery你不需要手術】才造成前句【cancelled the appointment取消會面】的結果，可知本句為因果關係句。由於後句為原因，故選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 18.	 
  
 Do you feel like you are adequately prepared ____________ your speech on Friday?
  (A) to
- (B) for(正解)
+ (B) for<font color="#dd0000">正解</font>
  (C) about
  (D) on
 你有沒有感覺自己充分準備好禮拜五的演講嗎?
@@ -22325,13 +22325,13 @@ b. 為了…(原因) (介係詞)
 c. 大約、大概(介係詞)
 d. 在…的上面(介係詞)
 
-解析：【prepare for+ N/to+原型動詞】表【準備】根據空格後方【your speech你的演講】可知選項(b)為正解。
+解析：【prepare for+ N/to+原型動詞】表【準備】根據空格後方【your speech你的演講】可知選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 19.	 
  
 It was ____________ Robert and Satya who hadn't been fully trained on how to use the temperature gauge.
- (A) only(正解)
+ (A) only<font color="#dd0000">正解</font>
  (B) just the
  (C) seldom
  (D) unusually
@@ -22341,14 +22341,14 @@ b. 正好 (副詞)
 c. 很少 (頻率副詞)
 d. 不尋常地 (副詞)
 
-解析：根據後句題意【hadn't been fully trained還未接受完整訓練】可判斷【Robert and Satya】是剩下兩個尚未完成訓練的，故選項(a)為正解。其餘選項意思與題意不符。
+解析：根據後句題意【hadn't been fully trained還未接受完整訓練】可判斷【Robert and Satya】是剩下兩個尚未完成訓練的，故選項(a)<font color="#dd0000">正解</font>其餘選項意思與題意不符。
  
 答對
 Question 20.	 
  
 We've ____________ sent in the product registration dossier, but haven't heard back from the reviewer yet.
  (A) not
- (B) already(正解)
+ (B) already<font color="#dd0000">正解</font>
  (C) still
  (D) waited
 我們已經寄出產品註冊申報資料，但還沒收到檢閱人員的回覆。
@@ -22357,14 +22357,14 @@ b. 已經 (副詞)
 c. 還 (副詞)
 d. 等 (過去式)
 
-解析：根據前句動詞【sent寄出】可判斷要寄出的物件為檔案資料，故只有選項(b)為符合正解。
+解析：根據前句動詞【sent寄出】可判斷要寄出的物件為檔案資料，故只有選項(b)為符<font color="#dd0000">正解</font>
  
 答對
 Question 21.	 
  
 Over 6000 people are ____________ by the City of Edmonton transportation department.
  (A) employees
- (B) employed(正解)
+ (B) employed<font color="#dd0000">正解</font>
  (C) employers
  (D) employment
 有超過六千個人被艾德蒙頓市的交通部雇用。
@@ -22373,14 +22373,14 @@ b. 雇用 (動詞)
 c. 雇主 (名詞)
 d. 雇用、受僱 (名詞)
 
-解析：根據空格後方的介係詞【by】可判斷主詞【6000 people 六千位民眾】是被雇用的，可知本句為被動語氣用法，故選項(b)為動詞【V-pp】為正解。
+解析：根據空格後方的介係詞【by】可判斷主詞【6000 people 六千位民眾】是被雇用的，可知本句為被動語氣用法，故選項(b)為動詞【V-pp】<font color="#dd0000">正解</font>
  
 答對
 Question 22.	 
  
 Now that our company ____________ in the global market, we are going to open an overseas branch.
  (A) expands
- (B) is expanding(正解)
+ (B) is expanding<font color="#dd0000">正解</font>
  (C) expanding
  (D) will have expanded
 目前我們公司正在擴展海外業務的全球市場，因此我們即將建立海外分公司。
@@ -22389,7 +22389,7 @@ b. 現在進行式
 c. 現在分詞
 d. 未來完成式
 
-解析：根據前句的時間副詞【Now】表【現在】，可判斷主詞的公司目前正在擴張全球市場，故選項(b)【現在進行式】為正解。
+解析：根據前句的時間副詞【Now】表【現在】，可判斷主詞的公司目前正在擴張全球市場，故選項(b)【現在進行式】<font color="#dd0000">正解</font>
  
 答對
 Question 23.	 
@@ -22397,7 +22397,7 @@ Question 23.
 I have requested the administrator of the group ____________ advertisements from the group page.
  (A) ban
  (B) to be banned
- (C) to ban(正解)
+ (C) to ban<font color="#dd0000">正解</font>
  (D) to have banned
 我已經向行政單位團體提出禁止所有來自群組廣告的要求。
 a. 原形動詞
@@ -22405,13 +22405,13 @@ b. 不定詞+被動語氣
 c. 不定詞
 d. 不定詞+完成式
 
-解析：前句的動詞【request請求】後需接不定詞【to】再接動詞。故只有選項(c)符合文法為正解。
+解析：前句的動詞【request請求】後需接不定詞【to】再接動詞。故只有選項(c)符合文法<font color="#dd0000">正解</font>
  
 答對
 Question 24.	 
  
 My mother has a terrible ____________ of direction; she gets lost the moment she steps out of her front door.
- (A) sense(正解)
+ (A) sense<font color="#dd0000">正解</font>
  (B) scents
  (C) cents
  (D) center
@@ -22421,7 +22421,7 @@ b. 氣味、香味 (名詞)
 c. 分 (貨幣的單位) (名詞)
 d. 中心 (名詞)
 
-解析：名詞片語【a sense of】表【感覺】，如【a sense of humor/achievement/guilt/direction/satisfaction…】表【幽默感、成就感、罪惡感、方向感、滿足感…等】。故從空格後方的關鍵單字【direction方向】可得知媽媽的方向感不好，選項(a)符合題意為正解。
+解析：名詞片語【a sense of】表【感覺】，如【a sense of humor/achievement/guilt/direction/satisfaction…】表【幽默感、成就感、罪惡感、方向感、滿足感…等】。故從空格後方的關鍵單字【direction方向】可得知媽媽的方向感不好，選項(a)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 25.	 
@@ -22430,21 +22430,21 @@ Aisle seat or window seat, I'm not very picky, ____________ one is good for me.
  (A) nor
  (B) or
  (C) neither
- (D) either(正解)
+ (D) either<font color="#dd0000">正解</font>
 我不挑剔靠走道或靠窗的座位，任何一個都可以。
 a. 也不
 b. 或
 c. 兩者任一都不
 d. 兩者任一皆可 
 
-解析：根據後句【…is good for me我都可以】可判斷不論是哪一個座位接可，故選項(d)表【兩者任一皆可】為正解。
+解析：根據後句【…is good for me我都可以】可判斷不論是哪一個座位接可，故選項(d)表【兩者任一皆可】<font color="#dd0000">正解</font>
  
 答對
 Question 26.	 
  
 We have been working on this sales chart ____________ two and half days now.
  (A) since
- (B) for(正解)
+ (B) for<font color="#dd0000">正解</font>
  (C) long
  (D) over
 我們目前已經花了兩個半天忙於製作這個銷售表。
@@ -22453,14 +22453,14 @@ b. 一段時間 (介詞)
 c. 長的 (形容詞)
 d. 超過 (介詞)
 
-解析：動詞【have been working現在完成進行式】表示【動作持續一段時間】，句尾的時間副詞【two and half days】為連續的一段時間故介係詞用【for】，選項(b)為正解。選項(a)需改為【since two and half days ago】。
+解析：動詞【have been working現在完成進行式】表示【動作持續一段時間】，句尾的時間副詞【two and half days】為連續的一段時間故介係詞用【for】，選項(b)<font color="#dd0000">正解</font>選項(a)需改為【since two and half days ago】。
  
 答對
 Question 27.	 
  
 A perfect diamond is ____________ to find; they all have flaws.
  (A) possible
- (B) impossible(正解)
+ (B) impossible<font color="#dd0000">正解</font>
  (C) possibly
  (D) impossibly
 完美無瑕的鑽石是不可能的，它們都有瑕疵。
@@ -22469,14 +22469,14 @@ b. 不可能的(形容詞)
 c. 可能地 (副詞)
 d. 不可能地 (副詞)
 
-解析：根據後句【all have flaws都有缺陷】可判斷主詞【A perfect diamond一顆完美無瑕的鑽石】是不可能出現的，故選項(b)符合題意為正解。
+解析：根據後句【all have flaws都有缺陷】可判斷主詞【A perfect diamond一顆完美無瑕的鑽石】是不可能出現的，故選項(b)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 28.	 
  
 This vending machine is ____________ so you'll have to use the one downstairs in the lobby.
  (A) breaking
- (B) out of order(正解)
+ (B) out of order<font color="#dd0000">正解</font>
  (C) repaired
  (D) working
 這部販賣機已經故障，所以你必須使用大廳樓下的那一部。
@@ -22485,7 +22485,7 @@ b. 故障 (片語)
 c. 修理 (過去分詞)
 d. 運轉 (現在分詞)
 
-解析：根據後句【have to use the one downstairs 必須使用樓下那台】可判斷主詞的【vending machine販賣機】無法使用，故才需使用樓下那台，因此選項(b)為正解。
+解析：根據後句【have to use the one downstairs 必須使用樓下那台】可判斷主詞的【vending machine販賣機】無法使用，故才需使用樓下那台，因此選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 29.	 
@@ -22494,14 +22494,14 @@ If you need somebody to help you, maybe you should see the school ____________.
  (A) advice
  (B) advised
  (C) advisable
- (D) advisor(正解)
+ (D) advisor<font color="#dd0000">正解</font>
 若你需要有人協助你，你可能要尋求學校導師的幫忙。
 a. 建議 (名詞)
 b. 建議 (動詞)
 c. 適當的 (形容詞)
 d. 導師、顧問 (名詞)
 
-解析：根據前句【need somebody to help you需要別人來幫你】搭配空格前方關鍵字【the school+ N】可判斷後句主詞需要去見可以協助的人，故選項(d)為正解。
+解析：根據前句【need somebody to help you需要別人來幫你】搭配空格前方關鍵字【the school+ N】可判斷後句主詞需要去見可以協助的人，故選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 30.	 
@@ -22509,7 +22509,7 @@ Question 30.
 When making a long journey, it's best to get an early ____________.
  (A) wake
  (B) awake
- (C) start(正解)
+ (C) start<font color="#dd0000">正解</font>
  (D) up
 當我們要去長途旅行，最好是能盡早開始。
 a. 起床 (動詞)
@@ -22517,7 +22517,7 @@ b. 清醒的 (形容詞)、喚醒 (動詞)
 c. 開始 (動詞、名詞)
 d. 向上(介詞)
 
-解析：根據空格前方的形容詞【long (距離、時間…)長的】可判斷主詞提及一段漫長的旅途，選項(a)表【海上之旅為非】，選項(c)表【(郵件、交通工具…)路線】為非，而選項(c)表【(人生、長時間…)旅程】為正解。
+解析：根據空格前方的形容詞【long (距離、時間…)長的】可判斷主詞提及一段漫長的旅途，選項(a)表【海上之旅為非】，選項(c)表【(郵件、交通工具…)路線】為非，而選項(c)表【(人生、長時間…)旅程】<font color="#dd0000">正解</font>
  
 只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
@@ -22528,7 +22528,7 @@ Question 1.
  
 Traveling ____________ Russia by train is a beautiful way to experience the countryside.
  (A) by
- (B) across(正解)
+ (B) across<font color="#dd0000">正解</font>
  (C) between
  (D) under
 搭火車跨越俄羅斯旅遊是個體驗鄉村之美的好方法。
@@ -22537,7 +22537,7 @@ b. 跨越、橫越 (介詞)
 c. 在...(兩者)之間 (介詞)
 d. 在…的正下方 (介詞)
 
-解析：根據本句句意可判斷，介係詞【across跨越】表坐火車旅行到國家的另一端，其他選項皆不符合題意，故只有選項(b)為正解。
+解析：根據本句句意可判斷，介係詞【across跨越】表坐火車旅行到國家的另一端，其他選項皆不符合題意，故只有選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 2.	 
@@ -22545,7 +22545,7 @@ Question 2.
 ____________ the letter of acceptance to Oxford, Abdul jumped into the air with excitement.
  (A) Read
  (B) He reads
- (C) Reading(正解)
+ (C) Reading<font color="#dd0000">正解</font>
  (D) To read
 讀完來自牛津的錄取通知書後，Abdul興奮地跳起來了。
 a. 原形動詞
@@ -22560,7 +22560,7 @@ Question 3.
  
 Due to his ____________, Corben lost the responsibility of being a key holder for the electronics shop.
  (A) dishonest
- (B) dishonesty (正解)
+ (B) dishonesty <font color="#dd0000">正解</font>
  (C) liar
  (D) untruthful
 由於他的不誠實，Corben失去保管電子用品店鑰匙的職責。
@@ -22569,13 +22569,13 @@ b. 不誠實 (名詞)
 c. 騙子(名詞)
 d. 不真實的、愛說謊的 (形容詞)
 
-解析：根據後句敘述【lost the responsibility失職】可判斷起因於主詞的錯誤，另由空格前方的所有格【his】可知空格處為名詞。故選項(b)符合題意及用法為正解。
+解析：根據後句敘述【lost the responsibility失職】可判斷起因於主詞的錯誤，另由空格前方的所有格【his】可知空格處為名詞。故選項(b)符合題意及用法<font color="#dd0000">正解</font>
  
 答對
 Question 4.	 
  
 It ____________ that your lawyer has never lost a case yet.
- (A) is said(正解)
+ (A) is said<font color="#dd0000">正解</font>
  (B) be said
  (C) will be said
  (D) is saying
@@ -22585,14 +22585,14 @@ b. 被動語氣
 c. 未來式被動語氣
 d. 現在進行式
 
-解析：根據主詞為事物【It】可判斷本句為被動語氣→故句型【It's said that +S+V】表【據說、聽說】其用法如同【People said that…】符合題意，故選項(a)為正解。
+解析：根據主詞為事物【It】可判斷本句為被動語氣→故句型【It's said that +S+V】表【據說、聽說】其用法如同【People said that…】符合題意，故選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 5.	 
  
 The film crew ran ____________ the marathon participants to film them as they ran.
  (A) besides
- (B) alongside(正解)
+ (B) alongside<font color="#dd0000">正解</font>
  (C) side by side
  (D) at the side
 攝影團隊在馬拉松選手跑步時，隨行在旁拍攝。
@@ -22601,7 +22601,7 @@ b. 在旁邊 (副詞、介詞)
 c. 肩並肩地；一起地 (副詞)
 d. 在…的身旁 (副詞)
 
-解析：根據前句主詞【The film crew攝影團隊】搭配句尾關鍵字【as they ran當他們在跑步時】可得知主詞會在馬拉松選手跑步隨行在旁拍攝，故可判斷選項(b)符合題意為正解。選項(d)應改正為→【at the side of…】表【在…的身旁】才正確。
+解析：根據前句主詞【The film crew攝影團隊】搭配句尾關鍵字【as they ran當他們在跑步時】可得知主詞會在馬拉松選手跑步隨行在旁拍攝，故可判斷選項(b)符合題意<font color="#dd0000">正解</font>選項(d)應改正為→【at the side of…】表【在…的身旁】才正確。
  
 答對
 Question 6.	 
@@ -22609,7 +22609,7 @@ Question 6.
 The average commute ____________ work for our employees is only 22 minutes.
  (A) on
  (B) by
- (C) to (正解)
+ (C) to <font color="#dd0000">正解</font>
  (D) at
 我們的員工通勤來上班的時間平均22分鐘。
 a. 在…(地方)上 (地方介詞)
@@ -22617,7 +22617,7 @@ b. 搭 (交通工具) (介詞)
 c. 往、去 (地方介詞)
 d. 在…(後接地點) (地方介詞)
 
-解析：根據空格前方的名詞【commute】可知後方需搭配不定詞【to】→【commute to work】表【通勤去上班】，故選項(c)為正解。其他介係詞不可與【commute】搭配使用。
+解析：根據空格前方的名詞【commute】可知後方需搭配不定詞【to】→【commute to work】表【通勤去上班】，故選項(c)<font color="#dd0000">正解</font>其他介係詞不可與【commute】搭配使用。
 
  
 答對
@@ -22625,7 +22625,7 @@ Question 7.
  
 Thank you for ____________ to the Reader's Digest Sports Edition magazine.
  (A) describing
- (B) subscribing(正解)
+ (B) subscribing<font color="#dd0000">正解</font>
  (C) prescribing
  (D) inscribing
 感謝您訂購讀者文摘體育版的雜誌。
@@ -22634,7 +22634,7 @@ b. 認購、訂閱(書籍) (動名詞)
 c. 指示、規定 (動名詞)
 d. 雕刻、印 (動名詞)
 
-解析：空格前【Thank you感謝您】搭配後句【magazine雜誌】也判斷本句表示感謝客戶對雜誌的支持，故選項(b)較符合題意為正解。其他選項與題意不符。
+解析：空格前【Thank you感謝您】搭配後句【magazine雜誌】也判斷本句表示感謝客戶對雜誌的支持，故選項(b)較符合題意<font color="#dd0000">正解</font>其他選項與題意不符。
  
 答對
 Question 8.	 
@@ -22642,7 +22642,7 @@ Question 8.
 Nametags and ID cards ____________ to all the participants when they arrive at tomorrow's trade fair.
  (A) were given
  (B) will give
- (C) will be given(正解)
+ (C) will be given<font color="#dd0000">正解</font>
  (D) had been given
 當所有參賽者抵達明日的貿易展時，名條及身份辨識卡將會發放給他們。
 a. 過去被動式
@@ -22650,14 +22650,14 @@ b. 未來式
 c. 未來被動式
 d. 過去完成被動式
 
-解析：主詞【Nametags and ID cards名條及身份辨識卡】會被發給所有的參加人員，可得知本句為【被動語氣】在搭配後句【when they arrive at tomorrow's trade fair抵達明日的貿易展】可判斷本句為【未來式的被動語氣】，故選項(c)為正解。
+解析：主詞【Nametags and ID cards名條及身份辨識卡】會被發給所有的參加人員，可得知本句為【被動語氣】在搭配後句【when they arrive at tomorrow's trade fair抵達明日的貿易展】可判斷本句為【未來式的被動語氣】，故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 9.	 
  
 Since Margaret ____________ in her registration by e-mail already, she didn't have to wait in line when she arrived at the seminar.
  (A) sends
- (B) had sent(正解)
+ (B) had sent<font color="#dd0000">正解</font>
  (C) will send
  (D) was about to send
 由於Margaret已經用電子郵件方式寄送報名表，所以抵達研討會場時，她就不需要再排隊了。
@@ -22666,7 +22666,7 @@ b. 過去完成式
 c. 未來式
 d. 過去未來式
 
-解析：根據前句的副詞【already已經】可知主詞在到達前就已經寄出她的註冊單，兩個都發生在過去的動詞為了區別發生的先後順序，先發生的動作為【過去完成式hand+Vpp】，後發生的動作為【過去簡單式V-pt】。故本句選項(b)為正解。
+解析：根據前句的副詞【already已經】可知主詞在到達前就已經寄出她的註冊單，兩個都發生在過去的動詞為了區別發生的先後順序，先發生的動作為【過去完成式hand+Vpp】，後發生的動作為【過去簡單式V-pt】。故本句選項(b)<font color="#dd0000">正解</font>
  
 答對
 Question 10.	 
@@ -22675,14 +22675,14 @@ Anything ____________ 0.1% and 0.3% is the acceptable range for this chemical in
  (A) before
  (B) about
  (C) interior
- (D) between(正解)
+ (D) between<font color="#dd0000">正解</font>
 只要這項化學溶劑的範圍介於0.1% 至0.3%之間都是可接受。
 a. 之前 (連接詞、介詞)
 b. 關於 (介詞)
 c. 內部的 (形容詞)
 d. 介於、在…之間 (介詞)
 
-解析：根據空格後方的關鍵單字【0.1% and 0.3%】可判斷範圍介於這兩者之間，片語【between A and B】為正解。
+解析：根據空格後方的關鍵單字【0.1% and 0.3%】可判斷範圍介於這兩者之間，片語【between A and B】<font color="#dd0000">正解</font>
  
 答對
 Question 11.	 
@@ -22690,7 +22690,7 @@ Question 11.
 Lighters and weapons are ____________ from the conference center; they will be confiscated at the door.
  (A) halted
  (B) allowed
- (C) prohibited (正解)
+ (C) prohibited <font color="#dd0000">正解</font>
  (D) stopped
 禁止帶打火機與武器進入會議中心；這些物品在門口處就會被沒收。
 a. 停止、終止 (動詞)
@@ -22698,13 +22698,13 @@ b. 允許 (動詞)
 c. 禁止 (動詞)
 d. 停止 (動詞)
 
-解析：根據後句【be confiscated at the door在門口處就被沒收】可知槍枝及打火機是不可帶進會議中心，故選項(c)符合題意為正解。
+解析：根據後句【be confiscated at the door在門口處就被沒收】可知槍枝及打火機是不可帶進會議中心，故選項(c)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 12.	 
  
 Vanilla, ____________ confused with the food product, is the name of our newest car model.
- (A) not to be(正解)
+ (A) not to be<font color="#dd0000">正解</font>
  (B) to be
  (C) to have been
  (D) will not be
@@ -22714,14 +22714,14 @@ b. 不定詞
 c. 不定詞+完成式
 d. 未來式的否定句
 
-解析：根據空格後方的片語【be confused with】表【被…混淆】，根據後句可知這個名字並不是食物名，而是車名。故可知前句為否定，因此選項(a)為正解。
+解析：根據空格後方的片語【be confused with】表【被…混淆】，根據後句可知這個名字並不是食物名，而是車名。故可知前句為否定，因此選項(a)<font color="#dd0000">正解</font>
  
 答對
 Question 13.	 
  
 Without ____________ information on how to find the hotel, the couple stopped to ask for directions.
  (A) those
- (B) enough(正解)
+ (B) enough<font color="#dd0000">正解</font>
  (C) fully
  (D) completely
 因為資訊不足找不到飯店時，這對夫婦停下來問路。
@@ -22730,14 +22730,14 @@ b. 足夠的 (形容詞)
 c. 完全的 (形容詞)
 d. 完全地 (副詞)
 
-解析：根據後句【stopped to ask for directions停下來問路】可判斷主詞找不到飯店的所在地，因此他們需要停下來問路的原因是因為他們手上的資訊不夠詳細，故選項(b)符合題意為正解。
+解析：根據後句【stopped to ask for directions停下來問路】可判斷主詞找不到飯店的所在地，因此他們需要停下來問路的原因是因為他們手上的資訊不夠詳細，故選項(b)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 14.	 
  
 If you agree ____________ all of the points in the contract, please sign your name at the bottom.
  (A) of
- (B) to(正解)
+ (B) to<font color="#dd0000">正解</font>
  (C) for
  (D) at
 若你同意合約的所有項目，請在合約下方簽名。
@@ -22755,20 +22755,20 @@ The electrician used a drill to ____________ a hole in the wall.
  (A) borrow
  (B) born
  (C) boring
- (D) bore(正解)
+ (D) bore<font color="#dd0000">正解</font>
 電工使用鑽孔機在牆壁上鑽一個洞。
 a. 借來 (動詞)
 b. 被生出來的 (過去分詞)
 c. 令人無聊的 (現在分詞)
 d. 鑽孔 (動詞)
 
-解析：根據關鍵單字可知【used a drill使用鑽孔機】及【a hole in the wall牆上…一個洞】可判斷主詞要使用鑽孔機在牆上鑽一個洞，且空格前的不定詞【to】後接原型動詞，故選項(d)為正解。
+解析：根據關鍵單字可知【used a drill使用鑽孔機】及【a hole in the wall牆上…一個洞】可判斷主詞要使用鑽孔機在牆上鑽一個洞，且空格前的不定詞【to】後接原型動詞，故選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 16.	 
  
 The CX300 is indeed the best ____________ available on the market.
- (A) flash-drive(正解)
+ (A) flash-drive<font color="#dd0000">正解</font>
  (B) flash-driving
  (C) flashing-drive
  (D) flash-driven
@@ -22778,14 +22778,14 @@ b. 名詞-現在分詞
 c. 現在分詞-名詞
 d. 名詞-過去分詞
 
-解析：根據空格前方的形容詞最高級【the best】可知空格處為名詞用法，選項中為複合名詞【flash-drive】，前後皆須為名詞。故只有選項(a)符合用法為正解。
+解析：根據空格前方的形容詞最高級【the best】可知空格處為名詞用法，選項中為複合名詞【flash-drive】，前後皆須為名詞。故只有選項(a)符合用法<font color="#dd0000">正解</font>
  
 答對
 Question 17.	 
  
 The elite and upper classes in this country are only concerned with the accumulation of ____________.
  (A) monetary
- (B) wealth(正解)
+ (B) wealth<font color="#dd0000">正解</font>
  (C) rich
  (D) wealthy
 這個國家的社會菁英及上流階層只關心財富的累積。
@@ -22794,7 +22794,7 @@ b. 財富(名詞)
 c. 富有的 (形容詞)
 d. 富有的 (形容詞)
 
-解析：根據句意可知主詞【The elite and upper classes菁英及上流社會】只關心財富的累積，根據空格處前方的介係詞【of】後接名詞，可知選項(b)為名詞為正解。選項(c)(d)表【有錢的】皆為形容詞用法。
+解析：根據句意可知主詞【The elite and upper classes菁英及上流社會】只關心財富的累積，根據空格處前方的介係詞【of】後接名詞，可知選項(b)為名詞<font color="#dd0000">正解</font>選項(c)(d)表【有錢的】皆為形容詞用法。
  
 答對
 Question 18.	 
@@ -22802,7 +22802,7 @@ Question 18.
 While the thought of a free trip to Venice seemed ____________ to Gary, he still turned down the opportunity.
  (A) attracted
  (B) attraction
- (C) attractive (正解)
+ (C) attractive <font color="#dd0000">正解</font>
  (D) attracting
 雖然免費去威尼斯旅行的想法對Gary來說很有吸引力，但他仍然拒絕這個機會。
 a. 被吸引的(過去分詞/過去式)
@@ -22810,7 +22810,7 @@ b. 具吸引力的事物(名詞)
 c. 具吸引力的(形容詞)
 d. 吸引的(動名詞/現在分詞)
 
-解析：空格前方的動詞【seem似乎、好像】後可接【形容詞】ex. The idea seems interesting.；或接【to+原形動詞】ex. It seemed to rain two hours ago.；或接【that+S+V(子句)】ex. It seems that you will quit the job soon. 根據前句【the thought of a free trip to Venice免費去威尼斯旅行的點子】可判斷主詞對受詞來說很具吸引力，故選項(c)【be attractive to+人】表【對某人很有吸引力】為正解。
+解析：空格前方的動詞【seem似乎、好像】後可接【形容詞】ex. The idea seems interesting.；或接【to+原形動詞】ex. It seemed to rain two hours ago.；或接【that+S+V(子句)】ex. It seems that you will quit the job soon. 根據前句【the thought of a free trip to Venice免費去威尼斯旅行的點子】可判斷主詞對受詞來說很具吸引力，故選項(c)【be attractive to+人】表【對某人很有吸引力】<font color="#dd0000">正解</font>
  
 答對
 Question 19.	 
@@ -22819,14 +22819,14 @@ The atmosphere of the carnival was ____________, with clowns jumping around and 
  (A) live
  (B) living
  (C) livelihood
- (D) lively(正解)
+ (D) lively<font color="#dd0000">正解</font>
 嘉年華會的氣氛很熱絡，有小丑到處跳躍，還有興奮的孩子拍手。
 a. 居住 (動詞)
 b. 謀生 (名詞)、居住 (動名詞，搭配進行式)
 c. 生活、生計 (名詞)
 d. 熱烈的、活潑的 (形容詞)
 
-解析：根據空格前方的【Be動詞(was)】可判斷空格處為形容詞用法或進行式，但選項(b)的進行式用法表【正居住在…】與題意不符，故選項(d)符合題意為正解。
+解析：根據空格前方的【Be動詞(was)】可判斷空格處為形容詞用法或進行式，但選項(b)的進行式用法表【正居住在…】與題意不符，故選項(d)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 20.	 
@@ -22835,14 +22835,14 @@ Courtney is fully trained at using Microsoft Excel. ____________, she's the best
  (A) Moreover
  (B) However
  (C) Nevertheless
- (D) Therefore(正解)
+ (D) Therefore<font color="#dd0000">正解</font>
 Courtney受過完整訓練會使用Excel軟體，因此她是您可以請求協助製作電子表格的最佳人選。
 a. 此外、再者 (副詞)
 b. 然而、但是 (副詞)
 c. 然而 (副詞)
 d. 因此、所以 (副詞)
 
-解析：由前句關鍵字【fully trained受過完整的訓練】搭配後句【the best person to ask for help尋求協助的最佳人選】可判斷本句為因果關係句，可知前句為因，後句為果。因此選項(d)後接結果句為正解。選項(a)用來連接兩句語氣相同的子句；選項(b)(c)皆用來連接兩句語氣相反的子句。
+解析：由前句關鍵字【fully trained受過完整的訓練】搭配後句【the best person to ask for help尋求協助的最佳人選】可判斷本句為因果關係句，可知前句為因，後句為果。因此選項(d)後接結果句<font color="#dd0000">正解</font>選項(a)用來連接兩句語氣相同的子句；選項(b)(c)皆用來連接兩句語氣相反的子句。
  
 答對
 Question 21.	 
@@ -22850,7 +22850,7 @@ Question 21.
 The poker player ____________ his drink as he pondered his next move carefully.
  (A) slipped
  (B) sift
- (C) sipped(正解)
+ (C) sipped<font color="#dd0000">正解</font>
  (D) snipped
 當那位撲克牌選手要仔細地思考如何走下一步，他喝了一小口飲料。
 a. 滑倒 (動詞)
@@ -22858,7 +22858,7 @@ b. 過濾 (動詞)
 c. 啜飲 (動詞)
 d. 剪 (動詞)
 
-解析：根據空格後的【his drink他的飲料】可判斷搭配的動詞只有選項(c)符合題意，故為正解。
+解析：根據空格後的【his drink他的飲料】可判斷搭配的動詞只有選項(c)符合題意，故<font color="#dd0000">正解</font>
  
 答對
 Question 22.	 
@@ -22867,14 +22867,14 @@ A good instructor will encourage his or her students to never ____________.
  (A) get ahead
  (B) head out
  (C) thumb up
- (D) give up(正解)
+ (D) give up<font color="#dd0000">正解</font>
 一位好老師會鼓勵學生永不放棄。
 a. 進步、成功 (動詞片語)
 b. 出發 (動詞片語)
 c. 稱讚 (動詞片語)
 d. 放棄 (動詞片語)
 
-解析：根據題意及一般情況，一位好的導師會鼓勵學生向正面的方向前進，故選項(d)符合題意為正解。其他選項意思與題意不符。
+解析：根據題意及一般情況，一位好的導師會鼓勵學生向正面的方向前進，故選項(d)符合題意<font color="#dd0000">正解</font>其他選項意思與題意不符。
  
 答對
 Question 23.	 
@@ -22883,20 +22883,20 @@ ____________ you forgot to reconfirm your flight, your ticket has been canceled.
  (A) Due to
  (B) Because of
  (C) Owing to
- (D) Since(正解)
+ (D) Since<font color="#dd0000">正解</font>
 由於你忘記再次確認班機，你的機票已經被取消了。
 a. 由於、因為 (介詞)
 b. 由於、因為 (介詞)
 c. 由於、因為 (介詞)
 d. 由於(連接詞)、自從 (介詞)
 
-解析：根據句意，前句【forgot to reconfirm忘記確認】為原因，後句【ticket has been canceled機票已經被取消】為結果，可判斷本句為因果關係句，而四個選項都可接因果關係句，表【因為…(+原因)】。但選項(a)(b)(c)後接名詞，只有選項(d)後可接子句為正解。
+解析：根據句意，前句【forgot to reconfirm忘記確認】為原因，後句【ticket has been canceled機票已經被取消】為結果，可判斷本句為因果關係句，而四個選項都可接因果關係句，表【因為…(+原因)】。但選項(a)(b)(c)後接名詞，只有選項(d)後可接子句<font color="#dd0000">正解</font>
  
 答對
 Question 24.	 
  
 In the conclusion of her speech, Dr. Collins ____________ the importance of flossing one's teeth on a daily basis.
- (A) emphasized(正解)
+ (A) emphasized<font color="#dd0000">正解</font>
  (B) televised
  (C) scrutinized
  (D) exercised
@@ -22906,7 +22906,7 @@ b. 電視播送 (動詞)
 c. 詳細檢查 (動詞)
 d. 練習 (動詞)
 
-解析：前句指出【In the conclusion of her speech在演講的最後】可判斷醫師會再重述一次每天使用牙線的重要性，故選項(a)符合題意為正解。其他選項意思不合題意。
+解析：前句指出【In the conclusion of her speech在演講的最後】可判斷醫師會再重述一次每天使用牙線的重要性，故選項(a)符合題意<font color="#dd0000">正解</font>其他選項意思不合題意。
  
 答對
 Question 25.	 
@@ -22915,14 +22915,14 @@ Making a few mistakes is ____________ when you are typing a report this long and
  (A) avoidable
  (B) positive
  (C) impossible
- (D) unavoidable (正解)
+ (D) unavoidable <font color="#dd0000">正解</font>
 當你在打這樣長又細節繁瑣的報告時，犯點小錯誤是無可避免的，所以別太擔心。
 a. 可避免的 (形容詞)
 b. 肯定的、正面的 (形容詞)
 c. 不可能的 (形容詞)
 d. 不可避免的 (形容詞)
 
-解析：根據後句【a report this long and detailed如此長又細節繁瑣的報告】可判斷主詞【Making a few mistakes出錯】是常見且在所難免的，故選項(d)符合題意為正解。
+解析：根據後句【a report this long and detailed如此長又細節繁瑣的報告】可判斷主詞【Making a few mistakes出錯】是常見且在所難免的，故選項(d)符合題意<font color="#dd0000">正解</font>
  
 答對
 Question 26.	 
@@ -22930,7 +22930,7 @@ Question 26.
 We ____________ at the Fairmont Springs Resort for the duration of our upcoming vacation in the Rocky Mountains.
  (A) stayed
  (B) have stayed
- (C) will be staying(正解)
+ (C) will be staying<font color="#dd0000">正解</font>
  (D) will have stayed
 去洛磯山脈度假時，我們會居住在費蒙特溫泉度假飯店。
 a. 過去式
@@ -22938,7 +22938,7 @@ b. 現在完成式
 c. 未來進行式
 d. 未來完成式
 
-解析：根據後句【our upcoming vacation即將到來的假期】可判斷本句為未來式，故選項(c)為正解。句中並沒有提到有連續的時間，故選項(d)不符合本句文法。
+解析：根據後句【our upcoming vacation即將到來的假期】可判斷本句為未來式，故選項(c)<font color="#dd0000">正解</font>句中並沒有提到有連續的時間，故選項(d)不符合本句文法。
  
 答對
 Question 27.	 
@@ -22947,14 +22947,14 @@ To date, less than 350 people ____________ K2, the second highest mountain in th
  (A) climbed
  (B) has climbed
  (C) will have climbed
- (D) have climbed(正解)
+ (D) have climbed<font color="#dd0000">正解</font>
 到今日為止，只有少於350位爬過世界第二高峰-喬戈里峰。
 a. 過去式
 b. 現在完成式 (主詞三單)
 c. 未來完成式
 d. 現在完成式
 
-解析：時間副詞片語【To date】表【直到今日】表時間持續到現在，故使用現在完成式【have+V-pp】故選項(d)為正解。
+解析：時間副詞片語【To date】表【直到今日】表時間持續到現在，故使用現在完成式【have+V-pp】故選項(d)<font color="#dd0000">正解</font>
  
 答對
 Question 28.	 
@@ -22962,7 +22962,7 @@ Question 28.
 All construction on the nuclear facility ____________ when it was discovered that toxic waste was leaking.
  (A) will stop
  (B) will be stopped
- (C) was stopped(正解)
+ (C) was stopped<font color="#dd0000">正解</font>
  (D) were stopped
 當他們發現有毒廢料外洩時，所有核能設備的建設工程就立刻被停工。
 a. 未來式
@@ -22970,13 +22970,13 @@ b. 未來被動式
 c. 過去被動式
 d. 過去被動式
 
-解析：根據後句的動詞【was】可判斷本句為【過去式】，而主詞【All construction所有的建築工程】都被停工也是過去式，且主詞為單數故選項(c)為正解。
+解析：根據後句的動詞【was】可判斷本句為【過去式】，而主詞【All construction所有的建築工程】都被停工也是過去式，且主詞為單數故選項(c)<font color="#dd0000">正解</font>
  
 答對
 Question 29.	 
  
 The job offers ____________ hours; in other words, you can make your own schedule.
- (A) flexible(正解)
+ (A) flexible<font color="#dd0000">正解</font>
  (B) flexed
  (C) flexibility
  (D) flexing
@@ -22986,7 +22986,7 @@ b. 收縮 (動詞)
 c. 彈性 (名詞)
 d. 收縮、屈曲 (動名詞)
 
-解析：根據空格後方的名詞，可判斷空格處需接形容詞做前位修飾後方的名詞。故選項(a)符合題意為正解。其他選項詞性請見選項翻譯處。
+解析：根據空格後方的名詞，可判斷空格處需接形容詞做前位修飾後方的名詞。故選項(a)符合題意<font color="#dd0000">正解</font>其他選項詞性請見選項翻譯處。
  
 答對
 Question 30.	 
@@ -22994,7 +22994,7 @@ Question 30.
 After a simple ____________ process to identify your name and account number, you can speak to a bank representative.
  (A) verify
  (B) verifies
- (C) verification(正解)
+ (C) verification<font color="#dd0000">正解</font>
  (D) verified
 經過簡單的姓名和帳號驗證後，您就可以和銀行人員通話。
 a. 驗證、核對 (動詞)
@@ -23002,7 +23002,7 @@ b. 驗證、核對 (現在簡單式動詞)
 c. 驗證、核對 (名詞)
 d. 驗證、核對 (過去式動詞)
 
-解析：根據空格前方的形容詞可判斷後接名詞做後位修飾，故只有選項(c)名詞用法為正解。其他選項詞性與題意不合。
+解析：根據空格前方的形容詞可判斷後接名詞做後位修飾，故只有選項(c)名詞用法<font color="#dd0000">正解</font>其他選項詞性與題意不合。
  
 只顯示答錯  回上一頁
 # part 6.
@@ -23066,7 +23066,7 @@ hesitate v. 猶豫
 	Question 1.	
  (A) name
  (B) title
- (C) entitled(正解)
+ (C) entitled<font color="#dd0000">正解</font>
  (D) referred
 a. 姓名(名詞)、命名(動詞)
 b. 標題 (名詞)
@@ -23075,7 +23075,7 @@ d. 談到 (過去分詞)
 答錯
  
 	Question 2.	
- (A) I have enclosed a publication contract.(正解)
+ (A) I have enclosed a publication contract.<font color="#dd0000">正解</font>
  (B) I have received your email concerning the publication.
  (C) I am looking forward to your reply.
  (D) Business Quarterly Russia is published four times per year.
@@ -23087,7 +23087,7 @@ D.俄羅斯商業季刊每年四次出刊 。
  
 	Question 3.	
  (A) makes
- (B) make(正解)
+ (B) make<font color="#dd0000">正解</font>
  (C) making
  (D) made
 a. 現在式的動詞 (主詞為單數)
@@ -23101,7 +23101,7 @@ d. 過去分詞
  (A) except
  (B) exceptionally
  (C) exceptional
- (D) exception(正解)
+ (D) exception<font color="#dd0000">正解</font>
 a. 除此…之外 (介詞)
 b. 例外地 (副詞)
 c. 例外的 (形容詞)
@@ -23149,7 +23149,7 @@ in order to為了…
  (A) sake
  (B) make
  (C) break
- (D) take(正解)
+ (D) take<font color="#dd0000">正解</font>
 a. 片語【for the sake of】表示【因為、由於】
 b. 製作、使 (動詞)
 c. 片語【take a break】表示【休息】
@@ -23158,7 +23158,7 @@ d. 片語【take part in】表【參加、參與】
  
 	Question 6.	
  (A) entire
- (B) entirety(正解)
+ (B) entirety<font color="#dd0000">正解</font>
  (C) entirely
  (D) entireties
 a. 全部的、整個的 (形容詞)
@@ -23169,7 +23169,7 @@ d. 無此用法
  
 	Question 7.	
  (A) Thanks for completing the voucher
- (B) In order to receive the voucher(正解)
+ (B) In order to receive the voucher<font color="#dd0000">正解</font>
  (C) For only $395
  (D) With this one-year phone plan
 a.感謝您填寫兌換券
@@ -23181,7 +23181,7 @@ d.為期一年通話方案
  
 	Question 8.	
  (A) despite
- (B) regardless(正解)
+ (B) regardless<font color="#dd0000">正解</font>
  (C) no matter
  (D) even though
 a. 儘管+子句(S+V)
@@ -23228,7 +23228,7 @@ conduct v. 實施；處理
  (A) in touch
  (B) as much
  (C) so much
- (D) as such(正解)
+ (D) as such<font color="#dd0000">正解</font>
 a. 動詞片語【keep/get/be in touch with】 表示 【保持聯絡】
 b. 一樣多 (後接+ as ) →【as much as】表【和…一樣多】
 c. 如此的多 
@@ -23236,7 +23236,7 @@ d. 【such+名詞】表【如此的】
 答錯
  
 	Question 10.	
- (A) Your well-being is our number-one priority!(正解)
+ (A) Your well-being is our number-one priority!<font color="#dd0000">正解</font>
  (B) We apologize for all the bumps on the stairs.
  (C) It depends which floor you live on.
  (D) The elevators will be closed for 24 hours.
@@ -23247,7 +23247,7 @@ d.電梯將會關閉24小時。
 答錯
  
 	Question 11.	
- (A) have chosen(正解)
+ (A) have chosen<font color="#dd0000">正解</font>
  (B) choose
  (C) chosen
  (D) choice
@@ -23262,7 +23262,7 @@ d. 選擇、抉擇 (名詞)
  (A) less
  (B) small
  (C) little
- (D) least(正解)
+ (D) least<font color="#dd0000">正解</font>
 a. 較少的 (形容詞比較級)
 b. 小的(形狀) (形容詞)
 c. 少的(年齡…等) (形容詞)
@@ -23316,7 +23316,7 @@ purchase v. 購買
 答錯
  
 	Question 13.	
- (A) be informed(正解)
+ (A) be informed<font color="#dd0000">正解</font>
  (B) informed
  (C) to inform
  (D) inform
@@ -23328,7 +23328,7 @@ d. 通知(原形動詞)
  
 	Question 14.	
  (A) on
- (B) with(正解)
+ (B) with<font color="#dd0000">正解</font>
  (C) for
  (D) in
 a. 在…上面 (介詞)
@@ -23341,7 +23341,7 @@ c. 為了…(原因) (介詞)
  (A) and thanks for listening
  (B) , which customers can purchase for a low price
  (C) for your personal protection
- (D) that will be nearly impossible to rip off(正解)
+ (D) that will be nearly impossible to rip off<font color="#dd0000">正解</font>
 a.謝謝聆聽
 b.顧客可以用低價購買
 c.以保顧你自己
@@ -23350,7 +23350,7 @@ d.幾乎無法撕掉
 答對
  
 	Question 16.	
- (A) should(正解)
+ (A) should<font color="#dd0000">正解</font>
  (B) could
  (C) would
  (D) will
@@ -23389,7 +23389,7 @@ I told him your normal rates, but he would like to speak to you first before mak
  
 	Question 1.	
  (A) high
- (B) highly(正解)
+ (B) highly<font color="#dd0000">正解</font>
  (C) higher
  (D) highest
 a. 高的 (形容詞)
@@ -23399,7 +23399,7 @@ d. 最高的 (形容詞)
 答錯
  
 	Question 2.	
- (A) I told him this is not normal practice, but that I'd pass along the message. (正解)
+ (A) I told him this is not normal practice, but that I'd pass along the message. <font color="#dd0000">正解</font>
  (B) He would like your email address to send you all the details.
  (C) Your father said to call him at home as soon as possible.
  (D) Thanks for getting back to me so quickly about the State vs. Colin Courshane case.
@@ -23412,7 +23412,7 @@ D.感謝您這麼快回覆有關State 和Colin Courshane的案件。
 	Question 3.	
  (A) accused
  (B) were accused
- (C) has been accused(正解)
+ (C) has been accused<font color="#dd0000">正解</font>
  (D) will accuse
 a. 指控 (過去動詞)
 b. 被指控的 (過去式的被動語氣)
@@ -23425,7 +23425,7 @@ d. 將會指控 (未來簡單式)
  (A) experiment
  (B) development
  (C) treatment
- (D) commitment(正解)
+ (D) commitment<font color="#dd0000">正解</font>
 a. 實驗、試驗 (名詞)
 b. 發展 (名詞)
 c. 治療、對待、處理 (名詞)
@@ -23454,7 +23454,7 @@ BBN日報，2009年4月9日，星期一
  
 	Question 5.	
  (A) current
- (B) present(正解)
+ (B) present<font color="#dd0000">正解</font>
  (C) now
  (D) today
 a. 目前 (副詞)
@@ -23464,7 +23464,7 @@ d. 今天 (副詞)
 答錯
  
 	Question 6.	
- (A) missing(正解)
+ (A) missing<font color="#dd0000">正解</font>
  (B) misses
  (C) missed
  (D) miss
@@ -23476,7 +23476,7 @@ d. 未找到、失蹤 (原形動詞)
  
 	Question 7.	
  (A) vitamin
- (B) violent(正解)
+ (B) violent<font color="#dd0000">正解</font>
  (C) violence
  (D) vinyl
 a. 維他命 (名詞)
@@ -23489,7 +23489,7 @@ d. 乙烯基(化) (名詞)
 	Question 8.	
  (A) Police are still searching the streets of Islamabad for the three suspects.
  (B) The chief of police and security will personally arrest the suspects tomorrow.
- (C) It is not yet clear whether they are members of a major terrorist organization.(正解)
+ (C) It is not yet clear whether they are members of a major terrorist organization.<font color="#dd0000">正解</font>
  (D) The location of the explosion is still uncertain, but police are conducting questioning.
 A.警方仍在伊斯蘭堡的街道上搜尋三名嫌疑犯。
 B.警察和安檢局長明天將親自逮捕嫌疑犯。
@@ -23524,7 +23524,7 @@ Malinda Ashton
 	Question 9.	
  (A) include
  (B) inclusive
- (C) inclusion(正解)
+ (C) inclusion<font color="#dd0000">正解</font>
  (D) including
 a. 包含 (動詞)
 b. 包含的(+of+N) (形容詞)
@@ -23533,7 +23533,7 @@ d. 包含 (介係詞)
 答錯
  
 	Question 10.	
- (A) in(正解)
+ (A) in<font color="#dd0000">正解</font>
  (B) on
  (C) by
  (D) for
@@ -23547,7 +23547,7 @@ d. 為了 (目的) (介詞)
  (A) We would like to know why you made so many changes to the article.
  (B) On the other hand, please remember to bring your notes with you next time.
  (C) Hopefully you enjoy reading this article.
- (D) If not, please explain why in a footnote at the end of the relevant paragraph.(正解)
+ (D) If not, please explain why in a footnote at the end of the relevant paragraph.<font color="#dd0000">正解</font>
 A.我們想知道您為什麼針對文章做那麼多更改。
 B.另一方面，下次請記得帶著您的筆記。
 C.希望您喜歡這篇文章。
@@ -23557,7 +23557,7 @@ D. 若無法接受，請在相關段落的註腳處說明原因。
  
 	Question 12.	
  (A) in the final
- (B) at the latest(正解)
+ (B) at the latest<font color="#dd0000">正解</font>
  (C) for the last
  (D) to the end
 a. 歸根究底 
@@ -23596,7 +23596,7 @@ Have a nice day.
  
 	Question 13.	
  (A) quote
- (B) need(正解)
+ (B) need<font color="#dd0000">正解</font>
  (C) require
  (D) must
 a. 引言(動詞)
@@ -23607,7 +23607,7 @@ d. 必須(助動詞)
  
 	Question 14.	
  (A) All the personal information will be published shortly.
- (B) Should we require anything from you in the future, we'll let you know. (正解)
+ (B) Should we require anything from you in the future, we'll let you know. <font color="#dd0000">正解</font>
  (C) Please provide us with that information as soon as possible.
  (D) Thanks for applying for your new KMM credit card.
 a.所有個人資料將會馬上發公告
@@ -23617,7 +23617,7 @@ d.謝謝您申請KMM信用卡。
 答錯
  
 	Question 15.	
- (A) which(正解)
+ (A) which<font color="#dd0000">正解</font>
  (B) what
  (C) whose
  (D) whom
@@ -23632,7 +23632,7 @@ d. 先行詞的受詞 (關係代名詞)
  (A) corrects
  (B) modifies
  (C) differences
- (D) adjustments(正解)
+ (D) adjustments<font color="#dd0000">正解</font>
 a. 修正、訂正 (動詞)
 b. 修改 (動詞) 
 c. 不同處 (名詞)
@@ -23665,7 +23665,7 @@ GNJ580車牌的駕駛者：
  (A) also
  (B) besides
  (C) therefore
- (D) yet(正解)
+ (D) yet<font color="#dd0000">正解</font>
 a. 也 (副詞，置句中)
 b. 此外 (副詞)
 c. 因此 (副詞)
@@ -23675,7 +23675,7 @@ d. 但是、然而 (連接詞)
 	Question 2.	
  (A) bucks
  (B) box
- (C) blocks(正解)
+ (C) blocks<font color="#dd0000">正解</font>
  (D) brats
 a. (口語)美元 (名詞)
 b. 箱子 (名詞)
@@ -23685,7 +23685,7 @@ d. 小傢伙 (名詞)
  
 	Question 3.	
  (A) did
- (B) have done(正解)
+ (B) have done<font color="#dd0000">正解</font>
  (C) has done
  (D) done
 a. 過去動詞
@@ -23697,7 +23697,7 @@ d. 過去分詞
  
 	Question 4.	
  (A) It is quite disrespectful of you to speak to my wife like that.
- (B) Consider this your last warning.(正解)
+ (B) Consider this your last warning.<font color="#dd0000">正解</font>
  (C) I would remind you to kindly use the elevator next time.
  (D) I apologize for my delayed reply.
 A. 你這樣和我的太太說話很無禮。
@@ -23731,7 +23731,7 @@ ___(8)___ There is currently no legislation in place requiring them to do so in 
  
 	Question 5.	
  (A) regarded
- (B) regarding(正解)
+ (B) regarding<font color="#dd0000">正解</font>
  (C) in regards
  (D) giving regards
 a. 關於(過去分詞)
@@ -23742,7 +23742,7 @@ d. 問候 (動名詞+名詞)
  
 	Question 6.	
  (A) same
- (B) identical(正解)
+ (B) identical<font color="#dd0000">正解</font>
  (C) like
  (D) exact
 a. 一樣的 【the same as】表 (和…一樣)
@@ -23752,7 +23752,7 @@ d. 精確的 (形容詞後接名詞)
 答對
  
 	Question 7.	
- (A) already(正解)
+ (A) already<font color="#dd0000">正解</font>
  (B) still
  (C) yet
  (D) further
@@ -23764,7 +23764,7 @@ d. 更進一步的 (形容詞比較級)
 答對
  
 	Question 8.	
- (A) Unfortunately, no online shops are giving refunds for purchases of the games yet. (正解)
+ (A) Unfortunately, no online shops are giving refunds for purchases of the games yet. <font color="#dd0000">正解</font>
  (B) The games were created between the years of 2009 and 2013.
  (C) However, the police are still searching for the perpetrators of the crime.
  (D) Customers are demanding refunds for the games.
@@ -23811,7 +23811,7 @@ Jeffrey Kembel
  
 	Question 9.	
  (A) think
- (B) consider(正解)
+ (B) consider<font color="#dd0000">正解</font>
  (C) wonder
  (D) ponder
 a. 想、思考 (動詞)
@@ -23824,7 +23824,7 @@ d. 沉思 (動詞)
  (A) acquires
  (B) will acquire
  (C) will have acquired
- (D) have acquired(正解)
+ (D) have acquired<font color="#dd0000">正解</font>
 a. 取得(現在式動詞)
 b. 將取得(未來式)
 c. 將已取得(未來完成式)
@@ -23833,7 +23833,7 @@ d. 已取得(現在完成式)
  
 	Question 11.	
  (A) Samuel was one of my smartest students when I mentored him several years ago.
- (B) You will notice that he refers to me as, "One of the hardest working students I've ever met."(正解)
+ (B) You will notice that he refers to me as, "One of the hardest working students I've ever met."<font color="#dd0000">正解</font>
  (C) Hopefully, Mr. Tiger will be willing to sign the contract after you give him your proposal.
  (D) Samuel, Dean, and I have been close friends since junior high school.
 A. 幾年前我教他時，Samuel是我的最聰明的學生之一。
@@ -23844,7 +23844,7 @@ D. Samuel院長和我從初中開始就是很親密的朋友。
 答對
  
 	Question 12.	
- (A) at(正解)
+ (A) at<font color="#dd0000">正解</font>
  (B) on
  (C) by
  (D) of
@@ -23890,7 +23890,7 @@ ZIPSTER團隊
  (A) in
  (B) on
  (C) onto
- (D) into(正解)
+ (D) into<font color="#dd0000">正解</font>
 a. 在… 之內 (介詞)
 b. 在…上面 (介詞)
 c. 進入…之上 (介詞)
@@ -23899,7 +23899,7 @@ d. 進入…之中 (介詞)
  
 	Question 14.	
  (A) resolves
- (B) will resolve(正解)
+ (B) will resolve<font color="#dd0000">正解</font>
  (C) were resolving
  (D) have resolved
 a. 解決、解答 (現在式動詞，主詞三單)
@@ -23909,7 +23909,7 @@ d. 現在完成式(主詞複數)
 答對
  
 	Question 15.	
- (A) efficient(正解)
+ (A) efficient<font color="#dd0000">正解</font>
  (B) efficiently
  (C) efficiency
  (D) effective
@@ -23924,7 +23924,7 @@ d. 有效的、有功用的
  (A) Our main goal is to help you earn as much money as possible with your business.
  (B) That's why many people prefer going to court these days.
  (C) If you don't receive your new product on time, be sure to let us know.
- (D) Therefore, this has become the most popular course of action in recent years. (正解)
+ (D) Therefore, this has become the most popular course of action in recent years. <font color="#dd0000">正解</font>
 A. 我們的主要目標是幫您的事業得到最多的錢。
 B. 這就是為什麼現在很多人喜歡上法院打官司。
 C. 如果你沒準時收到您的新產品，請一定要告訴我們。
@@ -23968,7 +23968,7 @@ ___(4)___ Information about where to obtain coupons for future Dinner & Comedy n
 	Question 1.	
  (A) prior
  (B) below
- (C) before(正解)
+ (C) before<font color="#dd0000">正解</font>
  (D) under
 a.【prior搭配to】 表 【先於…、在…之前】
 b. 在…下面 (介詞)
@@ -23980,7 +23980,7 @@ d. 在…正下方 (介詞)
  (A) presume
  (B) pretend
  (C) pretense
- (D) present(正解)
+ (D) present<font color="#dd0000">正解</font>
 a. 擅自 (動詞)
 b. 假裝 (動詞)
 c. 假裝 (名詞)
@@ -23989,7 +23989,7 @@ d. 出示、呈現 (動詞)
  
 	Question 3.	
  (A) ask
- (B) call(正解)
+ (B) call<font color="#dd0000">正解</font>
  (C) make
  (D) deliver
 a. 叫、要求、問 (動詞)
@@ -24000,7 +24000,7 @@ d. 遞送、傳達 (動詞)
 答對
  
 	Question 4.	
- (A) This coupon is only valid on the night of 04/16/2014.(正解)
+ (A) This coupon is only valid on the night of 04/16/2014.<font color="#dd0000">正解</font>
  (B) Please sign at the bottom and return it to the address of the sender.
  (C) We are glad that you were able to participate in our Dinner & Comedy night.
  (D) If you'd like to perform next time, don't hesitate to contact us at once.
@@ -24026,7 +24026,7 @@ The total price for this booking does not include drinks from the mini-bar, tele
  (A) to
  (B) on
  (C) of
- (D) in(正解)
+ (D) in<font color="#dd0000">正解</font>
 a. 往、向、至 (介詞)
 b. 在…上面/方面 (介詞)
 c. 【as a result of】表【由於+原因】
@@ -24035,7 +24035,7 @@ d. 【result in】 表【導致+結果】
  
 	Question 6.	
  (A) label
- (B) liable(正解)
+ (B) liable<font color="#dd0000">正解</font>
  (C) liberty
  (D) library
 a. 標籤 (名詞)
@@ -24048,7 +24048,7 @@ d. 圖書館 (名詞)
  (A) We will notify you as soon as your room has been cleaned and is ready.
  (B) The other 50% of your room fee can be paid in cash upon arrival.
  (C) We feel that this deadline of four days is reasonable and fair.
- (D) The partial refund will be credited to your account within 30 days. (正解)
+ (D) The partial refund will be credited to your account within 30 days. <font color="#dd0000">正解</font>
 a. 你的房間一被打掃整理好，我們會立刻通知你
 b. 你剩下的50%房間住宿費，會在您到來時以現金付清
 c. 我們覺得這四天的繳費期限是合理且公平的。
@@ -24059,7 +24059,7 @@ d. 部份退款會在三十天內匯入你的帳戶中
 	Question 8.	
  (A) pick
  (B) chose
- (C) selected(正解)
+ (C) selected<font color="#dd0000">正解</font>
  (D) decide
 a. 片語【pick up】表【選擇、挑選】
 b. 選擇 (過去動詞)
@@ -24100,7 +24100,7 @@ Gabe
  (A) co-op
  (B) cooperate
  (C) corporation
- (D) corporate(正解)
+ (D) corporate<font color="#dd0000">正解</font>
 a. 合作社 (名詞)
 b. 合作 (名詞)
 c. 公司 (名詞)
@@ -24109,7 +24109,7 @@ d. 公司的 (形容詞)
  
 	Question 10.	
  (A) What's more
- (B) Luckily(正解)
+ (B) Luckily<font color="#dd0000">正解</font>
  (C) However
  (D) Unfortunately
 a. 此外 (副詞)
@@ -24119,7 +24119,7 @@ d. 遺憾地 (副詞)
 答對
  
 	Question 11.	
- (A) will be dealt(正解)
+ (A) will be dealt<font color="#dd0000">正解</font>
  (B) will be dealing
  (C) will have been dealt
  (D) will deal
@@ -24134,7 +24134,7 @@ d. 處理(未來式)
  (A) Thanks for taking the time to read this memo.
  (B) This may be last time the supervisor ever does a walkthrough!
  (C) Please watch each other's backs.
- (D) No exceptions will be made. (正解)
+ (D) No exceptions will be made. <font color="#dd0000">正解</font>
 a. 謝謝你抽空閱讀這篇備忘錄。
 b. 這可能是最後一次總監做初次排練。
 c. 請幫忙彼此檢查。
@@ -24179,7 +24179,7 @@ CAMPRON 5D : 配有24.5有效像素影像感測器，CAMPRON 5D型號訂定了�
  
 	Question 13.	
  (A) high
- (B) top(正解)
+ (B) top<font color="#dd0000">正解</font>
  (C) tall
  (D) far
 a. 高的、高度地(山…等) (形容詞、副詞)
@@ -24192,7 +24192,7 @@ d. 遠遠的 (形容詞)
  (A) weigh
  (B) weighed
  (C) weighing
- (D) weight(正解)
+ (D) weight<font color="#dd0000">正解</font>
 a. 重量(動詞) 
 b. 被秤重的(過去分詞)
 c. 重量(現在分詞)
@@ -24201,7 +24201,7 @@ d. 重量(名詞)
  
 	Question 15.	
  (A) finish
- (B) done(正解)
+ (B) done<font color="#dd0000">正解</font>
  (C) over
  (D) end
 a. 完成、結束(動詞)
@@ -24213,7 +24213,7 @@ d. 結束；結尾、尾聲(動詞；名詞)
  
 	Question 16.	
  (A) Thank you for ordering the SAMS 560 PRO.
- (B) To stop receiving messages like this, reply to this email. (正解)
+ (B) To stop receiving messages like this, reply to this email. <font color="#dd0000">正解</font>
  (C) Don't forget to request a new password for your account.
  (D) Please sign up for our monthly newsletter.
 a. 謝謝你訂購SAMS 560 PRO
@@ -24247,7 +24247,7 @@ After choosing a password, you will be asked to answer a few personal and work-r
  (A) take
  (B) took
  (C) to take
- (D) taking(正解)
+ (D) taking<font color="#dd0000">正解</font>
 a. 上…(課程)(原型動詞) 
 b. 上…(課程)(過去式動詞)
 c. 上…(課程)(不定詞)
@@ -24256,7 +24256,7 @@ d. 上…(課程) (現在分詞)
  
 	Question 2.	
  (A) In the order of
- (B) In order to(正解)
+ (B) In order to<font color="#dd0000">正解</font>
  (C) For ordering to
  (D) By order of
 a. 以…的順序 
@@ -24266,7 +24266,7 @@ d. 依…的指令
 答對
  
 	Question 3.	
- (A) That way you won't forget it. (正解)
+ (A) That way you won't forget it. <font color="#dd0000">正解</font>
  (B) Please email us with all the details.
  (C) Don't forget to include your postal code.
  (D) We only accept applications by email.
@@ -24281,7 +24281,7 @@ D. 我們只用電子郵件接受申請。
  (A) Finishing
  (B) Overtime
  (C) The end
- (D) Finally(正解)
+ (D) Finally<font color="#dd0000">正解</font>
 a. 結果(動名詞)
 b. 加班(副詞) 
 c. 結束(名詞) 
@@ -24309,7 +24309,7 @@ All of our prices include taxes. Advance seat selection and luggage ___(8)___ de
  
 	Question 5.	
  (A) compare
- (B) match(正解)
+ (B) match<font color="#dd0000">正解</font>
  (C) fit
  (D) supply
 a. 比較 (形容詞)
@@ -24322,7 +24322,7 @@ d. 供應 (動詞、名詞)
  (A) We may not be the cheapest, but we offer the best quality.
  (B) The United Kingdom offers countless interesting experiences.
  (C) Our airline has been operating for over 30 years.
- (D) If you are short on ideas, how about the following?(正解)
+ (D) If you are short on ideas, how about the following?<font color="#dd0000">正解</font>
 A. 我們也許不是最便宜的，但我們提供最好的品質。
 B. 英國提供了無數件有趣的經歷。
 C. 我們的航空公司已經營運了30多年。
@@ -24332,7 +24332,7 @@ D. 如果您沒什麼想法，以下的如何？
 	Question 7.	
  (A) to
  (B) about
- (C) for(正解)
+ (C) for<font color="#dd0000">正解</font>
  (D) at
 a. 不定詞 (後接原型動詞) 
 b. 關於…、大約、大概
@@ -24345,7 +24345,7 @@ d. 在…(地方介係詞)
  (A) explanations
  (B) invitations
  (C) relations
- (D) limitations(正解)
+ (D) limitations<font color="#dd0000">正解</font>
 a. 說明 (名詞)
 b. 邀請 (名詞)
 c. 關係 (名詞)
@@ -24393,7 +24393,7 @@ HTTP：/www.apptutorials.net。
  (A) saying
  (B) expression
  (C) sentence
- (D) quote(正解)
+ (D) quote<font color="#dd0000">正解</font>
 a. 說法
 b. 表達
 c. 句子
@@ -24401,7 +24401,7 @@ d. 引言
 答對
  
 	Question 10.	
- (A) perfection(正解)
+ (A) perfection<font color="#dd0000">正解</font>
  (B) perfected
  (C) perfect
  (D) perfectly
@@ -24413,7 +24413,7 @@ d. 完美地(副詞)
  
 	Question 11.	
  (A) Should you skip this upgrade?
- (B) Is this upgrade worth the money?(正解)
+ (B) Is this upgrade worth the money?<font color="#dd0000">正解</font>
  (C) Is this program difficult to use?
  (D) Is it time to upgrade your computer?
 A. 您該忽略這個升級嗎?
@@ -24424,7 +24424,7 @@ D. 是時候升級您的電腦了嗎?
 答對
  
 	Question 12.	
- (A) other(正解)
+ (A) other<font color="#dd0000">正解</font>
  (B) others
  (C) the other
  (D) another
@@ -24458,7 +24458,7 @@ Thank you for your understanding.
  
 	Question 13.	
  (A) there was report
- (B) it was reported(正解)
+ (B) it was reported<font color="#dd0000">正解</font>
  (C) the report about
  (D) a news report
 a. 有份報告 
@@ -24469,7 +24469,7 @@ d. 一則新聞報導
  
 	Question 14.	
  (A) sow
- (B) stow(正解)
+ (B) stow<font color="#dd0000">正解</font>
  (C) sew
  (D) slow
 a. 播種(動詞) 
@@ -24480,7 +24480,7 @@ d. 慢的(形容詞)
  
 	Question 15.	
  (A) We believe that $20 is a reasonable fee for this convenient service.
- (B) If you need an ATM, the nearest one is in front of the Dominion Star bank in nearby Cale Village. (正解)
+ (B) If you need an ATM, the nearest one is in front of the Dominion Star bank in nearby Cale Village. <font color="#dd0000">正解</font>
  (C) If you need a family changing room, follow the hallway past the regular changing rooms and turn right.
  (D) You can pay your bill after you enjoy your day at the Bali Fun Coast Waterpark.
 A. 我們相信$20是這個便捷服務的合理費用。 
@@ -24491,7 +24491,7 @@ D. 您可以在享受巴里島歡樂海岸水上樂園的一天後再支付您�
 答對
  
 	Question 16.	
- (A) have never received(正解)
+ (A) have never received<font color="#dd0000">正解</font>
  (B) didn't receive
  (C) received
  (D) will not have received
@@ -24542,7 +24542,7 @@ Dave
 答對
  
 	Question 1.	
- (A) We had a brief encounter at the HTT trade fair last Friday.(正解)
+ (A) We had a brief encounter at the HTT trade fair last Friday.<font color="#dd0000">正解</font>
  (B) I hope this message finds you well and in good health
  (C) Thanks for replying to me so quickly.
  (D) Unfortunately, some of our polices have changed since then.
@@ -24555,7 +24555,7 @@ D. 不幸的是，我們的一些政策從那時起就改了。
 	Question 2.	
  (A) in a moment
  (B) moments later
- (C) momentarily(正解)
+ (C) momentarily<font color="#dd0000">正解</font>
  (D) moments
 a. 稍後片刻 
 b. 片刻之後 
@@ -24567,7 +24567,7 @@ d. 一刻鐘
  (A) on
  (B) by
  (C) out of
- (D) in(正解)
+ (D) in<font color="#dd0000">正解</font>
 a. 在…上面/方面 
 b. 藉由…(方法)、在…(地方)的旁邊
 c. 出自於…、從…出去 
@@ -24577,7 +24577,7 @@ d. 在…裡面
  
 	Question 4.	
  (A) inside
- (B) aside(正解)
+ (B) aside<font color="#dd0000">正解</font>
  (C) beside
  (D) outside
 a. 在裡面、在內部(名詞) 
@@ -24618,7 +24618,7 @@ Marc Checknita
 答對
  
 	Question 5.	
- (A) pleasure(正解)
+ (A) pleasure<font color="#dd0000">正解</font>
  (B) fondness
  (C) happiness
  (D) pleasing
@@ -24632,7 +24632,7 @@ d. 賞心悅目
  (A) determine
  (B) will determine
  (C) will have been determined
- (D) have determined(正解)
+ (D) have determined<font color="#dd0000">正解</font>
 a. 確定、決定、下決心(原型動詞) 
 b. 未來式
 c. 未來完成式的被動語氣 
@@ -24641,7 +24641,7 @@ d. 現在完成式
  
 	Question 7.	
  (A) Who
- (B) Whoever(正解)
+ (B) Whoever<font color="#dd0000">正解</font>
  (C) Whom
  (D) Whatever
 a. 誰 
@@ -24652,7 +24652,7 @@ d. 不論是甚麼(事物)
 答對
  
 	Question 8.	
- (A) We will call the customer using the number associated with their account.(正解)
+ (A) We will call the customer using the number associated with their account.<font color="#dd0000">正解</font>
  (B) The rules shall be posted in the employee lounge beside the fridge.
  (C) Any cheating will be punished by automatic dismissal.
  (D) Submit your results to the office of the manager upon completion.
@@ -24694,7 +24694,7 @@ Bob Dylan
  
 	Question 9.	
  (A) end
- (B) up(正解)
+ (B) up<font color="#dd0000">正解</font>
  (C) completion
  (D) finish
 a. 結果(動詞)
@@ -24704,7 +24704,7 @@ d. 完成(動詞)
 答對
  
 	Question 10.	
- (A) But strange things. (正解)
+ (A) But strange things. <font color="#dd0000">正解</font>
  (B) That's the last thing.
  (C) There is always something.
  (D) I can't find it anywhere.
@@ -24718,7 +24718,7 @@ D. 我到處都找不到。
  (A) enter
  (B) enters
  (C) entered
- (D) entering (正解)
+ (D) entering <font color="#dd0000">正解</font>
 a. 進入(原型動詞) 
 b. 進入(主詞三單的現在式動詞) 
 c. 進入(過去式) 
@@ -24727,7 +24727,7 @@ d. 進入(現在分詞/動名詞)
 答對
  
 	Question 12.	
- (A) Therefore(正解)
+ (A) Therefore<font color="#dd0000">正解</font>
  (B) Luckily
  (C) Unfortunately
  (D) However
@@ -24761,7 +24761,7 @@ If you see a fire or chemical spill, pick up one of the red emergency phones and
 	Question 13.	
  (A) Unarguable
  (B) Unapplied
- (C) Unauthorized (正解)
+ (C) Unauthorized <font color="#dd0000">正解</font>
  (D) Unaccredited
 a. 無可爭辯
 b. 未核銷 
@@ -24773,7 +24773,7 @@ d. 未經認證的
  (A) You can enter at any of the following: Gate 3, 6 or 7.
  (B) Just show your pass to security as you enter.
  (C) The invoice can be placed in a sealed envelope.
- (D) There are video surveillance cameras throughout the premises.(正解)
+ (D) There are video surveillance cameras throughout the premises.<font color="#dd0000">正解</font>
 a.你可以從3號、6號或7號門進入。
 b.進入時只要向保全人員出示你的通行證。
 c.發票可以放置在一個密封的信封中。
@@ -24782,7 +24782,7 @@ d.整個場所都在監視系統監控中。
  
 	Question 15.	
  (A) in
- (B) at(正解)
+ (B) at<font color="#dd0000">正解</font>
  (C) on
  (D) for
 a. 在…裡面 
@@ -24796,7 +24796,7 @@ d. 為了…原因
  (A) list
  (B) will list
  (C) to be listed
- (D) listed(正解)
+ (D) listed<font color="#dd0000">正解</font>
 a. 列出(原型動詞)
 b. 將列出(未來式)
 c. 被列出的(被動語氣) 
@@ -24837,7 +24837,7 @@ PayPal 條款：
  (A) title
  (B) titles
  (C) entitled
- (D) entitles (正解)
+ (D) entitles <font color="#dd0000">正解</font>
 a. 加標題(動詞)、標題(名詞) 
 b. 定標題(主詞三單的現在式動詞)
 c. 給予權力、資格；給…(書)提名(過去式動詞) 
@@ -24846,7 +24846,7 @@ d. 給予權力、資格；給…(書)提名(現在式動詞)
  
 	Question 2.	
  (A) Please see instructions on the back of the card.
- (B) This includes both merchant discounts and user credits. (正解)
+ (B) This includes both merchant discounts and user credits. <font color="#dd0000">正解</font>
  (C) All orders are shipped before noon of the following day.
  (D) For more discounts, check out our website.
 a. 詳情請見卡片背面的說明。
@@ -24857,7 +24857,7 @@ d. 更多折扣，請見官網。
  
 	Question 3.	
  (A) be
- (B) has been(正解)
+ (B) has been<font color="#dd0000">正解</font>
  (C) will be
  (D) was
 a. 是(Be動詞原型) 
@@ -24869,7 +24869,7 @@ d. 是(Be動詞過去式)
  
 	Question 4.	
  (A) resists
- (B) persists(正解)
+ (B) persists<font color="#dd0000">正解</font>
  (C) enlists
  (D) refits
 a. 抵抗、耏(熱)
@@ -24905,7 +24905,7 @@ If this form has been mailed to the wrong person, you are legally bound to infor
  (A) later
  (B) next
  (C) last
- (D) future(正解)
+ (D) future<font color="#dd0000">正解</font>
 a. 後來、稍後(副詞) 
 b. 下一個的(形容詞) 
 c. 最後的、上一個的(形容詞)
@@ -24914,7 +24914,7 @@ d. 未來(名詞)
  
 	Question 6.	
  (A) allow
- (B) qualify(正解)
+ (B) qualify<font color="#dd0000">正解</font>
  (C) able
  (D) eligible
 a. 允許(動詞) 
@@ -24924,7 +24924,7 @@ d. 有資格的(形容詞)
 答對
  
 	Question 7.	
- (A) when(正解)
+ (A) when<font color="#dd0000">正解</font>
  (B) whom
  (C) why
  (D) whence
@@ -24936,7 +24936,7 @@ d. 從何處(疑問副詞)
 答對
  
 	Question 8.	
- (A) Failure to do so shall result in a fine. (正解)
+ (A) Failure to do so shall result in a fine. <font color="#dd0000">正解</font>
  (B) We look forward to your order!
  (C) We would be pleased to hear your feedback.
  (D) The funds will be deposited into your account within 2 days.
@@ -24968,7 +24968,7 @@ TAPP兼職職員並不符合醫療保險資格。請注意每週工時40小時�
 	Question 9.	
  (A) return
  (B) repair
- (C) refer(正解)
+ (C) refer<font color="#dd0000">正解</font>
  (D) relearn
 a. 回報 
 b. 維修 
@@ -24979,7 +24979,7 @@ d. 重新學習
 	Question 10.	
  (A) Part
  (B) Party
- (C) Partial(正解)
+ (C) Partial<font color="#dd0000">正解</font>
  (D) Partly
 a. 部分(名詞) 
 b. 黨、派對(名詞) 
@@ -24989,7 +24989,7 @@ d. 部分地(副詞)
  
 	Question 11.	
  (A) along when
- (B) so long as(正解)
+ (B) so long as<font color="#dd0000">正解</font>
  (C) as long
  (D) longer than
 a. 沿時 
@@ -25003,7 +25003,7 @@ d. 和一樣長=【as/so long as】
  (A) All health care claims must be made in person at the human resources department in room 3-C.
  (B) To apply for a full-time position, please follow the application instructions on our website.
  (C) Full-time employee salaries are commensurate with related experience and educational qualifications.
- (D) For a complete definition of full-time vs. part-time employment, see section 21C of the company policy database. (正解)
+ (D) For a complete definition of full-time vs. part-time employment, see section 21C of the company policy database. <font color="#dd0000">正解</font>
 a. 所有人員必須親自到人資部3-C室申請醫療保險理賠。
 b. 欲申請全職職缺，請見我們網站的申請說明。
 c. 全職員工薪資比照相關經歷以及教育資格。
@@ -25048,7 +25048,7 @@ www.wekanchat.com
  (A) follow
  (B) follows
  (C) followed
- (D) following(正解)
+ (D) following<font color="#dd0000">正解</font>
 a. 跟隨(原型動詞) 
 b. 跟隨(主詞三單的現在式動詞)
 c. 曾跟隨過(過去式) 
@@ -25058,7 +25058,7 @@ d. 以下的、下述的、接著的(形容詞)
 	Question 14.	
  (A) insignificant
  (B) insertable
- (C) insufficient(正解)
+ (C) insufficient<font color="#dd0000">正解</font>
  (D) inspecting
 a. 微小的
 b. 可插入的 
@@ -25070,7 +25070,7 @@ d. 檢查的
  (A) Here at We Kan Chat, we value your opinion on all of our services.
  (B) If the website problem persists, contact your internet provider.
  (C) Simply enter the code into the box below and press enter.
- (D) If your account has been flagged for such reasons, it is irreversible. (正解)
+ (D) If your account has been flagged for such reasons, it is irreversible. <font color="#dd0000">正解</font>
 a. 我們重視你對威肯聯天服務的意見。
 b. 假若網站問題未解，請聯絡您的網路供應商。
 c. 只要在下方的空格內輸入密碼，然後點擊進入。
@@ -25080,7 +25080,7 @@ d. 若您的帳號因為以上原因而被標記，則無法取消標記。
  
 	Question 16.	
  (A) if
- (B) so(正解)
+ (B) so<font color="#dd0000">正解</font>
  (C) because
  (D) while
 a. 如果(假設語氣) 
@@ -25122,7 +25122,7 @@ Dunce Kelp
 答對
  
 	Question 1.	
- (A) great(正解)
+ (A) great<font color="#dd0000">正解</font>
  (B) good
  (C) large
  (D) lots
@@ -25136,7 +25136,7 @@ d. 很多
  (A) inspired
  (B) was inspired
  (C) were being inspired
- (D) were inspired(正解)
+ (D) were inspired<font color="#dd0000">正解</font>
 a. 有靈感的(形容詞) 
 b. 受…啟發(被動語氣)
 c. 正在被啟發(過去進行式的被動語氣)
@@ -25145,7 +25145,7 @@ d. 受…啟發(被動語氣)
  
 	Question 3.	
  (A) because
- (B) due to(正解)
+ (B) due to<font color="#dd0000">正解</font>
  (C) owing
  (D) in relation
 a. 因為+原因(因果關係句連接詞) 
@@ -25159,7 +25159,7 @@ d. 用法錯誤→改正於【in relation to+名詞】表【關於】
  (A) I would think twice before hiring him.
  (B) It's great that you are considering promoting him.
  (C) It's too bad that he'll be departing soon.
- (D) I can vouch for him in every possible way.(正解)
+ (D) I can vouch for him in every possible way.<font color="#dd0000">正解</font>
 a. 聘用他之前我會三思而後行。
 b. 你考慮提升他真的太好了。
 c. 真可惜他快離開了。
@@ -25199,7 +25199,7 @@ Cancelations made between 24 and 6 hours prior ___(8)___ the event are changed 5
 	Question 5.	
  (A) explanations
  (B) exemptions
- (C) exceptions(正解)
+ (C) exceptions<font color="#dd0000">正解</font>
  (D) expectations
 a. 說明 
 b. 豁免
@@ -25208,7 +25208,7 @@ d. 預期
 答對
  
 	Question 6.	
- (A) pre(正解)
+ (A) pre<font color="#dd0000">正解</font>
  (B) un
  (C) re
  (D) non
@@ -25219,7 +25219,7 @@ d. 沒有(字首)
 答對
  
 	Question 7.	
- (A) What happens if I need to cancel my event?(正解)
+ (A) What happens if I need to cancel my event?<font color="#dd0000">正解</font>
  (B) Who should I call if I want to cancel my event?
  (C) Why do people sometimes cancel their events?
  (D) Where should I sign if I want to cancel my event?
@@ -25234,7 +25234,7 @@ D. 如果我要取消活動要在哪簽名？
  (A) of
  (B) for
  (C) on
- (D) to(正解)
+ (D) to<font color="#dd0000">正解</font>
 a. …的(無生命的所有格)
 b. 因為…(某因)
 c. 在…上面 
@@ -25263,7 +25263,7 @@ National Theatre Rules for Entry
  
 	Question 9.	
  (A) direct
- (B) proceed(正解)
+ (B) proceed<font color="#dd0000">正解</font>
  (C) surrender
  (D) explore
 a. 指揮、導演、下指示、指路
@@ -25275,7 +25275,7 @@ d. 探索
 	Question 10.	
  (A) The washrooms are always stocked with toilet paper.
  (B) There is a direct line to the police at the back of the room.
- (C) If you need to clear your throat or sneeze, use a handkerchief. (正解)
+ (C) If you need to clear your throat or sneeze, use a handkerchief. <font color="#dd0000">正解</font>
  (D) We would like to thank you for your patronage.
 a. 洗手間都有擺放衛生紙。
 b. 在房間後面有個警察直播電話。
@@ -25286,7 +25286,7 @@ d. 我們要感謝你的惠顧。
 	Question 11.	
  (A) when
  (B) time
- (C) during(正解)
+ (C) during<font color="#dd0000">正解</font>
  (D) while
 a. 當…時(副詞連接詞) 
 b. 時間(名詞)
@@ -25297,7 +25297,7 @@ d. 而、正當…時(副詞接詞)
  
 	Question 12.	
  (A) Therefore
- (B) However(正解)
+ (B) However<font color="#dd0000">正解</font>
  (C) Moreover
  (D) What's more
 a. 因此+結果(因果關係句)
@@ -25336,7 +25336,7 @@ If you do not wish to receive further notifications like this, please click here
  
 	Question 13.	
  (A) watches
- (B) watch(正解)
+ (B) watch<font color="#dd0000">正解</font>
  (C) to watch
  (D) watching
 a. 觀看(主詞三單的現在式動詞)
@@ -25348,7 +25348,7 @@ d. 觀看(現在分詞)
 	Question 14.	
  (A) on
  (B) turned on
- (C) open(正解)
+ (C) open<font color="#dd0000">正解</font>
  (D) opened up
 a. 在…上面(介係詞) 
 b. 開啟、打開(電器設備)
@@ -25360,7 +25360,7 @@ d. 打開
  (A) All prizes will be subject to taxes.
  (B) Winners will be contacted by mail.
  (C) Thank you for participating in the contest.
- (D) The winner will be instantly notified.(正解)
+ (D) The winner will be instantly notified.<font color="#dd0000">正解</font>
 A. 所有獎項將收取稅金
 B. 獲獎者將通過電子郵件聯繫。
 C. 感謝您參加比賽。
@@ -25369,7 +25369,7 @@ D. 獲勝者將立即收到通知。
 答對
  
 	Question 16.	
- (A) preferences(正解)
+ (A) preferences<font color="#dd0000">正解</font>
  (B) prefers
  (C) preferential
  (D) preferentially
@@ -25464,7 +25464,7 @@ expedite v. 迅速執行
 Where might we find this advert?
  (A) In a magazine.
  (B) In a newspaper.
- (C) On the Internet.(正解)
+ (C) On the Internet.<font color="#dd0000">正解</font>
  (D) Posted on a wall.
 請問在哪裡可能會看到這項廣告?
 a. 雜誌。
@@ -25479,7 +25479,7 @@ d. 公佈欄。
 Which of the following is NOT true about the product?
  (A) It's been used before.
  (B) It has many different functions.
- (C) It is in perfect condition.(正解)
+ (C) It is in perfect condition.<font color="#dd0000">正解</font>
  (D) It has been used for less than one year.
 關於產品敘述，下列何者是錯誤的?
 a. 作者不曾使用過本產品。
@@ -25495,7 +25495,7 @@ How much does one color cartridge cost for this machine?
  (A) ￡18
  (B) ￡58
  (C) ￡55
- (D) ￡21(正解)
+ (D) ￡21<font color="#dd0000">正解</font>
 請問機器的彩色墨水匣的價格為何?
 a. 18歐元
 b. 58歐元
@@ -25508,7 +25508,7 @@ d. 21歐元
  
 What can you do if you want the product in less than five days?
  (A) You can pay an additional ￡3.
- (B) This option is not available.(正解)
+ (B) This option is not available.<font color="#dd0000">正解</font>
  (C) You can pick it up yourself.
  (D) Yon pay an additional ￡8.
 若您欲在五天內得到產品，請問您可以怎麼做?
@@ -25646,7 +25646,7 @@ $0.13
  
  
 Who might consult this chart?
- (A) A writer who needs an article translated.(正解)
+ (A) A writer who needs an article translated.<font color="#dd0000">正解</font>
  (B) The worker in a currency exchange booth.
  (C) A professor who teaches European history.
  (D) A pilot who is flying to a different country.
@@ -25663,7 +25663,7 @@ d. 飛行到其它國家的飛行員。
 Which of the following is true about the chart?
  (A) Thai words are charged on a per character basis.
  (B) The price per word is always more expensive from English to local language.
- (C) Asian languages are generally more expensive(正解)
+ (C) Asian languages are generally more expensive<font color="#dd0000">正解</font>
  (D) Spanish and French have the exact same prices.
 以下有關圖表的敘述，何者正確？
 a. 泰文翻譯價格是依每字計價。
@@ -25707,7 +25707,7 @@ What would be an appropriate title for this article?
  (A) Royal Tyrell Museum Open Soon.
  (B) The Running Speeds of Various Dinosaurs.
  (C) Description of Dinosaurs from the Late Cretaceous.
- (D) One-of-a-Kind Bird Dinosaur Discovered.(正解)
+ (D) One-of-a-Kind Bird Dinosaur Discovered.<font color="#dd0000">正解</font>
 以下何者是此文章最適合的標題?
 a. 皇家泰瑞爾古生物博物館即將開幕。
 b. 各種恐龍的飛行速度。
@@ -25721,7 +25721,7 @@ d. 發現獨一無二的鳥恐龍。
 What was the running speed of the ostrich dinosaur?
  (A) 2.4 kilometers per hour.
  (B) 12 kilometers per hour.
- (C) 70 kilometers per hour.(正解)
+ (C) 70 kilometers per hour.<font color="#dd0000">正解</font>
  (D) 73 kilometers per hour.
 鴕鳥恐龍的奔跑速度是多少?
 a. 每小時2.4公里
@@ -25757,7 +25757,7 @@ adopt v. 採取；採納
  
 Which of the following is true about London's new bike hiring scheme?
  (A) There are over 10,000 stations you can hire the bikes from.
- (B) The bikes are black and blue.(正解)
+ (B) The bikes are black and blue.<font color="#dd0000">正解</font>
  (C) The bikes are available on weekdays only.
  (D) The bikes are hired by city residents only.
 下列何者對倫敦新單車租借方案是正確的?
@@ -25774,7 +25774,7 @@ Where does the bike name come from?
  (A) The prime minister.
  (B) It's a fake name.
  (C) The founder of a bike company.
- (D) A city politician.(正解)
+ (D) A city politician.<font color="#dd0000">正解</font>
 請問單車的名字是從哪裡來的?
 a. 總理。
 b. 這是假名字。
@@ -25789,7 +25789,7 @@ How much do you pay if you use a bike for one hour?
  (A) ￡2.
  (B) ￡90.
  (C) At least ￡24.
- (D) ￡1.(正解)
+ (D) ￡1.<font color="#dd0000">正解</font>
 若你使用一個小時的單車，請問該付多少錢?
 a. 2英鎊。
 b. 90英鎊。
@@ -25802,7 +25802,7 @@ d. 1英鎊。
  
 In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "After this full day cycle, it is necessary to return the bike or exchange it for a new one, otherwise you will be charge an additional multi-day fee of ￡10 on top of the hourly fee."
  (A) (1)
- (B) (2)(正解)
+ (B) (2)<font color="#dd0000">正解</font>
  (C) (3)
  (D) (4)
 下面的句子屬於標示的(1), (2), (3)或(4)之中的哪個位置？
@@ -26288,7 +26288,7 @@ enquiry n. 詢問；打聽
 What was the customer's main issue with the restaurant?
  (A) A member of the wait staff was new.
  (B) The taste of the food wasn't good.
- (C) The waiter's overall performance was bad.(正解)
+ (C) The waiter's overall performance was bad.<font color="#dd0000">正解</font>
  (D) He didn't get the meal he ordered.
 這位客人對該餐廳的主要不滿為何？
 a. 服務人員裡有一位是新人。
@@ -26303,7 +26303,7 @@ d. 他點的餐沒有送來。
 Which of the following is NOT true about the customer survey?
  (A) The customer was not impressed with the food.
  (B) The customer said that the waiters and waitresses are usually nice.
- (C) The customer doesn't usually dine at Smokey John's.(正解)
+ (C) The customer doesn't usually dine at Smokey John's.<font color="#dd0000">正解</font>
  (D) The customer said that there wasn't enough ketchup available at his table.
 關於這份顧客意見調查表下列何者不正確？
 a. 這位客人並未被食物打動。
@@ -26317,7 +26317,7 @@ d. 這位客人說桌上沒有足夠的番茄醬可用。
  
 How did the restaurant remedy the situation?
  (A) By firing the bad employee.
- (B) By providing coupons that would reduce the price of some meals.(正解)
+ (B) By providing coupons that would reduce the price of some meals.<font color="#dd0000">正解</font>
  (C) By providing coupons that would ensure some free meals.
  (D) None of the above.
 該餐廳如何補救這個狀況？
@@ -26331,7 +26331,7 @@ d. 以上皆非。
  
  
 Which menu item was the waiter who served Armin Reiner unknowledgeable about?
- (A) The Korean burger. (正解)
+ (A) The Korean burger. <font color="#dd0000">正解</font>
  (B) The Veggie Delight burger.
  (C) The Classic with Cheese burger.
  (D) All of the burgers.
@@ -26349,7 +26349,7 @@ What will the restaurant likely focus on improving?
  (A) The presentation of the food.
  (B) The arrangement of the tables.
  (C) The clarity of the menu.
- (D) The quality of the wait staff.(正解)
+ (D) The quality of the wait staff.<font color="#dd0000">正解</font>
 這家餐廳可能會集中注意力在什麼地方的改善上？
 a. 食物的外觀。
 b. 桌位的安排。
@@ -26383,7 +26383,7 @@ occur v. 發生
  
 Why didn't the security guard notice the theft?
  (A) It occurred at night.
- (B) He was outside smoking.(正解)
+ (B) He was outside smoking.<font color="#dd0000">正解</font>
  (C) The robber tricked him.
  (D) He was asleep.
 為何保全沒有注意到竊賊?
@@ -26399,7 +26399,7 @@ d. 他睡著了。
 When did they catch the man who stole the Mona Lisa?
  (A) August 21, 1911.
  (B) August 22, 1911.
- (C) Autumn, 1913.(正解)
+ (C) Autumn, 1913.<font color="#dd0000">正解</font>
  (D) December 30, 1913.
 警方何時抓到偷蒙娜麗莎畫像的人?
 a. 1911年8月21日。
@@ -26412,7 +26412,7 @@ d. 1913年12月30日。
  
  
 Where can we assume the Mona Lisa is right now?
- (A) In the Louvre.(正解)
+ (A) In the Louvre.<font color="#dd0000">正解</font>
  (B) In Leonardo Da Vinci's house.
  (C) In a hotel room in Florence.
  (D) Somewhere in Italy.
@@ -26537,7 +26537,7 @@ Which of the following is NOT true about Lush Metta Beads?
  (A) They will even make a shipment if you only order one bead.
  (B) They can custom design and repair jewelry.
  (C) Their headquarters is in Lithuania.
- (D) They also make clothing for children.(正解)
+ (D) They also make clothing for children.<font color="#dd0000">正解</font>
 以下哪項關於Lush Metta Beads何者為非？
 a.如果你只訂購一個珠子，他們也會出貨。
 b.他們可以量身定制設計和修複珠寶。
@@ -26551,7 +26551,7 @@ d.他們還做兒童服飾。
 What is a false claim on the Lush Metta Beads webpage, according to the Clothes for Kids Facebook fan page post?
  (A) Lush Metta Beads is the world's largest bead distributor.
  (B) Lush Metta Beads makes clothing for children.
- (C) Lush Metta Beads donates partial profits to Clothes for Kids.(正解)
+ (C) Lush Metta Beads donates partial profits to Clothes for Kids.<font color="#dd0000">正解</font>
  (D) Lush Metta Beads donates jewelry to impoverished kids.
 根據童衣國際在臉書的粉絲頁上的貼文，Lush Metta Beads網頁上的虛假聲稱為以下何者？ 
 a. Lush Metta Beads是世界上最大的珠飾經銷商。
@@ -26565,7 +26565,7 @@ d. Lush Metta Beads捐贈珠寶給貧困的孩子。
  
 What happened when Clothes for Kids tried to contact Lush Metta Beads?
  (A) Lush Metta Beads denied the allegations.
- (B) Lush Metta Beads didn't reply.(正解)
+ (B) Lush Metta Beads didn't reply.<font color="#dd0000">正解</font>
  (C) It turned out that Lush Metta Beads was a fake company.
  (D) It seemed that Lush Metta Beads wanted to sue Clothes for kids.
 當童衣國際要聯繫Lush Metta Beads時，發生了以下何事？
@@ -26580,7 +26580,7 @@ d.看起來Lush Metta Beads想要起訴童衣國際。
  
 Why does Timothy Paulauskas advise Clothes for Kids to take down their Facebook post?
  (A) It contains false claims.
- (B) It is better to undertake legal action first.(正解)
+ (B) It is better to undertake legal action first.<font color="#dd0000">正解</font>
  (C) It is not necessary to warn the public.
  (D) It was posted in the wrong place.
 Timothy Paulauskas為什麼建議童衣國際取消他們在臉書上發表的貼文？
@@ -26594,7 +26594,7 @@ d.它被張貼在錯誤的地方。
  
  
 What is implied by Timothy Paulauskas?
- (A) Clothes for Kids should sue Lush Metta Beads.(正解)
+ (A) Clothes for Kids should sue Lush Metta Beads.<font color="#dd0000">正解</font>
  (B) Clothes for Kids does not have a strong case against Lush Metta Beads.
  (C) Clothes for Kids is guaranteed to win their lawsuit against Lush Metta Beads.
  (D) Clothes for Kids should give up on dealing with Lush Metta Beads.
@@ -26725,7 +26725,7 @@ estimate v. 估計
 What time was the speakers' meeting originally scheduled for?
  (A) 9 AM
  (B) 11 AM
- (C) 2:30 PM(正解)
+ (C) 2:30 PM<font color="#dd0000">正解</font>
  (D) 3 PM
 講話者會議原定於什麼時候？
 a.上午9點
@@ -26739,7 +26739,7 @@ d.下午3點
  
 Why can't the meeting be rescheduled?
  (A) Cynthia Gomez isn't ready.
- (B) Bruce Carter is going on a business trip tomorrow morning.(正解)
+ (B) Bruce Carter is going on a business trip tomorrow morning.<font color="#dd0000">正解</font>
  (C) Hunter Brown is stuck in a very important meeting.
  (D) The conference room is not currently available.
 會議為什麼不能改期？
@@ -26756,7 +26756,7 @@ What does Bruce Carter still hope to get from Hunter Brown?
  (A) his proposal
  (B) his PowerPoint presentation
  (C) his advice regarding his trip to Brussels
- (D) his comments on Cynthia's presentation(正解)
+ (D) his comments on Cynthia's presentation<font color="#dd0000">正解</font>
 布魯斯．卡特仍希望從亨特．布朗那獲得什麼？
 a.他的提案
 b.他的PowerPoint簡報
@@ -26769,7 +26769,7 @@ d.他對辛西亞簡介的評論
  
 What does Cynthia Gomez mean by OMW?
  (A) only my work
- (B) on my way(正解)
+ (B) on my way<font color="#dd0000">正解</font>
  (C) on Monday or Wednesday
  (D) on most weekends
 辛西亞·戈麥斯指的OMW是什麼意思？
@@ -26908,7 +26908,7 @@ In which of the key points does the author of the first article NOT cite a sourc
  (A) Key 1.
  (B) Key 2.
  (C) He cites a source of authority in all of the key points.
- (D) Key 3.(正解)
+ (D) Key 3.<font color="#dd0000">正解</font>
 第一篇文章的作者在哪一個關鍵點上沒有引用權威資料來源？
 a. 關鍵一。
 b. 關鍵二。
@@ -26920,7 +26920,7 @@ d. 關鍵三。
  
  
 What is Arnold Witherspoon's main point?
- (A) It's important to be unselfish.(正解)
+ (A) It's important to be unselfish.<font color="#dd0000">正解</font>
  (B) It's important to be enterprising.
  (C) It's important to be a dominant person.
  (D) It's hard to define true happiness.
@@ -26935,7 +26935,7 @@ d. 真正的快樂很難定義。
  
  
 What can be said about Eddie Manboots's response?
- (A) He mostly disagrees with the article.(正解)
+ (A) He mostly disagrees with the article.<font color="#dd0000">正解</font>
  (B) He completely disagrees with the article.
  (C) He mostly agrees with the article.
  (D) He completely agrees with the article.
@@ -26952,7 +26952,7 @@ d. 他完全認同本文。
 What does the replier think about good management?
  (A) Leadership and the economy are not related.
  (B) You must be egotistical to manage your company well.
- (C) Workers need a leader because they don't all possess the attitude of leadership.(正解)
+ (C) Workers need a leader because they don't all possess the attitude of leadership.<font color="#dd0000">正解</font>
  (D) Englanders don't know how to manage very well.
 這個回應本文的人認為好的經營管理是怎麼樣？
 a. 領導能力與經濟並不相關。
@@ -26966,7 +26966,7 @@ d. 英國人不知道如何好好的管理。
  
 Which of the following viewpoints are shared by both sides?
  (A) They do not share any viewpoints.
- (B) They both think that nobody is completely right all the time.(正解)
+ (B) They both think that nobody is completely right all the time.<font color="#dd0000">正解</font>
  (C) They both think that the feeling of individual freedom begets happiness.
  (D) They both think that cooperation with others is the most vital part of good management.
 下列哪個觀點是雙方都認同的？
@@ -27159,7 +27159,7 @@ nevertheless adv. 仍然，不過
 Which is the best arrangement for someone who has a restricted amount of money?
  (A) Queen of Kings.
  (B) Spring and Bloom.
- (C) Radiance in the Night.(正解)
+ (C) Radiance in the Night.<font color="#dd0000">正解</font>
  (D) The Eye of the Iris.
 預算有限的人最適合那個搭配？
 a. 龍中之鳳。
@@ -27173,7 +27173,7 @@ d. 花之眼眸。
  
 Which of the following arrangements has three types of flowers?
  (A) Spring and Bloom.
- (B) Queen of Kings.(正解)
+ (B) Queen of Kings.<font color="#dd0000">正解</font>
  (C) The Eye of the Iris.
  (D) None of the above.
 下列哪一盆插花裏有三種花卉？
@@ -27190,7 +27190,7 @@ What is Joe Reader's request?
  (A) He wants the company to come up with a new arrangement.
  (B) He wants to add several more types of flowers.
  (C) He wants to get rid of the Birds of Paradise.
- (D) He wants to organize the flowers in his own way.(正解)
+ (D) He wants to organize the flowers in his own way.<font color="#dd0000">正解</font>
 Joe Reader有什麼要求？ 
 a. 他想要這間公司想一個新的搭配。
 b. 他想要多增加幾種花。
@@ -27203,7 +27203,7 @@ d. 他想要這些花照他的想法來搭配。
  
 What can we assume about the person who sent the email?
  (A) He's a terrible person.
- (B) He's quite fussy.(正解)
+ (B) He's quite fussy.<font color="#dd0000">正解</font>
  (C) He doesn't like pots at all.
  (D) He is a florist.
 我們可以如何假設寄這封電子郵件的人？
@@ -27219,7 +27219,7 @@ d. 他是個花商。
 What does he think of the two suggested pots for The Fareast arrangement?
  (A) He thinks that they don't match the original arrangement.
  (B) He thinks that his own pots are better.
- (C) He thinks that they don't match his own arrangement.(正解)
+ (C) He thinks that they don't match his own arrangement.<font color="#dd0000">正解</font>
  (D) He thinks that the pots shouldn't be painted in an Asian theme.
 他認為建議的兩款「遠東風情」用的花器如何？
 a. 他認為它們和原來的搭配不合。
@@ -27468,7 +27468,7 @@ policy n. 政策
 How much is the room that Antwan Wendell booked?
  (A) €120
  (B) €370 to €450
- (C) €465 to €530(正解)
+ (C) €465 to €530<font color="#dd0000">正解</font>
  (D) €575 to €690
 Antwan Wendell預定的房間價格為以下何者？
 A. €120
@@ -27482,7 +27482,7 @@ D. €575 to €690
  
 Which of the following is true about the hotel's services?
  (A) The bar is open at all hours, every day of the week.
- (B) All of the rooms have air conditioning and heating.(正解)
+ (B) All of the rooms have air conditioning and heating.<font color="#dd0000">正解</font>
  (C) The room maintenance crew will only come between the hours of 10:00 AM and 12:00 PM, or 4:00 PM and 6:00 PM.
  (D) The gym can accommodate less than fifty people.
 有關該飯店的服務下列何者為真？
@@ -27496,7 +27496,7 @@ d. 健身房可以容納不到五十個人。
  
  
 What is unique about the Choice Privileges Master Reward Plan?
- (A) It includes some extra features for free.(正解)
+ (A) It includes some extra features for free.<font color="#dd0000">正解</font>
  (B) It offers discounts on all extra amenities.
  (C) It entitles patrons to a refund on most types of room.
  (D) It provides guests with free amenities if they have had it for two years or more.
@@ -27514,7 +27514,7 @@ d. 如果客人已經加入會員兩年或以上的話，可享有免費設施�
 What is Antwan Wendell's objective?
  (A) To change the duration of his stay.
  (B) To ask the hotel for assistance with his pregnant wife.
- (C) To get money returned for the room that he booked.(正解)
+ (C) To get money returned for the room that he booked.<font color="#dd0000">正解</font>
  (D) To change his room to a Luxury Room.
 Antwan Wendell的目的為何？ 
 a. 更改他的住宿停留期間。
@@ -27531,7 +27531,7 @@ When did he initially intend to visit Paris?
  (A) In mid-August.
  (B) In early July.
  (C) In late May.
- (D) In mid-June.(正解)
+ (D) In mid-June.<font color="#dd0000">正解</font>
 他最初是打算什麼時候要去巴黎？
 a. 八月底。
 b. 七月初。
@@ -27591,7 +27591,7 @@ reservation n. 預訂
  
 What would be the best subheading for this notice?
  (A) Listing of Golf Courses in Wichita.
- (B) How to Book your Day at the Riverside Golf Course.(正解)
+ (B) How to Book your Day at the Riverside Golf Course.<font color="#dd0000">正解</font>
  (C) Chart of prices for a Game of Golf at the Riverside Course.
  (D) Riverside Golf Course: List of Prices
 下列何者是此則公告最好的副標題?
@@ -27607,7 +27607,7 @@ d. 河畔高爾夫球場：價目表。
 What happens if you make a reservation then don't show up?
  (A) Nothing.
  (B) You just have to call them to reserve a new day.
- (C) Your credit card will be charged a quarter of the total price.(正解)
+ (C) Your credit card will be charged a quarter of the total price.<font color="#dd0000">正解</font>
  (D) You won't be able to return there again.
 若你預約後不出現，將會發生以下何種情況？
 a. 任何事都不會發生。
@@ -27746,7 +27746,7 @@ requirement n. 必要條件；規定
  
  
 What can we infer from the conversation?
- (A) Ms. Ivanovich is currently handling multiple applications for Ms. Lal.(正解)
+ (A) Ms. Ivanovich is currently handling multiple applications for Ms. Lal.<font color="#dd0000">正解</font>
  (B) Ms. Ivanovich is Ms. Lal's boss.
  (C) Ms. Lal is not in a big rush to get the documents list.
  (D) Ms. Lal represents an electronics company.
@@ -27763,7 +27763,7 @@ D.拉爾女士代表一家電子公司。
 What is causing the delay?
  (A) Ms. Ivanovich forgot to reply to Ms. Lal.
  (B) Ms. Ivanovich didn't submit the documents on time.
- (C) Ms. Ivanovich needs to hear back from someone else.(正解)
+ (C) Ms. Ivanovich needs to hear back from someone else.<font color="#dd0000">正解</font>
  (D) Ms. Ivanovich is working on the diagram of the new production facility.
 是什麼原因造成延遲？
 A.伊諾維奇女士忘了回覆拉爾女士。
@@ -27864,7 +27864,7 @@ Promotions…………………………………………………….35
  
 What is this reading?
  (A) The index for a dictionary of business terms.
- (B) The table of contents for a policy manual for new staff.(正解)
+ (B) The table of contents for a policy manual for new staff.<font color="#dd0000">正解</font>
  (C) The schedule for an international conference.
  (D) The minutes for a meeting on company policies.
 下列何這是本文章的主要內容?
@@ -27879,7 +27879,7 @@ d. 關於公司政策會議的紀錄。
  
 What page should a person look to find information about investing in the company?
  (A) Page 6.
- (B) Page 32.(正解)
+ (B) Page 32.<font color="#dd0000">正解</font>
  (C) Page 23.
  (D) Page 15.
 若員工想尋找關於公司內部投資的資訊，應該要翻開第幾頁?
@@ -27893,7 +27893,7 @@ d. 第十五頁
  
  
 Which section probably provides the most information?
- (A) Meetings and conferences.(正解)
+ (A) Meetings and conferences.<font color="#dd0000">正解</font>
  (B) Grievances and complaints.
  (C) Holidays.
  (D) Salary.
@@ -27963,7 +27963,7 @@ What is the main purpose of the e-mail?
  (A) To lodge a complaint against the hotel.
  (B) To inform the hotel about HTT's travel benefits for workers.
  (C) To ask about the hotel facilities.
- (D) To inquire about vacancies.(正解)
+ (D) To inquire about vacancies.<font color="#dd0000">正解</font>
 下列何者是電子郵件的主要目的?
 a. 向飯店提出抱怨。
 b. 告知飯店關於HTT公司員工旅遊福利。
@@ -27977,7 +27977,7 @@ d. 詢問空房。
 In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "In terms of equipment, we'd need the latter facility to come with a microphone and speaker system."
  (A) (1)
  (B) (2)
- (C) (3)(正解)
+ (C) (3)<font color="#dd0000">正解</font>
  (D) (4)
 標示中的(1), (2), (3)或(4)最符合下面的句子？
 「在設施方面，我們需要後面的設施附上麥克風和擴音系統。
@@ -27988,7 +27988,7 @@ In which of the positions marked (1), (2), (3), and (4) does the following sente
  
 Which information could we expect Mr. Addonizio to include in the reply?
  (A) The hotel address.
- (B) The room prices.(正解)
+ (B) The room prices.<font color="#dd0000">正解</font>
  (C) The hotel's list of rules and regulations.
  (D) A list of awards the hotel has won.
 若亞多尼西歐先生回覆這封信，哪一個資訊內容是最有可能包含在內?
@@ -28082,7 +28082,7 @@ Where might a person find this article?
  (A) The classified section of a newspaper.
  (B) A pizza cookbook.
  (C) On a website that gives information about acidity in coffee.
- (D) A food and dining magazine.(正解)
+ (D) A food and dining magazine.<font color="#dd0000">正解</font>
 這篇文章最可能在哪裡出現？
 a. 報紙分類廣告區
 b. 比薩食譜書
@@ -28096,7 +28096,7 @@ d. 美食與用餐的雜誌
 What time does Revelations Cafe usually close?
  (A) 11:00 p.m.
  (B) 9:00 a.m.
- (C) 8:30 p.m.(正解)
+ (C) 8:30 p.m.<font color="#dd0000">正解</font>
  (D) Between 9:00 a.m. and 8:30 p.m.
 Revelations咖啡店通常幾點歇業？
 a. 下午11點
@@ -28110,7 +28110,7 @@ d. 上午9點至下午8點半之間
  
 What is the writer's profession?
  (A) Chef
- (B) Food critic.(正解)
+ (B) Food critic.<font color="#dd0000">正解</font>
  (C) Hostess.
  (D) Restaurant manager.
 筆者的職業為何 ？
@@ -28219,7 +28219,7 @@ itinerary n. 旅程，旅行計畫
 Where will Nicholas Green and Vivi Hong first meet?
  (A) at the airport
  (B) at the car
- (C) at the hotel (正解)
+ (C) at the hotel <font color="#dd0000">正解</font>
  (D) at the conference
 Nicholas Green和Vivi Hong第一次見面時可能會以下何處？
 a. 在機場
@@ -28235,7 +28235,7 @@ Where can we infer that Vivi Hong is right now?
  (A) in Prague
  (B) in Riyadh
  (C) in Qatar
- (D) we don't know (正解)
+ (D) we don't know <font color="#dd0000">正解</font>
 我們可以推斷Vivi Hong 現在應該位於以下何處？
 a. 在布拉格
 b. 在利雅得
@@ -28250,7 +28250,7 @@ What should Vivi Hong do if her flight is delayed?
  (A) call Nicholas Green
  (B) call Rita Poloski
  (C) call the Meet & Greet team's office
- (D) She doesn't need to do anything. (正解)
+ (D) She doesn't need to do anything. <font color="#dd0000">正解</font>
 如果Vivi Hong的航班延誤，她應該怎麼做？
 a. 打給Nicholas Green 
 b. 打給Rita Poloski
@@ -28262,7 +28262,7 @@ d. 她不需要做任何事情。
  
  
 How will Vivi Hong recognize the person who will meet her at the airport?
- (A) That person will be holding a welcome sign. (正解)
+ (A) That person will be holding a welcome sign. <font color="#dd0000">正解</font>
  (B) That person will send her a message.
  (C) That person will be wearing a uniform.
  (D) That person will recognize her first.
@@ -28467,7 +28467,7 @@ data n. 資料，數據
  
  
 Which of the following countries had a higher murder rate than Uganda?
- (A) Nigeria.(正解)
+ (A) Nigeria.<font color="#dd0000">正解</font>
  (B) Saudi Arabia.
  (C) Japan.
  (D) None of the above.
@@ -28484,7 +28484,7 @@ d. 以上皆非
 Which of the following is NOT true about the information listed?
  (A) Columbia had a homicide rate of 23 per 100,000 people.
  (B) The United States had fewer homicides than Russia in 2004.
- (C) The United States had more homicides than Mexico in 2004.(正解)
+ (C) The United States had more homicides than Mexico in 2004.<font color="#dd0000">正解</font>
  (D) The homicide rate in Nigeria was greater than the rate in Mexico in 2004.
 以下選項何者與上述內容不符？
 a. 哥倫比亞的謀殺率為10萬分之23
@@ -28584,7 +28584,7 @@ consequence n. 結果
  
 What seems to be the main theme of "Caleb's Adventure Blog"?
  (A) adventure sports
- (B) European travel(正解)
+ (B) European travel<font color="#dd0000">正解</font>
  (C) cruises and luxury hotels
  (D) ancient architecture
 「Caleb的冒險部落格」的主題為以下何者？
@@ -28600,7 +28600,7 @@ D.古代建築
 Which of Caleb's articles on the blog list will likely be the main topic of discussion during his appearance on the radio?
  (A) #1
  (B) #2
- (C) #3(正解)
+ (C) #3<font color="#dd0000">正解</font>
  (D) #4
 Caleb的部落格上的哪一章文章最有可能成為這個廣播節目上討論的主題？
 A.＃1
@@ -28616,7 +28616,7 @@ In the radio's programming schedule, which topic of discussion is NOT mentioned 
  (A) dining
  (B) accommodation
  (C) entertainment
- (D) health(正解)
+ (D) health<font color="#dd0000">正解</font>
 在廣播節目的節目表中，以下主題何者是Caleb Nestley訪談節目沒有提及的？
 A. 餐飲
 B. 飯店
@@ -28628,7 +28628,7 @@ D. 健康
  
  
 What is Debra Willis's main concern?
- (A) Her kids' daytime sleeping schedule. (正解)
+ (A) Her kids' daytime sleeping schedule. <font color="#dd0000">正解</font>
  (B) Her kids' nighttime sleeping arrangement.
  (C) How to make her kids fall asleep in noisy places.
  (D) How to find hotels with good beds for kids.
@@ -28644,7 +28644,7 @@ D.如何為孩子找到有好床的飯店。
  
 What does Debra Willis mean by "you could set your clock to it?"
  (A) The sound of a clock can wake up her kids.
- (B) Her kids always take a nap and wake up at the same time. (正解)
+ (B) Her kids always take a nap and wake up at the same time. <font color="#dd0000">正解</font>
  (C) Her kids don't like being woken up at certain times.
  (D) Her kids suffer from time differences in other countries.
 Debra Willis所說的「可以設鬧鐘」是什麼意思？
@@ -28711,7 +28711,7 @@ Where will Zoe Garcia and Santiago Fernandez meet?
  (A) in the parking lot
  (B) at the entrance of the restaurant.
  (C) at the table in the restaurant.
- (D) in a cafe(正解)
+ (D) in a cafe<font color="#dd0000">正解</font>
 Zoe Garcia和Santiago Fernandez會在以下何處見面？
 a.在停車場。
 b.在餐廳的入口。
@@ -28723,7 +28723,7 @@ d. 在咖啡廳裡。
  
  
 What does Mr. Fernandez want Ms. Garcia to do when she sends the report to Andy?
- (A) Forward a copy of the email to him.(正解)
+ (A) Forward a copy of the email to him.<font color="#dd0000">正解</font>
  (B) Fix all the errors before she sends it.
  (C) Adjust the budget that is mentioned in the report.
  (D) Ask Andy what went wrong.
@@ -28942,7 +28942,7 @@ What is the main reason that the employee is requesting a holiday?
  (A) Because he hasn't taken a vacation in a while.
  (B) He wants to use up his paid days off.
  (C) He doesn't want to work during the busy period.
- (D) His family will stay in Tampa Bay and he wants to visit them there.(正解)
+ (D) His family will stay in Tampa Bay and he wants to visit them there.<font color="#dd0000">正解</font>
 這位員工要求休假的主要原因為何？
 a. 因為他有段時間沒有度假了。
 b. 他想把他的帶薪假用完。
@@ -28954,7 +28954,7 @@ d. 他的家人會待在坦帕灣所以他想去那裡看他們。
  
  
 How long of a break is the employee asking for?
- (A) Just over one month.(正解)
+ (A) Just over one month.<font color="#dd0000">正解</font>
  (B) Not quite one month.
  (C) Two weeks.
  (D) Three weeks.
@@ -28970,7 +28970,7 @@ d. 三個禮拜。
  
 How does the employer respond to the employee?
  (A) He grants the request.
- (B) He only permits a two week break.(正解)
+ (B) He only permits a two week break.<font color="#dd0000">正解</font>
  (C) He denies the request entirely.
  (D) He asks the employee to fill out another form in great depth.
 雇主如何答覆該員工？
@@ -28986,7 +28986,7 @@ d. 他要求該員工巨細靡遺的再填一張申請表。
 Why does the employer want the employee to alter his request?
  (A) Mr. Parvati isn't very conscientious, so he doesn't deserve so much time off.
  (B) The first request form wasn't filled out properly.
- (C) The time period during which the employee wants vacation is too busy.(正解)
+ (C) The time period during which the employee wants vacation is too busy.<font color="#dd0000">正解</font>
  (D) Mr. Birkenstock doesn't agree with the reason for the request.
 為何該雇主要這位員工更改他的休假申請？
 a. Parvati先生並沒有非常認真盡責，所以他不應該得到這麼多休假。
@@ -28999,7 +28999,7 @@ d. Birkenstock先生不認同請假的理由。
  
  
 What does the employer ask of the employee?
- (A) To fill out an additional form requesting less time off.(正解)
+ (A) To fill out an additional form requesting less time off.<font color="#dd0000">正解</font>
  (B) To give a better reason for taking vacation days.
  (C) To work without taking any vacation.
  (D) To work harder in order to obtain more vacation days.
@@ -29083,7 +29083,7 @@ What is the main argument of the article?
  (A) Child and data protection laws are not strict enough.
  (B) It is okay to monitor societal behavior with hi-tech equipment.
  (C) The growth of technology is an interesting topic for students.
- (D) Collecting biometric data in schools raises issues of safety and privacy.(正解)
+ (D) Collecting biometric data in schools raises issues of safety and privacy.<font color="#dd0000">正解</font>
 此篇文章主要在討論什麼？
 a. 兒童及資料保護法不夠嚴格
 b. 以高科技儀器監視社會行為是可行之舉
@@ -29098,7 +29098,7 @@ What is the best way to describe the writer's tone?
  (A) Sad.
  (B) Content.
  (C) Offended.
- (D) Cautionary.(正解)
+ (D) Cautionary.<font color="#dd0000">正解</font>
 以下哪種方式最適合形容筆者語調？
 a. 傷心
 b. 開心　
@@ -29111,7 +29111,7 @@ d. 警惕
  
 In the author's opinion, how might a parent react to the use of biometric data in schools?
  (A) He or she might discuss civil rights with his or her child.
- (B) He or she might withdraw his or her child from the school.(正解)
+ (B) He or she might withdraw his or her child from the school.<font color="#dd0000">正解</font>
  (C) He or she might monitor his or her child more closely.
  (D) He or she might put the child into a TFBDS program.
 筆者認為若學校使用生物鑑定，家長會有怎麼樣的反應？
@@ -29126,7 +29126,7 @@ d. 讓孩子參與科技便利杜拜學校(TFBDS)計畫
  
 In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "These are the kinds of devices you may have only seen in sci-fi movies, but now they are becoming a reality."
  (A) (1)
- (B) (2)(正解)
+ (B) (2)<font color="#dd0000">正解</font>
  (C) (3)
  (D) (4)
 下面的句子最符合標示中的(1), (2), (3)或(4)的所在位置？
@@ -29255,7 +29255,7 @@ accent n. 口音，語調
  
  
 What did the initial reviewer say about Ronny?
- (A) His character is a bit boring.(正解)
+ (A) His character is a bit boring.<font color="#dd0000">正解</font>
  (B) His attitude about life changes a lot.
  (C) He eventually steps out of his brother's shadow.
  (D) He doesn't care about his brother at all.
@@ -29272,7 +29272,7 @@ d. 他完全不在呼他的兄弟。
 At what point does Monique think that the story gets most interesting?
  (A) When the two brothers open up a surf business.
  (B) When the two brothers find one another.
- (C) When the two brothers fall in love with the same girl.(正解)
+ (C) When the two brothers fall in love with the same girl.<font color="#dd0000">正解</font>
  (D) When Tommy saves Ronny.
 Monique 認為這個故事在什麼地方最引人入勝？
 a. 當這兩兄弟開始經營衝浪生意時。
@@ -29285,7 +29285,7 @@ d. 當Tommy救了Ronny時。
  
  
 What does Edward find most remarkable about Tommy?
- (A) He gave up on Shaniqua for his brother's sake.(正解)
+ (A) He gave up on Shaniqua for his brother's sake.<font color="#dd0000">正解</font>
  (B) He is a manly character.
  (C) His emotions are consistent throughout the novel.
  (D) He has an authentic accent.
@@ -29301,7 +29301,7 @@ d. 他有著道地口音。
  
 Which review does the plot summary more closely match?
  (A) Monique Latoya's.
- (B) Edward Hart's. (正解)
+ (B) Edward Hart's. <font color="#dd0000">正解</font>
  (C) It matches both of them exactly.
  (D) There is no matching information.
 以下那一則評論何者與故事情節較為符合？
@@ -29318,7 +29318,7 @@ D. 兩者都沒有相符的內容。
 What piece of information in the plot summary is false, according to the two reviews?
  (A) The names of the main characters.
  (B) Information about the characters' personalities.
- (C) The location where the two characters met again. (正解)
+ (C) The location where the two characters met again. <font color="#dd0000">正解</font>
  (D) The part about Shaniqua.
 根據這兩篇評論，以下劇情概要何者為非？
 A. 主角們的名字。
@@ -29417,7 +29417,7 @@ dominate v. 支配，統治
  
  
 What was unfortunate for Denver in the second quarter?
- (A) Holmes got called for three fouls and had to be substituted out later.(正解)
+ (A) Holmes got called for three fouls and had to be substituted out later.<font color="#dd0000">正解</font>
  (B) Terry Walker started with six straight points.
  (C) Quentin Jones made a three-point shot to tie the game.
  (D) Jerry Rodriquez scored ten points.
@@ -29433,7 +29433,7 @@ d. Jerry Rodriquez得到10分
  
 Which of the following did NOT happen?
  (A) Jason Holmes made 80% of his shots in the second quarter.
- (B) Terry Walker performed badly in overtime.(正解)
+ (B) Terry Walker performed badly in overtime.<font color="#dd0000">正解</font>
  (C) Quentin Jones evened the score in the fourth quarter.
  (D) Oakland beat Denver.
 下列敘述何者為非？
@@ -29447,7 +29447,7 @@ d. Oakland隊打敗Denver隊
  
  
 How might an Oakland Heat fan feel about this article?
- (A) He or she might feel thrilled.(正解)
+ (A) He or she might feel thrilled.<font color="#dd0000">正解</font>
  (B) He or she might feel angry.
  (C) He or she might feel disappointed.
  (D) He or she might feel unnerved.
@@ -29593,7 +29593,7 @@ cooperation n. 合作
  
 Which of the following is true about the Sunnybank Community Pool rules?
  (A) It's okay to smoke in the pool area.
- (B) The pool follows local rules about noise levels. (正解)
+ (B) The pool follows local rules about noise levels. <font color="#dd0000">正解</font>
  (C) Diving is not allowed at all.
  (D) Kids younger than 5 cannot go into the pool.
 下列關於桑尼班克社區泳池的敘述那一個選項與上述內容相符？
@@ -29607,7 +29607,7 @@ d. 5歲以下孩童禁止進入泳池
  
  
 What happens from 6:00 a.m. to 11:30 a.m.?
- (A) Kid's aren't allowed to swim.(正解)
+ (A) Kid's aren't allowed to swim.<font color="#dd0000">正解</font>
  (B) The pool is closed.
  (C) Anybody can swim.
  (D) The lifeguard is on duty.
@@ -29886,7 +29886,7 @@ negotiable adj. 可協商的，可通行的
  
 When will the employees be let go?
  (A) Later this month.
- (B) On the first day of November.(正解)
+ (B) On the first day of November.<font color="#dd0000">正解</font>
  (C) On November 15th.
  (D) On September 15th.
 員工何時會被解雇？
@@ -29903,7 +29903,7 @@ Do all employees have to attend the meeting in the conference room?
  (A) Yes, they all must attend.
  (B) Yes, but they don't have to stay for the entire duration.
  (C) No, because they will have another discussion later.
- (D) No, but it is recommended.(正解)
+ (D) No, but it is recommended.<font color="#dd0000">正解</font>
 全部的員工都必須去會議室開會嗎？
 a. 是，他們全都得參加。
 b. 是，但他們不必全程參與。
@@ -29917,7 +29917,7 @@ d. 不必，可是建議參加。
 When did Mrs. Chen respond to the CEO?
  (A) One day later.
  (B) Four days later.
- (C) There isn't enough information to know for sure.(正解)
+ (C) There isn't enough information to know for sure.<font color="#dd0000">正解</font>
  (D) Over four days later.
 Chen女士是什麼時候回信給執行長的？
 a. 一天之後。
@@ -29930,7 +29930,7 @@ d. 超過四天以後。
  
  
 Why is Mrs. Chen concerned?
- (A) Because she isn't sure that she can find another job.(正解)
+ (A) Because she isn't sure that she can find another job.<font color="#dd0000">正解</font>
  (B) Because Mr. Schwarzenegger is an immoral person.
  (C) Because she won't be able to attend the discussion on Tuesday.
  (D) Because she doesn't have enough experience with PR.
@@ -29946,7 +29946,7 @@ d. 因為她沒有公關方面的充足經驗。
  
  
 Why does she want the bonus and more severance pay?
- (A) The extra funds will give her more time to locate a new job.(正解)
+ (A) The extra funds will give her more time to locate a new job.<font color="#dd0000">正解</font>
  (B) Because she is the best employee of all.
  (C) She wants to invest the money in another company.
  (D) Because she doesn't want to work before she retires.
@@ -30184,7 +30184,7 @@ mixture n. 混合物，(感情)混雜
  
  
 In step six, why does the author say not to blend the ingredients for more than one minute?
- (A) The brownies will taste better.(正解)
+ (A) The brownies will taste better.<font color="#dd0000">正解</font>
  (B) It's too early in the process to blend the ingredients together.
  (C) It will ruin the final result.
  (D) Because they have been blended for ten minutes.
@@ -30200,7 +30200,7 @@ d. 因為他們已經被攪拌10分鐘了
  
 What amount of cream is needed in this recipe?
  (A) The same amount as that of skim milk.
- (B) One quarter of a cup.(正解)
+ (B) One quarter of a cup.<font color="#dd0000">正解</font>
  (C) One and one fourth cups.
  (D) None of the above.
 食譜中所需的奶油量為多少？
@@ -30216,7 +30216,7 @@ d. 以上皆非
 At what point are the brownies ready to eat?
  (A) Thirty minutes after baking.
  (B) Twenty minutes after baking.
- (C) Ten minutes after baking.(正解)
+ (C) Ten minutes after baking.<font color="#dd0000">正解</font>
  (D) After they have chilled.
 何時可以享用布朗尼呢？
 a. 烤完30分鐘後
@@ -30232,7 +30232,7 @@ What information is NOT provided in this recipe?
  (A) The baking temperature.
  (B) An alternative to whole milk.
  (C) The amount of chocolate chips required.
- (D) How many brownies the recipe makes.(正解)
+ (D) How many brownies the recipe makes.<font color="#dd0000">正解</font>
 食譜中並未提及下列何選項 ?
 a. 烤箱溫度
 b. 代替全脂牛奶的另一個選擇
@@ -30342,7 +30342,7 @@ Which email address belongs to the customer?
  (A) whiteuship@usn.com.
  (B) ushipnow@usn.com.
  (C) It is not shown.
- (D) silverli_ings@hotmail.com.(正解)
+ (D) silverli_ings@hotmail.com.<font color="#dd0000">正解</font>
 下列哪個電子郵箱屬於客戶？
 a. whiteuship@usn.com.
 b. ushipnow@usn.com.
@@ -30355,7 +30355,7 @@ d. silverli_ings@hotmail.com.
  
 In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "Another will come when the information is processed."
  (A) (1)
- (B) (2) (正解)
+ (B) (2) <font color="#dd0000">正解</font>
  (C) (3)
  (D) (4)
 下面的句子最符合標示中的(1), (2), (3)或(4)的所在位置？
@@ -30371,7 +30371,7 @@ d. (4)
  
 What can we infer based on the email?
  (A) The package has yet to be shipped.
- (B) The recipient has already bought the product.(正解)
+ (B) The recipient has already bought the product.<font color="#dd0000">正解</font>
  (C) The international shipping rate has recently changed.
  (D) The recipient will not receive further emails.
 根據這封電子郵件我們可以推論下列何者選項？
@@ -30538,7 +30538,7 @@ decent adj. 體面的，還不錯的
  
 Why does the writer contact the editing staff?
  (A) Because he doesn't want to be published in their journal yet.
- (B) Because he wants to be published in their journal.(正解)
+ (B) Because he wants to be published in their journal.<font color="#dd0000">正解</font>
  (C) Because he wants help finding an alternative journal to be published in.
  (D) Because he wants to tell them that he has already been published.
 編輯人員為什麼要與這名作家連絡？
@@ -30554,7 +30554,7 @@ d. 因為他想告訴他們他的作品已經被發表了。
 What does the writer tell the editing staff in order to substantiate his writing ability?
  (A) That he has been published several times.
  (B) That he completely understands human experience.
- (C) That he has recently taken an excellent writing class.(正解)
+ (C) That he has recently taken an excellent writing class.<font color="#dd0000">正解</font>
  (D) That he writes every day.
 這位作家告跟編輯人員說了什麼來證明他的寫作能力？
 a. 他的作品已經發表好幾次。
@@ -30570,7 +30570,7 @@ According to the call for submissions, which guideline was not followed by the w
  (A) 1
  (B) 2
  (C) 3
- (D) 4(正解)
+ (D) 4<font color="#dd0000">正解</font>
 根據誠徵作品的要求中，作者沒有依照以下何項要求呈交稿件，而導致他的作品被退？
 A. 1
 B. 2
@@ -30584,7 +30584,7 @@ D. 4
  
 If the date is November 16th, how long must a writer wait before submitting work to the journal?
  (A) About half a month.
- (B) About a month and a half.(正解)
+ (B) About a month and a half.<font color="#dd0000">正解</font>
  (C) Until after the first day of January.
  (D) Until November 15th of next year.
 如果日期是十一月16日，作家要等多久才能向這家期刊投稿？
@@ -30600,7 +30600,7 @@ d. 一直到明年十一月15日。
 Which of the following does the editor tell the writer?
  (A) To stop trying to publish his written work.
  (B) To write more pieces that fit in with their current issue.
- (C) To send his manuscripts in the future.(正解)
+ (C) To send his manuscripts in the future.<font color="#dd0000">正解</font>
  (D) To help them find more good writers.
 下列選項何者為編輯跟作者所說的話？
 a. 不要繼續嘗試發表他的作品。
@@ -30697,7 +30697,7 @@ application n. 應用，適用，申請，申請書
 What is the price of the T-shirt?
  (A) 100 dollars.
  (B) US $19.95.
- (C) It is free if you buy a subscription.(正解)
+ (C) It is free if you buy a subscription.<font color="#dd0000">正解</font>
  (D) Twenty-five dollars.
 T恤的價錢為何？
 a. 美金100元
@@ -30712,7 +30712,7 @@ d. 25元
 When must the application cards be received by?
  (A) On or after December 25th, 2002.
  (B) Within 100 days.
- (C) On or before December 25th, 2002.(正解)
+ (C) On or before December 25th, 2002.<font color="#dd0000">正解</font>
  (D) The date isn't provided.
 申請表格之收件截止日期為何？
 a. 2002年12月25日後
@@ -30789,7 +30789,7 @@ purchase v. 購買，申購
  
  
 What would be the best subheading for this notice?
- (A) How to Purchase Your Ticket for the Book Release Party. (正解)
+ (A) How to Purchase Your Ticket for the Book Release Party. <font color="#dd0000">正解</font>
  (B) Shoals Vista Bistro: Menu Prices.
  (C) How to Cook Southern Barbecue.
  (D) Critical Review of Shoals Vista Bistro.
@@ -30806,7 +30806,7 @@ d. 威士達餐館評論。
 What is included in the ticket price?
  (A) Tickets cost $15.
  (B) Tickets can be purchased at the restaurant.
- (C) Food and drinks, as well as an autographed cookbook.(正解)
+ (C) Food and drinks, as well as an autographed cookbook.<font color="#dd0000">正解</font>
  (D) Each ticket holder will receive a new set of cookware.
 下列選項何者包含在入場門票內？
 a. 一張門票美金15元。
@@ -30945,7 +30945,7 @@ How did the patient's medication make him feel?
  (A) It made him forget about his pain.
  (B) It made him drowsy on a regular basis.
  (C) It made him forget about his wife.
- (D) It didn't make him feel any different.(正解)
+ (D) It didn't make him feel any different.<font color="#dd0000">正解</font>
 這位患者的藥讓他覺得如何？
 a. 使他忘記他的痛苦。
 b. 讓他每天昏昏欲睡。
@@ -30958,7 +30958,7 @@ d. 並未讓他覺得有任何不同。
  
 What is the patient's current job status?
  (A) He is going to work every day.
- (B) He still has a job.(正解)
+ (B) He still has a job.<font color="#dd0000">正解</font>
  (C) He lost his job six months ago.
  (D) He wants to quit his job.
 這位患者目前的工作狀態是如何？
@@ -30975,7 +30975,7 @@ What kind of website is this?
  (A) A search engine.
  (B) A doctor's personal website.
  (C) A forum for divorced men.
- (D) A medical help forum.(正解)
+ (D) A medical help forum.<font color="#dd0000">正解</font>
 這是什麼樣的網站？
 a. 搜尋引擎。
 b. 一個醫生的個人網站。
@@ -30988,7 +30988,7 @@ d. 醫療援助的討論區。
  
 What does the doctor advise the patient to do?
  (A) Find a new wife quickly.
- (B) Continue with his medical treatment.(正解)
+ (B) Continue with his medical treatment.<font color="#dd0000">正解</font>
  (C) Stop taking his medication.
  (D) Find a new doctor.
 這位醫生建議該患者做什麼事？
@@ -31002,7 +31002,7 @@ d. 找新的醫生。
  
  
 How do we know that the patient can trust this doctor?
- (A) The doctor has a lot of experience treating similar patients.(正解)
+ (A) The doctor has a lot of experience treating similar patients.<font color="#dd0000">正解</font>
  (B) The doctor himself has taken the same medication before.
  (C) The doctor's wife recently left him.
  (D) The doctor has treated this patient before.
@@ -31207,7 +31207,7 @@ approximately adv. 大約地
 Why did Natalia Demir send her personal information, including name, address, and credit card number in a private message on LinkedIn?
  (A) She wanted to confirm an order for baby clothing that she had just made online.
  (B) When she tried to order some baby clothes online, the website suggested that she send in the order by email.
- (C) The website order form wasn't functioning properly so she decided to send in her order by PM. (正解)
+ (C) The website order form wasn't functioning properly so she decided to send in her order by PM. <font color="#dd0000">正解</font>
  (D) She wanted to make some minor changes to her order so she thought the best course of action was to message the baby clothing company directly.
 為什麼Natalia Demir在LinkedIn私人信息中寄出她的個人資料，包括姓名、地址、和信用卡號？
 A. 她想確認她剛在網上訂購的嬰兒服裝訂單。
@@ -31223,7 +31223,7 @@ At first, how did Ms. Demir know that her account had probably been hacked?
  (A) This was said directly in the email from no-reply@linkein.com.
  (B) When she logged into her LinkedIn account, something was missing.
  (C) She received a phone call from the LinkedIn legal team.
- (D) She was unable to log in with her password. (正解)
+ (D) She was unable to log in with her password. <font color="#dd0000">正解</font>
 一開始時，Demir女士怎麼知道她的帳戶可能已經被駭客侵入？
 A. 來自no-reply@linkein.com寄來的電子郵件上闡明此問題。
 B. 當她登入到她的LinkedIn帳戶上，有資訊消失了。
@@ -31235,7 +31235,7 @@ D. 她無法用她的密碼登入網站。
  
  
 What was her immediate course of action?
- (A) She called visa to cancel her credit card. (正解)
+ (A) She called visa to cancel her credit card. <font color="#dd0000">正解</font>
  (B) She closed down her LinkedIn account.
  (C) She sent an email to LinkedIn.
  (D) She tried to figure out who had hacked her account.
@@ -31253,7 +31253,7 @@ What was her second finding that made it more certain her account had been hacke
  (A) There were no more funds remaining in her bank account.
  (B) She received a strange message from the hackers.
  (C) Her credit card didn't work anymore.
- (D) There were mysterious charges on her account transaction record. (正解)
+ (D) There were mysterious charges on her account transaction record. <font color="#dd0000">正解</font>
 以下選項何者是她更加肯定帳戶遭到駭客攻擊的第二個發現？
 A.她的銀行帳戶沒有剩下任何錢。
 B.她接到一封駭客寄來的奇怪訊息。
@@ -31265,7 +31265,7 @@ D.她的帳戶有莫明的交易記錄。
  
  
 What is the main purpose of the Ms. Demir's email to reportfalsecharges@visa.com?
- (A) To provide a copy of the fraud alert from LinkedIn. (正解)
+ (A) To provide a copy of the fraud alert from LinkedIn. <font color="#dd0000">正解</font>
  (B) To inform Visa that her account had been hacked.
  (C) To ask Visa to cancel her credit card.
  (D) To ask for all recent charges to be reversed.
@@ -31354,7 +31354,7 @@ In which of the positions marked (1), (2), (3), and (4) does the following sente
 "Or would we have to use the one in the main lodge?"
  (A) (1)
  (B) (2)
- (C) (3)(正解)
+ (C) (3)<font color="#dd0000">正解</font>
  (D) (4)
 以下的句子放入標示中的(1), (2), (3)或(4)的所在位置最為恰當？
 「還是我們需要使用主棟的衛浴設備呢？」
@@ -31368,7 +31368,7 @@ d. (4)
  
  
 When does the writer of this email prefer to stay at the lodge?
- (A) June 27-29.(正解)
+ (A) June 27-29.<font color="#dd0000">正解</font>
  (B) June 14-16.
  (C) July 4-6.
  (D) July 11-13.
@@ -31385,7 +31385,7 @@ d. 7月 11至13日
 What is NOT true according to the email?
  (A) The writer and his friends want to do the Bear River trail.
  (B) The person writing the email is named Alexandra Roach.
- (C) There are eleven people traveling in the group.(正解)
+ (C) There are eleven people traveling in the group.<font color="#dd0000">正解</font>
  (D) The group prefers to stay in the same room for the duration of the trip.
 下列選項何者與上述內容不符？
 a. 筆者和其友人希望前往熊河谷步道 
@@ -31615,7 +31615,7 @@ $1.25
 Which of the following is NOT true about the chart above?
  (A) The customers filling in the order are staying in room 337.
  (B) The customers ordered two chicken sandwiches.
- (C) This is a menu for customers who wish to dine in a restaurant.(正解)
+ (C) This is a menu for customers who wish to dine in a restaurant.<font color="#dd0000">正解</font>
  (D) Jane and Tom Branson are the names of the customers.
 下列何者選項與文章內容不符？
 a. 填寫此點購單的客人入宿於337房
@@ -31629,7 +31629,7 @@ d. 客人姓名為 Jane Branson和 Tom Branson
  
 What can we infer about the customer who ordered room service?
  (A) Jane Branson will be eating alone tonight.
- (B) Jane Branson will be eating with Tom Branson.(正解)
+ (B) Jane Branson will be eating with Tom Branson.<font color="#dd0000">正解</font>
  (C) The hotel staff is very rude.
  (D) Sudden Valley Palace Hotel has a five-star rating.
 從此點購單我們可以推論下列何者選項？ 
@@ -31761,7 +31761,7 @@ Which website rule was not followed by the writers of the wanted ad?
  (A) Rule #1
  (B) Rule #2
  (C) Rule #3
- (D) Rule #4(正解)
+ (D) Rule #4<font color="#dd0000">正解</font>
 尋求啟事的作者並沒有遵守以下何項網站規則？
 A. 規定#1
 B. 規定#2
@@ -31773,7 +31773,7 @@ D. 規定#4
  
  
 Why do the couple need to find a new home for their dog?
- (A) They are moving abroad.(正解)
+ (A) They are moving abroad.<font color="#dd0000">正解</font>
  (B) They have just bought a cat.
  (C) Their dog is sick and they can't take care of it.
  (D) They are moving to a smaller house.
@@ -31790,7 +31790,7 @@ d. 他們要搬去一間比較小的房子。
 Why did Patrick McGranaghan respond by email?
  (A) He doesn't have a phone.
  (B) He doesn't like talking on the phone.
- (C) He already tried calling both phone numbers.(正解)
+ (C) He already tried calling both phone numbers.<font color="#dd0000">正解</font>
  (D) He didn't notice the phone numbers in the advert.
 為什麼Patrick Mcgranaghan用電子郵件回應這則廣告？
 a. 他家裏沒有電話。
@@ -31804,7 +31804,7 @@ d. 他沒有注意到廣告上的電話號碼。
  
 What aspect of Patrick McGranaghan's home is not suitable for the dog?
  (A) It is not very big.
- (B) It is in the centre of a city.(正解)
+ (B) It is in the centre of a city.<font color="#dd0000">正解</font>
  (C) It is not on the ground floor.
  (D) It is very dark inside.
 Patrick Mcgranaghan家的什麼地方不適合這隻狗？
@@ -31818,7 +31818,7 @@ d. 內部很陰暗。
  
  
 Which of the following is likely to be true?
- (A) Patrick McGranaghan's family had dogs when he was a young boy.(正解)
+ (A) Patrick McGranaghan's family had dogs when he was a young boy.<font color="#dd0000">正解</font>
  (B) Patrick McGranaghan loves all animals.
  (C) Patrick McGranaghan has a lot of experience looking after sick people.
  (D) Patrick McGranaghan prefers the city to the countryside.
@@ -31866,7 +31866,7 @@ logo n. 標識
  
 Who is the writer of this ad?
  (A) A graphic designer looking for a job.
- (B) An employer looking to hire a graphic designer.(正解)
+ (B) An employer looking to hire a graphic designer.<font color="#dd0000">正解</font>
  (C) A salesman advertising a new product.
  (D) A student looking for part-time employment.
 以下何者是這一則廣告的作者？ 
@@ -31880,7 +31880,7 @@ d. 尋找打工的學生
  
  
 What is true according to the article?
- (A) Falcon Incorporated programs apps for Apple and Android products. (正解)
+ (A) Falcon Incorporated programs apps for Apple and Android products. <font color="#dd0000">正解</font>
  (B) The company is looking for an experienced salesman.
  (C) People who apply for this job are not required to be self-motivated.
  (D) The company is not hiring graphic designers.
@@ -31897,7 +31897,7 @@ d. 此公司並無平面設計師職缺
 If a person wishes to apply for this job, what must he or she do?
  (A) Call Falcon incorporated.
  (B) Introduce himself or herself to the boss at the company headquarters.
- (C) Send a resume to gopherdude634@hotmail.com.(正解)
+ (C) Send a resume to gopherdude634@hotmail.com.<font color="#dd0000">正解</font>
  (D) Win a design competition.
 如要應徵此工作，應徵者必須完成下列何者選項？
 a. 致電Falcon法人公司
@@ -32287,7 +32287,7 @@ aforementioned adj. 前面提及的，上述的
 Which of the following does the job advert not mention?
  (A) Hours of work.
  (B) Qualifications required.
- (C) Salary.(正解)
+ (C) Salary.<font color="#dd0000">正解</font>
  (D) How to apply.
 這則職缺廣告中沒有提到下列何者？
 a. 工作時間。
@@ -32303,7 +32303,7 @@ What kind of people is the recruiter looking for?
  (A) Recent college graduates.
  (B) People looking to earn money while they study Spanish.
  (C) People looking for part-time work.
- (D) Experienced professionals.(正解)
+ (D) Experienced professionals.<font color="#dd0000">正解</font>
 徵才者要找的是什麼樣的人？
 a. 剛從大學畢業的人。
 b. 邊學西班牙語邊想賺點錢的人。
@@ -32316,7 +32316,7 @@ d. 有經驗的專才。
  
 Why did the candidate decide to move back to Spain?
  (A) She wanted to work as an English teacher.
- (B) She wanted to improve her Spanish.(正解)
+ (B) She wanted to improve her Spanish.<font color="#dd0000">正解</font>
  (C) She likes the weather in Spain.
  (D) She wanted to work as a translator.
 這個應徵者為什麼決定搬回西班牙？
@@ -32332,7 +32332,7 @@ d. 她想做翻譯的工作。
 Which of the following job requirements does the candidate NOT have?
  (A) A master's degree.
  (B) A diploma of Spanish language proficiency.
- (C) A native English speaking background.(正解)
+ (C) A native English speaking background.<font color="#dd0000">正解</font>
  (D) Experience in a media related position.
 這個應徵者沒有符合下面哪一個工作條件？
 a. 碩士學位。
@@ -32345,7 +32345,7 @@ d. 有媒體相關工作經驗。.
  
  
 Why doesn't the candidate talk in detail about her qualifications in her email?
- (A) Her qualifications are documented in the resume attached to the email.(正解)
+ (A) Her qualifications are documented in the resume attached to the email.<font color="#dd0000">正解</font>
  (B) She feels the email contains enough information for her application.
  (C) As she isn't a native English speaker she doesn't think she will get the job.
  (D) She is not applying for herself, but for a friend.
@@ -32412,7 +32412,7 @@ Chapter One: Around the House
  
 What is the purpose of this chart?
  (A) It tells the reader how to use household products.
- (B) It tells readers the page numbers where certain words can be found.(正解)
+ (B) It tells readers the page numbers where certain words can be found.<font color="#dd0000">正解</font>
  (C) It is an order form for a customer.
  (D) It tells customers where they can buy a certain product.
 上述資訊目的為以下何者選項？
@@ -32426,7 +32426,7 @@ d. 告知讀者何處能採購特定商品
  
  
 What page deals with makeup?
- (A) Page 17(正解)
+ (A) Page 17<font color="#dd0000">正解</font>
  (B) Page 24
  (C) Page 10
  (D) Page 18
@@ -32444,7 +32444,7 @@ According to the chart, how many sections are there in chapter one?
  (A) 1
  (B) 8
  (C) 24
- (D) 9(正解)
+ (D) 9<font color="#dd0000">正解</font>
 根據以上表格，第一章共有幾小節？
 a. 1
 b. 8
@@ -32543,7 +32543,7 @@ evaluation n. 估計，評估
  
 Which of the following article submissions would be appropriate for next month's newsletter?
  (A) Why I try to drink at least 2L of water every day at work.
- (B) How a post-lunch stroll helps with my digestion. (正解)
+ (B) How a post-lunch stroll helps with my digestion. <font color="#dd0000">正解</font>
  (C) My secret strategy for impressing potential clients.
  (D) How adjusting your chair can reduce neck pain.
 下個月的新聞報中會看到以下哪一篇投稿文？
@@ -32557,7 +32557,7 @@ d. 如何調整座椅減輕頸部疼痛。
  
  
 Which of the following is true about Seva's proposed article idea?
- (A) She wasn't really being serious. (正解)
+ (A) She wasn't really being serious. <font color="#dd0000">正解</font>
  (B) She is making fun of Courtney Love.
  (C) She truly wants to write about this topic.
  (D) She thinks everybody should adopt her strategy.
@@ -32573,7 +32573,7 @@ d. 她認為每個人都應該採用她的策略。
  
 What does Courtney Love ask about?
  (A) photographs to accompany the article
- (B) wordcount (正解)
+ (B) wordcount <font color="#dd0000">正解</font>
  (C) content
  (D) article structure
 Courtney Love在問什麼？
@@ -32589,7 +32589,7 @@ d. 文章結構
 By the end of the chat, how many people have agreed to contribute articles?
  (A) zero
  (B) one
- (C) two (正解)
+ (C) two <font color="#dd0000">正解</font>
  (D) three
 聊天結束時，有多少人同意提交文章？
 a. 零
@@ -32702,7 +32702,7 @@ What is the writer's attitude towards the Microsoft Office training program?
  (A) He thinks it is too expensive.
  (B) He thinks it is a waste of time.
  (C) He didn't have a very good time.
- (D) He thinks it is a good idea.(正解)
+ (D) He thinks it is a good idea.<font color="#dd0000">正解</font>
 作者認為微軟辦公軟體訓練如何？
 a. 價格太昂貴
 b. 浪費時間
@@ -32714,7 +32714,7 @@ d. 非常好
  
  
 How much would the course cost per person with the cooperate group discount?
- (A) $200 per person.(正解)
+ (A) $200 per person.<font color="#dd0000">正解</font>
  (B) $300 per person.
  (C) $250 per person.
  (D) $150 per person.
@@ -32729,7 +32729,7 @@ d. 每人美金150元
  
  
 What is the name of the group that runs the training program?
- (A) Academy Software Consultants.(正解)
+ (A) Academy Software Consultants.<font color="#dd0000">正解</font>
  (B) Sherman Oaks, California.
  (C) Carl Perkins.
  (D) Hamm & Webb.
@@ -32746,7 +32746,7 @@ d. Hamm & Webb.
 In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "This will help us to maintain an advantage in a very competitive marketplace."
  (A) (1)
  (B) (2)
- (C) (3)(正解)
+ (C) (3)<font color="#dd0000">正解</font>
  (D) (4)
 以下的句子何者最適合放入選項(1), (2), (3)或(4)的所在位置？
 
@@ -32936,7 +32936,7 @@ accordingly adv. 相應地，因此
 Why did this customer call a customer service helpdesk?
  (A) He wanted to close his account with Sahara.
  (B) One of his orders did not arrive by the estimated arrival date.
- (C) He needed to ask for new online account login details.(正解)
+ (C) He needed to ask for new online account login details.<font color="#dd0000">正解</font>
  (D) He wanted to open a new account with Sahara.
 這位顧客為什麼打電話給顧客服務中心？
 a. 他想結束他在Sahara的帳號。
@@ -32952,7 +32952,7 @@ What does the customer service adviser tell the customer to do?
  (A) Keep trying his new account details until they work.
  (B) Call again if his new account details don't work.
  (C) Give up.
- (D) Invite one of his friends to type in his new details.(正解)
+ (D) Invite one of his friends to type in his new details.<font color="#dd0000">正解</font>
 這位顧客服務顧問要該客戶做什麼？
 a. 繼續試他的新帳號資料一直到成功為止。
 b. 如果他的新帳號不能用的話就再次來電。
@@ -32964,7 +32964,7 @@ d. 請他的一位朋友幫他輸入他的新帳號資訊。
  
  
 How does the customer feel about the customer service he received over the phone?
- (A) The customer service adviser was rude to him.(正解)
+ (A) The customer service adviser was rude to him.<font color="#dd0000">正解</font>
  (B) The customer service adviser was not qualified to do his job.
  (C) The customer service adviser was very helpful.
  (D) The customer service adviser asked him inappropriate questions.
@@ -32981,7 +32981,7 @@ d. 該顧客服務顧問詢問他不恰當的問題。
 Apart from this phone call, how does the customer feel about the service offered by Sahara?
  (A) He feels the service could be improved.
  (B) He is very dissatisfied with the service.
- (C) He has always been satisfied with the service.(正解)
+ (C) He has always been satisfied with the service.<font color="#dd0000">正解</font>
  (D) This is the first time he has used the website.
 撇開這通電話來說，該客戶覺得Sahara所提供的服務如何？
 a. 他覺得服務可以再改進。
@@ -32996,7 +32996,7 @@ d. 這是他第一次使用這個網站。
 What is going to happen to the customer service adviser that this customer wrote in to complain about?
  (A) He will receive a pay raise.
  (B) His pay will stay the same.
- (C) He is going to receive a warning. (正解)
+ (C) He is going to receive a warning. <font color="#dd0000">正解</font>
  (D) He is going to be fired immediately.
 顧客檢舉該名客服人員後，以下選項何者將會發生在該客服人員身上？
 a. 他會收到加薪。
@@ -33064,7 +33064,7 @@ Andrea Belmont   下午2:37
  
 What does Rick Notley mean when he says "ATM"?
  (A) all too much
- (B) at the moment (正解)
+ (B) at the moment <font color="#dd0000">正解</font>
  (C) amount
  (D) automatic teller machine
 Rick Notley 說的「ATM」是什麼意思？
@@ -33078,7 +33078,7 @@ d. 自動提款機
  
  
 What was the result of Rick's guidance?
- (A) The problem remained unresolved. (正解)
+ (A) The problem remained unresolved. <font color="#dd0000">正解</font>
  (B) The problem was resolved after a short time.
  (C) Andrea learned a special trick.
  (D) Andrea didn't follow his instructions correctly.
@@ -33138,7 +33138,7 @@ What is the point of this interoffice memo?
  (A) An employee is complaining to his boss about a colleague.
  (B) An employee is asking his boss for holiday time.
  (C) The boss is reprimanding his employees for forgetting to clock in.
- (D) To remind employees about policies for holiday leave.(正解)
+ (D) To remind employees about policies for holiday leave.<font color="#dd0000">正解</font>
 此公告的目的為何？
 a. 員工向老闆抱怨其他同仁
 b. 員工向老闆要求假期 
@@ -33151,7 +33151,7 @@ d. 提醒員工假期相關規定
  
 Where might we see this piece of writing?
  (A) In newspaper or magazine.
- (B) In an office or place of business. (正解)
+ (B) In an office or place of business. <font color="#dd0000">正解</font>
  (C) In an advertisement.
  (D) In a manual or handbook.
 我們可能在哪裡看見這張公告？
@@ -33167,7 +33167,7 @@ d. 使用說明手冊
 How much advance notice is needed in order to take a day off?
  (A) Two days advanced notice.
  (B) One month advanced notice.
- (C) Two weeks advanced notice.(正解)
+ (C) Two weeks advanced notice.<font color="#dd0000">正解</font>
  (D) One week advanced notice.
 如需請假需要提前多久通知？
 a. 2天
@@ -33182,7 +33182,7 @@ d. 1周
 What can we infer based on this article?
  (A) The boss expects the business to close down very soon because of staff shortage.
  (B) The employees do not like their boss.
- (C) The boss is anticipating that several employees will need holiday time.(正解)
+ (C) The boss is anticipating that several employees will need holiday time.<font color="#dd0000">正解</font>
  (D) Taking time off is no longer allowed in this office.
 由此文章我們可以推斷下列何者選項？
 a. 由於員工短缺，因此老闆認為公司即將關門大吉 
@@ -33230,7 +33230,7 @@ opportunity n. 機會
  
  
 What would be an appropriate title for this article?
- (A) Manitoba's Amazing Snake Congregation.(正解)
+ (A) Manitoba's Amazing Snake Congregation.<font color="#dd0000">正解</font>
  (B) Winter Habitats of Manitoba.
  (C) Snakes of Canada.
  (D) Dangerous Snakes found in Canada.
@@ -33248,7 +33248,7 @@ How do red-garter snakes survive the winter in Manitoba?
  (A) Snakes cannot live in Manitoba.
  (B) Scientists catch them and put them in warm places.
  (C) They have adapted to live in snow.
- (D) They live deep beneath the ground in limestone caves. (正解)
+ (D) They live deep beneath the ground in limestone caves. <font color="#dd0000">正解</font>
 紅邊無毒小蛇如何在曼尼托巴的嚴冬生存？
 a. 蛇類無法生存於曼尼托巴
 b. 科學家將牠們移至溫暖處
@@ -33432,7 +33432,7 @@ managerial adj. 管理人的，經理的
  
  
 What kind of person is Langston Call Center looking for?
- (A) Someone who is socially confident.(正解)
+ (A) Someone who is socially confident.<font color="#dd0000">正解</font>
  (B) Someone who is new to computers.
  (C) Someone who is introverted.
  (D) Someone who can work nights, Monday to Friday.
@@ -33449,7 +33449,7 @@ d. 可以週一至週五晚上工作的人。
 What is unique about the hourly pay at Langston Call Center?
  (A) It is higher during night shifts than daytime shifts.
  (B) More pay is offered to employees who can type at least 30 words a minute.
- (C) It's higher at Langston Call Center than it is at other call centers in NJ.(正解)
+ (C) It's higher at Langston Call Center than it is at other call centers in NJ.<font color="#dd0000">正解</font>
  (D) It's higher because Langston Call Center has hi-tech equipment.
 隆斯頓電訊中心的時薪有什麼獨特的地方？ 
 a. 夜班比日班較高。 
@@ -33463,7 +33463,7 @@ d. 因為隆斯頓電訊中心擁有高科技設備所以比較高。
  
 Which piece of information in the position summary is false?
  (A) The location.
- (B) The hours. (正解)
+ (B) The hours. <font color="#dd0000">正解</font>
  (C) The payrate.
  (D) The necessary qualifications.
 以下有關這個職位的訊息何者為非？
@@ -33480,7 +33480,7 @@ Which position does Jeremy Hansen want to apply for?
  (A) The 10:00 PM to 5:30 AM position.
  (B) A managerial position.
  (C) A position as a call agent in Trenton.
- (D) The 8:30 AM to 5:30 PM position.(正解)
+ (D) The 8:30 AM to 5:30 PM position.<font color="#dd0000">正解</font>
 Jeremy Hansen想應徵哪一個職位？ 
 a. 晚上10點到早上05點30的職位。 
 b. 管理職位。 
@@ -33495,7 +33495,7 @@ How soon after changing cities does he want to start work?
  (A) Three days later.
  (B) One day later.
  (C) On the same day.
- (D) Four days later.(正解)
+ (D) Four days later.<font color="#dd0000">正解</font>
 他在遷移城市多久後就想要開始工作？ 
 a. 三天後。 
 b. 一天後。
@@ -33584,7 +33584,7 @@ venue n. (事件，行動等)集合地，發生地
 Which of the following is NOT true?
  (A) Anastasia Archibald is getting married.
  (B) Anastasia Archibald is willing to pay anything for the venue.
- (C) Anastasia Archibald lives at the Biltmore Estate.(正解)
+ (C) Anastasia Archibald lives at the Biltmore Estate.<font color="#dd0000">正解</font>
  (D) Anastasia Archibald wants a reply as soon as possible.
 下列哪項不正確？ 
 a. Anastasia Archibald要結婚了。 
@@ -33598,7 +33598,7 @@ d. Anastasia Archibald想盡快得到答覆。
  
 Who will be replying to this email?
  (A) No one.
- (B) Tallulah Flowers.(正解)
+ (B) Tallulah Flowers.<font color="#dd0000">正解</font>
  (C) Biltmore Estate.
  (D) Anastasia Archibald.
 以下何者將會回覆此郵件？ 
@@ -33801,7 +33801,7 @@ What can you not get using this supply form?
  (A) You can get everything you need.
  (B) General stationery.
  (C) You cannot get a recycling bin.
- (D) You cannot get any kind of computer/technology equipment.(正解)
+ (D) You cannot get any kind of computer/technology equipment.<font color="#dd0000">正解</font>
 這張備品申請表無法取得以下何者？ 
 a. 你可以得到任何你需要的東西。 
 b. 一般文具。 
@@ -33814,7 +33814,7 @@ d. 你不能得到任何種電腦/電子設備。
  
 Who do you need to give this to once you have finished filling the form out?
  (A) You need to send it by email.
- (B) You can give it to payroll.(正解)
+ (B) You can give it to payroll.<font color="#dd0000">正解</font>
  (C) You need to go to the office down the hall.
  (D) You can discard it.
 表格填寫完畢後你需要把交給哪一個部門？ 
@@ -33829,7 +33829,7 @@ d. 您可以將它丟棄。
  
 Did this person fill the form out correctly?
  (A) Yes, they did a very good job.
- (B) No, they did not write their name.(正解)
+ (B) No, they did not write their name.<font color="#dd0000">正解</font>
  (C) No, they need to write how many scissors they want.
  (D) They need to add two calculators.
 這個人是否已正確地填寫表格？ 
@@ -33885,7 +33885,7 @@ awareness n. 察覺，體認
  
 Which charity will this cook-off be raising money for?
  (A) New York City.
- (B) City Harvest.(正解)
+ (B) City Harvest.<font color="#dd0000">正解</font>
  (C) The Foundry.
  (D) Burger Cook-Off.
 這場烹飪比賽將為以下哪個慈善機構籌集資金？ 
@@ -33902,7 +33902,7 @@ What will the winner get if they win the cook-off?
  (A) They will win $25.
  (B) They will win ownership of City Harvest.
  (C) They will be crowned the Burger Champion.
- (D) The announcement does not say.(正解)
+ (D) The announcement does not say.<font color="#dd0000">正解</font>
 贏得比賽的獲勝者將獲得以下何者？ 
 a. 他們將贏得25美元。 
 b. 他們將贏得城市豐收基金會的所有權。 
@@ -33984,7 +33984,7 @@ corporate adj. 法人(組織)的，公司的
 What information is not included?
  (A) Job description.
  (B) Job title.
- (C) Hourly pay.(正解)
+ (C) Hourly pay.<font color="#dd0000">正解</font>
  (D) Ideal candidate description.
 以下資訊何者不包括在內文中？ 
 a. 職位描述。 
@@ -33998,7 +33998,7 @@ d. 理想應徵者的描述。
  
 What kind of experience do you need to apply?
  (A) You need to have worked on two cases.
- (B) No experience is necessary.(正解)
+ (B) No experience is necessary.<font color="#dd0000">正解</font>
  (C) You must be able to pretend to be a cop.
  (D) You must have prior detective experience.
 你需要什麼樣的經驗？ 
@@ -34014,7 +34014,7 @@ d. 你之前必須當過偵探。
 Do you have to undergo an interview to get the job?
  (A) You only need to have participated in three investigations.
  (B) Yes, and the interview starts at 3:00.
- (C) Yes, and you have to bring a resume and background check.(正解)
+ (C) Yes, and you have to bring a resume and background check.<font color="#dd0000">正解</font>
  (D) No, you only have to take a six-month training course.
 你需要接受面談才能得到這份工作嗎？ 
 a. 你只需要參與過三次案件調查。 
@@ -34030,7 +34030,7 @@ What kind of investigations might you be involved in?
  (A) Sherlock Holmes cases.
  (B) Finding a job.
  (C) TV show investigations.
- (D) Identity theft.(正解)
+ (D) Identity theft.<font color="#dd0000">正解</font>
 也許你介入什麼樣的調查？ 
 a. 福爾摩斯案件。 
 b. 找工作。 
@@ -34180,7 +34180,7 @@ contribute v. 捐款，捐獻；貢獻
  
 What should be done with all of the transactions from the year 2000?
  (A) They should be labeled blue.
- (B) They should be moved to the rear side of the file cabinets.(正解)
+ (B) They should be moved to the rear side of the file cabinets.<font color="#dd0000">正解</font>
  (C) They should be labeled pink.
  (D) They should be put on the big tables near the water cooler.
 2000年所有的交易應該要怎麼處理？ 
@@ -34195,7 +34195,7 @@ d. 他們應放在靠近水冷器的大桌子上。
  
 Excluding today, how many working days does Mrs. Jackson have left to complete the task?
  (A) Three days.
- (B) Two days.(正解)
+ (B) Two days.<font color="#dd0000">正解</font>
  (C) Five days.
  (D) Four days.
 除了今天之外， 傑克森太太還有幾天可以完成此工作？ 
@@ -34211,7 +34211,7 @@ d. 四天。
 How does Mrs. Jackson react to the memo?
  (A) She replies to Mr. Fernando with another memo.
  (B) She sends a memo to the boss.
- (C) She sends a memo to Ms. Wells.(正解)
+ (C) She sends a memo to Ms. Wells.<font color="#dd0000">正解</font>
  (D) She sends a memo to all of her staff.
 傑克森太太對於備忘錄如何反應？ 
 a. 她另一個備忘錄回Peter Fernando先生。 
@@ -34226,7 +34226,7 @@ d. 她發出了一份備忘錄給她所有的員工。
 What additional request does Mrs. Jackson make?
  (A) For Ms. Wells to help organize the file cabinets in the future.
  (B) To buy some extra labels of the same color.
- (C) To purchase some different colored labels.(正解)
+ (C) To purchase some different colored labels.<font color="#dd0000">正解</font>
  (D) To order over 2,000 labels of each color next time.
 傑克森太太額外提出的要求為以下何者？ 
 a. 請威爾斯小姐未來幫忙整理文件櫃。 
@@ -34242,7 +34242,7 @@ Who initially requested that the file cabinets be reorganized?
  (A) Mr. Fernando.
  (B) Mrs. Jackson.
  (C) Ms. Wells.
- (D) Mr. Marks.(正解)
+ (D) Mr. Marks.<font color="#dd0000">正解</font>
 最初是誰所要求重新整理文件櫃？ 
 a. Fernando先生。 
 b. Jackson太太
@@ -34283,7 +34283,7 @@ Can you buy the shaker in stores around the world?
  (A) You can only buy them in Kenya.
  (B) You can get it at any Wal-Mart.
  (C) You can only buy them online.
- (D) No, it is just a prototype. (正解)
+ (D) No, it is just a prototype. <font color="#dd0000">正解</font>
 你可以世界各地的商店買這個搖動器嗎？ 
 a. 你只能在肯亞買到。 
 b. 您可以在任何一間Wal-Mart買到。 
@@ -34295,7 +34295,7 @@ d. 不行，它還只是一個原型。
  
  
 What exactly is Spark?
- (A) A device that can produce energy when shaken.(正解)
+ (A) A device that can produce energy when shaken.<font color="#dd0000">正解</font>
  (B) A group that raises money for impoverished people in Kenya.
  (C) A light that uses low-energy batteries.
  (D) A new kind of phone that makes light when you dance.
@@ -34312,7 +34312,7 @@ d. 一種跳舞時會發光的新手機。
 In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "This is equivalent to 60 watts of energy."
  (A) (1)
  (B) (2)
- (C) (3)(正解)
+ (C) (3)<font color="#dd0000">正解</font>
  (D) (4)
 以下句子最適合放在空格(1), (2), (3), (4)的哪個位置？
 『這相當於六十瓦特的電量。』
@@ -34358,7 +34358,7 @@ pollinate v. 授粉
 What is an appropriate title for this article?
  (A) The Sunshine State.
  (B) Botanical Gardens. Now Open!
- (C) The Rarest of them All.(正解)
+ (C) The Rarest of them All.<font color="#dd0000">正解</font>
  (D) Come Visit Sumatra.
 以下標題何者適合這篇文章？ 
 a. 陽光之州。 
@@ -34372,7 +34372,7 @@ d. 前來參觀蘇門答臘。
  
 Which of the following is true about the titan arum?
  (A) It has the most beautiful smell.
- (B) It is native to Sumatra.(正解)
+ (B) It is native to Sumatra.<font color="#dd0000">正解</font>
  (C) It enjoys self-pollinating.
  (D) It is native to Sarasota, Florida.
 關於titan arum(屍花)的敘述已下列何者正確？ 
@@ -34386,7 +34386,7 @@ d. 它原產於佛羅里達州的薩洛索塔。
  
  
 How long will the flower bloom?
- (A) It will bloom for 48 hours.(正解)
+ (A) It will bloom for 48 hours.<font color="#dd0000">正解</font>
  (B) It will bloom for 10 years.
  (C) It will bloom for 4 months.
  (D) Only for a couple of weeks.
@@ -34402,7 +34402,7 @@ d. 只有幾個星期。
  
 Can readers go see the titan arum mentioned in the article in bloom now?
  (A) Of course. It blooms every 10 hours.
- (B) Probably not. The flower opened up about a week ago.(正解)
+ (B) Probably not. The flower opened up about a week ago.<font color="#dd0000">正解</font>
  (C) No, they already moved it back to Sumatra.
  (D) Yes, the scientists figured out a way to make it bloom for longer.
 讀者現在可以去看在文章中提及的titan arum(屍花)開花嗎？ 
@@ -34480,7 +34480,7 @@ magnificent adj. 壯麗的，宏偉的，華麗的
  
  
 What can interested parties do if they can't make it to the open house?
- (A) Call the number that is provided.(正解)
+ (A) Call the number that is provided.<font color="#dd0000">正解</font>
  (B) Walk in to the closet.
  (C) Ask their friends to join.
  (D) See the floor plans at the bottom.
@@ -34497,7 +34497,7 @@ d. 看看下方的平面圖。
 What is not included or attached to each bedroom?
  (A) A walk-in closet.
  (B) A bathroom.
- (C) A balcony.(正解)
+ (C) A balcony.<font color="#dd0000">正解</font>
  (D) A king-sized bed.
 以下選項何者不包括在每間臥房裡？ 
 a. 衣物間。 
@@ -34766,7 +34766,7 @@ According to the order form, when does the client need to pay for the order?
  (A) June 17
  (B) July 17
  (C) 30 days or more before the product is delivered
- (D) 30 days or less after the product is delivered (正解)
+ (D) 30 days or less after the product is delivered <font color="#dd0000">正解</font>
 根據這篇訂單文件顯示，客戶何時需要支付訂單費用？
 a. 6/17
 b. 7/17
@@ -34779,7 +34779,7 @@ d. 產品寄送後的30天或30天之內付費
  
 Which of the following is NOT true about the order?
  (A) The discount rate and tax rate are the same.
- (B) The invoice is recorded in US dollars. (正解)
+ (B) The invoice is recorded in US dollars. <font color="#dd0000">正解</font>
  (C) The delivery address is in Australia.
  (D) The customer and supplier already have a contract.
 下列哪一些關於訂單的資訊不正確？
@@ -34795,7 +34795,7 @@ d. 顧客和供應商已締結契約
 When does the purchasing client require these products?
  (A) On June 17.
  (B) Before July 17.
- (C) The products are not needed urgently(正解)
+ (C) The products are not needed urgently<font color="#dd0000">正解</font>
  (D) As soon as possible
 購買客戶何時需要收到這些商品？
 a. 6/17
@@ -34811,7 +34811,7 @@ Why didn't the purchasing client receive an order confirmation email?
  (A) The products are sold out.
  (B) The products have been discontinued.
  (C) There was a holiday in Australia.
- (D) There was a holiday in Singapore. (正解)
+ (D) There was a holiday in Singapore. <font color="#dd0000">正解</font>
 為什麼訂購客戶沒收到訂單確認信？
 a. 這些產品已售罄
 b. 這些產品已停產
@@ -34825,7 +34825,7 @@ d. 新加坡有長假
 Which of the following might Sheryl Crow say in her reply to Diane Kesler?
  (A) Yes, we can agree to your new price offer.
  (B) Yes, we will be happy to contact the manufacturer ourselves.
- (C) Yes, we'd still like you to send us the tapestries. (正解)
+ (C) Yes, we'd still like you to send us the tapestries. <font color="#dd0000">正解</font>
  (D) Yes, we'd like to try one of your new bedspread and pillowcase themes.
 下列哪一項可能會是Sheryl Crow回覆給Diane Kesler的訊息？
 a. 好的，我們同意你所提供的新報價
@@ -34973,7 +34973,7 @@ What is different for local and international artists?
  (A) The deadline for local artists is sooner than it is for international artists.
  (B) The studio can accommodate more international artists than local artists.
  (C) Local artists must stay longer than international artists.
- (D) International artists cannot get financial aid from the studio.(正解)
+ (D) International artists cannot get financial aid from the studio.<font color="#dd0000">正解</font>
 本地和國際藝術家有什麼不同？ 
 a. 本地藝術家的截止日期早於國際藝術家。 
 b. 工作室可容納比本地藝術家更多的國際藝術家。 
@@ -34986,7 +34986,7 @@ d. 國際藝術家無法獲得工作室的財務資助。
  
 What must an international artist who wants to reside at the studio do?
  (A) Stay over 2 years.
- (B) Stay at least 4 months.(正解)
+ (B) Stay at least 4 months.<font color="#dd0000">正解</font>
  (C) Apply after October 14th.
  (D) Call the studio before emailing them.
 以下何者是想住在工作室的國際藝術家必須做的事？ 
@@ -35000,7 +35000,7 @@ d. 寄發電子郵件給工作室之前先打電話。
  
  
 Omitting the time she will be in London, about how many months does Beatrice plan to stay in the studio?
- (A) 9 months.(正解)
+ (A) 9 months.<font color="#dd0000">正解</font>
  (B) 8 months.
  (C) 7 months.
  (D) 10 months.
@@ -35018,7 +35018,7 @@ What is Beatrice trying to decide on?
  (A) How long she wants to stay at Seine River Art Studio.
  (B) Whether her German friend would like the studio or not.
  (C) Where she will stay while she is in London.
- (D) Whether to stay at Seine River Art Studio or somewhere else.(正解)
+ (D) Whether to stay at Seine River Art Studio or somewhere else.<font color="#dd0000">正解</font>
 Beatrice將以下列何者選項來決定？ 
 a. 她要留在塞納河藝術工作室多久。 
 b. 她的德國朋友是否想住在工作室。 
@@ -35030,7 +35030,7 @@ d. 住在塞納河藝術工作室或其他地方。
  
  
 Which of Beatrice's questions is answered on the FAQ page?
- (A) Is there a chance I can sublet the studio? (正解)
+ (A) Is there a chance I can sublet the studio? <font color="#dd0000">正解</font>
  (B) Is the studio lobby open 24 hours a day?
  (C) Can you recommend some outside sources that provide funding for international artists?
  (D) Do I have to pay for the studio while I'm gone?
@@ -35093,7 +35093,7 @@ Amber Lane   19:35
 What kind of incident are the two people discussing?
  (A) There was a car accident in the parking lot.
  (B) An employee got injured.
- (C) A customer fell down outside. (正解)
+ (C) A customer fell down outside. <font color="#dd0000">正解</font>
  (D) A lawyer is suing the cafe.
 以下選項何者是這兩人在討論的意外事件？
 a. 在停車場有一場車禍事故
@@ -35106,7 +35106,7 @@ d. 有一位律師正在控告這間咖啡店
  
  
 Which of the following does Mr. Slazinsky NOT advise Ms. Lane to do?
- (A) Discuss legal matters with Armand.(正解)
+ (A) Discuss legal matters with Armand.<font color="#dd0000">正解</font>
  (B) Shut down the shop.
  (C) Call an ambulance.
  (D) Ask all the customers in the shop to leave.
@@ -35474,7 +35474,7 @@ FARRO沙拉佐蕃茄和香草....................................15
  
 What part of the book is this?
  (A) The index.
- (B) The table of contents.(正解)
+ (B) The table of contents.<font color="#dd0000">正解</font>
  (C) The glossary.
  (D) The introduction.
 以上是這本書的哪一個部分？ 
@@ -35490,7 +35490,7 @@ d. 介紹文。
 What kind of book is this?
  (A) A travel book.
  (B) A menu.
- (C) A cookbook.(正解)
+ (C) A cookbook.<font color="#dd0000">正解</font>
  (D) A self-help book.
 這是一本什麼類型的書？ 
 a. 旅遊書。 
@@ -35506,7 +35506,7 @@ What is probably the meaning of Dolce?
  (A) Appetizers.
  (B) Main courses.
  (C) Drinks.
- (D) Desserts.(正解)
+ (D) Desserts.<font color="#dd0000">正解</font>
 Dolce可能的意思為以下何者？ 
 a. 開胃菜。 
 b. 主餐。 
@@ -35584,7 +35584,7 @@ Sonja Metcalf (1: 19)
  
  
 What kind of products does this company sell?
- (A) computer(正解)
+ (A) computer<font color="#dd0000">正解</font>
  (B) home appliance
  (C) garden
  (D) office supplies
@@ -35599,7 +35599,7 @@ d. 辦公室用具
  
  
 Why does Teresa Chen think she won't be able to make the sale?
- (A) Another company offered the client a lower price. (正解)
+ (A) Another company offered the client a lower price. <font color="#dd0000">正解</font>
  (B) The client wasn't satisfied with the previous order.
  (C) The client wants more freebies.
  (D) The client thinks this product isn't worth the money.
@@ -35616,7 +35616,7 @@ d. 這位客戶覺得這項產品不值這樣地價格
 What strategy does Danny Ticker suggest?
  (A) Giving the client a bigger discount.
  (B) Giving the client a paid vacation.
- (C) Giving the client free sporting event tickets. (正解)
+ (C) Giving the client free sporting event tickets. <font color="#dd0000">正解</font>
  (D) Giving the client access to VIP benefits.
 Danny Ticker建議什麼樣的策略？
 a. 更顧客更多的折扣
@@ -35630,7 +35630,7 @@ d. 給顧客貴賓優惠
  
 What is the outcome of the discussion?
  (A) They agree to give up on keeping this client.
- (B) Sonja Metcalf's boss agrees to lower the price. (正解)
+ (B) Sonja Metcalf's boss agrees to lower the price. <font color="#dd0000">正解</font>
  (C) Sonja Metcalf's boss refuses to give the client a discount.
  (D) Sonja Metcalf agrees to a 5% discount, but shipping costs will be higher.
 這場討論的結論是什麼？
@@ -35850,7 +35850,7 @@ sponsor v. 資助，為…做證人
  
 Where is United Paws for a United World located?
  (A) In a different city than Pete's Diner is located.
- (B) In Christchurch.(正解)
+ (B) In Christchurch.<font color="#dd0000">正解</font>
  (C) In Wellington.
  (D) In various cities throughout New Zealand.
 爪子大團結，團結你和我位於哪裡？ 
@@ -35864,7 +35864,7 @@ d.遍佈在紐西蘭不同的城市。
  
  
 If someone has a party of six for the event at Pete's Diner, whom should he or she contact?
- (A) Troy or Roberta.(正解)
+ (A) Troy or Roberta.<font color="#dd0000">正解</font>
  (B) Sherry or Roberta.
  (C) Dan or Roberta.
  (D) Only Roberta.
@@ -35881,7 +35881,7 @@ d. 僅 Roberta。
 Why did Julie Wilson contact Roberta?
  (A) Only to ask about future events.
  (B) To ask her to sponsor her (Julie's) grandma.
- (C) None of the above.(正解)
+ (C) None of the above.<font color="#dd0000">正解</font>
  (D) To request information about employment opportunities for her nephew.
 為什麼Julie Wilson要聯絡Roberta？ 
 a.僅僅要問有關未來的活動。 
@@ -35896,7 +35896,7 @@ d.詢問有關她侄女的就業機會的資訊。
 Why did Julie Wilson miss the event?
  (A) Because her grandma was ill.
  (B) Because she was busy with her own fundraising event.
- (C) Because she didn't see the flier.(正解)
+ (C) Because she didn't see the flier.<font color="#dd0000">正解</font>
  (D) Because she was spending time with her niece.
 為什麼Julie Wilson錯過了活動？ 
 a.因為她的奶奶生病了。 
@@ -35912,7 +35912,7 @@ Which of the following is true about the information in the email?
  (A) Julie's grandmother resides at Happy Day Animal Foundation.
  (B) Julie is an expert with computers and other digital devices.
  (C) Julie and her niece don't really like dogs.
- (D) Happy Day Animal Foundation receives money from United Paws for a United World.(正解)
+ (D) Happy Day Animal Foundation receives money from United Paws for a United World.<font color="#dd0000">正解</font>
 有關電子郵件中的訊息，下列哪項是正確的？ 
 a. Julie的祖母居住在開心時光動物基會。
 b. Julie是電腦和電子用品的專家。 
@@ -36065,7 +36065,7 @@ altercation n. 爭論，爭吵
 Which of these adjectives would best describe Barky?
  (A) Timid
  (B) Unstable
- (C) Active(正解)
+ (C) Active<font color="#dd0000">正解</font>
  (D) Lonely
 以下哪個形容詞最適合用來形容Barky？
 a. 害羞
@@ -36079,7 +36079,7 @@ d. 孤單
  
 What information was left out of the dogsitting ad?
  (A) The breed of the dog.
- (B) Specifics about payment.(正解)
+ (B) Specifics about payment.<font color="#dd0000">正解</font>
  (C) The length of the job.
  (D) Contact information.
 此廣告並未提及下列何項資訊？
@@ -36093,7 +36093,7 @@ d. 聯絡資料
  
  
 According to her e-mail, what conclusion can be drawn regarding Lasheequa?
- (A) She is knowledgeable about dogs.(正解)
+ (A) She is knowledgeable about dogs.<font color="#dd0000">正解</font>
  (B) She especially loves black labs.
  (C) She has a flexible work schedule.
  (D) She needs this job to earn extra money.
@@ -36109,7 +36109,7 @@ d. 她需要這份工作來賺外快
  
 According to Lasheequa, what may prevent her from taking in Barky?
  (A) Her location.
- (B) Her dog.(正解)
+ (B) Her dog.<font color="#dd0000">正解</font>
  (C) Her grandchild.
  (D) Her health.
 根據Lasheequa 的回信，下列何項原因可能使她無法照顧Barky？
@@ -36126,7 +36126,7 @@ What can we infer from the contract?
  (A) There were some serious negotiations over the price.
  (B) The dogsitter agreed to come to the dog owner's home.
  (C) Not all of the dog owner's requests were met.
- (D) Barky and Baxter got along when they met. (正解)
+ (D) Barky and Baxter got along when they met. <font color="#dd0000">正解</font>
 我們可以從合約中推論出以下何者？
 a. 兩方對價格有激烈的協商。
 b. 寵物保姆同意去主人的家。
@@ -36338,7 +36338,7 @@ representative n. 代理人，代表
 What's the primary complaint addressed in Mr. Boucher's e-mail?
  (A) His cheeseburger didn't have any pickles in it.
  (B) He was forced to leave the restaurant.
- (C) He was spoken to in a rude manner.(正解)
+ (C) He was spoken to in a rude manner.<font color="#dd0000">正解</font>
  (D) He wasn't allowed to exchange his meal.
 Boucher先生信中主要的客訴為何？
 a. 他的起司漢堡裡沒有酸黃瓜
@@ -36352,7 +36352,7 @@ d. 他無法更換餐點
  
 Which of the following statements is correct?
  (A) Mr. Boucher goes to Burger Banshee almost every Tuesday.
- (B) Mr. Boucher has been a Burger Banshee customer for many years.(正解)
+ (B) Mr. Boucher has been a Burger Banshee customer for many years.<font color="#dd0000">正解</font>
  (C) Mr. Boucher is seeking a complete refund for his purchase.
  (D) Mr. Boucher noticed that none of the staff were wearing name tags.
 下列何項敘述正確？
@@ -36367,7 +36367,7 @@ d. Boucher先生發現所有員工都沒有別上名牌
  
 How would the tone of Mr. Boucher's e-mail be best described?
  (A) Furious
- (B) Disappointed(正解)
+ (B) Disappointed<font color="#dd0000">正解</font>
  (C) Rude
  (D) Apologetic
 以下哪個詞彙最適合形容Boucher先生信件的語氣？
@@ -36384,7 +36384,7 @@ Which of the following measures was taken to appease Mr. Boucher?
  (A) The offending employee was suspended.
  (B) A full refund was provided.
  (C) A cash settlement was reached.
- (D) An apology was issued.(正解)
+ (D) An apology was issued.<font color="#dd0000">正解</font>
 餐廳使用下列何種方法平息Boucher先生的怒氣？
 a. 無禮的員工被停職
 b. 全額退費
@@ -36400,7 +36400,7 @@ d. 發出正式道歉
 Which of the following limitations apply to the gift certificate?
  (A) It has to be used within the calendar year.
  (B) It must be used to purchase food.
- (C) It must be used in the state it was issued.(正解)
+ (C) It must be used in the state it was issued.<font color="#dd0000">正解</font>
  (D) It has to be used on a weekday.
 以下限制是使用禮券時必須注意的？
 a. 有效期限為一年
@@ -36591,7 +36591,7 @@ During which month would a double room cost $99?
  (A) July.
  (B) October.
  (C) March.
- (D) December.(正解)
+ (D) December.<font color="#dd0000">正解</font>
 在哪個月份一大床的房間要價99美元？
 a. 七月。
 b. 十月。
@@ -36605,7 +36605,7 @@ d. 十二月。
 At what price would someone staying in a budget room be able to get room service?
  (A) $79.
  (B) $59.
- (C) $69.(正解)
+ (C) $69.<font color="#dd0000">正解</font>
  (D) $89.
 住經濟客房的人要多少錢才能有客房服務？
 a. 79美元。
@@ -36619,7 +36619,7 @@ d. 89美元。
  
 How many people are allowed to stay in a suite?
  (A) More than two people.
- (B) Between two and four people.(正解)
+ (B) Between two and four people.<font color="#dd0000">正解</font>
  (C) Only three people.
  (D) One or two people.
 一間套房允許住多少人？
@@ -36868,7 +36868,7 @@ applicant n. 申請人
  
  
 Which of the following is true about the job being advertised?
- (A) Only employees who work at the Health Services Center already can apply. (正解)
+ (A) Only employees who work at the Health Services Center already can apply. <font color="#dd0000">正解</font>
  (B) The position starts on 1 May 2015.
  (C) The candidate must have been working at the Health Services Center for 5 years.
  (D) The candidate must have formal management training.
@@ -36886,7 +36886,7 @@ What do we know about the salary?
  (A) This is a volunteer position so there is no salary.
  (B) The employee shall be paid on an hourly basis.
  (C) The salary will get higher with every year of employment.
- (D) The salary depends on the applicant's qualifications. (正解)
+ (D) The salary depends on the applicant's qualifications. <font color="#dd0000">正解</font>
 以下關於薪資的內容何者正確？
 A. 這是一個義工的職位，所以沒有薪水。
 B. 員工應當按小時支付。
@@ -36900,7 +36900,7 @@ D. 薪資取決於申請人的資格。
 Who referred Simone Lamont for the position of Manager of Patient Care: Mental Health Issues?
  (A) Her former boss.
  (B) Her friend.
- (C) Her former coworker.(正解)
+ (C) Her former coworker.<font color="#dd0000">正解</font>
  (D) Her current employer.
 誰推薦Simone Lamont精神疾病科:病人護理主管的職位？
 A. 她的前雇主。
@@ -36913,7 +36913,7 @@ D. 她現在的雇主。
  
  
 According to Brenda Shape's email, what do we know about Faruq Sleiman?
- (A) He has a strong reputation in the mental health industry. (正解)
+ (A) He has a strong reputation in the mental health industry. <font color="#dd0000">正解</font>
  (B) He's not a reliable reference.
  (C) He currently works for the Mental Health Facility of the Health Services Center in Springfield, Illinois.
  (D) He is good friends with Brenda.
@@ -36930,7 +36930,7 @@ D. 他是Brenda的好朋友。
 What will each of the four shortlisted candidates have to do next?
  (A) Submit a full CV.
  (B) Conduct a stage 1 interview with Brenda Shape.
- (C) Conduct a stage 2 interview with Mrs. Kent. (正解)
+ (C) Conduct a stage 2 interview with Mrs. Kent. <font color="#dd0000">正解</font>
  (D) Conduct a 4-person group interview.
 四位最後的候選人下一步要做什麼？
 A. 提交完整的履歷。
@@ -37188,7 +37188,7 @@ champagne n. 香檳
  
 How many nights does Mr. Wang's party intend to stay at the hotel?
  (A) 1 night.
- (B) 2 night.(正解)
+ (B) 2 night.<font color="#dd0000">正解</font>
  (C) 3 night.
  (D) He did not specify.
 王先生一行人預計在飯店待幾晚？
@@ -37202,7 +37202,7 @@ d. 他並未提及此部分
  
  
 Which of the following is not a concern expressed by Mr. Wang?
- (A) The number of beds per room.(正解)
+ (A) The number of beds per room.<font color="#dd0000">正解</font>
  (B) The location of the hotel.
  (C) Getting a group discount.
  (D) The availability of dining facilities.
@@ -37220,7 +37220,7 @@ Why did Mr. Wang decide on this particular hotel?
  (A) It got a good online review.
  (B) The groom requested it.
  (C) He saw an ad in a magazine.
- (D) A co-worker recommended it.(正解)
+ (D) A co-worker recommended it.<font color="#dd0000">正解</font>
 為什麼王先生會選擇這間飯店？
 a. 此飯店網路評價良好
 b. 應新郎要求
@@ -37234,7 +37234,7 @@ d. 同事曾經提過
 If Mr. Wang's party books this hotel, what floor will they be staying on?
  (A) They will stay on the 12th floor.
  (B) They will stay on the 13th floor.
- (C) This has yet to be determined.(正解)
+ (C) This has yet to be determined.<font color="#dd0000">正解</font>
  (D) They will be split between the 12th and 13th floors.
 若王先生一行人入宿此飯店，他們的房間將位於何樓層呢？
 a. 12樓
@@ -37250,7 +37250,7 @@ Which of the following incentives was NOT mentioned by Mrs. Kowalski?
  (A) A free shuttle service to the casinos.
  (B) Free drinks with dinner.
  (C) A discount for booking early.
- (D) A free ride to the airport.(正解)
+ (D) A free ride to the airport.<font color="#dd0000">正解</font>
 Kowalski女士並未提及以下哪項優惠？
 a. 主要賭場免費接駁
 b. 於慶祝晚會上提供免費飲料
@@ -37365,7 +37365,7 @@ Three tables: $10 per hour
  
 How much would it cost for two people to get one table from 5:00 p.m. to 6:00 p.m. on Sunday?
  (A) $7.50.
- (B) $2.50.(正解)
+ (B) $2.50.<font color="#dd0000">正解</font>
  (C) $5.
  (D) $7.
 週日下午5點到6點二個人一桌要多少錢？
@@ -37380,7 +37380,7 @@ d. 7美元。
  
 How much would it cost for five people to get one table from 7:30 p.m. to 9:30 p.m. on Tuesday?
  (A) $10.
- (B) $12.(正解)
+ (B) $12.<font color="#dd0000">正解</font>
  (C) $17.
  (D) None of the above.
 週二晚上7點半到9點半五個人一桌要多少錢？
@@ -37560,7 +37560,7 @@ dimension n. 面積，容積，規模；尺寸
  
  
 Which of the following is NOT included in the monthly rental fee for the property in the ad?
- (A) Electricity(正解)
+ (A) Electricity<font color="#dd0000">正解</font>
  (B) Parking
  (C) Internet
  (D) Furniture
@@ -37578,7 +37578,7 @@ According to Mr. Fitzpatrick, how many people will likely share this apartment?
  (A) He will live alone.
  (B) That cannot be determined.
  (C) Three people will share it.
- (D) Two people will share it.(正解)
+ (D) Two people will share it.<font color="#dd0000">正解</font>
 根據Fitzpatrick先生的回信，之後將有多少人搬入此公寓？
 a. 他自己一個人
 b. 尚未確定
@@ -37592,7 +37592,7 @@ d. 兩位
 Which of the following things did Mr. Fitzpatrick NOT inquire about?
  (A) The monthly cost of utilities.
  (B) The size of the bedrooms.
- (C) How many years he can rent the apartment.(正解)
+ (C) How many years he can rent the apartment.<font color="#dd0000">正解</font>
  (D) Rules and regulations for pets.
 以下問題何者是Fitzpatrick先生沒有提及？
 a. 每個月的其他費用
@@ -37609,7 +37609,7 @@ What is the name of the apartment complex in which the originally advertised pro
  (A) Brixton Street.
  (B) Real Estate Properties.
  (C) Boulevard Mansions.
- (D) Crestwood Estates.(正解)
+ (D) Crestwood Estates.<font color="#dd0000">正解</font>
 原出租廣告所在點的公寓大樓名稱是什麼？
 a. 布里斯頓街
 b. 物產公司
@@ -37623,7 +37623,7 @@ d. 克斯伍德大樓
 How much is the new apartment that Mr. Bronson offers to Mr. Fitzpatrick?
  (A) 1800/month plus utilities
  (B) 1800/month, utilities included
- (C) 1900/month plus utilities(正解)
+ (C) 1900/month plus utilities<font color="#dd0000">正解</font>
  (D) 1900/month, utilities included
 Bronson先生向Fitzpatrick先生提及的新公寓的租金為以下何者？
 a. 每月1800美金外加水電瓦斯費
@@ -37698,7 +37698,7 @@ maintenance n. 維持；維修，保養
 What is this passage?
  (A) A section from a magazine article about housekeeping.
  (B) A letter of recommendation.
- (C) A help wanted ad.(正解)
+ (C) A help wanted ad.<font color="#dd0000">正解</font>
  (D) A user's guide to housecleaning.
 這段內容是什麼？
 a. 雜誌裡一段關於管家的文章。
@@ -37714,7 +37714,7 @@ What task is the housekeeper expected to do?
  (A) Clean the house every day of the week.
  (B) Go grocery shopping almost every morning.
  (C) Wear a formal uniform.
- (D) Feed the dogs.(正解)
+ (D) Feed the dogs.<font color="#dd0000">正解</font>
 管家被要指望做什麼事？
 a. 一週裡每天必須打掃房子。
 b. 每天早上去採買雜貨。
@@ -37728,7 +37728,7 @@ d. 餵狗。
 Why can't the house owners do weekday grocery shopping?
  (A) Because they have business meetings early on all weekdays.
  (B) Because they have to feed the dogs on those days.
- (C) Because their work schedule has been demanding lately.(正解)
+ (C) Because their work schedule has been demanding lately.<font color="#dd0000">正解</font>
  (D) Because they can only shop at night.
 房子的主人為什麼平日沒辦法去採購雜貨？
 a. 因為他們平日每天一大早要開業務會議。
@@ -37743,7 +37743,7 @@ d. 因為他們只能在晚上採買。
 In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "We will leave a list of items on Tuesday and Thursday mornings."
  (A) (1)
  (B) (2)
- (C) (3)(正解)
+ (C) (3)<font color="#dd0000">正解</font>
  (D) (4)
 以下的句子在文章所標示 (1), (2), (3), 和 (4) 的位置中，應被放在哪裡?
 
@@ -37815,7 +37815,7 @@ Maja Desmond   9:27 a.m.
 How much teal blue cloth will Maja Desmond order?
  (A) 200 meters
  (B) 300 meters
- (C) 400 meters (正解)
+ (C) 400 meters <font color="#dd0000">正解</font>
  (D) It is no longer available.
 Maja Desmond將訂購多少藍綠色布料？
 a. 200 米
@@ -37831,7 +37831,7 @@ Which of the following is true about this company?
  (A) They no longer want to purchase this product in the future.
  (B) They want to purchase this product in a variety of materials.
  (C) They want to purchase this product in a variety of colors.
- (D) They prefer to stick to this product or something nearly identical.(正解)
+ (D) They prefer to stick to this product or something nearly identical.<font color="#dd0000">正解</font>
 關於這家公司，以下選項何者為真？
 a. 他們在未來不再想購買這款產品。
 b. 他們要購買各種材質的這款產品。
@@ -37941,7 +37941,7 @@ currency n. 貨幣
 What is the main thing the author is asking for?
  (A) Information about the climate.
  (B) Help with discussions and demonstrations.
- (C) A monetary contribution.(正解)
+ (C) A monetary contribution.<font color="#dd0000">正解</font>
  (D) Donations of only $100 or more.
 作者主要的請求為何？
 a. 關於氣候的資訊。
@@ -37954,7 +37954,7 @@ d. 僅100美元或更高的捐款。
  
  
 Which of the following is NOT one of the ways Climate Watch brings attention to their cause?
- (A) Walking longer distances at each event.(正解)
+ (A) Walking longer distances at each event.<font color="#dd0000">正解</font>
  (B) Marching through big cities.
  (C) Talking at numerous schools.
  (D) Giving demonstrations to both prominent companies and ordinary people.
@@ -38018,7 +38018,7 @@ In which of the positions marked (1), (2), (3), and (4) does the following sente
  (A) (1)
  (B) (2)
  (C) (3)
- (D) (4)(正解)
+ (D) (4)<font color="#dd0000">正解</font>
 以下的句子在文章所標示 (1), (2), (3), 和 (4) 的位置中，應被放在哪裡?
 
 "如果您已經托運您的行李，但需要加增加一個過大的筆記本電腦，請向您的登記櫃檯查詢。"
@@ -38036,7 +38036,7 @@ What should a passenger do if his or her laptop is too big?
  (A) Inform airport personnel.
  (B) Put it in a special container.
  (C) Wait at the security gate.
- (D) Put it in his or her checked baggage.(正解)
+ (D) Put it in his or her checked baggage.<font color="#dd0000">正解</font>
 如果乘客的筆記型電腦太大他們該怎麼辦？
 a. 告知機場人員。
 b. 把它放在一個專用容器內。
@@ -38051,7 +38051,7 @@ For what reason might travelers undergo additional screening?
  (A) If they possess aerosol cans.
  (B) If they have a child under three years of age.
  (C) If their laptops are over 10 x 15 inches in size.
- (D) If metal is identified in the initial screening.(正解)
+ (D) If metal is identified in the initial screening.<font color="#dd0000">正解</font>
 出於什麼原因旅客可能要接受額外的仔細檢查？
 a. 如果他們持有噴霧罐。
 b. 如果他們有一名三歲以下的小孩。
@@ -38139,7 +38139,7 @@ confidentiality n. 機密
  
  
 What does Milda Urbonas ask the other two for in the opening line?
- (A) secrecy regarding the words that follow (正解)
+ (A) secrecy regarding the words that follow <font color="#dd0000">正解</font>
  (B) help with her personal problem
  (C) advice about a person who is harassing her
  (D) to keep something she gave them
@@ -38154,7 +38154,7 @@ d. 保留她給他們的東西
  
  
 Which of the following describes the behavior of the company staff members and clients on their business trip?
- (A) unprofessional (正解)
+ (A) unprofessional <font color="#dd0000">正解</font>
  (B) trustworthy
  (C) confidential
  (D) determined
@@ -38172,7 +38172,7 @@ What do Vitalijus Butkus and Tomas Stonkus agree on?
  (A) The woman in question should stay silent.
  (B) The woman in question should not fear losing her job.
  (C) The woman in question report this case to the police.
- (D) The woman in question should take her case to human resources. (正解)
+ (D) The woman in question should take her case to human resources. <font color="#dd0000">正解</font>
 以下選項何者是Vitalijus Butkus和 Tomas Stonkus都同意的？
 a. 問問題的女人應該保持沉默。
 b. 問問題的女人不應該害怕失去她的工作。
@@ -38185,7 +38185,7 @@ d. 問問題的女人應該把她的情況交給人力資源部。
  
 According to Tomas Stonkus, what might help the woman if she is going to say anything?
  (A) A promise that she will keep her job.
- (B) A guarantee that her report will not become public information. (正解)
+ (B) A guarantee that her report will not become public information. <font color="#dd0000">正解</font>
  (C) An apology from the man who hit on her.
  (D) A written confession from the guilty persons.
 根據Tomas Stonkus，如果女人要說出來的話什麼會有所幫助？
@@ -38291,7 +38291,7 @@ syndicate n. 犯罪集團
  
 In what way are these movies alike?
  (A) They are all comedies.
- (B) They all involve males playing females.(正解)
+ (B) They all involve males playing females.<font color="#dd0000">正解</font>
  (C) They are all excellent movies.
  (D) They are all dramas.
 這幾部電影什麼地方相似？
@@ -38307,7 +38307,7 @@ d. 他們全都是戲劇片。
 If a viewer does not like heavy emotion, drama, or horror, which movie might be best?
  (A) Closer
  (B) Can't Go Back.
- (C) Sister?!(正解)
+ (C) Sister?!<font color="#dd0000">正解</font>
  (D) Sam to Sarah.
 如果有觀眾不喜歡看沉重情感、劇情，或恐怖片的話，哪部電影可能最適合他？
 a. 終結。
@@ -38371,7 +38371,7 @@ whirl v. 旋轉，迴旋；頭昏眼花
 Where might you see this information?
  (A) In an instruction manual for a desk.
  (B) On a website that sells office stationery.
- (C) In a how-to section of a magazine.(正解)
+ (C) In a how-to section of a magazine.<font color="#dd0000">正解</font>
  (D) In a technical paper about architecture.
 你可能在哪裡可以看得到這個資訊？
 a. 書桌的使用說明書。
@@ -38387,7 +38387,7 @@ What is an appropriate heading for this passage?
  (A) The benefits of a clean house.
  (B) Steps for improving sleeping habits.
  (C) The best new furniture on the market.
- (D) Get rid of that excess dust.(正解)
+ (D) Get rid of that excess dust.<font color="#dd0000">正解</font>
 什麼樣的標題適合這則短文？
 a. 房子乾淨的益處。
 b. 改善睡眠習慣的步驟。
@@ -38399,7 +38399,7 @@ d. 去除多餘的灰塵。
  
  
 What does the author think is most important?
- (A) Keeping linens and blankets washed.(正解)
+ (A) Keeping linens and blankets washed.<font color="#dd0000">正解</font>
  (B) Throwing away things you don't use.
  (C) Mopping the floor.
  (D) Vacuuming at least twice per week.
@@ -38472,7 +38472,7 @@ temporary adj. 臨時的，暫時的
  
 In what month was the band's latest album released?
  (A) May
- (B) June(正解)
+ (B) June<font color="#dd0000">正解</font>
  (C) July
  (D) August
 這個樂團的最新專輯是幾月發表的？
@@ -38488,7 +38488,7 @@ d. 八月。
 What was the difference between the first and second album?
  (A) The first album required a temporary replacement.
  (B) The second album was better than the first.
- (C) The band was more passionate with their first album.(正解)
+ (C) The band was more passionate with their first album.<font color="#dd0000">正解</font>
  (D) Keith Mahoney helped out with the first album.
 第一張與第二張專輯間有什麼不同？
 a. 第一張專輯需要人暫時接替。
@@ -38501,7 +38501,7 @@ d. Keith Mahoney協助製作了第一張專輯。
  
  
 How might you expect a fan to react to the third album?
- (A) He or she might love it.(正解)
+ (A) He or she might love it.<font color="#dd0000">正解</font>
  (B) He or she might dislike it.
  (C) He or she might think the second album is better.
  (D) He or she might think the band's enthusiasm has diminished.
@@ -38517,7 +38517,7 @@ d. 他/她可能會認為這個樂團的熱情減少了。
  
 In what year did the band's first lead guitarist die?
  (A) 1992
- (B) 1994(正解)
+ (B) 1994<font color="#dd0000">正解</font>
  (C) 1995
  (D) 1993
 這個樂團的主奏吉他手在哪一年過世的？
@@ -38641,7 +38641,7 @@ Brad Smith
  
 What was probably the content of the original email sent by Linda Jones?
  (A) A request for rescheduled flight information.
- (B) A request for information about Orange Airways' cancellation policy.(正解)
+ (B) A request for information about Orange Airways' cancellation policy.<font color="#dd0000">正解</font>
  (C) Feedback about Orange Airways' services.
  (D) A diary entry about Linda Jones' vacation in Malta.
 原本由Linda Jones所寄出的電子郵件內容可能為何？
@@ -38657,7 +38657,7 @@ d. Linda Jones去馬爾他度假的一篇日記。
 What is the Orange Airways' policy on cancellations and refunds?
  (A) Cancelled flights will be partially refunded.
  (B) Cancelled flights will be refunded for exceptional circumstances.
- (C) No cancelled flights will be refunded.(正解)
+ (C) No cancelled flights will be refunded.<font color="#dd0000">正解</font>
  (D) Cancellations made at least 24 hours before the scheduled flight will be refunded.
 橘子航空的取消機位和退費規定為何？
 a. 取消機位可部份退費。
@@ -38672,7 +38672,7 @@ d. 於預定班機時刻的至少二十四小時以前取消機位可以退費�
 What was the reason for the cancellation?
  (A) A lack of money.
  (B) A member of the family becoming ill.
- (C) A death in the family.(正解)
+ (C) A death in the family.<font color="#dd0000">正解</font>
  (D) The customer decided she didn't want to go to Malta.
 取消機位的原因為何？
 a. 沒有錢。
@@ -38687,7 +38687,7 @@ d. 這位顧客決定她不想去馬爾他。
 In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "We realize this may seem harsh, but please understand that we are a budget airline."
  (A) (1)
  (B) (2)
- (C) (3)(正解)
+ (C) (3)<font color="#dd0000">正解</font>
  (D) (4)
 以下的句子在文章所標示 (1), (2), (3), 和 (4) 的位置中，應被放在哪裡?
 
@@ -38764,7 +38764,7 @@ Atid Jainukul
  
 What relationship does the writer have with Robert Williamson?
  (A) Friend
- (B) Manager(正解)
+ (B) Manager<font color="#dd0000">正解</font>
  (C) Colleague
  (D) Student
 作者是Robert Williamson的什麼人？
@@ -38781,7 +38781,7 @@ What is NOT mentioned in this letter?
  (A) The amount of time Robert has been working at XYZ Language School.
  (B) Robert's contribution to school events.
  (C) Robert's suitability to the teaching profession.
- (D) Robert's rapport with the students.(正解)
+ (D) Robert's rapport with the students.<font color="#dd0000">正解</font>
 這封信上沒有提到什麼？
 a. Robert在XYZ語言學校工作多久。
 b. Robert對學校活動的貢獻。
@@ -38793,7 +38793,7 @@ d. Robert與學生們的密切關係。
  
  
 What does the writer say about his relationship with Robert Williamson?
- (A) They have a close working relationship.(正解)
+ (A) They have a close working relationship.<font color="#dd0000">正解</font>
  (B) They have a close personal relationship.
  (C) They are not well acquainted.
  (D) They are not friendly towards one another.
@@ -38811,7 +38811,7 @@ What is a likely reason that the writer wrote this letter?
  (A) He doesn't wish to continue working with Robert Williamson.
  (B) He thinks that Robert Williamson should seek a new profession.
  (C) Robert Williamson has been working at his school for five years.
- (D) Robert Williamson asked him to write this letter.(正解)
+ (D) Robert Williamson asked him to write this letter.<font color="#dd0000">正解</font>
 作者寫這封信可能的理由是什麼？
 a. 他不希望繼續和Robert Williamson一起工作。
 b. 他認為Robert Williamson應該找個新的職業。.
@@ -38870,7 +38870,7 @@ What would be an appropriate title for this article?
  (A) London Taxi Driver Wants Answers
  (B) London Taxi Drivers Demand Compensation
  (C) London Taxi Drivers on Strike
- (D) London Taxi Drivers Accused of Cheating People(正解)
+ (D) London Taxi Drivers Accused of Cheating People<font color="#dd0000">正解</font>
 什麼樣的標題最適合本文？
 a. 倫敦計程車司機要求答覆
 b. 倫敦計程車司機要求補貼
@@ -38883,7 +38883,7 @@ d. 倫敦計程車司機被控欺騙民眾
  
 In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "The total number of complaints was more than triple what it had been in previous months."
  (A) (1)
- (B) (2)(正解)
+ (B) (2)<font color="#dd0000">正解</font>
  (C) (3)
  (D) (4)
 以下的句子應被放在哪文章所標示 (1), (2), (3), 和 (4) 的哪一個位置中？
@@ -38902,7 +38902,7 @@ d. (4)
 What are London Taxi Drivers required to have knowledge of?
  (A) London bus timetables.
  (B) London sporting events.
- (C) London road and street names.(正解)
+ (C) London road and street names.<font color="#dd0000">正解</font>
  (D) London politicians.
 倫敦計程車司機必須有什麼知識？
 a. 倫敦的公共汽車時刻表。
@@ -39010,7 +39010,7 @@ If you answered yes to the above questions, then your long search for job fulfil
  
 What kind of people is this job advert aimed at?
  (A) People interested in the culture of Spain.
- (B) People who want to change their job.(正解)
+ (B) People who want to change their job.<font color="#dd0000">正解</font>
  (C) People who enjoy working with adults.
  (D) People who enjoy working from home.
 這則職缺廣告針對的是什麼樣的人？
@@ -39024,7 +39024,7 @@ d. 喜歡在家上班的人。
  
  
 What facilities does this article mention?
- (A) Curriculum textbooks.(正解)
+ (A) Curriculum textbooks.<font color="#dd0000">正解</font>
  (B) Interactive whiteboards.
  (C) Free Spanish lessons.
  (D) A playground to enjoy with the students.
@@ -39040,7 +39040,7 @@ d. 可與學生同樂的活動場所。
  
 What is the aim of this text?
  (A) To deliver facts about the management of the school.
- (B) To attract people to go and work at the school.(正解)
+ (B) To attract people to go and work at the school.<font color="#dd0000">正解</font>
  (C) To offer information on the town of Montanchez.
  (D) To warn people against working for other companies.
 本文的目的為何？
@@ -39198,7 +39198,7 @@ Paige Callahan
 Where was Mr. Blankenship's grandfather attacked by raccoons?
  (A) San Diego Park.
  (B) The Parks and Recreation Department.
- (C) Bastion Pond Park.(正解)
+ (C) Bastion Pond Park.<font color="#dd0000">正解</font>
  (D) Piney Avenue Park.
 Blankenship先生的爺爺在哪裡遭浣熊襲擊？ 
 a. 聖地牙哥公園。 
@@ -39212,7 +39212,7 @@ d. 松林大道公園。
  
 What did Mr. Blankenship ask the Parks Department to do for compensation?
  (A) Capture all of the raccoons.
- (B) Pay his dry cleaning bill.(正解)
+ (B) Pay his dry cleaning bill.<font color="#dd0000">正解</font>
  (C) Clean up the parks in the area.
  (D) Hold a public forum about parks.
 Blankenship先生要求公園做什麼賠償？ 
@@ -39226,7 +39226,7 @@ d. 舉辦對公園的公共論壇。
  
  
 Why are the raccoons attacking people in the park?
- (A) Because people are feeding the raccoons.(正解)
+ (A) Because people are feeding the raccoons.<font color="#dd0000">正解</font>
  (B) All of the raccoons in the area have diseases.
  (C) A landfill was recently installed next to the park.
  (D) Their former habitat has been destroyed.
@@ -39241,7 +39241,7 @@ d. 牠們以前的棲息地已被破壞。
  
  
 What action will Mrs. Callahan take in response to the letter?
- (A) She won't pay for the dry cleaning bill, but will apologize.(正解)
+ (A) She won't pay for the dry cleaning bill, but will apologize.<font color="#dd0000">正解</font>
  (B) She will capture all of the raccoons in the park.
  (C) She will pay for the dry cleaning bill, but will not apologize.
  (D) She will write the landfill a very angry letter.
@@ -39258,7 +39258,7 @@ d. 她會對垃圾填埋場寫一封表達憤怒的信。
 What can we infer about the warning sign?
  (A) It was ignored by Mr. Blankenship's grandfather.
  (B) It was placed there partially as a result of Mr. Blankenship's letter.
- (C) It proves that park was responsible for Mr. Blankenship's grandfather's injury.(正解)
+ (C) It proves that park was responsible for Mr. Blankenship's grandfather's injury.<font color="#dd0000">正解</font>
  (D) It contains false information about the raccoons.
 我們可以從警告標示中推論出以下何者？
 a. Blankenship先生的祖父忽視警告標示。
@@ -39301,7 +39301,7 @@ This third album from Berlin band, Hamster Destroyed the City, offers a delightf
  
 This article would probably appear in which section of a newspaper?
  (A) News
- (B) Entertainment(正解)
+ (B) Entertainment<font color="#dd0000">正解</font>
  (C) Business
  (D) Politics
 本文可能會出現在報紙上的哪個版面？
@@ -39316,7 +39316,7 @@ d. 政治版
  
 How does the writer feel about the album?
  (A) He thinks it's repetitive.
- (B) He thinks the songs contain a good mixture of styles.(正解)
+ (B) He thinks the songs contain a good mixture of styles.<font color="#dd0000">正解</font>
  (C) He thinks the band are too political.
  (D) He thinks the band are lacking potential.
 作者覺得這張專輯如何？
@@ -39332,7 +39332,7 @@ d. 樂團缺乏潛力。
 What does the writer use as material for this article?
  (A) Album sales figures.
  (B) Public response to the album.
- (C) His own personal opinion of the album.(正解)
+ (C) His own personal opinion of the album.<font color="#dd0000">正解</font>
  (D) An interview he conducted with the band.
 作者將什麼拿來當作本文的題材？
 a. 專輯銷售數字。
@@ -39472,7 +39472,7 @@ Martha Henderson
  
  
 Which of the following is NOT mentioned about the puppies?
- (A) The date of birth.(正解)
+ (A) The date of birth.<font color="#dd0000">正解</font>
  (B) The breed.
  (C) The number of them.
  (D) The characteristics of that breed.
@@ -39488,7 +39488,7 @@ d. 品種特徵。
  
 What is implied in the posting?
  (A) Some of the puppies are unhealthy.
- (B) The seller might be willing to lower the price. (正解)
+ (B) The seller might be willing to lower the price. <font color="#dd0000">正解</font>
  (C) The seller needs to get rid of the puppies as soon as possible.
  (D) The owner hopes to sell the puppies to a police officer.
 廣告中暗示了以下何者選項？ 
@@ -39504,7 +39504,7 @@ d. 主人希望出售小狗給警務人員。
 Who will be the eventual owner of the puppy?
  (A) Brandy Chase.
  (B) Martha Henderson.
- (C) Marlene Henderson.(正解)
+ (C) Marlene Henderson.<font color="#dd0000">正解</font>
  (D) Mr. Henderson.
 以下何者才是小狗最後的主人？ 
 a. Brandy Chase.
@@ -39518,7 +39518,7 @@ d. Henderson先生。
  
 What prerequisite must the puppy have?
  (A) It must be big and fluffy.
- (B) It must be comfortable around kids.(正解)
+ (B) It must be comfortable around kids.<font color="#dd0000">正解</font>
  (C) It must be a big dog because small dogs are annoying.
  (D) It must do well in small spaces.
 小狗必須要具有以下何項條件？ 
@@ -39532,7 +39532,7 @@ d. 必須能接受狹小的空間。
  
  
 What is one thing that Martha and her daughter don't care about?
- (A) Whether the puppy is male or female. (正解)
+ (A) Whether the puppy is male or female. <font color="#dd0000">正解</font>
  (B) The price of the puppy.
  (C) The puppy's future resistance to diseases.
  (D) The personality of the puppy.
@@ -39601,7 +39601,7 @@ Cecilia Cortez    9:54 a.m.
  
 Where is Cecilia Cortez during this conversation?
  (A) In her office.
- (B) In the visitor's parking lot. (正解)
+ (B) In the visitor's parking lot. <font color="#dd0000">正解</font>
  (C) In the employee parking lot.
  (D) At the security desk.
 在這段對話期間，Cecilia Cortez人在以下何處？
@@ -39615,7 +39615,7 @@ d. 在保全人員辦公桌。
  
  
 What can we infer about the file?
- (A) It contains confidential information. (正解)
+ (A) It contains confidential information. <font color="#dd0000">正解</font>
  (B) It is quite large.
  (C) It contains Cecilia Cortez's resume.
  (D) It has been lost.
@@ -39772,7 +39772,7 @@ Nihal Hakimi (12:01)
  
  
 Why does Delores Sanders think the outline needs to be modified?
- (A) There won't be enough time. (正解)
+ (A) There won't be enough time. <font color="#dd0000">正解</font>
  (B) One of the points is unnecessary.
  (C) She thinks the outline is too detailed.
  (D) The outline is disorganized.
@@ -39789,7 +39789,7 @@ d. 大綱過於雜亂無章。
 What does Amy Doha mean by "put off"?
  (A) turn something off
  (B) put something away
- (C) delay something(正解)
+ (C) delay something<font color="#dd0000">正解</font>
  (D) change the subject
 Amy Doha指的"put off"是什麼意思？
 a. 關掉
@@ -39802,7 +39802,7 @@ d. 改變話題
  
  
 What is Amy's suggestion?
- (A) to give the meeting attendees a free lunch (正解)
+ (A) to give the meeting attendees a free lunch <font color="#dd0000">正解</font>
  (B) to let the meeting attendees take a lunch break
  (C) to resume the meeting after lunch
  (D) to postpone the meeting to a later date
@@ -39818,7 +39818,7 @@ d. 將會議延後幾天
  
 Will Nihal Hakimi be at the meeting?
  (A) Yes, she will direct the meeting.
- (B) No, but she wants to know what is discussed. (正解)
+ (B) No, but she wants to know what is discussed. <font color="#dd0000">正解</font>
  (C) She isn't sure at this time.
  (D) She doesn't want to tell them.
 Nihal Hakimi會參加會議嗎？
@@ -39965,7 +39965,7 @@ Clarissa
  
  
 Who wrote the email with information about customer complaints?
- (A) Tom from logistics.(正解)
+ (A) Tom from logistics.<font color="#dd0000">正解</font>
  (B) Clarissa from Tuscaloosa.
  (C) The owner of Dixie Outdoors
  (D) A disgruntled customer.
@@ -39981,7 +39981,7 @@ d. 心懷不滿的客戶。
  
 Why are customers complaining about their internet orders?
  (A) The website is very slow and always under construction.
- (B) They found the shipping containers to be inappropriate.(正解)
+ (B) They found the shipping containers to be inappropriate.<font color="#dd0000">正解</font>
  (C) They haven't been receiving the product they ordered.
  (D) The product they received was broken and they need a refund.
 以下何者是客戶抱怨訂購的商品的原因？ 
@@ -39997,7 +39997,7 @@ d. 他們收到的產品是壞的，需要退款。
 How does Clarissa feel about the customers' complaints?
  (A) She feels they are justified and will change her shipping methods.
  (B) The complaints were not directed at her store, so she doesn't care.
- (C) She feels they are not justified and will not change her shipping methods.(正解)
+ (C) She feels they are not justified and will not change her shipping methods.<font color="#dd0000">正解</font>
  (D) She agrees with the customers' complaints and wants to apologize.
 Clarissa覺得客戶的投訴怎麼樣？ 
 a. 她覺得他們是有道理的，並會改變她的方法。 
@@ -40010,7 +40010,7 @@ d. 她同意顧客的投訴，且想要道歉。
  
  
 Which excuse is not mentioned by Clarissa?
- (A) Some customers enjoy drinking alcohol.(正解)
+ (A) Some customers enjoy drinking alcohol.<font color="#dd0000">正解</font>
  (B) The economy is not good.
  (C) New boxes are pricy.
  (D) It doesn't matter what's on the box.
@@ -40026,7 +40026,7 @@ d. 包裝盒上是什麼不重要。
  
 Why has Clarissa been shipping the orders in boxes from a liquor store?
  (A) She is secretly advertising for a liquor company that she works for.
- (B) Because they are free and new boxes are expensive.(正解)
+ (B) Because they are free and new boxes are expensive.<font color="#dd0000">正解</font>
  (C) Because no one told her that she couldn't ship them in liquor boxes.
  (D) Because she is new to the job.
 為什麼Clarissa一直用酒類專賣店的盒子包裝商品？ 
@@ -40174,7 +40174,7 @@ colonial adj. 殖民的，(生)群體的
  
 What do we know about the International Beer Pub?
  (A) It specializes in domestic draft beer.
- (B) It is quite new. (正解)
+ (B) It is quite new. <font color="#dd0000">正解</font>
  (C) It is very old.
  (D) It is open every day of the week.
 以下關於國際啤酒吧的敘述，何者正確？ 
@@ -40189,7 +40189,7 @@ d. 它每天都有營業。
  
 What is the reviewer's most serious complaint?
  (A) Unfriendliness of staff.
- (B) Lack of selection. (正解)
+ (B) Lack of selection. <font color="#dd0000">正解</font>
  (C) Low quality food.
  (D) Poorly designed menus.
 以下選項何者是這起評論的顧客最嚴重的抱怨？
@@ -40203,7 +40203,7 @@ d. 菜單設計不良。
  
  
 According to the manager's response to the review, why did this problem occur at the time of the reviewer's visit?
- (A) The pub was just about to order from a new distributor. (正解)
+ (A) The pub was just about to order from a new distributor. <font color="#dd0000">正解</font>
  (B) The pub had just opened the week before that.
  (C) The pub had just recently hired new staff.
  (D) The manager was on holiday that week.
@@ -40220,7 +40220,7 @@ d. 那個禮拜主管在休假。
 Which of the following claims is made by the pub manager in his response?
  (A) The pub still has the best selection of imported beer in the city.
  (B) The hostess was fired as a result of the review.
- (C) The waitresses can now answer any beer-related questions. (正解)
+ (C) The waitresses can now answer any beer-related questions. <font color="#dd0000">正解</font>
  (D) The beer quality has improved since the review.
 以下選項何者為是酒吧主管的回應？ 
 a. 這酒吧仍然是城裡進口啤酒的最佳選擇。 
@@ -40234,7 +40234,7 @@ d. 顧客評論後，啤酒品質有所改善。
  
 What is one complaint that is not addressed by the pub manager?
  (A) the cleanliness of the pub
- (B) the poor "happy hour" special(正解)
+ (B) the poor "happy hour" special<font color="#dd0000">正解</font>
  (C) the lack of knowledge among staff
  (D) the unprofessionalism of the old staff
 酒吧主管並沒有處理以下何項顧客抱怨？ 
@@ -40308,7 +40308,7 @@ The Kansas City Council would like to request the public’s understanding durin
  
  
 During the construction period, what will happen to the Kansas City Convention Center?
- (A) It will be closed to the public.(正解)
+ (A) It will be closed to the public.<font color="#dd0000">正解</font>
  (B) It will continue running as normal.
  (C) It will be moved to another location.
  (D) The inside will be refurbished.
@@ -40325,7 +40325,7 @@ d. 內部將會被翻新。
 What is the purpose of this text?
  (A) To inform Convention Center staff of the building's closure.
  (B) To inform the construction workers of their scheduled work period.
- (C) To inform the public of the building's closure.(正解)
+ (C) To inform the public of the building's closure.<font color="#dd0000">正解</font>
  (D) To inform the public of upcoming events.
 本文的主旨為何？
 a. 告知會議中心職員該建築物的封閉消息。
@@ -40421,7 +40421,7 @@ Why is it important to fold a yukata bath robe left side over right side?
  (A) Folding right over left indicates that a child has been born.
  (B) Folding right over left indicates that one is about to enter the public bath.
  (C) Folding right over left is reserved for people of higher status.
- (D) Folding right over left indicates that someone has died.(正解)
+ (D) Folding right over left indicates that someone has died.<font color="#dd0000">正解</font>
 為什麼將浴衣的左襟交疊於右襟上很重要？
 a. 右左交疊表示有新生兒。
 b. 右左交疊表示某人即將進入公共澡堂。
@@ -40433,7 +40433,7 @@ d. 右左交疊表示有人過世了。
  
  
 What are guests allowed to wear inside the public bath?
- (A) Nothing(正解)
+ (A) Nothing<font color="#dd0000">正解</font>
  (B) A swimsuit.
  (C) A shower cap.
  (D) Indoor footwear.
@@ -40600,7 +40600,7 @@ Hair extensions - quoted by consultation
  
 Who would be eligible for a discount at this hairdresser's?
  (A) A high school student.
- (B) An elementary school student.(正解)
+ (B) An elementary school student.<font color="#dd0000">正解</font>
  (C) A professional over the age of 60.
  (D) A pregnant woman.
 以下選項何者剪髮有折扣？
@@ -40617,7 +40617,7 @@ Where might you see this menu?
  (A) On a billboard.
  (B) In a newspaper.
  (C) On a business card.
- (D) On the internet.(正解)
+ (D) On the internet.<font color="#dd0000">正解</font>
 你可能會在何處看到這個價目表？
 a. 廣告板。
 b. 報紙。
@@ -40725,7 +40725,7 @@ Christ與Dave的台灣旅遊行程
  
 How long will Chris be in Taiwan for?
  (A) One week.
- (B) Two weeks.(正解)
+ (B) Two weeks.<font color="#dd0000">正解</font>
  (C) One month.
  (D) Ten days.
 Christ會在台灣待多久？ 
@@ -40741,7 +40741,7 @@ d. 十天。
 Where did Chris originally meet Tina?
  (A) New York.
  (B) Taipei.
- (C) Chiang Mai. (正解)
+ (C) Chiang Mai. <font color="#dd0000">正解</font>
  (D) Beijing.
 Christ和Tina在最初在哪裡認識彼此？ 
 a. 紐約。 
@@ -40755,7 +40755,7 @@ d. 北京。
  
 What does Tina suggest that Chris should do in Tainan?
  (A) Go to Taroko Gorge.
- (B) Check out the Confucius Temple.(正解)
+ (B) Check out the Confucius Temple.<font color="#dd0000">正解</font>
  (C) Go to the top of the Taipei 101.
  (D) Take a dip in the hot springs.
 Tina建議Christ應該在台南做什麼？ 
@@ -40773,7 +40773,7 @@ What will Tina have to check before she joins Chris on his trip?
  (A) Her financial situation.
  (B) Her social calendar.
  (C) The weather conditions.
- (D) When she has to work.(正解)
+ (D) When she has to work.<font color="#dd0000">正解</font>
 在加入Christ的旅程之前，Tina需要確認什麼？ 
 a. 她的財務狀況。 
 b. 她的社交活動。 
@@ -40788,7 +40788,7 @@ Which of Tina's recommendations was not taken by Dave and Chris?
  (A) One of her food suggestions.
  (B) Elephant Mountain.
  (C) A visit to the west coast.
- (D) Transportation for Taroko Gorge.(正解)
+ (D) Transportation for Taroko Gorge.<font color="#dd0000">正解</font>
 Tina的哪一項建議沒有被Dave與Chris採用？ 
 a. 她建議的食物中的某一項。
 b. 象山。
@@ -40894,7 +40894,7 @@ Jeremy Bouvier
  
 What is true about Jeremy Bouvier and Robert Billington's attempts to get in touch?
  (A) They did so with no difficulties.
- (B) They spoke once, then Robert Billington missed Jeremy Bouvier's call.(正解)
+ (B) They spoke once, then Robert Billington missed Jeremy Bouvier's call.<font color="#dd0000">正解</font>
  (C) Several e-mails and calls were made, but with no success.
  (D) Robert Billington couldn't get ahold of Jeremy Bouvier because Jeremy was away on business.
 以下關於Jeremy Bouvier和Roberto Billington之間的聯繫問題，哪一個敘述正確？ 
@@ -40911,7 +40911,7 @@ What is Roberto offering to provide for the band?
  (A) He cannot provide anything extra.
  (B) A case of beer and one meal.
  (C) He will provide just a hotel room.
- (D) Food and accommodation.(正解)
+ (D) Food and accommodation.<font color="#dd0000">正解</font>
 以下選項者是 Roberto 可以提供給樂隊的？ 
 a. 他無法提供任何額外的東西。 
 b. 一箱啤酒和一頓餐點。 
@@ -40925,7 +40925,7 @@ d. 食物與住宿。
 What information does Jeremy Bouvier NOT need from Roberto Billington?
  (A) Venue address.
  (B) Mailing address.
- (C) Date of the party.(正解)
+ (C) Date of the party.<font color="#dd0000">正解</font>
  (D) Phone number.
 以下資訊何者是Roberto Billington不需要提供給Jeremy Bouvier？ 
 a. 會場地址。 
@@ -40941,7 +40941,7 @@ What will Jeremy do if the band won't budge on their price?
  (A) He will get a contract together for Roberto to sign.
  (B) He will offer them a hotel room and a meal.
  (C) He will continue negotiating with the band.
- (D) He will get a list of bands together for Roberto.(正解)
+ (D) He will get a list of bands together for Roberto.<font color="#dd0000">正解</font>
 若果樂團沒辦法降價的話，那Jeremy會做什麼？
 a. 他將會擬一份合約讓Robert簽署。 
 b. 他會為他們提供住宿及餐點。
@@ -40953,7 +40953,7 @@ d. 他將為Robert列一份樂團的名單。
  
  
 What can we infer from the contract?
- (A) Ernst Goes to Jazz was not willing to lower their price. (正解)
+ (A) Ernst Goes to Jazz was not willing to lower their price. <font color="#dd0000">正解</font>
  (B) The date of the event in question was changed.
  (C) Roberto Billingtion decided to use a different agent to help him find a band.
  (D) The band demanded free breakfast to be included.
@@ -40963,7 +40963,7 @@ b. 有疑問的活動日期已有變更。
 c. Roberto Billingtion決定透過不同的經紀公司來幫他找樂團。
 d. 樂團要求免費早餐也包含在內。
 
-解析：由合約可看到，最後邀請的樂團為: The Two by Fours，而不是Ernst Goes to Jazz，代表Ernst Goes to Jazz不願意接受Roberto Billington的報價，否則樂團首選應為Ernst Goes to Jazz，故正解為A。
+解析：由合約可看到，最後邀請的樂團為: The Two by Fours，而不是Ernst Goes to Jazz，代表Ernst Goes to Jazz不願意接受Roberto Billington的報價，否則樂團首選應為Ernst Goes to Jazz，<font color="#dd0000">正解</font>A。
  
 Questions 6 - 7 refer to the following article:
 
@@ -41000,7 +41000,7 @@ This three-day diet plan has transformed my life. It consists of eating nothing 
  
  
 How does the author feel about the diet plan?
- (A) It can be held to clear up acne.(正解)
+ (A) It can be held to clear up acne.<font color="#dd0000">正解</font>
  (B) It's the best way to lose weight.
  (C) It is only good for vegetarians.
  (D) It's ineffective.
@@ -41016,7 +41016,7 @@ d. 無效。
  
 How often does the author follow the three day diet plan?
  (A) Just once a month.
- (B) Once or twice a month.(正解)
+ (B) Once or twice a month.<font color="#dd0000">正解</font>
  (C) Two times in one month.
  (D) More than twice a month.
 作者有多常照著這個三日食療方案做？
@@ -41141,7 +41141,7 @@ What is the main point of this piece of writing?
  (A) The new e-reader is popular.
  (B) The new e-reader is useful for graduate students.
  (C) Lin Manufacturing is a noteworthy company.
- (D) The new e-reader is good for people's physical health.(正解)
+ (D) The new e-reader is good for people's physical health.<font color="#dd0000">正解</font>
 本文的重點為何？
 a. 新電子書很受歡迎。
 b. 新電子書對研究生很有用。
@@ -41154,7 +41154,7 @@ d. 新電子書對人的身體健康有好處。
  
 What information is NOT given?
  (A) Where the study was done.
- (B) The product's release date.(正解)
+ (B) The product's release date.<font color="#dd0000">正解</font>
  (C) Information about buyer feedback.
  (D) The date of the press release.
 什麼資訊並沒有提供？
@@ -41169,7 +41169,7 @@ d. 新聞發佈日期。
  
 What is different about the new e-reader?
  (A) It has only been around for one month.
- (B) It's less stressful for the reader's back.(正解)
+ (B) It's less stressful for the reader's back.<font color="#dd0000">正解</font>
  (C) It has gotten primarily bad feedback.
  (D) It is not curved, like previous models.
 新電子書有何不同之處？
@@ -41356,7 +41356,7 @@ E-mail: thegoodlife@runner.com
 What did the customer think of the food?
  (A) It was disgusting.
  (B) It was dirty.
- (C) It was decent.(正解)
+ (C) It was decent.<font color="#dd0000">正解</font>
  (D) It was made to perfection.
 顧客對食物的感覺如何？ 
 a. 令人覺得噁心。 
@@ -41369,7 +41369,7 @@ d. 非常地完美。
  
  
 According to the customer's comments in the affixed paper, will he or she be returning to the restaurant?
- (A) He or she will not come back to the restaurant.(正解)
+ (A) He or she will not come back to the restaurant.<font color="#dd0000">正解</font>
  (B) Maybe, if the restaurant provides coupons.
  (C) Yes, so long as his or her purchase from the previous visit is refunded.
  (D) Yes, as long as the restaurant fires the people that committed the inappropriate acts.
@@ -41387,7 +41387,7 @@ How did the manager feel after she read the survey and comments?
  (A) She was furious.
  (B) She was worried about the safety of her employees.
  (C) She was optimistic.
- (D) She was shocked by the news.(正解)
+ (D) She was shocked by the news.<font color="#dd0000">正解</font>
 經理看到評論後有什麼感覺？ 
 a. 她氣壞了。 
 b. 她很擔心她的員工安全。 
@@ -41400,7 +41400,7 @@ d. 她為此消息感到震驚。
  
 What can the customer do to help the manager identify the employees?
  (A) The customer cannot help the manager do anything.
- (B) Give a physical description of the guilty parties. (正解)
+ (B) Give a physical description of the guilty parties. <font color="#dd0000">正解</font>
  (C) Come back to the restaurant point them out.
  (D) Photograph the workers.
 以下選項何者是顧客能幫助經理找出那些員工的事情呢？ 
@@ -41417,7 +41417,7 @@ What does the manager plan to do with the employees who violated the rules?
  (A) Nothing.
  (B) She will interrogate them.
  (C) She will lecture them.
- (D) She will terminate their employment. (正解)
+ (D) She will terminate their employment. <font color="#dd0000">正解</font>
 經理打算如何處置那些違反餐廳規則的員工？ 
 a. 什麼都不做。 
 b. 她會審問他們。 
@@ -41523,7 +41523,7 @@ Only 50 euros!
 How much would three adults, one child that is one year old, and two senior citizens have to pay for their passes?
  (A) 125 euro.
  (B) 150 euro.
- (C) 175 euro.(正解)
+ (C) 175 euro.<font color="#dd0000">正解</font>
  (D) 200 euro.
 三位成人、一位一歲大兒童，以及兩位老人，購買他們的通行證要付多少錢？
 a. 125歐元。
@@ -41539,7 +41539,7 @@ Which of the following is incorrect about the pass?
  (A) The prices of international trains will be reduced.
  (B) It is usable at any of the major stations in Italy.
  (C) Senior citizens don't have to pay for the pass.
- (D) All children pay only half price.(正解)
+ (D) All children pay only half price.<font color="#dd0000">正解</font>
 關於通行證下列何者不正確？
 a. 跨國列車的售價會降低。
 b. 在義大利的任何主要車站都可使用。
@@ -41755,7 +41755,7 @@ Bernedette Peters
  
  
 Did the person purchase any outdoor equipment in order #47589302?
- (A) No, she purchased a membership package.(正解)
+ (A) No, she purchased a membership package.<font color="#dd0000">正解</font>
  (B) No, she purchased something for her dog.
  (C) Yes, she purchased some outdoor gear.
  (D) Yes, she bought a backpack.
@@ -41772,7 +41772,7 @@ d. 是的，她買了一個背包。
 How long do customers have to return something to the company?
  (A) You have 3 days after purchase.
  (B) You have 7 days after purchase.
- (C) You have a whole year after purchase.(正解)
+ (C) You have a whole year after purchase.<font color="#dd0000">正解</font>
  (D) You have a hundred days after purchase.
 顧客的商品鑑賞期有多久？ 
 a. 購買後3天。 
@@ -41786,7 +41786,7 @@ d. 購買後一百日。
  
 What do we know about Bernadette?
  (A) She works for Muddy Dog Outdoor Gear.
- (B) She works in customer service. (正解)
+ (B) She works in customer service. <font color="#dd0000">正解</font>
  (C) She usually complains when she writes letters to customer service.
  (D) This is the first time she is fully satisfied with a Muddy Dog product.
 關於Bernedette 我們知道什麼？ 
@@ -41803,7 +41803,7 @@ Is this the first time Bernedette Peters has purchased something from Muddy Dog 
  (A) Yes, she wants to buy a backpack next.
  (B) No, but she has only bought one thing before this purchase.
  (C) Yes, but she will not buy from them again.
- (D) No, she has been a customer for at least ten years.(正解)
+ (D) No, she has been a customer for at least ten years.<font color="#dd0000">正解</font>
 這是Bernedette Peters第一次從泥狗狗戶外用品買東西嗎？ 
 a. 是的，她下一次想要買個背包。 
 b. 不，但她在之前只買過一件東西。 
@@ -41816,7 +41816,7 @@ d. 不，她至少是十年的老主顧了。
  
 What is one of the reasons that Bernedette buys from Muddy Dog Outdoor Gear?
  (A) They give her coupons all the time.
- (B) Their products are affordable and reliable.(正解)
+ (B) Their products are affordable and reliable.<font color="#dd0000">正解</font>
  (C) They have a rewards program.
  (D) Their products are expensive but well-known.
 Bernedette會從泥狗狗戶外用品購買商品的原因是什麼？ 
@@ -41960,7 +41960,7 @@ In which of the positions marked (1), (2), (3), and (4) does the following sente
  (A) (1)
  (B) (2)
  (C) (3)
- (D) (4)(正解)
+ (D) (4)<font color="#dd0000">正解</font>
 標示中的(1), (2), (3)或(4)，何處可置入以下句子？
 「如您這次需要我利用所學來協助訓練未來的接替人選，我很樂意幫忙。」
 
@@ -41974,7 +41974,7 @@ d. (4)
  
  
 What kind of letter is this?
- (A) A letter of resignation.(正解)
+ (A) A letter of resignation.<font color="#dd0000">正解</font>
  (B) A cover letter.
  (C) A letter of thanks.
  (D) A cease and desist letter.
@@ -41991,7 +41991,7 @@ d. 停止侵權通知書。
 Why does Cameron Lewis wish to discontinue his work at Skytale Productions?
  (A) For monetary reasons.
  (B) Because he doesn't like his job.
- (C) Because of an imperative family matter.(正解)
+ (C) Because of an imperative family matter.<font color="#dd0000">正解</font>
  (D) Because he wishes to move to Livingston.
 為什麼Cameron Lewis想要結束他在Skytale Productions工作?
 a. 因為財務原因。
@@ -42059,7 +42059,7 @@ Muralaculous的夢想是提供家庭與企業高品質的壁畫。 這兩對兄�
  
 How many members did the company have in 2009?
  (A) Forty-three members.
- (B) Forty-five members.(正解)
+ (B) Forty-five members.<font color="#dd0000">正解</font>
  (C) Forty members.
  (D) Fifty-five members.
 這家公司2009年時有多少員工？
@@ -42073,7 +42073,7 @@ d. 五十五位。
  
  
 What is true about the company?
- (A) It has workers from eight countries.(正解)
+ (A) It has workers from eight countries.<font color="#dd0000">正解</font>
  (B) The murals aren't typically satisfactory for customers.
  (C) It doesn't consider art to be vital.
  (D) It had more members originally than it does today.
@@ -42090,7 +42090,7 @@ d. 它原本的員工還比現在多。
 How long has the company been around?
  (A) Ten years.
  (B) Nine years.
- (C) Twelve years.(正解)
+ (C) Twelve years.<font color="#dd0000">正解</font>
  (D) None of the above.
 這家公司成立多久了？
 a. 十年。
@@ -42105,7 +42105,7 @@ d. 以上皆非。
 In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "Community is an integral part of this company."
  (A) (1)
  (B) (2)
- (C) (3)(正解)
+ (C) (3)<font color="#dd0000">正解</font>
  (D) (4)
 標示中的(1), (2), (3)或(4)何處可置入下面的句子？
 「團體是這家公司不可或缺的一部分。」
@@ -42210,7 +42210,7 @@ How would you categorize this information?
  (A) As a record of how Mindeasy is used recreationally.
  (B) As a how-to guide.
  (C) As a list of drug-related addictions.
- (D) As a list of side-effects.(正解)
+ (D) As a list of side-effects.<font color="#dd0000">正解</font>
 你會將這則資訊歸到哪一類？
 a. 「Mindeasy」如何被用在取樂上的紀錄。
 b. 教學指南。
@@ -42224,7 +42224,7 @@ d. 副作用列表。
 If a patient's mother has regular panic attacks, what might the patient do?
  (A) Ask his or her mother about any allergic reactions she's had.
  (B) Not take the drug.
- (C) Talk to his or her doctor.(正解)
+ (C) Talk to his or her doctor.<font color="#dd0000">正解</font>
  (D) Take the drug, but avoid alcohol.
 如果一名患者的母親經常恐慌症發作，該患者可能會怎麼做？
 a. 詢問他/她的母親有無任何過敏反應。
@@ -42238,7 +42238,7 @@ d. 服用該藥，但避免飲酒。
  
 Why shouldn't a patient operate a chainsaw while using this drug?
  (A) Because the drug might cause an allergic reaction.
- (B) Because the drug might cause sleepiness or trouble focusing.(正解)
+ (B) Because the drug might cause sleepiness or trouble focusing.<font color="#dd0000">正解</font>
  (C) Because the drug might impair the patient's speech.
  (D) Because the drug might lead to depression.
 為什麼患者服用這個藥物後不應該操作鏈鋸？
@@ -42254,7 +42254,7 @@ d. 因為該藥可能會導致抑鬱。
 Which of these women is most at risk if she takes this drug?
  (A) A woman who is one month pregnant.
  (B) A woman who is three months pregnant.
- (C) A woman who is eight months pregnant.(正解)
+ (C) A woman who is eight months pregnant.<font color="#dd0000">正解</font>
  (D) A woman who is five months pregnant.
 這幾位女子中的哪一位如果服用了這個藥物最危險？
 a. 懷孕一個月的女子。
@@ -42326,7 +42326,7 @@ Why doesn't Ringo Starr want Lou Reed to announce his upcoming retirement?
  (A) He won't resign after all.
  (B) Iggy will make the announcement instead.
  (C) Iggy thinks that other staff members might quit too.
- (D) Iggy doesn't want it to overshadow another announcement. (正解)
+ (D) Iggy doesn't want it to overshadow another announcement. <font color="#dd0000">正解</font>
 為何Ringo Starr不想要Lou Reed宣布他要退休的消息？
 a. 他不會辭職。
 b. Iggy自己要公布這個消息。
@@ -42338,7 +42338,7 @@ d. Iggy不想蓋過另一則公告消息。
  
  
 What does Lou Reed mean when he says "I'll keep my lips sealed"?
- (A) He won't tell anybody. (正解)
+ (A) He won't tell anybody. <font color="#dd0000">正解</font>
  (B) He already told one person.
  (C) He promises to discuss it in the meeting.
  (D) He understands the directions.
@@ -42411,7 +42411,7 @@ How long should the name of the hotspot be?
  (A) Longer than six characters, but less than nine.
  (B) Seven, eight, or nine characters long.
  (C) Just seven characters long.
- (D) Six, seven, or eight characters long.(正解)
+ (D) Six, seven, or eight characters long.<font color="#dd0000">正解</font>
 熱點的名稱長度可以是幾個字元？
 A. 超過六個但少於九個字元。
 B. 七、八，或九個字元。
@@ -42425,7 +42425,7 @@ D. 六、七，或八個字元。
 What should a person do if he or she wants the phone to forget just two out of six Wi-Fi sources?
  (A) Enter the password incorrectly for each of the two Wi-Fi sources.
  (B) Select the 'disregard all' option at the top.
- (C) Select the 'disregard' option for the two Wi-Fi sources separately.(正解)
+ (C) Select the 'disregard' option for the two Wi-Fi sources separately.<font color="#dd0000">正解</font>
  (D) Do not connect to either of the two Wi-Fi sources.
 如果有人想要把手機裡的六個Wi-Fi網路刪除兩個，他/她該怎麼做？
 a. 分別在這兩個Wi-Fi網路上輸入錯誤的密碼。
@@ -42582,7 +42582,7 @@ Ken Dana
  
  
 What can we infer is Ken Dana's position?
- (A) owner of Java Jive(正解)
+ (A) owner of Java Jive<font color="#dd0000">正解</font>
  (B) clerk at Java Jive
  (C) Java Jive's lawyer
  (D) Java Jive's delivery person
@@ -42598,7 +42598,7 @@ d. Java Jive的送貨人員
  
 When did Kelly Renting fill out the customer injury report form?
  (A) right after the accident occurred
- (B) the day after the accident occurred (正解)
+ (B) the day after the accident occurred <font color="#dd0000">正解</font>
  (C) a week after the accident occurred
  (D) when Ken Dana returned from his holiday
 Kelly Renting何時填寫顧客傷害報告表？
@@ -42613,7 +42613,7 @@ d. Ken Dana渡假回來之後
  
 How did Kelly Renting get the injured customer's personal information?
  (A) From his credit card receipt.
- (B) From him over the phone. (正解)
+ (B) From him over the phone. <font color="#dd0000">正解</font>
  (C) From him in person,
  (D) From his lawyer.
 Kelly Renting如何取得顧客的個人資訊？
@@ -42628,7 +42628,7 @@ d. 從他的律師那。
  
 What can we infer from the letter written by Tom Reynolds?
  (A) Marcus Simpson probably wasn't actually injured.
- (B) Marcus Simpson will have trouble finding a lawyer to take his case. (正解)
+ (B) Marcus Simpson will have trouble finding a lawyer to take his case. <font color="#dd0000">正解</font>
  (C) Marcus Simpson will likely be arrested or go to jail for fraud.
  (D) Marcus Simpson has a good chance of successfully suing Java Jive.
 我們從Tom Reynolds所寫的信中可以推論出以下何者？
@@ -42645,7 +42645,7 @@ What document could NOT have been enclosed with the letter from Tom Reynolds?
  (A) a photo of the injury
  (B) a personal description of the incident
  (C) a doctor's note
- (D) the customer injury report form (正解)
+ (D) the customer injury report form <font color="#dd0000">正解</font>
 Tom Reynolds的信中附加的文件並不是以下何者？
 a. 受傷的照片
 b. 意外的個人描述
@@ -42836,7 +42836,7 @@ Hi Tamicah，
 What is wrong with the boots?
  (A) They do not fit properly.
  (B) They broke in one hour.
- (C) They do not protect the wearer's feet.(正解)
+ (C) They do not protect the wearer's feet.<font color="#dd0000">正解</font>
  (D) They don't look good with shorts.
 以下選項何者是這雙雨鞋的情況？ 
 a. 不合腳。 
@@ -42852,7 +42852,7 @@ How does this person want to have the problem taken care of?
  (A) A full apology.
  (B) To have the boots fixed for free.
  (C) She wants to send them back and that is it.
- (D) She wants new boots or full money back.(正解)
+ (D) She wants new boots or full money back.<font color="#dd0000">正解</font>
 請問寄件者希望這個問題如何處理？ 
 a. 一個正式的道歉。 
 b. 免費修好雨鞋。 
@@ -42864,7 +42864,7 @@ d. 她想要一雙新的雨鞋，或全額退款。
  
  
 What can the customer do to help with the situation?
- (A) She can send pictures of her boots.(正解)
+ (A) She can send pictures of her boots.<font color="#dd0000">正解</font>
  (B) There is nothing she can do.
  (C) She can send her boots to the company.
  (D) She can take them to the store.
@@ -42880,7 +42880,7 @@ d. 她可以將雨靴帶回店裡。
  
 What can the customer do if she doesn't have a receipt?
  (A) She can go to the store to get a new receipt.
- (B) She can contact her credit card company.(正解)
+ (B) She can contact her credit card company.<font color="#dd0000">正解</font>
  (C) There is nothing she can do.
  (D) The boots company can pull up its records.
 如果顧客沒有收據存根，她該怎麼辦？ 
@@ -42895,7 +42895,7 @@ d. 公司可以找出她的交易記錄。
  
 Why do they need to see a receipt from the purchase?
  (A) So they can see exactly how much money she spent on the boots.
- (B) To prove she didn't buy it from shops that aren't supposed to sell the boots.(正解)
+ (B) To prove she didn't buy it from shops that aren't supposed to sell the boots.<font color="#dd0000">正解</font>
  (C) To give them a better understanding of the situation.
  (D) To make sure she actually bought the boots and didn't shoplift them.
 為什麼公司需要購物收據？ 
@@ -42943,7 +42943,7 @@ The original had ten characters, but Fight for Glory 2 offers you fifteen! Keep 
 How is Fight for Glory 2 different from Fight for Glory?
  (A) It has fewer characters.
  (B) The story is more uplifting.
- (C) It gives the player more control over combat.(正解)
+ (C) It gives the player more control over combat.<font color="#dd0000">正解</font>
  (D) It doesn't have the additional time settings.
 「光榮之戰2」跟「光榮之戰」有什麼差異?
 a. 它的人物比較少。
@@ -42957,7 +42957,7 @@ d. 沒有多加的時間設定。
  
 How many versions of the game have been released?
  (A) 1
- (B) 2(正解)
+ (B) 2<font color="#dd0000">正解</font>
  (C) 3
  (D) The number isn't given.
 這款遊戲已經出了幾版？
@@ -42971,7 +42971,7 @@ d. 數字沒有說明。
  
  
 How many more characters does Fight for Glory 2 have than the prequel?
- (A) 5(正解)
+ (A) 5<font color="#dd0000">正解</font>
  (B) 10
  (C) 15
  (D) 20
@@ -43157,7 +43157,7 @@ Shahidah Ghanem (14:50)
  
 What is Nurrah Wasem's problem?
  (A) She hasn't received any applications for the office director position.
- (B) She isn't satisfied with either of the applicants for the office director position. (正解)
+ (B) She isn't satisfied with either of the applicants for the office director position. <font color="#dd0000">正解</font>
  (C) She isn't prepared to give up her position as office director.
  (D) She can't decide which two people to hire for the new positions.
 Nurrah Wasem的困難點為以下何者？
@@ -43171,7 +43171,7 @@ d. 她無法決定新職位要雇用哪兩位。
  
  
 What is Shahidah Ghanem's suggestion?
- (A) To hire externally. (正解)
+ (A) To hire externally. <font color="#dd0000">正解</font>
  (B) To recruit her for the position.
  (C) To seek a position at Oil Arabia.
  (D) To move to Riyadh.
@@ -43187,7 +43187,7 @@ d. 搬到利雅德。
  
 How can we infer Omar Kassab feels about this suggestion after Shahidah Ghanem explains it in detail?
  (A) He is opposed to it.
- (B) He can accept it. (正解)
+ (B) He can accept it. <font color="#dd0000">正解</font>
  (C) He doesn't want a woman to be hired.
  (D) He doesn't want to cooperate with Oil Arabia.
 在Shahidah Ghanem的詳細說明後，我們推論Omar Kassab對這個建議的感覺為以下何者？
@@ -43204,7 +43204,7 @@ What do we know about Wurud Said?
  (A) She has already been nominated by Nurrah Wasem.
  (B) She is not experienced enough for the position.
  (C) She wants to live in Jeddah.
- (D) She wants to work at the speakers' company. (正解)
+ (D) She wants to work at the speakers' company. <font color="#dd0000">正解</font>
 有關Wurud Said的敘述，以下何者正確？
 a. 她已經被Nurrah Wasem提名。
 b. 她的經驗不足以擔當這個職位。
@@ -43285,7 +43285,7 @@ Craig
  
 What kind of weather is expected for the event?
  (A) The event may have light winds.
- (B) There may be stormy conditions.(正解)
+ (B) There may be stormy conditions.<font color="#dd0000">正解</font>
  (C) It might rain a little.
  (D) It will be hot and muggy.
 活動當天預計會有什麼樣的天氣情況?
@@ -43301,7 +43301,7 @@ d. 天氣悶熱。
 When will the festival begin?
  (A) It will begin tomorrow.
  (B) It will start in a couple of days.
- (C) It has already started.(正解)
+ (C) It has already started.<font color="#dd0000">正解</font>
  (D) It will start next month.
 節慶何時開始?
 a. 明日開始。
@@ -43314,7 +43314,7 @@ d. 下個月開始。
  
  
 Which of the following is not mentioned as a course of action if the weather gets rough?
- (A) Turn off the power. (正解)
+ (A) Turn off the power. <font color="#dd0000">正解</font>
  (B) Stop all festival activities.
  (C) Discuss matters with the performers.
  (D) Guide attendees to safe places.
@@ -43394,7 +43394,7 @@ Which of the following was Sinead Lockley NOT in charge of doing for the trade f
  (A) Reserving a booth.
  (B) Preparing products and displays.
  (C) Finding people to stand at the booth.
- (D) Printing the pamphlets and business cards. (正解)
+ (D) Printing the pamphlets and business cards. <font color="#dd0000">正解</font>
 在商品展覽會中以下哪項不是Sinead Lockley負責的？
 a. 預留展位。
 b. 準備產品和陳列品。
@@ -43409,7 +43409,7 @@ Who made a serious mistake?
  (A) The trade fair organizers.
  (B) Sinead Lockley.
  (C) Debra Smith.
- (D) The printing company. (正解)
+ (D) The printing company. <font color="#dd0000">正解</font>
 誰犯了嚴重的錯誤?
 a. 商品展覽會舉辦者。
 b. Sinead Lockley。
@@ -43422,7 +43422,7 @@ d. 印刷公司。
  
 If the conference is on October 30, when does Damian Rice hope to receive the adjusted pamphlets and business cards?
  (A) October 23
- (B) October 29(正解)
+ (B) October 29<font color="#dd0000">正解</font>
  (C) October 30
  (D) October 31
 假設大會是在10月30日，Damian Rice希望在哪天收到調整後的小冊子及名片?
@@ -43439,7 +43439,7 @@ In the last statement by Damian Rice, who or what does "they" refer to?
  (A) Printing Delight.
  (B) Sinead Lockley and Debra Smith.
  (C) The pamphlets and business cards.
- (D) The rates. (正解)
+ (D) The rates. <font color="#dd0000">正解</font>
 Damian Rice最後一句話中所指的 "they" 是誰或什麼?
 a. Printing Delight。
 b. Sinead Lockley和Debra Smith。
@@ -43503,7 +43503,7 @@ Call now to make your reservation at 444-121-2333
  
  
 What is the purpose of the advertisement?
- (A) To introduce a promotion related to a new facility. (正解)
+ (A) To introduce a promotion related to a new facility. <font color="#dd0000">正解</font>
  (B) To entertain audience members who are watching the dolphin show.
  (C) To explain how to make a reservation at the Bloomington Aquarium.
  (D) To announce the grand opening of the Bloomington Aquarium.
@@ -43519,7 +43519,7 @@ d. 宣告布明頓水族館的盛大開幕。
  
 What will happen if you do not have biodegradable sunscreen?
  (A) They will make you leave.
- (B) It will be taken at the door.(正解)
+ (B) It will be taken at the door.<font color="#dd0000">正解</font>
  (C) They will give you new sunscreen.
  (D) Nothing will happen.
 如果你攜帶無法微生物分解的防曬乳，以下何事將會發生？ 
@@ -43771,7 +43771,7 @@ What can we infer about this event?
  (A) It will be attended by more than 1000 people
  (B) It will be featured in the local news.
  (C) It will be the last event of the school year.
- (D) It will take place outdoors. (正解)
+ (D) It will take place outdoors. <font color="#dd0000">正解</font>
 以下關於活動的推論何者正確？
 a. 會有超過一千人參加。 
 b. 會在當地新聞中出現。 
@@ -43783,7 +43783,7 @@ d. 將會在戶外舉行。
  
  
 Why will the drama performances take up more time than the other items on the programme?
- (A) All the students at the school are involved.(正解)
+ (A) All the students at the school are involved.<font color="#dd0000">正解</font>
  (B) There will be a long break between each play.
  (C) The students are not well-prepared.
  (D) It is forecast to rain at two o' clock.
@@ -43799,7 +43799,7 @@ d. 天氣預測兩點會下雨。
  
 What is the main purpose of Samantha Brown's letter?
  (A) To ask Mrs. Springfield to cancel the event due to her son's illness.
- (B) To inform Mrs. Springfield that her son will unfortunately be absent from the event. (正解)
+ (B) To inform Mrs. Springfield that her son will unfortunately be absent from the event. <font color="#dd0000">正解</font>
  (C) To request that Mrs. Springfield postpone the event to a later date so that her son can attend.
  (D) To advise Mrs. Springfield to make some important changes to the event.
 Samantha Brown的信件目的為何？ 
@@ -43813,7 +43813,7 @@ d. 建議春田太太對活動做出一些重要的改變。
  
  
 What will Nick Brown's parents do on the day of the Open Day?
- (A) Attend the Open Day.(正解)
+ (A) Attend the Open Day.<font color="#dd0000">正解</font>
  (B) Attend a different event.
  (C) Stay at home to take care of Nick.
  (D) Perform in the class play instead of Nick.
@@ -43829,7 +43829,7 @@ d. 代替Nick參與班上的演出。
  
 How does Nick Brown feel about not performing in the play?
  (A) He is relieved.
- (B) He is disappointed.(正解)
+ (B) He is disappointed.<font color="#dd0000">正解</font>
  (C) He is devastated.
  (D) He doesn't care.
 下列選項何者是Nick Brown不能參與演出的感受？ 
@@ -44014,7 +44014,7 @@ HTML代碼框
  
 What exactly is Artist Society?
  (A) A website where artists can improve their art skills.
- (B) A website where artists can find buyers for their artwork. (正解)
+ (B) A website where artists can find buyers for their artwork. <font color="#dd0000">正解</font>
  (C) A website where artists can trade artwork with one another.
  (D) A website where artists can get inspiration for artwork.
 美術協會到底是什麼？
@@ -44028,7 +44028,7 @@ d. 一個藝術家們能得到靈感的網站。
  
  
 If an artist sells a painting on Artist Society for USD100, what will be his or her net profit?
- (A) $40(正解)
+ (A) $40<font color="#dd0000">正解</font>
  (B) $60
  (C) $100
  (D) $140
@@ -44046,7 +44046,7 @@ In the first article, there are four links indicated by the word HERE. Which one
  (A) The first one.
  (B) The second one.
  (C) The third one.
- (D) The fourth one. (正解)
+ (D) The fourth one. <font color="#dd0000">正解</font>
 在第一段文章中，有四個鏈接的字HERE，哪一個鏈接到第二段文章?
 a. 第一個
 b. 第二個
@@ -44061,7 +44061,7 @@ Which of the following is NOT true about the banners?
  (A) They come in a variety of color themes.
  (B) They include photos of one's artwork.
  (C) They are free of charge to create.
- (D) They don't work on business websites. (正解)
+ (D) They don't work on business websites. <font color="#dd0000">正解</font>
 以下關於標題哪一個不正確?
 a. 有不同的顏色主題。
 b. 包含了一個藝術家作品的照片。
@@ -44076,7 +44076,7 @@ Why isn't Nick Kembel's photo uploading properly?
  (A) The dimensions are wrong.
  (B) He is not allowed to sell this particular product.
  (C) He hasn't paid his annual membership fee.
- (D) It's not clear at this point. (正解)
+ (D) It's not clear at this point. <font color="#dd0000">正解</font>
 為什麼Nick Kembel無法正確上傳照片？
 a. 尺寸錯誤。
 b. 不允許他出售這一項指定商品。
@@ -44236,7 +44236,7 @@ Michael Erickson
  
 The training programs mentioned in the newsletter are designed to be done how often?
  (A) Once a week.
- (B) Once a day.(正解)
+ (B) Once a day.<font color="#dd0000">正解</font>
  (C) Twice an hour.
  (D) Once a month.
 在電子報中提到的訓練課程要多常做一次呢？ 
@@ -44253,7 +44253,7 @@ What information does the newsletter NOT contain?
  (A) The price of the training videos.
  (B) How after burn training works.
  (C) How often the newsletter is sent.
- (D) Who invented the after burn training technique.(正解)
+ (D) Who invented the after burn training technique.<font color="#dd0000">正解</font>
 電子報的內容不包含以下何者？ 
 a. 訓練錄影帶的價格。 
 b. 後燃脂的訓練如何進行。 
@@ -44266,7 +44266,7 @@ d. 誰發明後燃脂的訓練技巧。
  
 How does Michael Erickson respond to the newsletter?
  (A) He agrees to register for the video training offer.
- (B) He claims that he never registered to receive the newsletter.(正解)
+ (B) He claims that he never registered to receive the newsletter.<font color="#dd0000">正解</font>
  (C) He asks for more information on after burn training.
  (D) He asks for advice on how to talk to girls.
 Michael Erickson如何回應這篇週報？ 
@@ -44280,7 +44280,7 @@ d. 他想要如何與女孩交談的建議。
  
  
 What reasons does Michael Erickson NOT give for having no interest in the newsletter?
- (A) He suffers from regular muscle pains.(正解)
+ (A) He suffers from regular muscle pains.<font color="#dd0000">正解</font>
  (B) He is already over fifty years old.
  (C) He prefers more relaxed forms of exercise.
  (D) He is married.
@@ -44295,7 +44295,7 @@ d. 他已婚。
  
  
 How did Michael Erickson's email address get onto the newsletter's mailing list?
- (A) They obtained it from a document he completed in an eatery. (正解)
+ (A) They obtained it from a document he completed in an eatery. <font color="#dd0000">正解</font>
  (B) The newsletter obtained it illegally.
  (C) The newsletter sends out emails to random addresses.
  (D) The newsletter purchases email addresses from Happy Herb's.
@@ -44409,7 +44409,7 @@ What is the main purpose of this email?
  (A) To recommend Buddy Carter for a managerial position.
  (B) To recommend Buddy Carter for a study abroad program.
  (C) To recommend Buddy Carter for a promotion.
- (D) To recommend Buddy Carter for an international internship.(正解)
+ (D) To recommend Buddy Carter for an international internship.<font color="#dd0000">正解</font>
 這封電子郵件的主要目的為何？
 a. 推薦Buddy Carter爭取管理職位。。
 b. 推薦Buddy Carter去念海外課程。。
@@ -44424,7 +44424,7 @@ In which of the positions marked (1), (2), (3), and (4) does the following sente
  (A) (1)
  (B) (2)
  (C) (3)
- (D) (4)(正解)
+ (D) (4)<font color="#dd0000">正解</font>
 以下的句子在文章所標示 (1), (2), (3), 和 (4) 的位置中，應被放在哪裡？
 
 "換句話說，他能獨立工作並同時遵循上面的命令。"
@@ -44441,7 +44441,7 @@ d. (4)
 What date will Buddy Carter graduate from college?
  (A) He will graduate on April 20, 2014.
  (B) He has already graduated.
- (C) It does not give a date when he will graduate.(正解)
+ (C) It does not give a date when he will graduate.<font color="#dd0000">正解</font>
  (D) He will graduate in one year.
 Buddy Carter的大學畢業日期是幾號?
 a. 他將於2014年4月20日畢業。
@@ -44457,7 +44457,7 @@ Which of the following is true about Buddy Carter?
  (A) He went to college for five years.
  (B) He had trouble finishing projects.
  (C) He is applying for a job at a college.
- (D) He is a great student and leader.(正解)
+ (D) He is a great student and leader.<font color="#dd0000">正解</font>
 下列對Buddy Carter的敘述，何者正確?
 a. 他上了五年的大學。
 b. 他在完成任務時遇到了麻煩。
@@ -44569,7 +44569,7 @@ What kind of man would be suitable for this woman?
  (A) Someone who enjoys watching television.
  (B) Someone who frequently gets sick.
  (C) Someone who looks after farm animals.
- (D) Someone who likes outdoor activities.(正解)
+ (D) Someone who likes outdoor activities.<font color="#dd0000">正解</font>
 什麼樣的男人會適合這樣的女人？ 
 a. 喜歡看電視的人。 
 b. 經常生病的人。 
@@ -44581,7 +44581,7 @@ d. 喜歡戶外活動的人。
  
  
 What does the woman believe to be one of her better attributes?
- (A) Her excitement for life.(正解)
+ (A) Her excitement for life.<font color="#dd0000">正解</font>
  (B) Her looks.
  (C) Her love of animals.
  (D) Her love of older men.
@@ -44599,7 +44599,7 @@ Why would the man NOT be a suitable partner for the woman?
  (A) He enjoys cooking.
  (B) He lives on his own.
  (C) He likes to travel.
- (D) He is over fifty years old.(正解)
+ (D) He is over fifty years old.<font color="#dd0000">正解</font>
 為什麼這男人對這女人來說不是合適的伴侶？ 
 a. 他喜歡烹飪。 
 b. 他獨立居住。
@@ -44611,7 +44611,7 @@ d. 他已經五十多歲了。
  
  
 What is the man's current financial situation?
- (A) He is financially secure.(正解)
+ (A) He is financially secure.<font color="#dd0000">正解</font>
  (B) He borrows a lot of money.
  (C) He doesn't like to spend money.
  (D) He spends too much money on luxury.
@@ -44627,7 +44627,7 @@ d. 他花太多錢在奢侈品上。
  
 What is something that the two people have in common?
  (A) They are both divorced.
- (B) They both enjoy cooking.(正解)
+ (B) They both enjoy cooking.<font color="#dd0000">正解</font>
  (C) They both like cats.
  (D) They both enjoy reading.
 這兩個人有什麼共同點？ 
@@ -44682,7 +44682,7 @@ Red Trails: Trails marked with red color are quite difficult, as they cover long
 Which of the following is NOT true about the yellow trails?
  (A) You need proper equipment.
  (B) The trail is moderate difficulty.
- (C) The trail is mostly flat.(正解)
+ (C) The trail is mostly flat.<font color="#dd0000">正解</font>
  (D) You need a high fitness level.
 下列有關黃色步道的敘述何者不正確？ 
 a. 你需要適合的設備。 
@@ -44696,7 +44696,7 @@ d. 你需要常運動才適合此步道。
  
 Which trails do you need a permit to hike?
  (A) You need one for all three.
- (B) You only need one for the red trails.(正解)
+ (B) You only need one for the red trails.<font color="#dd0000">正解</font>
  (C) You only need one for the yellow trails.
  (D) You only need one for the green trails.
 你需要申請許可證走哪一條步道？ 
@@ -44745,7 +44745,7 @@ Who wrote this article?
  (A) A member of the United States government.
  (B) A fisherman from Mozambique.
  (C) A lifeguard.
- (D) A sea turtle conservationist.(正解)
+ (D) A sea turtle conservationist.<font color="#dd0000">正解</font>
 何者撰寫這篇文章?
 a. 美國政府的成員。
 b. 莫三比克的漁夫。
@@ -44757,7 +44757,7 @@ d. 海龜保育人士。
  
  
 Which of the following is true according to the article?
- (A) Fishing for sea turtles is against the law.(正解)
+ (A) Fishing for sea turtles is against the law.<font color="#dd0000">正解</font>
  (B) Educating local fishermen about sea turtles will help nothing.
  (C) Fishing for sea turtles is allowed for certain people.
  (D) WWF has been responsible for the death of many sea turtles.
@@ -44774,7 +44774,7 @@ d. 野生動物保育協會要為許多海龜的死亡而負責。
 What is an appropriate title for this article?
  (A) Fishermen in Mozambique Help Hatchlings
  (B) Sea Turtle found in Local Fisherman's Yard
- (C) Mozambique Sea Turtles Endangered by Overfishing(正解)
+ (C) Mozambique Sea Turtles Endangered by Overfishing<font color="#dd0000">正解</font>
  (D) Mozambique Government Seizes Sea Turtle Eggs to Spite Locals
 下列何項是本文章最適合的標題?
 a. 莫三比克的漁夫協助幼雛。
@@ -44907,7 +44907,7 @@ $75
  
 Who would be interested in this piece of writing?
  (A) The janitorial staff of Cedar Grove Elementary.
- (B) The parents of the students at Cedar Grove.(正解)
+ (B) The parents of the students at Cedar Grove.<font color="#dd0000">正解</font>
  (C) Clothing manufacturers in the United States.
  (D) The department of education.
 以下選項何者會對這份內容有興趣？ 
@@ -44923,7 +44923,7 @@ d. 教育部。
 What can be inferred based on the information presented?
  (A) The third item on the list is not currently available.
  (B) All orders are subject to taxes.
- (C) Orders cannot be placed during the summer holiday. (正解)
+ (C) Orders cannot be placed during the summer holiday. <font color="#dd0000">正解</font>
  (D) There is a minimum order of three items.
 根據文中提供的訊息，可推論出以下何者選項？ 
 a. 清單上的第三項商品目前已缺貨。
@@ -44996,7 +44996,7 @@ Geoffrey Moreau   10:30 a.m.
  
 Why can't Hannah Zalmanowitz meet with Geoffrey Moreau?
  (A) She's not in town.
- (B) She's too busy.(正解)
+ (B) She's too busy.<font color="#dd0000">正解</font>
  (C) She's on holiday.
  (D) She's in a different building.
 為什麼Hannah Zalmanowitz無法跟Geoffrey Moreau碰面？
@@ -45011,7 +45011,7 @@ d. 她在不同的建築中。
  
 What is the meaning of the word "testimonial" as used by Geoffrey Moreau?
  (A) A general description of a product.
- (B) A talk about a person's experience using a product. (正解)
+ (B) A talk about a person's experience using a product. <font color="#dd0000">正解</font>
  (C) A formal recommendation from a doctor.
  (D) A review by a working professional.
 Geoffrey Moreau所指的"testimonial"是什麼意思？
@@ -45147,7 +45147,7 @@ Kyle O’hare
 Why was the writer not permitted to enter the casino?
  (A) There was an issue related to his age.
  (B) There was an issue related to his behavior.
- (C) There was an issue related to his ID card. (正解)
+ (C) There was an issue related to his ID card. <font color="#dd0000">正解</font>
  (D) There was an issue related to his ticket.
 為何作者被禁止進入賭場？ 
 a. 因為跟他的年紀有關。 
@@ -45160,7 +45160,7 @@ d. 因為跟他的票券有關。
  
  
 Where was the casino located?
- (A) Brunswick, New Jersey(正解)
+ (A) Brunswick, New Jersey<font color="#dd0000">正解</font>
  (B) Biloxi, Mississippi
  (C) Baltimore, Maryland
  (D) Las Vegas, Nevada
@@ -45176,7 +45176,7 @@ d. 拉斯維加斯，內華達州
  
 In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "However, it is still a valid government-issued document."
  (A) (1)
- (B) (2)(正解)
+ (B) (2)<font color="#dd0000">正解</font>
  (C) (3)
  (D) (4)
 以下的句子在文章所標示 (1), (2), (3), 和 (4) 的位置中，應被放在哪裡？
@@ -45235,7 +45235,7 @@ If you are taking the prescription drug Relaxal you need to stop using it now. I
 Who published this piece of writing?
  (A) The pharmaceutical company Relaxal.
  (B) The Food and Drug Administration.
- (C) The Beechum & Tool Law Firm.(正解)
+ (C) The Beechum & Tool Law Firm.<font color="#dd0000">正解</font>
  (D) A relative of someone affected by the drug Relaxal.
 誰出版這篇文章?
 a. Relaxal製藥廠。
@@ -45249,7 +45249,7 @@ d. 吃Relaxal藥物受害者的親戚。
  
 What is the writer's profession?
  (A) Doctor.
- (B) Lawyer.(正解)
+ (B) Lawyer.<font color="#dd0000">正解</font>
  (C) Government administrator.
  (D) Pharmacist.
 請問作者的職業是什麼?
@@ -45266,7 +45266,7 @@ What is inferred by the article?
  (A) The drug Relaxal is still being sold in some pharmacies.
  (B) The drug Relaxal hasn't been sold in pharmacies for 25 months.
  (C) The company that produced Relaxal is going to go bankrupt.
- (D) The company that produced Relaxal also produced some other problematic drugs. (正解)
+ (D) The company that produced Relaxal also produced some other problematic drugs. <font color="#dd0000">正解</font>
 從文章內文中可推論出以下何者敘述？
 a. Relaxal這項藥品依然在幾間藥局販售中。
 b. Relaxal已經有25個月沒有在藥局販售。
@@ -45278,7 +45278,7 @@ d. 生產Relaxal的公司依然在製造其他有問題的藥物。
  
  
 What is the writer's attitude towards the pharmaceutical company?
- (A) He thinks people adversely affected by the drug need compensation.(正解)
+ (A) He thinks people adversely affected by the drug need compensation.<font color="#dd0000">正解</font>
  (B) He would like to become partners with the company.
  (C) He thinks that doctors have misled the public about the company.
  (D) He believes their product should be sold in stores everywhere.
@@ -45448,7 +45448,7 @@ Bradley Wilis
 What is Andy Wood asking for?
  (A) Permission to discuss a book in his group.
  (B) A copy of an old book.
- (C) A copy of an upcoming book.(正解)
+ (C) A copy of an upcoming book.<font color="#dd0000">正解</font>
  (D) To find out when the book will be released.
 Andy Wood想要以下何者？ 
 a. 在團體活動中討論書的許可。 
@@ -45464,7 +45464,7 @@ In what setting has Andy Wood been discussing the book and movie?
  (A) In his weekly book group with his friends.
  (B) As part of his job at a publishing company.
  (C) In one of his university classes.
- (D) On an online discussion forum.(正解)
+ (D) On an online discussion forum.<font color="#dd0000">正解</font>
 Andy Wood一直在何處討論這本書以及電影？ 
 a. 和他的朋友在他的每週讀書小組。 
 b. 這是他在出版公司工作的一部分。 
@@ -45476,7 +45476,7 @@ d. 在一個網上論壇。
  
  
 Why is the publishing company not able to fulfill Andy's request?
- (A) Due to the location that he is currently residing.(正解)
+ (A) Due to the location that he is currently residing.<font color="#dd0000">正解</font>
  (B) They have no interest in Andy Wood's forum.
  (C) It is their policy not to issue advance copies.
  (D) They are not publishing the book that Andy Wood is interested in.
@@ -45492,7 +45492,7 @@ d. 公司不再出版這本Andy Wood感興趣的書。
  
 What does the company offer as an alternative to sending the book to Andy Wood?
  (A) Sending him an electronic copy by email.
- (B) Sending a copy to any address within the USA.(正解)
+ (B) Sending a copy to any address within the USA.<font color="#dd0000">正解</font>
  (C) Sending him coupons so he can buy the book himself.
  (D) They do not offer him an alternative.
 以下何者是公司提供給Andy Wood的書本寄送替代方案？ 
@@ -45507,7 +45507,7 @@ d. 公司並沒有提供任何替代方案給他。
  
 What are the contents of the package?
  (A) A copy of Biting of the Hand.
- (B) A copy of Minister of Scheming.(正解)
+ (B) A copy of Minister of Scheming.<font color="#dd0000">正解</font>
  (C) A bibliography of Justin King.
  (D) A book listing all of Polar Bear Publishing's publications.
 包裹內的內容物為以下何者？ 
