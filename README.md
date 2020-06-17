@@ -2,6 +2,992 @@
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
 只顯示答錯  回上一頁
 
+答錯
+	Question 1.	
+00:0000:23
+ 
+Krishna, how was your market analysis presentation at the conference?
+ (A) It was decent. I'll get feedback from the attendees on Friday.(正解)
+ (B) I delivered the presentation at exactly 3 o'clock.
+ (C) The presentation focused on the results of a recent study.
+Krishna，你在會議上的市場分析報告狀況如何？
+a. 還不錯。星期五我會收到參與人員的回應
+b. 三點整我要準時報告
+c. 這份報告著重在一份近期研究的結果
+ 
+答對
+	Question 2.	
+00:0000:21
+ 
+On what date can we expect the new refrigerator to be delivered?
+ (A) The refrigerator will not fit in this tiny kitchen.
+ (B) It will be here on the 20th or 21st.(正解)
+ (C) I have a date with the man from the delivery company.
+新冰箱哪天會送到？
+a. 這台冰箱不適合放在這麼狹小的廚房
+b. 大概 20號或21號會送到
+c. 我和一個在貨運公司上班的男人約會
+ 
+答錯
+	Question 3.	
+00:0000:14
+ 
+Does anybody know whose trainers these are?
+ (A) I've been training him.
+ (B) They aren't for sale, actually.
+ (C) They've got to be Homer's.(正解)
+有人知道這雙運動鞋是誰的嗎？
+a. 我一直在訓練他
+b. 實際上，他們是非賣品
+c. 那一定是 Homer的
+ 
+答錯
+	Question 4.	
+00:0000:18
+ 
+What would you rather do on our trip, stay in a resort on the coast or camp beside a lake?
+ (A) Neither sounds appealing to me.(正解)
+ (B) I'll take one of each.
+ (C) Winter sports don't interest me.
+我們去旅行時你比較想做什麼事，待在渡假村的海邊或是在湖邊露營？
+a. 兩個聽起來都不吸引我
+b. 我每一種都要一個
+c. 我對冬季運動沒興趣
+ 
+答對
+	Question 5.	
+00:0000:18
+ 
+What's the reason the boss changed the date of the company outing?
+ (A) Most likely because of the poor weather forecast.(正解)
+ (B) The picnic will be at the waterpark.
+ (C) I would like to eat gelato at the picnic.
+為什麼老闆要更改公司郊遊的日期？
+a. 最有可能是因為天氣預報不佳
+b. 野餐會在水上樂園舉辦
+c. 野餐時我想吃義式冰淇淋
+ 
+答錯
+	Question 6.	
+00:0000:18
+ 
+Did you know that we have a board meeting in five minutes?
+ (A) Yes, they need to prep the office.
+ (B) What? No, I need to go get my notes ready.(正解)
+ (C) No, I do not know where the meeting is.
+你知道我們五分鐘後召開董事會議嗎？
+a. 是的，他們必須去準備辦公室
+b. 什麼？不，我必須將筆記準備好
+c. 不，我不知道會議在哪裡
+ 
+答對
+	Question 7.	
+00:0000:18
+ 
+Pardon me, sir. Do you have any idea where the post office is located?
+ (A) It is right next to the judicial court.(正解)
+ (B) How much are postage stamps?
+ (C) I have a few ideas about that.
+先生不好意思。你知道郵局的位置在哪裡？
+a. 就在法庭的隔壁
+b. 這些郵票多少錢？
+c. 我只知道一些些
+ 
+答對
+	Question 8.	
+00:0000:18
+ 
+Where can I get ahold of a copy of the bullet train schedule?
+ (A) The train comes every 10 minutes.
+ (B) Hold on and I'll sell you a packet of bullets.
+ (C) Try the tourist information center on the main floor.(正解)
+哪裡可以拿到子彈列車的時刻表？
+a. 這台列車每十分鐘一班
+b. 稍等一下，我會賣你一小盒子彈
+c. 試試看一樓的旅客服務中心
+ 
+答錯
+	Question 9.	
+00:0000:18
+ 
+I can't understand why you made the reservation so early!
+ (A) We need to be there by 8:00 at the latest.
+ (B) Understanding is believing.
+ (C) I'm not missing this Broadway show for anything!(正解)
+我無法理解為什麼你要這麼早預約！
+a. 我們最晚八點要抵達
+b. 了解它，你就會相信它
+c. 我不會為了任何事情錯過這場百老匯秀！
+ 
+答錯
+	Question 10.	
+00:0000:21
+ 
+Where can I find a copy of the frame contract for CPUP Inc.?
+ (A) Yes, I'd like a solid oak frame around the picture.
+ (B) You need to turn right at the next light.
+ (C) Try the file cabinet beside my desk.(正解)
+我在哪裡可以找到和CPUP公司簽訂的框架合同的影印本？
+a. 是的，我想要純橡木鏡框
+b. 下個紅綠燈要右轉
+c. 找找看我桌子旁邊的檔案櫃
+ 
+答錯
+	Question 11.	
+00:0000:16
+ 
+Brad, how often would you suggest that I back up my computer?
+ (A) Here are the external hard drives.
+ (B) At least once a month.(正解)
+ (C) Just back up a few feet and you'll be fine.
+Brad，你會建議我多久將電腦備份一次？
+a. 外接硬碟在這裡
+b. 至少一個月一次
+c. 只要退幾步就沒事
+ 
+答錯
+	Question 12.	
+00:0000:14
+ 
+When are tenants allowed to move in?
+ (A) You will need to move your own furniture.
+ (B) I will have to check with the realtor. (正解)
+ (C) Let's go to a movie instead.
+這些房客何時可以入住？
+a. 你要自己搬傢俱
+b. 我必須和房產經紀人確認
+c. 我們換成去看電影吧
+ 
+答對
+	Question 13.	
+00:0000:18
+ 
+Have you decided where you will put these new decorations?
+ (A) We'll decorate the Christmas tree next week.
+ (B) Above the fireplace would look nice.(正解)
+ (C) The decision has been made to let you go.
+你決定要將這些新的裝飾品放在那裡了嗎？
+a. 我們下禮拜會裝飾聖誕樹
+b. 放在壁爐上方看起來很不錯
+c. 我們決定要將你資遣
+ 
+答對
+	Question 14.	
+00:0000:18
+ 
+Didn't Lenny want to buy your old television set?
+ (A) Lenny's favorite show is The Simpsons.
+ (B) The television set is old and rusty.
+ (C) No, he decided to buy a new one.(正解)
+Lenny不是想買你舊的電視組嗎？
+a. Lenny最喜歡的節目是辛普森家族
+b. 這個電視組又舊又生鏽
+c. 沒有，他決定買組新的
+ 
+答對
+	Question 15.	
+00:0000:17
+ 
+Paco has a lot of friends, doesn't he?
+ (A) He's never been, but he'd like to.
+ (B) Keep your friends close, and your enemies closer.
+ (C) Yeah, he's a social butterfly.(正解)
+Paco有很多朋友，對吧？
+a. 他從來不是，但他想要
+b. 親近你的朋友，且和你的敵人更親近些
+c. 是阿，他是個交際花(喜歡與人交際)
+ 
+答對
+	Question 16.	
+00:0000:17
+ 
+Isn't it true that we all have to volunteer at the carnival this weekend?
+ (A) Yes, you are absolutely correct.(正解)
+ (B) Yeah, the carnival is coming to town.
+ (C) I'm all done, but thanks.
+我們這週末都必須去嘉年華會當義工是真的嗎？
+a. 是的，你絕對是正確的
+b. 是阿，嘉年華會要來這個小鎮了
+c. 我都做完了，但還是謝謝你
+ 
+答對
+	Question 17.	
+00:0000:17
+ 
+What did you do with the scissors after you last used them?
+ (A) They are as sharp as a knife.
+ (B) Buying a used pair is better than a new one.
+ (C) I believe I put them on the counter.(正解)
+你最後一次用完剪刀後放在哪裡？
+a. 它們和刀子一樣鋒利
+b. 買一把二手的勝過買一把全新的
+c. 我想我放在櫃檯裡
+ 
+答對
+	Question 18.	
+00:0000:19
+ 
+Excuse me, officer. Which way to the Museum of Natural History?
+ (A) I can't wait to go see the Dark Universe exhibit.
+ (B) Hang a right on 79th.(正解)
+ (C) The museum was well-organized and informative.
+不好意思，警官。自然博物館要往哪裡走？
+a. 我等不及看夜間星空展
+b. 開在79街的右手邊
+c. 這間圖書館規劃得很好且資訊充足
+ 
+答錯
+	Question 19.	
+00:0000:17
+ 
+Which stocks did you invest in?
+ (A) Learning a language is a serious investment.
+ (B) I put all my money into PetroCorp United.(正解)
+ (C) He was in shock after the accident.
+你投資哪一支股票？
+a. 學習新語言是一項重大的投資
+b. 我將所有的錢買進聯合油品
+c. 他在意外後遭受很大的驚嚇
+ 
+答錯
+	Question 20.	
+00:0000:19
+ 
+What do you think of the new editing software installed in our office?
+ (A) The office is running smoothly and efficiently.
+ (B) I think it will work well once we're all adjusted to it.(正解)
+ (C) I'm quite fond of being an editor.
+你覺得我們辦公室新安裝的編輯軟體如何？
+a. 這辦公室運作得流暢且有效率
+b. 我覺得一但我們都適應後會運作得更好
+c. 我還蠻喜歡當編輯
+ 
+答錯
+	Question 21.	
+00:0000:19
+ 
+Who will be our tour guide today?
+ (A) What is it with you and cowboys?
+ (B) I think it is the man in the blue outfit.(正解)
+ (C) What will be the main topic of the tour?
+我們今天的導遊是誰？
+a. 你為什麼這麼喜歡牛仔？
+b. 我想是那個穿藍色衣服的男人
+c. 這趟導覽的主要重點是什麼？
+ 
+答錯
+	Question 22.	
+00:0000:20
+ 
+What made you decide to go to Thailand instead of Indonesia?
+ (A) I bought a ticket from a budget airlines.
+ (B) There are political problems in the latter country now.(正解)
+ (C) Because Indonesia is known for its white sand beaches.
+是什麼讓你決定去泰國而不是印尼？
+a. 我從一家廉價航空買了機票
+b. 後面那個國家現在有些政治上的問題
+c. 因為印尼的白色沙灘很有名
+ 
+答對
+	Question 23.	
+00:0000:18
+ 
+Any luck with the job market in Honolulu yet?
+ (A) Not yet, but I am still looking.(正解)
+ (B) Yeah, I know. The hotels there are overpriced.
+ (C) No, we haven't been to that produce market yet.
+在檀香山(火奴奴魯)找到工作了嗎？
+a. 還沒，但我還在尋找中
+b. 是阿，我知道。那邊的旅館價位都太高了
+c. 還沒，我們還沒去過那裡的農產品市場
+ 
+答對
+	Question 24.	
+00:0000:19
+ 
+I'd like to try that doctor you recommended. What's her name again?
+ (A) Why are you going to the doctor again?
+ (B) Her name is Dr. Lisa Wilson.(正解)
+ (C) The doctor is in the office.
+我想要試試看那位你推薦的醫生。再說一次她的名字？
+a. 你為什麼要再去看一次醫生？
+b. 她是麗莎威爾森醫生
+c. 醫生在辦公室裡
+ 
+答對
+	Question 25.	
+00:0000:14
+ 
+When can I expect your project proposal?
+ (A) It will be on your desk in the morning.(正解)
+ (B) Practice makes perfect.
+ (C) This project is easier said than done.
+我什麼時候可以看到你的專案計畫？
+a. 早上就會放在你的桌上
+b. 練習造成完美
+c. 這個專案說比做容易
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+答對
+	Question 1.	
+00:0000:15
+ 
+Beautiful car, isn't it?
+ (A) No, they weren't in the trunk.
+ (B) Yes, I find her quite attractive, too.
+ (C) Yes indeed, I'll bet it's pretty expensive though.(正解)
+漂亮的車子**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+答對
+	Question 1.	
+00:0000:18
+ 
+Why are there so many taxis waiting at the corner?
+ (A) I prefer to go by metro.
+ (B) Most people get off work now. (正解)
+ (C) I'm filing my taxes now, too.
+為什麼那個轉角有這麼多計程車？
+a. 我偏好搭捷運
+b. 大部分的人這時候下班
+c. 我現在也在報稅
+ 
+答錯
+	Question 2.	
+00:0000:17
+ 
+Did the doctor prescribe something for your back?
+ (A) Sure, he described the problem clearly.
+ (B) No, he just said I need to stretch more.(正解)
+ (C) Yes, he'll be back on time.
+這醫生有開什麼配方治療你的背嗎？
+a. 當然，他非常清楚地描述問題
+b. 沒有，他只有說我需要多做伸展運動
+c. 是的，他會準時回來
+ 
+答對
+	Question 3.	
+00:0000:14
+ 
+Can you pitch in some money for a going away present for Monica?
+ (A) She is leaving in a month.
+ (B) The money will go to a charity.
+ (C) Sure. How much?(正解)
+你可以為Monica的送別禮貢獻一些錢嗎？
+a. 她一個月後離開
+b. 這筆錢用來做公益
+c. 當然，多少？
+ 
+答對
+	Question 4.	
+00:0000:18
+ 
+That is really expensive! What are you going to do with such a big piece of artwork?
+ (A) Don't worry. I will find somewhere to put it.(正解)
+ (B) I inherited my father's wealth.
+ (C) It is from the 1920s.
+那個真的很貴！你要怎麼處理這麼大的一件藝術品？
+a. 不用擔心。我會找個地方放
+b. 我繼承我父親的財產
+c. 這個是1920年代所畫
+ 
+答對
+	Question 5.	
+00:0000:17
+ 
+How do you stay looking so young?
+ (A) I drink plenty of water and eat healthy food.(正解)
+ (B) I just turned 27 this year.
+ (C) Yes, my daughter is younger than my son.
+你怎麼看起來這麼年輕？
+a. 我喝很多水且吃健康的食物
+b. 我今天才27歲
+c. 是的，我女兒比我兒子年紀小
+ 
+答錯
+	Question 6.	
+00:0000:15
+ 
+When will we be meeting that client again?
+ (A) She said she'd drop in midweek.(正解)
+ (B) Time flies when you are having fun.
+ (C) She prefers meeting at the company headquarters.
+我們何時還要去見那位客戶？
+a. 她說她星期三會來拜訪
+b. 玩得開心時，時間總是過得特別快
+c. 她偏好在總公司碰面
+ 
+答錯
+	Question 7.	
+00:0000:17
+ 
+What kind of program can I use to create the chart?
+ (A) The chart will be due next week.
+ (B) You have not installed any programs.
+ (C) It's up to you. Just make sure it looks professional.(正解)
+我可以使用什麼程式製作圖表？
+a. 這圖表下禮拜到期
+b. 你還未下載任何程式
+c. 你決定。只要確定圖表看起來很專業就好
+ 
+答對
+	Question 8.	
+00:0000:19
+ 
+Excuse me. Can you tell me where the Atlanta Civic Center is?
+ (A) The Atlanta Civic Center has a huge stage.
+ (B) Sorry to tell you this, but it is on the other side of town.(正解)
+ (C) We are going to see a talk show.
+不好意思。可以告訴我亞特蘭大市民中心在哪裡嗎？
+a. 亞特蘭大市民中心有座大舞台
+b. 抱歉告訴你，但它在城市的另一邊
+c. 我們要去看脫口秀
+ 
+答錯
+	Question 9.	
+00:0000:19
+ 
+I love this piece! Any idea who the performer is?
+ (A) I think the band is called The Red Cliff.(正解)
+ (B) I listen to nothing but jazz.
+ (C) This song is too long for my liking.
+我愛死這張唱片了！你知道是誰演奏的嗎？
+a. 我想這個樂團叫赤壁
+b. 我什麼都聽就是不聽爵士樂
+c. 以我來說這首歌太長了
+ 
+答對
+	Question 10.	
+00:0000:18
+ 
+Is there anything I can help you with for the dinner party tonight?
+ (A) Tonight is a good night for partying.
+ (B) Yes, can you bring some fancy wine?(正解)
+ (C) The dinner party was great!
+今晚的派對有什麼需要我幫忙的嗎？
+a. 今晚是個適合開派對的晚上
+b. 有的，你可以幫我帶些好酒過來嗎？
+c. 這晚餐派對很棒！
+ 
+答對
+	Question 11.	
+00:0000:19
+ 
+How do I find a specific email in my inbox?
+ (A) Just go to the search bar and type in the email address.(正解)
+ (B) Calm down. The paper is right here.
+ (C) Yes, I don't like ordering supplies, either.
+我要怎麼從信箱裡找到特定的信件？
+a. 只要在搜尋區裡輸入電郵地址
+b. 冷靜下來。報告就在這裡
+c. 是，我也不知道怎麼叫貨
+ 
+答對
+	Question 12.	
+00:0000:15
+ 
+How do I know when I should walk up on stage?
+ (A) The stage is actually made of wood.
+ (B) The speaker will tell you when to come up.(正解)
+ (C) There are hundreds of people in the audience.
+我怎麼知道何時該走上舞台？
+a. 這舞台實際上是木製的
+b. 演講者會告訴你
+c. 這邊有好幾千名觀眾
+ 
+答錯
+	Question 13.	
+00:0000:17
+ 
+Rosemary, when do you need to be back in the city?
+ (A) I need to be back to sell some roses in the market.
+ (B) Four at the latest, but earlier would be ideal.(正解)
+ (C) I'll go wherever you want.
+Rosemary，你何時需要回到這個城市裡？
+a. 我需要回去在市場賣些玫瑰
+b. 最晚四天，但早一點會更好
+c. 我會去任何你想去的地方
+ 
+答對
+	Question 14.	
+00:0000:20
+ 
+Who do we need to talk to if we want to use the projector?
+ (A) I used the projector last week for the dieting presentation.
+ (B) Go to Perla. She has the sign in sheet.(正解)
+ (C) I need to talk to you about an urgent matter.
+如果我們想要使用投影機，需要問誰？
+a. 我上禮拜使用投影機做食品發表
+b. 找Perla。她有申請表
+c. 我需要和你談一個緊急問題
+ 
+答錯
+	Question 15.	
+00:0000:19
+ 
+I am thinking about switching cell phone providers. Which one do you use?
+ (A) The company will provide you with the paycheck.
+ (B) Mine is called AT&T.(正解)
+ (C) I recommend using a laptop.
+我在考慮換手機電信業者。你用哪一家的？
+a. 這公司會提供你支票
+b. 我用的是AT&T
+c. 我建議使用筆電
+ 
+答對
+	Question 16.	
+00:0000:15
+ 
+Why did Bonnie move to Berlin?
+ (A) A German computer company hired her.(正解)
+ (B) Moving requires a moving truck.
+ (C) Bonnie went to Berlin last year.
+為什麼Bonnie要搬去柏林？
+a. 一家德國電腦公司雇用她
+b. 搬家需要搬家卡車
+c. Bonnie去年去過柏林
+ 
+答對
+	Question 17.	
+00:0000:15
+ 
+What's the matter with Jonah today?
+ (A) Yes, Jonah has dealt with the matter.
+ (B) Jonah already went out to lunch.
+ (C) He just found out his grandmother passed away.(正解)
+Jonah今天是怎麼了？
+a. 是，Jonah已經在處理問題了
+b. Jonah已經外出吃午餐了
+c. 他剛剛才得知他的奶奶過世了
+ 
+答錯
+	Question 18.	
+00:0000:18
+ 
+Who will be doing your home renovations?
+ (A) We are going with a classic look.
+ (B) We've signed a contract with a reputable interior designer.(正解)
+ (C) The decorations are all waiting to be shipped.
+誰會幫你裝潢房子？
+a. 我們想要典雅的外觀
+b. 我們已經和一個信譽良好的室內設計師簽約
+c. 正在等著運送這些裝飾品出去
+ 
+答對
+	Question 19.	
+00:0000:13
+ 
+Who conducted your interview today?
+ (A) The regional boss. He was tough.(正解)
+ (B) Rebecca's interview was last week.
+ (C) The conductor will see you now.
+你今天和哪一位面試？
+a. 區域長。他很棘手
+b. Rebecca的面試是上個禮拜
+c. 管理長現在要見你
+ 
+答錯
+	Question 20.	
+00:0000:18
+ 
+When are you going to get your new bed frame from Pottery Barn?
+ (A) They said it would be delivered in two weeks.(正解)
+ (B) Pottery Barn specializes in mass-produced furniture.
+ (C) Your bed is quite cozy.
+你何時要去大陶倉拿你的新床架？
+a. 他們說這兩個禮拜內會寄到
+b. 大陶倉專賣量產傢俱
+c. 你的床相當舒適
+ 
+答錯
+	Question 21.	
+00:0000:15
+ 
+Where can I store my luggage to keep it safe?
+ (A) I can't tell you how much money's in the safe.
+ (B) We have lockers where you can put your baggage.(正解)
+ (C) You can pick it up in a few days.
+我可以把行李放在哪裡才安全？
+a. 我無法告訴你保險櫃裡有多少錢
+b. 我們有寄物櫃，你可以把行李放在那
+c. 你可以過幾天後再來領取
+ 
+答對
+	Question 22.	
+00:0000:15
+ 
+Who will remove all this trash from the lunchroom?
+ (A) It was Bill who we were supposed to meet for lunch.
+ (B) Yes, I agree.
+ (C) Don't worry. The cleaning staff will get it.(正解)
+誰會將餐廳的垃圾拿去倒？
+a. 我們午餐應該要去見Bill
+b. 是的，我同意
+c. 別擔心。清潔人員會處理
+ 
+答對
+	Question 23.	
+00:0000:21
+ 
+Nick Swardson is such a funny comedian! Do you know if he is touring right now?
+ (A) Hold on. Let me check his tour dates on the internet.(正解)
+ (B) Yes, I like his paintings, too.
+ (C) Nick Swardson is a popular city mayor.
+Nick Swardson是一個非常好笑的喜劇演員！你知道他現在是否在巡迴表演嗎？
+a. 等一下。讓我上網確認一下他的巡迴日期
+b. 是，我也喜歡他的畫作
+c. Nick Swardson是位受歡迎的市長
+ 
+答對
+	Question 24.	
+00:0000:16
+ 
+Whose word processing program was able to load correctly?
+ (A) That program is top notch!
+ (B) And now, a word from our sponsor.
+ (C) Unfortunately, no one's did. (正解)
+誰的文字處理軟體能夠正確的載入？
+a. 這程式是最棒的
+b. 現在請我們的贊助商來說些話
+c. 不巧的，沒有任何人可以
+ 
+答錯
+	Question 25.	
+00:0000:17
+ 
+Shouldn't Jasmine be here before we start the meeting?
+ (A) She's running late and said to start without her.(正解)
+ (B) Starting now, Jasmine is the manager.
+ (C) Jasmine is the star of the show.
+Jasmine不是應該在會議開始前抵達嗎？
+a. 她遲到了，叫我們先開始
+b. 從現在開始，Jasmine是經理
+c. Jasmine是這場秀的明星
+ 
+只顯示答錯  回上一頁，是不是？
+a. 不，後車箱裡沒有
+b. 是啊，我也發現她相當迷人
+c. 的確是，但我打賭這一定很貴
+ 
+答對
+	Question 2.	
+00:0000:17
+ 
+Mike, what does the recipe call for?
+ (A) Sorry, I don't eat meat or seafood.
+ (B) Looks like you'll need mushrooms, garlic and onions.(正解)
+ (C) I've never cooked a meal in my life.
+Mike，這份食譜需要什麼材料？
+a. 抱歉，我不吃肉或海鮮
+b. 看來你需要蘑菇，大蒜與洋蔥
+c. 我活到現在從沒煮過一道菜
+ 
+答對
+	Question 3.	
+00:0000:16
+ 
+Have you filled out the application form for your entry visa, sir?
+ (A) My passport is expired.
+ (B) No. Would you please lend me a pen?(正解)
+ (C) Yes, I've been here several times.
+你填寫了入境簽證的申請表嗎，先生？
+a. 我的護照過期了
+b. 還沒有。可以請你借我一支筆嗎？
+c. 是的，我來過這裡好幾次了
+ 
+答對
+	Question 4.	
+00:0000:19
+ 
+How is it that I only have fifty dollars left after last night?
+ (A) Dinner was quite expensive, and you bought a new dress.(正解)
+ (B) She said your bank account is looking great.
+ (C) In my opinion, this place is far too expensive.
+昨天晚上過後我的錢包裡怎麼會只剩五十元？
+a. 晚餐有點貴，而且你買了一件新洋裝
+b. 她說你的銀行賬戶看起來沒問題
+c. 我的意見是，這個地方真的是太貴了
+ 
+答對
+	Question 5.	
+00:0000:19
+ 
+This doesn't look familiar. Are you sure we're going the right way?
+ (A) Of course, I entered the address into the GPS. (正解)
+ (B) This man is crazy.
+ (C) Come on! I told you to study several times.
+這裡看起來很陌生。你確定我們走這條對嗎？
+a. 當然，我已經在GPS鍵入地址了
+b. 這男的瘋了
+c. 拜託！我跟你說幾遍要讀書了？
+ 
+答對
+	Question 6.	
+00:0000:23
+ 
+I had the memo Mr. Hartley wrote sitting right here on my desk. Where is it?
+ (A) The memo was sent out to the entire office.
+ (B) I'm sure it's here somewhere. Have you checked your briefcase?(正解)
+ (C) Mr. Hartley wrote the memo and gave it to all the employees.
+我把Hartley先生寫得備忘錄擺在桌子上。放哪裡了？
+a. 備忘錄已經寄給整個辦公室的人了
+b. 我很確定它在這裡的某個地方。你有確認過公事包裡嗎？
+c. Hartley先生寫了這份備忘錄並給所有員工一人一份
+ 
+答對
+	Question 7.	
+00:0000:16
+ 
+Whose backpack is this behind the sofa?
+ (A) Please step away from the bag.
+ (B) It's Trent Donaldson's, Mrs. Maxwell.(正解)
+ (C) You can fit so much stuff in it.
+在沙發後面背包是誰的？
+a. 請遠離那個背包
+b. Maxwell太太，那是Trent Donaldson的包包
+c. 裡面可以放得下很多東西
+ 
+答對
+	Question 8.	
+00:0000:17
+ 
+The temperature's going to drop tonight. Do we have extra blankets?
+ (A) I hate staring at a blank screen.
+ (B) They're in the closet.(正解)
+ (C) I really need help using my equipment.
+今晚開始氣溫會下降。我們有額外的毯子嗎？
+a. 我討厭盯著空白的螢幕畫面看
+b. 都在衣櫥裡
+c. 我真的需要有人協助我使用裝備
+ 
+答對
+	Question 9.	
+00:0000:19
+ 
+Why haven't you called your mother?
+ (A) The last time I saw you, you were with two tall women.
+ (B) I've been very busy lately, but I'll do it shortly.(正解)
+ (C) Over the phone would be the best way to communicate.
+你為什麼還沒打電話給你母親？
+a. 最後一次看到你時，你和兩個高個子女人在一起
+b. 我最近非常的忙碌，但我會儘快打給她
+c. 打電話會是溝通最好的方式
+ 
+答對
+	Question 10.	
+00:0000:17
+ 
+Why is he stepping down as head chairman of the company?
+ (A) He told me that he wants to spend more time with his family. (正解)
+ (B) He has been working here for fourteen years.
+ (C) I believe everything that he says.
+為什麼他當上公司董事長後還辭職？
+a. 他告訴我他想要花多點的時間陪家人
+b. 他已經在這裡工作十四年
+c. 我相信所有他說的話
+ 
+答對
+	Question 11.	
+00:0000:21
+ 
+Excuse me, ma'am. Does this phone have an alarm?
+ (A) Every phone these days has that function. (正解)
+ (B) This phone goes for $550, and it comes in three colors.
+ (C) We need to make the phone call as soon as possible.
+不好意思，女士。請問這支電話有鬧鐘功能嗎？
+a. 現代的電話每一支都有那個功能
+b. 這台電話要550元，有三個顏色
+c. 我們需要盡快打這通電話
+ 
+答對
+	Question 12.	
+00:0000:21
+ 
+Which of these trails will lead me to the electricity station?
+ (A) I hear that the scenery on this trail is very beautiful this time of year.
+ (B) You'll need to take the one to the right.(正解)
+ (C) You need a helmet to enter the premises.
+哪條路可以帶我到電子用品店？
+a. 我聽說這條路的風景在今年這時節非常漂亮
+b. 你會需要走右邊這條
+c. 在進入這建築物前，你需要戴安全帽
+ 
+答對
+	Question 13.	
+00:0000:19
+ 
+Did you hear that Marge got in a car accident last night?
+ (A) Heaven help the fool who stole my car!
+ (B) It is obviously that I never liked her.
+ (C) Oh my goodness, that's terrible!(正解)
+你有聽說Marge昨晚出車禍了嗎？
+a. 願上天憐憫那位偷我車子的笨蛋！
+b. 很明顯地我從沒喜歡過她
+c. 天哪，那太糟糕了！
+ 
+答對
+	Question 14.	
+00:0000:16
+ 
+Frank Thomas was a baseball player, right?
+ (A) Yes, he played first base for the Chicago White Sox.(正解)
+ (B) Something tells me that it's going to rain.
+ (C) Frank always loved to smoke cigarettes.
+Frank Thomas是位棒球選手，對吧？
+a. 是，他是芝加哥白襪隊的一壘手
+b. 我覺得今天會下雨
+c. Frank一直都喜歡抽煙
+ 
+答對
+	Question 15.	
+00:0000:17
+ 
+What's the matter with the vehicle?
+ (A) It's a 1997 Nissan Maxima.
+ (B) Theodore Slater was the man who sold it to me.
+ (C) I think the brakes and tires need to be replaced immediately.(正解)
+這台車有什麼問題嗎？
+a. 這是台1997生產的Nissan Maxima
+b. 賣給我的人是Theodore Slater 
+c. 我想煞車皮與輪胎需要立即更換
+ 
+答對
+	Question 16.	
+00:0000:19
+ 
+How often do you study Vietnamese?
+ (A) Due to my work schedule, I only get around to it once per week.(正解)
+ (B) I go to Vietnam twice per year for business trips.
+ (C) Vietnamese sounds difficult, but I'd like to learn it.
+你多常研讀越南語？
+a. 根據我的工作時間，我一個禮拜只能唸一次
+b. 我每年去越南出差兩次
+c. 越南語聽起來很難，但我想學
+ 
+答對
+	Question 17.	
+00:0000:19
+ 
+Excuse me, which of these cold medications has fewer side effects?
+ (A) You must be Mrs. Andrews.
+ (B) This one here will give you fewer side effects. (正解)
+ (C) The doctor said that the prescription was valid until next month.
+不好意思，哪一種感冒藥的副作用最小？
+a. 你一定是Andrews太太
+b. 這裡的這一種副作用比較小
+c. 醫生說這份處方籤到下個月都還可以使用
+ 
+答對
+	Question 18.	
+00:0000:16
+ 
+When will you come back from Japan?
+ (A) I'll get back next Thursday afternoon.(正解)
+ (B) The ticket cost me 300 dollars!
+ (C) The best time to visit Japan is in autumn.
+你什麼時候會從日本回來？
+a. 我下星期四下午回來
+b. 這張機票花了我300美元！
+c. 秋天是最適合拜訪日本的季節
+ 
+答對
+	Question 19.	
+00:0000:19
+ 
+Which bus can take me to Commonwealth and 5th Avenue the quickest?
+ (A) The bus stop is over there.
+ (B) Bus number 345 will get you there in a snap. (正解)
+ (C) I hear there is an excellent restaurant down the load.
+哪一班巴士可以最快到卡門威爾斯與第五大道的路口？
+a. 巴士站在那邊
+b. 345號巴士最快
+c. 我聽說那條路再過去有一間很棒的餐廳
+ 
+答對
+	Question 20.	
+00:0000:19
+ 
+This is the best French restaurant in the city, am I right?
+ (A) French cuisine is delicious, but it's a bit too strange for my taste.
+ (B) Have you tried the escargot?
+ (C) I can't argue with you on that.(正解)
+這是這個城市裡最棒的法國餐廳，對吧？
+a. 法國菜很好吃，但對我的口味來說有點怪
+b. 你試過法式烤蝸牛嗎？
+c. 我同意你說的
+ 
+答對
+	Question 21.	
+00:0000:18
+ 
+What time will the graduation ceremony commence?
+ (A) My daughter graduated at the top of her class.
+ (B) Your cap and gown are in the closet where you left them.
+ (C) Everything will begin at eleven o'clock sharp.(正解)
+畢業典禮何時會舉行？
+a. 我女兒畢業時是全班第一名
+b. 你把禮帽和長袍留在衣櫥裡了
+c. 十一點整準時開始
+ 
+答對
+	Question 22.	
+00:0000:23
+ 
+Can you tell me how to attach a file to my email?
+ (A) Yes, I'll need to forward that to Ron Parker later this afternoon.
+ (B) He gave me a really nasty look after I asked him that question today.
+ (C) All you need to do is click this button and locate the file in your computer.(正解)
+你可以告訴我怎麼用email夾帶檔案嗎？
+a. 是的，我下午晚一點需要寄給Ron Parker
+b. 我今天問他問題後，他給我一個非常鄙棄的眼神
+c. 你只需要點選這個按鈕，然後找出電腦裡的檔案即可
+ 
+答對
+	Question 23.	
+00:0000:20
+ 
+Can you tell me when the next payday will be?
+ (A) Yes, I'll pass your files along right away.
+ (B) For Pete's sake, log out of your email account already!
+ (C) All paychecks are to be sent out on the tenth of each month.(正解)
+可以告訴我下一次發薪日的時間嗎？
+a. 是，我會立刻給你檔案
+b. 我的天啊，你總算登出你的電郵信箱了
+c. 所有的薪資會在每個月的十號支付
+ 
+答對
+	Question 24.	
+00:0000:20
+ 
+Who designed the poster for the upcoming exhibit on Abraham Lincoln?
+ (A) Janis Day did it all by herself. (正解)
+ (B) Abraham Lincoln was a very courageous man.
+ (C) The poster was put up in reception area earlier this afternoon.
+誰設計了即將開展的Abraham Lincoln (林肯總統)展覽的海報？
+a. 全部都是Janis Day 自己設計的
+b. Abraham Lincoln(林肯總統)是位十分英勇的人
+c. 這海報在下午稍早時被擺在接待區
+ 
+答對
+	Question 25.	
+00:0000:19
+ 
+Do you know if the Malaysian restaurant near Hyde Park is open today?
+ (A) Hyde Park is always open on weekends.
+ (B) My mother could teach you how to cook.
+ (C) Most establishments are closed today because it's a holiday.(正解)
+你知道靠近海德公園的那家馬來西亞餐廳今天有開嗎？
+a. 海德公園週末都會對外開放
+b. 我母親可以教你如何燒菜
+c. 大部分公司行號今天都會關門，因為是假日
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
 答對
 	Question 1.	
 00:0000:16
@@ -1646,6 +2632,3771 @@ c. 我簽了一年的合約
 只顯示答錯  回上一頁
 
 # part 3.
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 3 refer to the following conversation:
+00:0000:40
+Man: Excuse me, miss.
+
+Woman: How can I help you?
+
+Man: We've been sitting here for nearly an hour. When are we going to take off?
+
+Woman: It shouldn't be too much longer, the storm has nearly passed.
+
+Man: I've got a connecting flight to catch and if we don't leave soon I might miss it.
+
+Woman: My apologies for the inconvenience, sir. Could I take a look at your flight details?
+
+Man: Sure, here they are.
+
+Woman: I don't think it should be a problem, sir. A few other passengers have the same connecting flight. When we land there will be a member of our ground crew waiting to get you through security.
+
+Man: Alright, thanks for your help.
+
+Woman: My pleasure, sir.
+
+
+
+男：不好意思，小姐。
+女：有什麼能幫你的嗎？
+男：我們已經坐在快一個小時了。什麼時候要起飛？
+女：應該不用等太久，暴風幾乎通過了。
+男：我要趕轉接班機，如果不儘快離開的話我就會錯過班機。
+女：先生，造成你的不便我深感抱歉。我可以看一下你的航班細項嗎？
+男：當然，這給你。
+女：先生，我覺得這不是問題。有些其他乘客也搭乘相同的轉接班機。降落後，我們會有一位待命的地勤人員帶領你通過安檢。
+男：好的，謝謝你的幫忙。
+女：先生，我的榮幸。
+
+重要單字及片語
+inconvenience n. 不便之處，麻煩事，打擾
+crew n. (飛機、船等)全體人員
+security n. 安全性
+nearly adv. 將近
+connecting adj. 連接的
+apology n. (pl. apologies) 道歉
+take off 起飛，脫掉
+Ex. Please have all the guests take off their shoes when entering.
+請叫所有的客人入內時要脫鞋。
+答錯
+	Question 1.	
+00:0000:01
+ 
+Where are they?
+ (A) on a plane(正解)
+ (B) in a waiting room
+ (C) in the security check area
+ (D) on a train
+他們在哪裡？
+a. 飛機上
+b. 在等候室
+c. 在安檢區
+d. 在火車上
+ 
+答對
+	Question 2.	
+00:0000:02
+ 
+Why has there been a delay?
+ (A) technical issues
+ (B) mechanical issues
+ (C) poor weather(正解)
+ (D) security breach
+為什麼班機會延後？
+a. 技術問題
+b. 機械故障
+c. 天候不佳
+d. 安全疑慮
+ 
+答錯
+	Question 3.	
+00:0000:03
+ 
+What can be inferred from the conversation?
+ (A) They will have to wait about thirty minutes.
+ (B) The woman is uncertain about why there is a delay.
+ (C) The situation is under control.(正解)
+ (D) The man will not make his connection.
+以下何者可從這段對話中推斷？
+a. 他們須等候約三十分鐘
+b. 這女士不確定為什麼飛機會延遲
+c. 情況已獲得控制
+d. 這男士趕不到轉機
+ 
+Questions 4 through 6 refer to the following conversation:
+00:0000:50
+Woman: Dan. What's wrong?
+
+Man: Last week I decided to buy a bunch of stock in Reedercorp.
+
+Woman: No! Didn't they declare bankruptcy this week?
+
+Man: Yes, I can't believe I was so stupid.
+
+Woman: I heard their CEO had been hiding losses for years and stealing money.
+
+Man: Yes, he's going to be put away for a long time but that doesn't do me any good.
+
+Woman: How much did you lose?
+
+Man: Thousands of dollars. I don't know what to tell my wife. I'm done playing the stock market.
+
+Woman: Don't give up, Dan. I've taken a few tough losses over the years as well, too. The key is to research potential investments carefully to spread your money around.
+
+Man: Maybe you're right, but that doesn't do me any good in the short term.
+
+
+
+女：丹，怎麼了？
+男：上禮拜我買了一堆瑞德農產公司的股票
+女：不！他們不是這禮拜宣告破產嗎？
+男：是，我無法相信我這麼笨。
+女：我聽說他們的CEO這幾年一直在隱藏虧損並持續盜用公款。
+男：是，他將被關一段很長的時間，但對我完全沒好處。
+女：你損失了多少錢？
+男：幾千元。我不知道要跟我老婆說什麼。我不玩股票了。
+女：別放棄，丹。過去幾年我也有過幾次慘痛的虧損。關鍵在於仔細研究有潛力的投資再投入你的錢。
+男：也許你是對的，但短期間這對我沒有幫助。
+
+重要單字及片語
+declare v. 宣告
+bankruptcy n. 破產
+stock n. 股票
+a bunch of (一)堆，串
+Ex. My husband bought me a bunch of red roses for our anniversary. 我丈夫買一束紅玫瑰給我慶祝我們的週年紀念日。
+答對
+	Question 4.	
+00:0000:02
+ 
+What are they talking about?
+ (A) Dan's future plans
+ (B) Dan's failed investment(正解)
+ (C) Dan's new job
+ (D) Dan's marital problems
+以下何者是他們在討論的事項？
+a. 丹的未來計畫
+b. 丹的失敗投資
+c. 丹的新工作
+d. 丹的軍事問題
+ 
+答對
+	Question 5.	
+00:0000:03
+ 
+What advice did the woman give Dan?
+ (A) He needs to be more aggressive.
+ (B) He needs to be more patient.
+ (C) He needs to do some research before investing.(正解)
+ (D) He needs to be more trusting.
+這位女士給丹什麼樣的建議？
+a. 他需要更有進取心
+b. 他需要多點耐心
+c. 他需要在投資前做些研究
+d. 他需要對別人更有信心
+ 
+答對
+	Question 6.	
+00:0000:02
+ 
+What is probably true about the woman?
+ (A) She is one of Dan's closest friends.
+ (B) She has lost some respect for Dan.
+ (C) She is involved in theft.
+ (D) She has encountered similar issues before.(正解)
+以下關於這位女子的敘述何者可能正確？
+a. 她是丹其中一個親近的朋友
+b. 她很尊敬丹
+c. 她被捲入偷竊事件
+d. 她曾遇過類似的問題
+ 
+Questions 7 through 9 refer to the following conversation:
+00:0000:44
+Man: Garlitz Hotel, how may I help you?
+
+Woman: Hi, I'd like to reserve a double room.
+
+Man: How many nights will you be staying?
+
+Woman: Just this coming Friday night.
+
+Man: How many people will be sharing the room?
+
+Woman: My husband, two children and I.
+
+Man: Our standard double room includes two queen sized beds. However, for an extra five dollars we can add a single bed for your second child.
+
+Woman: Sure, that sounds great. Do you accept Supercharge Card?
+
+Man: I'm sorry, we don't.
+
+Woman: Can I still reserve the room and pay in cash?
+
+Man: I'm sorry. We require a major credit card to book rooms.
+
+Woman: I understand. I think I'll take my business elsewhere.
+
+
+
+男：卡利茲飯店，有什麼能為你服務？
+女：嗨，我想要預定一間雙人房
+男：你會待幾晚呢？
+女：只有這個星期五晚上。
+男：有幾個人會一起入住呢？
+女：我丈夫，兩個小孩和我
+男：我們的標準雙人房包含兩張標準雙人床。然而，額外加五元的話我們可以幫你第二個兒子增加一張單人床。
+女：當然，那聽起來很棒。你們收Supercharge的信用卡嗎？
+男：我很抱歉，我們不收。
+女：那我依舊可以用現金訂房嗎？
+男：我很抱歉。我們需要大眾信用卡來訂房。
+女：我了解。我想我會試試別家飯店。
+
+重要單字及片語
+reserve v. (= book) 預留，預約，預約
+standard n. 標準
+require v. 要求
+major adj. 主要的
+include v. 包括，包含
+accept v. 接受
+答對
+	Question 7.	
+00:0000:03
+ 
+What is the woman attempting to do?
+ (A) reserve a hotel room(正解)
+ (B) make a restaurant reservation
+ (C) book a banquet hall
+ (D) rent an apartment
+以下何者這女士想要的服務？
+a. 在旅館訂房
+b. 在餐廳訂位
+c. 訂一個宴會廳
+d. 租公寓
+ 
+答錯
+	Question 8.	
+00:0000:02
+ 
+What problem does she encounter?
+ (A) There are no rooms available.
+ (B) Her credit card is expired.
+ (C) The hotel only accepts cash.
+ (D) She cannot use cash to book a room.(正解)
+她遇到什麼問題？
+a. 那間飯店已客滿
+b. 她的信用卡已過期
+c. 這間旅館只接受現金
+d. 她無法使用現金訂房
+ 
+答錯
+	Question 9.	
+00:0000:03
+ 
+What can be inferred from this conversation?
+ (A) The woman will call back later.
+ (B) The woman will call another hotel.(正解)
+ (C) The man will have to accept a cash deposit.
+ (D) The man will consider changing his policy.
+從這對話可以推斷出以下何者？
+a. 這女士會再回撥
+b. 這女士會致電其他旅館
+c. 這男士將必須接受現金訂金
+d. 這男士將考慮改變公司法規
+ 
+Questions 10 through 12 refer to the following conversation:
+
+ www.norwest.com/courseregistration/introductory-photoshop-2.html
+
+  NorWest College for Adults
+
+  Course name: Introductory Photoshop Skills Part 2
+
+  Prerequisite: Introductory Photoshop Skills Part 1
+
+  Student name: James Baron
+  Email address: jamesbaron221@yahoo.com
+  Phone number: 763-333-1291
+  Proof of completion of prerequisite course:
+
+Enter student ID #
+Enter course certificate #
+Enter date completed and instructor's name
+Other
+00:0001:35
+Woman: Good afternoon. NorWest College for Adults. How may I help you?
+
+Man: Hi. I'd like to inquire about one of your courses. It's called "Introductory Photoshop Skills Part 2."
+
+Woman: Sure. What would you like to know about the course?
+
+Man: Well, I've read the course description on the college website. It says that the course "Introductory Photoshop Skills Part 1" is a prerequisite for taking the Part 2 course. However, I do have a little bit of experience using Photoshop. When I read the outline for the Part 1 course, I feel like it is too basic for me.
+
+Woman: The prerequisite is not compulsory, so it is totally fine if you want to jump ahead to the Part 2 course. However, be aware that the course registration fee is non-refundable. If you find the material too advanced and decide to quit, you won't get any money back.
+
+Man: I can accept that.
+
+Woman: So do you have any other questions?
+
+Man: Yes. When I go to register online, will it ask for proof that I took the Part I course?
+
+Woman: It will. But you will notice there is a dropdown menu and one of the choices says "other". Choose other, and then enter a brief explanation of your situation.
+
+Man: Got it. Thanks for all your help.
+
+Woman: No problem. Have a nice day.
+
+
+
+女：午安。諾西成人教育大學。需要甚麼協助？
+男：嗨。我想詢問您們的一堂課程，叫做「Photoshop入門技巧II。"
+女：好的。您想了解什麼內容？
+男：是這樣的，我看了大學網站上的課程描述，上面說「Photoshop入門技巧I」是修這門課的先修課程。不過，我有用過Photoshop。我看了入門I的課程大綱後，覺得對我來說太簡單了。
+女：先修課程不是強制性的，所以如果你想直接跳到II也沒關係。但請注意，該課程報名費不予退費。如果您發現內容過於困難而決定退出，我們將不予退費。
+男：我可以接受。
+女：還有其他問題嗎？
+男：是的。當我去上網報名時，網頁會要求我提出入門I的上課證明嗎？
+女：會的。但您會看到一個下拉式選單，其中的選項有一個：「其他」。選擇其他，然後簡單說明您的狀況。
+男：我知道了。謝謝您的幫忙。
+女：沒問題。祝您有個美好的一天。
+
+
+
+
+
+
+www.norwest.com/courseregistration/introductory-photoshop-2.html
+
+
+諾西成人教育大學
+
+
+課程名稱： Photoshop入門技巧II
+
+
+先修課程： Photoshop入門技巧I
+
+
+學生姓名：詹姆斯•巴倫
+
+電子郵件：jamesbaron221@yahoo.com
+
+電話號碼：763-333-1291
+
+先修課程的完成證明：
+
+•請輸入學生證號
+
+•請輸入課程證書
+
+•請輸入完成日期、授課老師名稱
+
+•其他
+
+
+
+
+
+
+重要單字及片語
+inquire v. 詢問
+introductory adj. 準備的；介紹的
+description n. 描述
+prerequisite a. 必要的 n.必要條件
+outline n. 大綱
+compulsory adj. 強制的
+register v. 註冊；報名
+drop-down menu 下拉式選單
+答對
+	Question 10.	
+00:0000:02
+ 
+Why is the man concerned?
+ (A) He thinks the part 2 course will be too hard.
+ (B) He doesn't want to take the part 1 course.(正解)
+ (C) He doesn't want to take the part 2 course.
+ (D) He doesn't know why he failed the part 1 course.
+該名男子關心的是以下何者？
+a.他認為，第2部分的課程會太難。
+b.他不想上第1部分的課程。
+c.他並不想上第2部分的課程。
+d.他不知道他第1部分課程沒過的原因為何。
+ 
+答對
+	Question 11.	
+00:0000:06
+ 
+What will happen if he finds the part 2 course too difficult and quits?
+ (A) He will fail.
+ (B) He won't get his course fee back.(正解)
+ (C) He will have to start over again.
+ (D) He will have to retake the part 1 course.
+如果他發現了第2部分的課程太難而退出，將會發生什麼事？
+a.他將會被當。
+b.他將不能拿回學費。
+c.他將得重新開始。
+d.他將得重上第1部分的課程。
+ 
+答對
+	Question 12.	
+00:0000:08
+ 
+Look at the graphic. What option will the man choose under "Proof of completion of prerequisite course"?
+ (A) Enter student ID #
+ (B) Enter course certificate #
+ (C) Enter date completed and instructor's name
+ (D) Other(正解)
+請看圖表。「先修課程的課程完成證明」的選項部分，該名男子會選以下何者？
+a.請輸入學生證號
+b.請輸入課程證書
+c.請輸入完成日期，授課老師名稱
+d.其他
+ 
+Questions 13 through 15 refer to the following conversation:
+00:0000:45
+Man: Would you like to try those on?
+
+Woman: Actually, I already have. They are a decent fit but seem to be a bit narrow.
+
+Man: New trainers often feel that way. You just need time to break them in.
+
+Woman: I'm still a bit worried. I'm planning on using them in a marathon next month and need a perfect fit.
+
+Man: You still have plenty of time to stretch them out before the big day.
+
+Woman: What's your return policy?
+
+Man: You can bring them back within thirty days for a full refund as long as they aren't visibly worn.
+
+Woman: Could I just wear them indoors for a few days and see if the fit improves?
+
+Man: Yes, just make sure they aren't damaged.
+
+Woman: Ok, that sounds doable. Thanks.
+
+Man: No problem. Please meet me at the front and I can ring those up for you.
+
+
+
+男：你想要試穿這些鞋子嗎？
+女：實際上，我已經試穿過了。相當合腳但似乎有點太窄。
+男：新鞋往往都有這種感覺。你只需要時間讓鞋子合腳。
+女：我還是有點擔心。我計畫要在下個月的馬拉松比賽上穿，需要合腳的。
+男：在大日子到來之前你還有很多時間可以伸展這雙鞋。
+女：你們的退貨規定呢？
+男：在30天之內將貨品帶回，只要鞋子沒有明顯穿著過痕跡就可以全額退費。
+女：所以我可以在室內穿幾天，然後再觀察是否改善嗎？
+男：是阿，只要確定鞋子沒有損害即可。
+女：好的，這聽起來可以。謝謝。
+男：不客氣。請在前面等我，我可以幫您結帳。
+
+重要單字及片語
+decent adj. 合乎禮儀的，像樣的，不錯的
+marathon n. 馬拉松
+stretch v. 伸長，拉緊
+refund n. 退款/ v. 退還，歸還
+doable adj. 可行的
+答錯
+	Question 13.	
+00:0000:02
+ 
+What is the woman doing?
+ (A) returning an unwanted item
+ (B) negotiating for a lower price
+ (C) researching a new product
+ (D) shopping for athletic shoes(正解)
+這位女士正在做甚麼？
+a. 退還一個不用的產品
+b. 議價更低的價錢
+c. 研究一件新產品
+d. 購買運動鞋
+ 
+答錯
+	Question 14.	
+00:0000:02
+ 
+What is the woman's main concern?
+ (A) the price of the items
+ (B) the return policy
+ (C) the comfort of the items(正解)
+ (D) the man's honesty
+這女士最擔心的主要是什麼？
+a. 商品價錢
+b. 退貨制度
+c. 商品舒適度
+d. 男子的誠實性
+ 
+答錯
+	Question 15.	
+00:0000:04
+ 
+What can be inferred from the conversation?
+ (A) The woman decided to shop around a bit more.
+ (B) The man was able to persuade the woman.(正解)
+ (C) The woman found the return policy unreasonable.
+ (D) The man was impressed by the woman's questions.
+從這對話可以推斷出以下何者選項？
+a. 女子決定要再買一點東西
+b. 男子能夠說服這女士
+c. 女子發現退貨制度很不合理
+d. 這男子對女子的問題印象深刻
+ 
+Questions 16 through 18 refer to the following conversation:
+00:0000:49
+Man: Hello?
+
+Woman: Hello Mr. Kimble, this is Mrs. Flanders.
+
+Man: What has my son Sage done this time?
+
+Woman: He drew some inappropriate pictures on the locker room walls.
+
+Man: Will I need to come and pick him up early?
+
+Woman: No need, I've decided to give him an in-school suspension this time.
+
+Man: For how long?
+
+Woman: That has yet to be determined. He's already apologized for his actions.
+
+Man: How much damage was done? I'll take it out of his pocket money.
+
+Woman: No need, Mr. Kimble. He will be required to repaint the walls as part of his punishment.
+
+Man: That sounds fair. Is there anything else I need to know?
+
+Woman: No, I just wanted to let you know what happened.
+
+Man: Much appreciated.
+
+Woman: Have a nice day Mr. Kimble.
+
+Man: You too.
+
+
+
+男：哈囉？
+女：哈囉，坎貝爾先生，我是費蘭德太太。
+男：我兒子Sage這次做了什麼？
+女：他在寄物櫃室的牆上畫了一些不適當的圖畫。
+男：需要我提早去接他回家嗎？
+女：不需要，我已決定這次要讓他留校查看。
+男：多久呢？
+女：這還沒決定。他已經為他的行為道歉了。
+男：損壞的部份要多少錢？我會從他的零用錢扣。
+女：沒關係，坎貝爾先生。他有一部分處罰就是要重漆牆壁。
+男：這聽起來很公平。還有別的事情是我需要知道的嗎？
+女：沒了，我只是想讓你知道發生了什麼事。
+男：非常感謝。
+女：有個好的一天，坎貝爾先生。
+男：你也是。
+
+重要單字及片語
+inappropriate adj. 不恰當的，不適當的
+suspension n. 留校察看
+apologize v. 道歉
+determine v. 決心去
+damage n. 損害，損傷
+require v. 要求
+allowance n. 零用金
+punishment n. 處罰
+appreciate v. 感激，欣賞
+答對
+	Question 16.	
+00:0000:03
+ 
+What does Mrs. Flanders do for a living?
+ (A) principal(正解)
+ (B) doctor
+ (C) police officer
+ (D) janitor
+以下何者是費蘭德太太的工作？
+a. 校長
+b. 醫生
+c. 警察
+d. 工友
+ 
+答對
+	Question 17.	
+00:0000:02
+ 
+How will the boys be punished?
+ (A) They will have to pay for the damage.
+ (B) They will be suspended for a week.
+ (C) They will have to apologize to Mr. Flanders.
+ (D) They will have to repair the damage done.(正解)
+以下何者是這些男孩們的處罰？
+a. 他們將必須賠償損壞
+b. 他們將會被留校察看一個星期
+c. 他們將必須向費蘭德太太道歉
+d. 他們將必須將毀損的部份復原
+ 
+答錯
+	Question 18.	
+00:0000:03
+ 
+What can be inferred from Mr. Kimble's reaction?
+ (A) Mr. Kimble is deeply shocked and upset by this news.
+ (B) Mr. Kimble plans to kick Sage out of the school.
+ (C) Mr. Kimble has dealt with this type of situation before.(正解)
+ (D) Mr. Kimble wants to pay for the damages by himself.
+以下何者可以從Kimble先生的反應推斷？
+a. Kimble先生非常驚訝且對這件消息感到沮喪
+b. Kimble先生計畫把Sage踢出學校
+c. Kimble先生之前處理過類似的情況
+d. Kimble先生想要自己賠償損失
+
+解析：在對話的開頭，Mr. Kimble一聽到來電者是Mrs. Flanders立刻就回答What has my son Sage done this time? (我兒子Sage這次做了什麼？)。由此可推論Mr. Kimble之前已處理過多次他的兒子惹出的狀況，所以正解為(C)。另外在對話裡Mr. Kimble有提到: How much damage was done? I'll take it out of his pocket money. (損壞的部份要多少錢？我會從他的零用錢扣。) 代表Mr. Kimble並不想自己支付損害賠償，而是以扣零用錢的方式讓兒子自己支付，所以選項(D)不可選。
+ 
+Questions 19 through 21 refer to the following conversation:
+00:0001:05
+Woman: Dinotech Computers, how can I help you?
+
+Man: You could start by telling me why you sold me a worthless computer!
+
+Woman: What seems to be the problem, sir?
+
+Man: I just bought this laptop a month ago. At first it was fine but lately it has been freezing every time I open multiple windows. The salesperson who sold it to me told me it could handle a heavy workload.
+
+Woman: Could you please give me your full name and the serial number on the back of the computer?
+
+Man: My name is Caleb Darvil. The serial number is 4GRTF321667.
+
+Woman: My apologies Mr. Darvil. That particular model has been recalled.
+
+Man: Oh, great! Now what?
+
+Woman: No need to worry sir. You can bring it back for a full refund.
+
+Man: And what about all of my files?
+
+Woman: They have all been backed up online. Rest assured that you won't lose any of your files.
+
+Man: Okay. Thanks for you help.
+
+
+
+女：提諾科技電腦公司，我能幫你什麼嗎？
+男：你可以先告訴我為什麼賣我一台沒用的電腦！
+女：先生，發生了什麼事情嗎？
+男：我幾個月前買了這台筆電。一開始沒事，但最近當我一次開啟多個視窗後就開始當機。當初販售的銷售員告訴我它可以處理大量的工作量。
+女：可以請你告訴我你的全名及電腦背面的序號嗎？
+男：我叫Caleb Darvil。序號號碼為4GRTF321667。
+女：Darvil先生我很抱歉。這組特定的型號已經被召回了。
+男：喔，太好了！所以現在是？
+女：先生，不需要擔心。你將電腦帶來就能全額退費。
+男：那我所有的檔案呢？
+女：都已經網路上備份了。請放心你不會失去任何檔案。
+男：好。謝謝你的協助。
+
+重要單字及片語
+worthless adj. 無用的
+workload n. 工作量
+serial adj. 一連串的，連載的，連續不停的
+apologies (pl.) n. (single apology) 歉意，道歉
+recall v. 召回，想起，憶起
+答對
+	Question 19.	
+00:0000:02
+ 
+Who is the man talking to?
+ (A) a retail store employee
+ (B) a computer repair worker
+ (C) a customer service agent(正解)
+ (D) an industry insider
+這男士在和已下何者對話？
+a. 零售店的職員
+b. 電腦維修人員
+c. 客服中心人員
+d. 企業內部員工
+ 
+答對
+	Question 20.	
+00:0000:02
+ 
+Why is the man upset?
+ (A) he has lost all of his important files
+ (B) his computer is not performing well(正解)
+ (C) his operating system is outdated
+ (D) he will not be given a refund
+為什麼這男的很沮喪？
+a. 他失去了所有重要的檔案
+b. 他的電腦運作得不好
+c. 他的作業系統過期了
+d. 他無法收到退費
+ 
+答對
+	Question 21.	
+00:0000:04
+ 
+Which of the following words best describes the woman's tone?
+ (A) calm(正解)
+ (B) terse
+ (C) flustered
+ (D) flirtatious
+以下哪個詞彙最能形容這位女士的語調？
+a. 冷靜的
+b. 精練的
+c. 慌張的
+d. 調情的
+ 
+Questions 22 through 24 refer to the following conversation:
+00:0000:39
+Woman: Honey, can you come down here for a second?
+
+Man: Why, what's wrong?
+
+Woman: I can't find the remote control...again!
+
+Man: Have you looked under the sofa?
+
+Woman: Of course, that's the first place I looked.
+
+Man: Alright, I'll be down in a minute. I just need to finish something.
+
+Woman: Is there any chance you brought it upstairs with you?
+
+Man: I doubt it.
+
+Woman: Are you sure? That's what you said last time.
+
+Man: I haven't even watched TV today.
+
+Woman: Sorry for accusing you. I had a rough day at work.
+
+Man: It's okay, I understand. I'm sure it'll turn up soon
+
+
+
+女：親愛的，可以下來一下嗎？
+男：為什麼，怎麼了嗎？
+女：我找不到遙控器…又一次！
+男：你有看過沙發下面嗎？
+女：當然，那是我第一個找的地方
+男：好吧，等我一下。我只需要完成一些東西。
+女：你有可能帶到樓上了嗎？
+男：我懷疑。
+女：你確定？你上次也這麼說。
+男：我今天還沒看電視。
+女：不好意思怪罪你。我今天工作不太順利。
+男：沒關係，我了解。我很確定它等下就出現了。
+
+重要單字及片語
+remote control n. 遙控器
+chance n. 機會
+upstairs adv. 上樓地
+doubt v. 懷疑
+accuse v. 控訴
+rough adj. 表面不平的，粗製的，粗糙的 turn up 出現
+Ex. We were supposed to meet at the entrance to the theater at seven, but he failed to turn up. 我們應該七點在劇院的入口處碰面，但他卻沒出現。
+答對
+	Question 22.	
+00:0000:03
+ 
+Where does this conversation take place?
+ (A) in an office
+ (B) in a house(正解)
+ (C) in an electronics store
+ (D) in a hotel room
+這段對話在哪裡發生？
+a. 辨公室
+b. 房子裡
+c. 電子產品商店
+d. 旅館房間
+ 
+答對
+	Question 23.	
+00:0000:04
+ 
+Why does the woman suspect the man has the remote?
+ (A) He has taken it by accident in the past.(正解)
+ (B) He sometimes likes to play tricks on her.
+ (C) He was just using it a short while ago.
+ (D) He is hesitant to help her look for it.
+為什麼這個女人懷疑男人持有遙控器？
+a. 他過去曾經無意帶走過
+b. 他有時候喜歡對她惡作劇
+c. 他不久前才使用
+d. 他猶豫要不要去幫她找遙控器
+ 
+答錯
+	Question 24.	
+00:0000:04
+ 
+Which of the following words best describes the woman's tone?
+ (A) furious
+ (B) desperate
+ (C) annoyed(正解)
+ (D) confused
+以下選項何者最能描述女人的語調？
+a. 感到暴怒的
+b. 感到絕望的
+c. 感到煩躁的
+d. 感到疑惑的
+ 
+Questions 25 through 27 refer to the following conversation:
+
+Best Buy
+
+Receipt of Purchase
+
+Noris 27” flat screen television x 1 ($169.99)
+
+777 discount 20% (-$34.00)
+
+Subtotal $135.99
+Tax $6.79
+
+Total $142.78
+
+Paid in cash.
+Non-refundable.
+
+00:0001:07
+Woman: Hello?
+
+Man: Hi there. Would you be interested in finding out about some great deals at…
+
+Woman: I'm sorry. I don't have time for telemarketers.
+
+Man: I can understand. But if you are interested in big discounts on electronics, then you may want to stay on the line.
+
+Woman: Electronics you say? Well, I am in the market for a new flats screen TV. But please make it quick. I really don't have much time.
+
+Man: Got it. I will get right to the point. We're having a sale next week on ALL electronics, and that includes flat screen TVs. We have a full range of sizes, from 18 inch to…
+
+Woman: OK, OK. How much of a discount?
+
+Man: It depends which one you go with, but at least 20% off.
+
+Woman: And the name of your store?
+
+Man: Best Buy. We're in the mini-mall on Madison Avenue.
+
+Woman: Alright. I'll make sure to stop in and check it out.
+
+Man: Wait! You'll need a special code to get the discount. Your password is 777. That way, they'll know that it was me who sent you.
+
+Woman: Will do. Thanks. Bye.
+
+
+
+女：喂？
+男：您好。你是否有興趣了解目前有優惠的...
+女：對不起。但我沒有時間給聽電話推銷的內容。
+男：我了解。但是，如果你對電子產品大特價有興趣，那你應該會想要繼續聽下去。
+女：你說電子產品嗎？好吧，我是想買台平面電視。但請快一點。我真的沒有太多的時間。
+男：我知道了。我立刻講重點。下星期我們所有的電子產品都有折扣，包括平面電視。我們甚麼尺寸都有，從18吋到...
+女：好了，好了。折扣是多少？
+男：這要看你要買哪一台，但至少打八折。
+女：你的店名是？
+男：Best Buy。我們在麥迪遜大街的小型商場裡。
+女：好吧。我一定會過去看一下。
+男：等一下！你需要特殊的代碼才有折扣。您的密碼是777，這樣他們才知道，是我是邀請你過來的。
+女：我知道了。謝謝。再見。
+
+重要單字及片語
+telemarketer n.電話行銷員
+electronic n.電子(產品); adj.電子的
+flat screen 平面電視
+include v.包括
+range n.範圍
+refundable adj. 可退貨的
+in the market for 想要得到
+Ex. I'm sure he is in the market for another fast car.
+我確定他一定會想要得到另一部跑車。
+
+
+
+
+
+
+
+買倍佳
+
+
+購買收據
+
+
+Noris 27“平面電視×1（$169.99）
+
+
+777優惠20％（ - $34.00）
+
+
+小計$135.99
+
+
+稅金$6.79
+
+
+總計$142.78
+
+
+現金支付。
+
+不可退款。
+
+
+答錯
+	Question 25.	
+00:0000:03
+ 
+What is the woman's tone in the conversation?
+ (A) excited
+ (B) furious
+ (C) enthusiastic
+ (D) impatient(正解)
+該名女子在談話中的語調如何？
+a.興奮
+b.狂怒
+c.熱情
+d.不耐煩
+ 
+答錯
+	Question 26.	
+00:0000:03
+ 
+Which of the following is true about the woman?
+ (A) She doesn't know what a flat screen TV is.
+ (B) She doesn't want to buy a flat screen TV.
+ (C) She wants to buy a flat screen TV because of this conversation.
+ (D) She wanted to buy a flat screen TV before this conversation.(正解)
+有關該名女子的描述，以下選項何者正確？
+a.她不知道平面電視是什麼。
+b.她並不想買平面電視。	
+c.因為這個談話，讓她想要買平面電視。
+d.她在此次談話之前就想購買平面電視。
+ 
+答對
+	Question 27.	
+00:0000:04
+ 
+Look at the graphic. What is the meaning of 777?
+ (A) It is the amount of the discount.
+ (B) It is the percentage of the discount.
+ (C) It is the item to be discounted.
+ (D) It is the discount code.(正解)
+請看圖表。777的意思為以下何者？
+a.折扣的價錢。
+b.折扣的百分比。
+c.折扣的項目。
+d.優惠碼。
+ 
+Questions 28 through 30 refer to the following conversation:
+00:0000:44
+Man: Where were you this morning Linda?
+
+Woman: I've been here working on next week's advertising campaign all morning.
+
+Man: Didn't you get the email about the sales strategy meeting at 8 o'clock?
+
+Woman: No, I haven't checked my email yet. Was Mrs. Ortiz angry?
+
+Man: Yes, she was. This is the second meeting you've missed this week. You really need to check your email more regularly. The notice for the meeting was sent last night.
+
+Woman: I've been so busy with the Penske account lately. It's completely taken over my life. I can't come up with an appropriate slogan.
+
+Man: You'd better go see Mrs. Ortiz and explain yourself. I've heard her talking about making some staff cuts lately.
+
+Woman: Ok, thanks for the heads up.
+
+
+
+男：Linda 妳早上在哪裡？
+女：我一整個早上都在這裡忙下禮拜廣告比賽的事。
+男：妳沒有收到銷售策略會議八點開始的e-mail嗎？
+女：沒，我還沒查看我的信箱。Ortiz太太很生氣嗎？
+男：是，她很生氣。這是你這禮拜錯過的第二個會議了。妳真的需要更頻繁地查看信箱。會議提醒的郵件昨晚就發送出去了。
+女：我最近一直在忙潘斯克公司的案子，那件工作完全佔領我的生活了。我想不到適當的廣告標語。
+男：妳最好去見Ortiz太太並解釋一下。我聽說她最近在討論裁員的事。
+女：好，謝謝提醒。
+
+重要單字及片語
+campaign n. 競賽，競選
+appropriate adj. 適當的，合適的
+slogan n. 標語
+take over 接管，接手
+Ex. The young man will take over his father's business in two years. 那位年輕人將會在兩年內接管他父親的事業。
+答錯
+	Question 28.	
+00:0000:02
+ 
+Where does Linda work?
+ (A) in a law firm
+ (B) in an advertising agency(正解)
+ (C) in an upscale restaurant
+ (D) in an accounting firm
+Linday在哪裡工作？
+a. 律師事務所
+b. 廣告公司
+c. 高級餐廳
+d. 會計事務所
+ 
+答對
+	Question 29.	
+00:0000:02
+ 
+What did Linda do wrong?
+ (A) She showed up late for work.
+ (B) She failed to attend a meeting.(正解)
+ (C) She hasn't finished the Penske proposal.
+ (D) She sent an inappropriate email.
+Linda做了什麼錯？
+a. 她工作遲到了
+b. 她沒有參加會議
+c. 她尚未完成潘斯克公司的提案
+d. 她寄了一封不適當的信件
+ 
+答對
+	Question 30.	
+00:0000:03
+ 
+What does the man imply?
+ (A) Linda might be promoted.
+ (B) Linda needs to work harder.
+ (C) Linda could lose her job.(正解)
+ (D) Linda should drop the Penske account.
+以下選項何者是男子所暗示之意？
+a. Linda 可能會升職
+b. Linda 需要更努力工作
+c. Linda 可能會失去她的工作
+d. Linda應該放棄潘斯克公司
+ 
+Questions 31 through 33 refer to the following conversation: 
+00:0001:02
+Man: Pardon me. Could you please tell me where the nearest restroom is?
+
+Woman: Hmm…I believe there is one on the lower floor of the Saxton Mall across the street. The escalators are just inside the side entrance.
+
+Man: I thought so too. But I just went down and it was closed. I also tried the petrol station over there, and they don't seem to have any public washrooms.
+
+Woman: Oh, I know one! It's a little farther away, but I can't think of anything else. There is definitely one in the McDonalds on Fort Road.
+
+Man: I'm not from around here. Could you point me in the right direction?
+
+Woman: Certainly. See that sushi restaurant down the street? Turn left there, walk about two blocks, and then you'll come to a main intersection. That's Fort Road. You'll be able to see the McDonalds from there.
+
+Man: Got it. Thanks for your help.
+
+
+
+男：對不起。你知道最近的廁所在哪裡嗎？
+女：嗯...我想應該在對面賽辛頓商城的地下一樓。手扶梯就在側門進去。
+男：我想也是。但我剛下去樓下時廁所是關著的。我也試了加油站那邊，他們好像沒有公共廁所。
+女：噢，我知道一個地方有！有一點遠，但我想不出別的地方了。福特路上的麥當勞一定有。
+男：我不是當地人。你能告訴我正確方向怎麼走嗎？
+女：當然可以。你有看到那邊的壽司店嗎？那裡左轉，大約走過兩個街區後碰到一個大十字路口，就是福特路了。從那裡就可以看到麥當勞了。
+男：我知道了。 謝謝你的幫忙。
+
+重要單字及片語
+escalator n.自動電扶梯
+petrol station n.加油站
+definitely adv. 毫無疑問地
+block n.街區
+intersection n.十字路口
+答錯
+	Question 31.	
+00:0000:03
+ 
+Which of the following is true about the man?
+ (A) He's hungry.
+ (B) He needs to fill his car with petrol.
+ (C) He doesn't live in this city.(正解)
+ (D) He lost somebody.
+關於該名男士的描述，以下選項何者正確？
+a.他餓了。
+b.他的車需要加油。
+c.他並不住在這座城市。
+d.他和某人走散了。
+ 
+答對
+	Question 32.	
+00:0000:06
+ 
+Look at the graphic. Where did the man go just before this conversation occurred?
+ (A) Saxton Mall(正解)
+ (B) McDonald's
+ (C) The sushi restaurant
+ (D) The bakery
+請看圖表。這段對話發生之前，該名男士曾去了以下何處？
+a.賽辛頓商城
+b.麥當勞
+c.壽司餐廳
+d.麵包店
+ 
+答對
+	Question 33.	
+00:0000:05
+ 
+Look at the graphic. Where will the man likely go next?
+ (A) Saxton Mall
+ (B) The sushi restaurant
+ (C) The bakery
+ (D) McDonald's(正解)
+請看圖表。該名男子接下來可能會前往以下何處？
+a.賽辛頓商城
+b.壽司餐廳
+c.麵包店
+d.麥當勞
+ 
+Questions 34 through 36 refer to the following conversation:
+00:0000:35
+Woman: Excuse me sir, aren't those cans supposed to be two for a dollar?
+
+Man: I'm sorry but that offer expired yesterday.
+
+Woman: The sign I saw didn't specify that.
+
+Man: I see. I'll have to check with my manager first. Hang on a second.
+
+Woman: It's fine. I don't want to hold up the line. Please let your manager know to have up-to-date signs in the future. It's a bit misleading.
+
+Man: I'm sorry. The holiday season has been overwhelming and we've been understaffed the past week.
+
+Woman: No problem, these things happen.
+
+
+
+女：不好意思，先生，這些罐子不是應該是兩個一元嗎？
+男：我很抱歉但這個報價只到昨天。
+女：我看到的標牌上沒有具體說明這個部分。
+男：我懂了。我必須先和我的經理確認。稍等一下。
+女：沒關係，我不想擋住排隊的人群。請讓你的經理明白以後須要明確日期的標牌。這有點誤導人。
+男：我很抱歉。假日時期過於繁忙，且上一周我們人手不足。
+女：沒關係，這種情況有時會發生。
+
+重要單字及片語
+expire v. 過期
+specify v. 使…具體化，詳細說明
+misleading adj. 使人誤導的
+overwhelming adj. 壓倒的，勢不可擋的
+understaff v. 人手不足
+be supposed to (= should) 應該
+Ex. The flight was supposed to land two hours ago. 本次班機應該在兩小時前就已經降落。
+答對
+	Question 34.	
+00:0000:02
+ 
+What is the woman doing?
+ (A) working a long day
+ (B) grocery shopping(正解)
+ (C) vending goods
+ (D) writing a formal complaint
+以下何者是這位女士正在進行的動作？
+a. 這一天工作很長
+b. 購買食品雜貨
+c. 販賣商品
+d. 填寫正式抱怨表
+ 
+答對
+	Question 35.	
+00:0000:03
+ 
+Why can't the price on the sign be honored?
+ (A) the manager is unavailable
+ (B) the line is too long
+ (C) the wrong cans were chosen
+ (D) the offer is no longer valid(正解)
+以下何者是價格不實的理由？
+a. 經理沒有時間
+b. 排隊隊伍過長
+c. 拿錯罐子
+d. 報價不再有效
+ 
+答錯
+	Question 36.	
+00:0000:04
+ 
+What is the main reason given for the improper signage?
+ (A) the customer is wrong
+ (B) the shop is closing soon
+ (C) the store has been very busy(正解)
+ (D) it's a new shop
+以下何者是標示錯誤的主因？
+a. 這員工錯了
+b. 這間店即將關門
+c. 這間店最近太忙了
+d. 這是間新的店家
+ 
+Questions 37 through 39 refer to the following conversation:
+00:0001:00
+Woman: Why don't we just stop and ask someone? We've been driving around for nearly an hour.
+
+Man: Don't worry. I've got this figured out. We'll be there soon.
+
+Woman: Our reservation is for 7 pm. We're already thirty minutes late.
+
+Man: It's not a big deal. I'm sure we'll still get a table.
+
+Woman: That's not the point! You need to swallow your pride and ask someone for help.
+
+Man: Alright. Let's stop here and ask that man…Uh, excuse me, mister. Could you please tell me the way to the Taj Mahal Buffet?
+
+Man2: Certainly. You'll need to drive that way until you hit 49th, get on the Yellowton freeway, then take the 88th street exit.
+
+Man: Great, thanks. While I'm stopped here, I might as well fill up on petrol, too. Could you please fill it with the premium?
+
+Man2: You'll have to pull up on the other side of this pump, then.
+
+Man: Sure.
+
+Woman: See, wasn't that easy?
+
+
+
+女：為什麼我們不就停下來問別人？我們已經開車開了快一個小時了。
+男：別擔心。我摸清楚方向了。我們很快就到了。
+女：我們預約時間是七點。我們已經遲到半小時了。
+男：那不是問題。我肯定我們會有座位。
+女：這不是重點！你必須放下你的自尊然後向別人求助。
+男：好的。我們這裡停一下問問那位男士。不好意思，先生。可以請你告訴我泰姬瑪哈自助餐廳在哪裡嗎？
+男2：當然可以。你需要繼續往那裡開，直到49街，然後開上黃統快速道路，然後在88街下交流道。
+男：太好了，謝謝。停在這裡時，我也會順便加油。可以請你把高級汽油加滿嗎？
+男2：那麼，你要將油磊另一邊拉起。
+男：沒問題。
+女：看吧，這不是很簡單嗎？
+
+重要單字及片語
+swallow v. 吞嚥
+faith n. 信心
+figure out 發現，發覺
+Ex. I will ask my secretary to figure out how much I owe the bank.
+我會叫我的秘書去算算我欠銀行多少錢。
+a little bit of 一點點 = a little of = a bit of
+Ex. Please add a little bit of salt to the chicken soup. 請在雞湯裡加一點鹽。
+答對
+	Question 37.	
+00:0000:02
+ 
+What is the couple looking for?
+ (A) a gas station
+ (B) a restaurant(正解)
+ (C) a friend's house
+ (D) a furniture store
+這對夫妻在找什麼？
+a. 加油站
+b. 餐廳
+c. 朋友的家
+d. 傢俱店
+ 
+答錯
+	Question 38.	
+00:0000:03
+ 
+Which word best describes the husband?
+ (A) courageous
+ (B) angry
+ (C) stubborn(正解)
+ (D) optimistic
+以下哪個詞彙最能形容這位丈夫？
+a. 勇敢的
+b. 生氣的
+c. 頑固的
+d. 樂觀的
+ 
+答錯
+	Question 39.	
+00:0000:03
+ 
+Who is the second man in the conversation?
+ (A) a random guy on the street
+ (B) a restaurant worker
+ (C) a gas station attendant (正解)
+ (D) a traffic control officer
+對話中第二位男士為以下何者？
+a. 街道上任意選的人
+b. 餐廳的工作人員
+c. 加油站店員
+d. 控制交通的警官
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 3 refer to the following conversation:
+
+Case #
+
+Word Count
+
+Total Fee
+
+5574
+
+1800
+
+$90.00
+
+5578
+
+950
+
+$47.50
+
+5562
+
+1400
+
+?
+
+00:0001:10
+Woman: Nick, I'm just reviewing this month's bill for your proofreading service and there seems to be a mistake.
+
+Man: Really? What's wrong?
+
+Woman: Well, I can see that case numbers 5574 and 5578 were charged at the normal rate, which is 5 cents per word. But for case number 5562, the total fee seems too high. The file was 1400 words long, so it should come to $70.
+
+Man: That's not a mistake. I believe I mentioned to you before that my rate for contract proofreading is a little higher. I charge 8 cents per word, so the total comes to 112 dollars.
+
+Woman: Oh. I don't think you mentioned that before.
+
+Man: I'm just pulling up an email that I sent you a few months ago. Oh, I found it. Here, I'm going to forward it to you right now. It's a chart listing all my prices, which I sent to you on the morning of November 8.
+
+Woman: OK, I take your word for it then. It must have slipped my mind. No worries. Thanks for explaining!
+
+
+
+
+
+女：Nick，我看了這個月的您校稿工作的費用單，看起來好像有錯。
+男：真的嗎？怎麼了？
+女：這樣的，我看到文案編號5574與5578每字收取5毛錢是正常費率。但文案5562，總費用似乎過高。該份文件檔是1400字，所以應該是$70
+男：這費用沒錯。記得我向妳提過，合約校稿的費用比較高一點。我每字收8毛錢，所以一共是112元。
+女：噢。我不記得你有提過。
+男：我在找幾個月前發給妳的郵件。哦，我找到了，在這裡，我現在馬上轉給妳。這圖表上有列出我的所有收費標準，我在11月8日上午寄給妳的。
+女：好吧，我相信你。我一定是忘了。別擔心。感謝你的解釋！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+文案 編號
+
+字數統計
+
+總計
+
+5574
+
+1800
+
+$90.00
+
+5578
+
+950
+
+$47.50
+
+5562
+
+1400
+
+?
+
+
+答對
+	Question 1.	
+00:0000:02
+ 
+What service is being discussed?
+ (A) translation
+ (B) proofreading(正解)
+ (C) writing
+ (D) recording
+對話中在討論以下何種工作？
+A.翻譯
+B.校對
+C.寫作
+D.記錄
+ 
+答對
+	Question 2.	
+00:0000:04
+ 
+Look at the graphic. What is the missing amount on the bottom right?
+ (A) $70.00
+ (B) $90.00
+ (C) $112.00(正解)
+ (D) $118.00
+請看圖表。右下角缺少了以下何者數字？
+A.$70.00
+B.$90.00
+C.$112.00
+D.$118.00
+ 
+答對
+	Question 3.	
+00:0000:02
+ 
+What can we infer about the woman?
+ (A) She is going to pay the fee.(正解)
+ (B) She is going to demand a lower rate next time.
+ (C) She isn't going to hire this man again.
+ (D) She's going to check his email because she doesn't believe him.
+我們可以推斷出以下關於此女士的敘述何者正確？
+A.她要支付費用。
+B.她打算要求下一次降低費用。
+C.她不會再僱用這名男士。
+D.她會去看他寄的電子郵件，因為她不相信他。
+
+ 
+Questions 4 through 6 refer to the following conversation:
+00:0000:42
+Man: How can I help you?
+
+Woman: I'd like to buy a train ticket from Brussels to Milan, please.
+
+Man: Of course. What day will you be leaving?
+
+Woman: I'll be leaving this Saturday at 7:45 am.
+
+Man: I am sorry, but there are no seats available for that time. I can check some other times if you'd like.
+
+Woman: No, that's okay. Are there any seats available from Vienna to Milan on that same train?
+
+Man: Yes, there are. You don't mind standing from Brussels to Vienna?
+
+Woman: No, not at all. I'll take the ticket, please.
+
+Man: Really? Suit yourself. That'll be 190 euros, please.
+
+
+
+男：有什麼能為你協助的？
+女：請給我一張從布魯塞爾到米蘭的火車票。
+男：當然。出發日期？
+女：我打算星期六早上七點四十五分離開。
+男：很抱歉，但這個時間沒有座位。如果你需要的話，我可以查看其他時間。
+女：不，沒關係。同一班火車在從威尼斯到米蘭的區間有座位嗎？
+男：是的，有。你不介意從布魯塞爾站到威尼斯嗎？
+女：不，一點也不介意。請給我這張車票。
+男：真的嗎？請自便。總共190歐元。
+
+重要單字及片語
+available adj. 可利用的，有空的
+euro(s) n. 歐元
+crowded adj. 擁擠的
+Suit yourself. 你認為方便就好
+Ex.
+A: I don't want to eat any meat today. 我今天不想吃肉。
+B: Suit yourself. I'm still going to have steak, though. 你認為方便就好。但我還是要吃牛排。
+答對
+	Question 4.	
+00:0000:03
+ 
+What is the woman doing in this conversation?
+ (A) buying a train ticket(正解)
+ (B) asking for directions
+ (C) requesting a refund
+ (D) booking a flight
+這對話中的女士正在做什麼？
+a. 買火車票
+b. 問路
+c. 要求退貨
+d. 訂機票
+ 
+答對
+	Question 5.	
+00:0000:02
+ 
+When is the woman leaving?
+ (A) Sunday morning
+ (B) Saturday morning(正解)
+ (C) Saturday evening
+ (D) Friday night
+以下何者是這位女士離開的時間？
+a. 星期天早上
+b. 星期六早上
+c. 星期六晚上
+d. 星期五晚上
+ 
+答對
+	Question 6.	
+00:0000:02
+ 
+What does the man imply?
+ (A) He thinks that what the girl is doing is dangerous.
+ (B) He will help the girl find a hotel room.
+ (C) Crowded trains make him nervous.
+ (D) He is surprised she wants a standing ticket.(正解)
+這男的在暗示什麼？
+a. 他覺得這女孩要做的事很危險
+b. 他會幫忙這女孩找旅館
+c. 擁擠的火車讓他很緊張
+d. 他很驚訝她要站票
+ 
+Questions 7 through 9 refer to the following conversation:
+00:0000:40
+Woman: Donald, the meeting is in ten minutes! Haven't you finished the presentation?
+
+Man: It's finished, Ms. Stringer, but I am afraid that I am having trouble copying the file over to my portable storage device.
+
+Woman: Have you tried attaching the report to an email and sending it to your personal email address?
+
+Man: I hadn't thought of that. Will the computers in the conference room have a solid Internet connection?
+
+Woman: Of course they will. Now, attach that email and let's get going. Don't mess this up!
+
+Man: I'm terribly sorry, ma'am. I won't be long.
+
+
+
+女：Donald，再十分鐘就要開會了！你的簡報還沒完成嗎？
+男：Stringer小姐，我完成了，但我無法將檔案複製到隨身碟裡。
+女：你有試過將檔案附加到電子郵件上，然後再寄到你的個人信箱嗎？
+男：我沒想到。會議室的電腦有實體網路連線嗎？
+女：當然。現在，將檔案附加到電郵然後準備走吧。不要搞砸！
+男：女士，我非常的抱歉。我馬上好。
+
+重要單字及片語
+presentation n. 呈現，報告
+portable adj. 可攜帶的
+conference n. 會議
+solid adj. 固體的，實心的，結實的，牢固的
+terribly adv. 非常地
+mess up 弄髒，弄亂
+Ex. We were told not to mess up the lobby. 我們被告知不要將大廳弄亂。
+have trouble +Ving 做…有困難
+Ex. My grandmother has started to have trouble reading the newspaper.
+我的祖母開始看報紙有困難。
+答對
+	Question 7.	
+00:0000:02
+ 
+What problem is the man having?
+ (A) He doesn't know how to set up an email address.
+ (B) He can't copy a file onto a storage device.(正解)
+ (C) He hasn't finished his presentation.
+ (D) There isn't an internet connection in the conference room.
+這位男子遭遇到什麼麻煩？
+a. 他不知道怎麼設定電子信箱
+b. 他無法將檔案複製到儲存裝置裡
+c. 他還未完成簡報
+d. 會議室沒有網路
+ 
+答對
+	Question 8.	
+00:0000:02
+ 
+What can we guess about Ms. Stringer?
+ (A) She is the man's subordinate.
+ (B) She hasn't eaten anything today.
+ (C) Her anger stems from childhood experiences.
+ (D) She is the man's superior.(正解)
+我們可以猜測這位Stringer小姐的身分為何？
+a. 她是這位男士的下屬
+b. 她今天還沒吃任何東西
+c. 她的憤怒是兒時經歷造成的
+d. 她是這位男士的上司
+
+ 
+答對
+	Question 9.	
+00:0000:04
+ 
+What is probably true about the meeting they are about to have?
+ (A) It is quite important.(正解)
+ (B) It is not very important.
+ (C) It is going to be very boring.
+ (D) It will be very interesting.
+以下何者關於要召開的會議可能是正確的？
+a. 這會議相當重要
+b. 這會議不重要
+c. 這會議會相當無聊
+d. 這會議會相當有趣
+ 
+Questions 10 through 12 refer to the following conversation:
+00:0000:51
+Man: What seems to be the problem, ma'am?
+
+Woman: I was watching a movie on my computer last night and the CD tray jammed up on me.
+
+Man: Was the computer recently dropped or damaged?
+
+Woman: As a matter of fact, it was. It fell from my coffee table just last night.
+
+Man: No big deal. I'll just grab a spare tray from another computer and install it for you. How does that sound?
+
+Woman: That sounds great. How much will it cost?
+
+Man: A CD tray installation will cost you 119 dollars.
+
+Woman: That's not too bad. When can I pick it up?
+
+Man: I'm a bit backed up right now. Would Thursday be okay?
+
+Woman: Sure. I'll see you then. Do I need to pay now?
+
+Man: No, you'll pay when you pick it up.
+
+
+
+男：女士，有什麼問題嗎？
+女：我昨晚用電腦看電影時CD槽卡住了
+男：電腦最近有摔到或損害嗎？
+女：說實話有。它昨天從我的咖啡桌掉下來。
+男：沒什麼大不了。我只要從別的電腦拆備用的槽並幫妳安裝好。妳覺得如何？
+女：聽起來很棒。修理會花多少錢？
+男：一個CD槽的安裝會花妳119美元。
+女：這價格還可以。我何時可以領取？
+男：我現在有點忙。星期四可以嗎？
+女：當然。下次見。我需要現在付清嗎？
+男：不用，領取時再付款即可。
+
+recently adv. 最近地，近期地
+install v. (installation n.) 安裝
+tray n. 盤子，托盤
+as a matter of fact 事實上 (adv)
+Ex. As a matter of fact, our sales have dropped by five percent this quarter.
+事實上地，這一季的銷售業績下降五個百分比。
+答對
+	Question 10.	
+00:0000:02
+ 
+What can we say about the man?
+ (A) He can fix the CD tray.(正解)
+ (B) He doesn't know how to fix the computer.
+ (C) He is making the woman unhappy.
+ (D) His shop specializes in Macintosh computers.
+我們可以用以下何者選項來形容這位男士？
+a. 他會修理CD槽
+b. 他不知道怎麼修理電腦
+c. 他讓這女士不開心
+d. 他的商店專門處理麥金塔電腦
+ 
+答對
+	Question 11.	
+00:0000:02
+ 
+What is the man's occupation?
+ (A) CD cover artist
+ (B) salesman
+ (C) graphic designer
+ (D) computer repairman(正解)
+以下何者是這位男士的職業？
+a. CD 封面藝術家
+b. 銷售員
+c. 平面設計師
+d. 電腦維修員
+ 
+答對
+	Question 12.	
+00:0000:02
+ 
+When does the woman need to pay?
+ (A) immediately
+ (B) when comes back to get the computer(正解)
+ (C) at the end of the month.
+ (D) at the beginning of the week
+以下何者是這位女士付錢的時間？
+a. 立即
+b. 回來領電腦時
+c. 月底
+d. 周一
+ 
+Questions 13 through 15 refer to the following conversation:
+
+Receipt of Transaction
+Customer Copy
+Pink blouse size M £14.00
+Tax Included
+Total: £14.00
+Method of Payment: cash
+FINAL SALE
+00:0001:03
+Woman: Hi, I'd like to return this blouse please.
+
+Man: I'm sorry. All of our sales are final.
+
+Woman: But when I got home, I noticed there was a stain on it. See-right here.
+
+Man: I'm really sorry, but there's nothing I can do about it. We don't even have a refund button on our register. We always make a point of checking clothing for any flaws before we sell it. If you had noticed it before you left the store, we would have been happy to let you choose a different one.
+
+Woman: Can I speak to your manager please?
+
+Man: The manager is on holiday right now, but I'm the assistant manager.
+
+Woman: So I can't even exchange this for a new one?
+
+Man: Afraid not. Here, this is what I can do for you. We have a bottle of stain remover in the back room. I'd be happy to give you some of it in a little plastic baggie. You can take it home and see if it helps get rid of the stain.
+
+Woman: Thanks. I'd really appreciate that.
+
+
+
+女：您好，我想更換這件襯衫。
+男：我很抱歉。所有的銷售都無法變更。
+女：但是我到家時，才留意到上面有一個污點。您看，就在這裡。
+男：我真的很抱歉，但我幫不上忙。我們的收銀機甚至沒有退款的按鈕。我們賣衣服前一定會檢查瑕疵。如果您在離開商店之前注意到，我們會很樂意讓您選另一件。
+女：我可以跟你的經理說話嗎？
+男：經理目前休假，但我是代理經理。
+女：所以，我不能換一件新的？
+男：恐怕不行。但我能幫您的是，我們後面有一瓶去污劑。我很樂意裝一些在小塑膠袋中給您。您可以帶回家試試，看可不可以清掉污點。
+女：謝謝。我很感謝您的幫忙。
+
+
+
+
+
+
+
+交易收據
+
+客戶複本
+
+粉紅色襯衫 尺寸M £14.00
+
+含稅
+
+總計：£14.00
+
+支付方式：現金
+
+最終交易
+
+
+答對
+	Question 13.	
+00:0000:06
+ 
+Look at the graphic. What is meant by the expression, "FINAL SALE" on the receipt?
+ (A) It is the last day of the store's sale.
+ (B) No refunds or exchanges are allowed. (正解)
+ (C) The store will be closing soon.
+ (D) This product is the last one in stock.
+請看圖表。收據上的「最終交易」是什麼意思？
+A.這是店裡銷售的最後一天。
+B.不允許退款或更換商品。
+C.這家商店快關門了。
+D.該產品是最後一件庫存。
+ 
+答對
+	Question 14.	
+00:0000:04
+ 
+Why can't the woman get what she wants?
+ (A) It is against store policy. (正解)
+ (B) She already wore the clothing.
+ (C) She already washed the clothing.
+ (D) She paid in cash.
+以下何者是該名女士得不到她想要的商品的理由？
+A.違反商家政策。
+B.她已經穿過衣服。
+C.她已經洗了衣服。
+D.她已用現金支付。
+ 
+答對
+	Question 15.	
+00:0000:03
+ 
+How does the man help her at the end?
+ (A) He finally lets her have what she wants.
+ (B) He offers her an alternative solution to her problem. (正解)
+ (C) He gives her a store credit.
+ (D) He offers her a discount on future purchases.
+最後，該名男士如何幫她？
+A.他最後讓她得到她想要的東西。
+B.針對她的問題，他提供了替代的解決方案。
+C.他給了她店裡的消費點數。
+D.他提供她未來的消費折扣。
+ 
+Questions 16 through 18 refer to the following conversation:
+00:0001:02
+Woman: Hi Stephen and Sophia. Come on in. How can I help you?
+
+Man: Hello, Mrs. Blaire. We just have a few questions about the final exam.
+
+Woman: Sure, go ahead.
+
+Woman2: Will the exam be strictly on our final two chapters, or will it be comprehensive?
+
+Woman: As I said in class today, the exam will be comprehensive, and will include material from the final two chapters.
+
+Man: That is a lot of material. I don't know if I'll have enough time to prepare for the test.
+
+Woman2: Me, too. Is there any chance we could take the exam at a later date.
+
+Woman: I'm looking at your attendance record and it says that you've missed 15 days of class this semester, Sophia. And Stephen, you have no excuse for this.
+
+Woman2: I'm sorry, I have been ill.
+
+Man: And I've been dealing with some family issues.
+
+Woman: I'm sorry, guys. It would be against this institution's policy.
+
+
+
+女：嗨Stephen和Sophia。快進來。有什麼我可以幫你嗎？
+男：哈囉，Blaire老師。我們只是對期末考有幾個問題。
+女：好的，請說。
+女2：測驗範圍只限最後兩章，還是全面性的？
+女：就像我今天課堂中說到，測驗是全面性的，且會包括最後兩章的內容。
+男：內容好多。我不知道我有沒有足夠的時間來準備考試。
+女2：我也是。我們有可能可以延期測驗嗎？
+女：我在看你的出席記錄，你這個學期已經缺席十五天了，Sophia。而Stephen，你沒有藉口。
+女2：對不起，我生病一段時間。
+男：我一直都在處理家庭問題。
+女：兩位，我很抱歉。這會違反學校政策
+
+
+重要單字及片語
+strictly adv. 嚴格地
+comprehensive adj. 理解的，了解的
+material n. 材料，原料
+attendance n. 出席
+extension n. 延長，擴展
+答對
+	Question 16.	
+00:0000:02
+ 
+What are the students requesting?
+ (A) to be study partners for the final exam
+ (B) a study guide
+ (C) an extension for the final exam(正解)
+ (D) a higher grade on their tests
+以下何者是男子的要求？
+a. 期末考的念書夥伴
+b. 讀書導遊
+c. 延後期末考
+d. 拿到較高的考試分數
+ 
+答對
+	Question 17.	
+00:0000:03
+ 
+What do we know about the female student?
+ (A) The male student is her brother.
+ (B) She doesn't care much about this course.
+ (C) She has been sick recently. (正解)
+ (D) Her score on the final exam was really low.
+關於這位女學生，以下敘述何者正確？
+a. 男學生是她的兄弟。
+b. 她不關心這門科目。
+c. 她最近生病了。
+d. 她期末考的分數很低。
+ 
+答對
+	Question 18.	
+00:0000:03
+ 
+What will be on the final exam?
+ (A) it will be comprehensive but exclude the final two chapters
+ (B) only the final two chapters
+ (C) it will be comprehensive and include the final two chapters(正解)
+ (D) only chapters 1 and 2
+以下何者是期末考的考試內容？
+a. 內容會是全面性的，但不包含最後兩章節
+b. 只有考最後兩個章節
+c. 內容會是全面性的，且會包括最後兩個章節
+d. 只有第一章和第二章
+ 
+Questions 19 through 21 refer to the following conversation:
+00:0000:47
+Man: Nice earrings. Where did you get them?
+
+Woman: Thanks! I got them at Divinity Diamonds over on 2nd Street. They're having a sale today and tomorrow.
+
+Man: That's good to hear. I've got a daughter around your age and I really think that she'd love them.
+
+Woman: You know what they say: "Diamonds are a girl's best friend."
+
+Man: Totally. To get to 2nd Street from here, I just follow this road and turn left at the library, correct?
+
+Woman: Almost. You need to go past the library and turn right at the next intersection. The jewelry store will be on your left just past the pharmacy.
+
+Man: What would I do without you? See you around.
+
+Woman: Bye!
+
+
+
+男：耳環很好看。妳在哪裡買的？
+女：謝謝！我在第二街的蒂芬妮緹鑽石店買的。他們今明兩日都有特價。
+男：這是個好消息。我有個女兒年紀和妳相仿，我覺得她會喜歡。
+女：你知道他們說：鑽石是女孩們最好的朋友。
+男：完全正確。從這邊去第二街，我只需要沿著這條路走然後到圖書館左轉，對吧？
+女：大致正確。你必須經過圖書館然後在下個十字路口右轉。經過藥妝店後你會在左手邊看到珠寶店。
+男：沒有妳我該怎麼辦？等會兒見。
+女：掰！
+
+重要單字及片語
+intersection n. 十字路口
+pharmacy n. 藥局，藥妝店
+without prep. 沒有
+答錯
+	Question 19.	
+00:0000:03
+ 
+What can we say about the man?
+ (A) He has a lot of money.
+ (B) He is younger than the woman.
+ (C) He really doesn't want to buy the earrings.
+ (D) He is older than the woman. (正解)
+我們怎麼描述這男士？
+a. 他很有錢
+b. 他比這女士年輕
+c. 他真的不想買這付耳環
+d. 他比這女士年長
+ 
+答對
+	Question 20.	
+00:0000:02
+ 
+Where is the man going?
+ (A) the pharmacy
+ (B) the library
+ (C) the convenience store
+ (D) the jewelry store(正解)
+這男士要去哪裡？
+a. 藥妝店
+b. 圖書館
+c. 便利商店
+d. 珠寶店
+ 
+答錯
+	Question 21.	
+00:0000:02
+ 
+What will the man probably buy?
+ (A) earrings(正解)
+ (B) a necklace
+ (C) medicine
+ (D) dinner
+這男士可能會買什麼？
+a. 耳環
+b. 項鍊
+c. 藥品
+d. 晚餐
+ 
+Questions 22 through 24 refer to the following conversation:
+
+Initial Balance: $-4.95
+
+May 17, 2015 Electronic Transfer: $500
+
+Fee waived: ($+4.95)
+
+Current Balance: $500
+
+00:0000:56
+Man: Hello, ma'am. How can I help you today?
+
+Woman: I'd like to open a new account, please.
+
+Man: Have you had an account here at TD Trust before?
+
+Woman: Nope. This is my first one.
+
+Man: No problem at all. Could I see two pieces of ID please?
+
+Woman: Here you go.
+
+Man: Thanks. And would you like to open a checking or savings account?
+
+Woman: Just a normal checking account.
+
+Man: Sure. For our checking account, there's a monthly fee of $4.95 if you have less than $500 in the account. That fee includes unlimited withdrawals and transactions. If you can deposit or transfer $500 from any other account today, then your fee for the first month will be automatically waived.
+
+Woman: Can I transfer the money from one of my other accounts online?
+
+Man: Certainly. I'm going to help you set up an online account next.
+
+
+
+男：小姐您好。我今天能為您提供什麼服務呢？
+女：我想開一個新帳戶。
+男：您以前有開過道明銀行帳戶嗎？
+女：沒有。這是第一個。
+男：沒問題。我可以看你的雙證件嗎？
+女：在這裡。
+男：謝謝。您想開活存帳戶或定存帳戶呢？
+女：只要普通的活存帳戶。
+男：好的。針對我們的活存帳戶，如果帳戶的金額少於加幣500元，將會酌收月費4.95加幣。費用包括無限制取款次數和轉帳。如果您今天就將500加幣存入或從其他帳戶轉入，那麼您的第一個月的費用就會被自動豁免。
+女：我可以把錢從網路銀行轉帳過來嗎？
+男：當然可以。我會幫您建立網路銀行。
+
+
+
+
+
+
+
+最初餘額：$-4.95
+
+
+2015年5月17日年電子轉賬：$500
+
+
+費用豁免（$4.95+）
+
+
+目前餘額：$500
+
+
+答對
+	Question 22.	
+00:0000:02
+ 
+Where are the speakers?
+ (A) at an Internet service provider's office
+ (B) at a gas station
+ (C) in a bank(正解)
+ (D) in a legal firm
+說話者在以下何處？
+A.在網路服務業者的辦公室
+B.在加油站
+C.在銀行
+D.在法律事務所
+ 
+答錯
+	Question 23.	
+00:0000:05
+ 
+Look at the graphic. Why was the $4.95 fee waived?
+ (A) The customer opened a new account.
+ (B) The customer opened a new savings account.
+ (C) The customer paid the monthly fee.
+ (D) The customer transferred $500. (正解)
+請看圖表。為什麼$4.95費用被豁免？
+A.客戶開了一個新帳戶。
+B.客戶開了新的定存賬戶。
+C.客戶支付了月費。
+D.客戶轉入500元加幣。
+ 
+答對
+	Question 24.	
+00:0000:03
+ 
+What will the man do next?
+ (A) Help the woman open an online account.(正解)
+ (B) Ask the woman to enter her password.
+ (C) Give the woman her new card.
+ (D) Ask the woman to come back later.
+該名男士接下來會做什麼動作？
+A.幫該名女士開通網銀帳戶。
+B.請該名女士輸入她的密碼。
+C.給該名女士她的新卡。
+D.請該名女士稍後再來。
+ 
+Questions 25 through 27 refer to the following conversation:
+00:0000:50
+Woman: Good morning, Vertical Horizons Airlines. How may I help you today?
+
+Man: Hello, my name is Kendall Todesca. I received an email this morning telling me that my flight was delayed.
+
+Woman: Mr. Todesca. What is your confirmation number?
+
+Man: It's FMZ2134C
+
+Woman: Just a moment. You are on flight 347 headed to Baltimore, correct?
+
+Man: That's correct. Could you tell me why the flight was delayed?
+
+Woman: Sure. There was a mechanical issue on the plane, so we are going to have to wait for the next inbound flight.
+
+Man: I have a connecting flight in Chicago. Could you notify them of the change?
+
+Woman: Certainly. Are you in need of any other assistance?
+
+Man: No, thanks. That will be all.
+
+
+
+女：早安，翱翔四海航空公司。有什麼能幫你的嗎？
+男：你好，我是Kendall Todesca。我今天早上收到一封信說我的班機會延遲。
+女：Todesca先生。你的機票購買確認碼是？
+男：FMZ2134C。
+女：請稍等。你搭乘347飛機往巴爾的摩，正確嗎？
+男：正確。可以請你告訴我為什麼班機會延遲嗎？
+女：當然可以。飛機有些機械上的問題，因此我們將會等待下一台回航班機到達。
+男：我必須在芝加哥轉機。你可以通知他們班機有變動嗎？
+女：沒問題。你還需要其他協助嗎？
+男：不，謝謝。這就可以了。
+
+重要單字及片語
+vertical adj. 垂直的，立式的
+horizon n. 地平線
+delay v. 延遲
+mechanical adj. 機械性地
+inbound adj. 回內地的
+notify v. 告知，通知
+assistance n. 協助，幫助
+答對
+	Question 25.	
+00:0000:02
+ 
+What is the woman's job?
+ (A) pilot
+ (B) sales person
+ (C) customer service specialist (正解)
+ (D) airlines accountant
+以下何者是這位女士的工作？
+a. 飛行員
+b. 銷售人員
+c. 客服人員
+d. 航空公司的會計
+ 
+答對
+	Question 26.	
+00:0000:02
+ 
+Why was the flight delayed?
+ (A) weather
+ (B) problems with the plane(正解)
+ (C) overcrowded flights
+ (D) traffic
+以下何者是班機延遲的理由？
+a. 氣候
+b. 飛機問題
+c. 班機超載
+d. 交通
+ 
+答對
+	Question 27.	
+00:0000:02
+ 
+What can we say about the woman?
+ (A) She was very rude to the man.
+ (B) She was unsure of what the man meant.
+ (C) She was very polite to the man.(正解)
+ (D) She couldn't help him at all.
+我們可以如何描述這位女士？
+a. 她對這男士非常無禮
+b. 她不確定這男士意旨為何
+c. 她對這男士非常有禮
+d. 她完全無法幫上忙
+ 
+Questions 28 through 30 refer to the following conversation:
+00:0000:49
+Man: How much would it cost to upgrade my mobile phone plan to an unlimited data plan?
+
+Woman: That depends. What kind of plan do you have now?
+
+Man: As it stands, I only have 2 gigs of data each month.
+
+Woman: I see. Our unlimited data plans start out at 40 dollars per month.
+
+Man: That is almost double what I pay now. Can you give me a discount?
+
+Woman: No, I'm afraid not. If you have friends that also use our phone company, I could add them to your plan, though.
+
+Man: What would that do?
+
+Woman: It would allow you to call and text them for free, thus reducing your monthly bill.
+
+Man: That sounds great. Let me think it over.
+
+Woman: Take your time. I'll be right over here if you need me.
+
+
+
+男：如果我想要升級我的電話方案到網路吃到飽，要花多少錢？
+女：這視方案而定。你現在想要怎麼樣的方案？
+男：目前我每個月只有2 G。
+女：我了解。我們的網路吃到飽每個月40美金。
+男：這幾乎是我現有方案的兩倍。你可以給我一些優惠嗎？
+女：我恐怕不行。但如果你有朋友也使用我們的電話，我可以把他們加入你的方案。
+男：那會怎麼樣？
+女：你打電話或傳簡訊給他們時就會免費，這可以減少你的電話費帳單。
+男：這聽起來很棒。讓我考慮一下。
+女：慢慢來。如果你需要我的話我就在這裡。
+
+重要單字及片語
+upgrade v. 升級
+unlimited adj. 無限度的
+discount n. 折扣
+reduce v. 降低
+add A to B 將A加進B裡
+Ex. Please add more salt to my pasta. 請在我的義大利麵裡多加點鹽。
+答對
+	Question 28.	
+00:0000:02
+ 
+What are they talking about?
+ (A) a mobile phone plan(正解)
+ (B) a misplaced order
+ (C) new cell phones
+ (D) a broken smartphone
+他們在講什麼？
+a. 手機方案
+b. 申購錯誤
+c. 一支新手機
+d. 一支壞掉的智慧型手機
+ 
+答對
+	Question 29.	
+00:0000:05
+ 
+How many gigabytes of data per month does the man currently have?
+ (A) He doesn't say.
+ (B) 12 gigs
+ (C) 2 gigs(正解)
+ (D) 40 gigs
+這位男士目前的電話方案有多少流量？
+a. 並未提及
+b. 12G
+c. 2G
+d. 40G
+ 
+答對
+	Question 30.	
+00:0000:02
+ 
+What does the man want?
+ (A) unlimited data(正解)
+ (B) a new phone
+ (C) a new SIM card
+ (D) a new phone number
+以下何者是這位先生所需要的？
+a. 網路吃到飽
+b. 一支新手機
+c. 一張新的電話卡
+d. 一組新的電話號碼
+ 
+Questions 31 through 33 refer to the following conversation:
+00:0000:42
+Man: Melinda. Would you come into my office? Let's chat.
+
+Woman: Good afternoon, Mr. Checknita. What's the matter?
+
+Man: Melinda, you've shown a lot of promise over the past quarter from your sales position, and I am going to recommend you for the corporate training program in Toronto.
+
+Woman: I'm flattered. When will the program start?
+
+Man: It starts at the beginning of October and runs through the end of the year. You'll be expected to perform team exercises, as well as individual tasks.
+
+Woman: This is really a dream come true. I can't wait to get started. Thank you so much for this opportunity.
+
+Man: You've earned it, Melinda. I'll tell headquarters that you're on board!
+
+男：Melinda。可以來我的辦公室一會兒嗎？來聊聊。
+女：午安，Checknita 先生。怎麼了嗎？
+男：Melinda。在過去這一季你在銷售職務上成績亮眼，因此我將推薦你去多倫多參加公司的訓練課程。
+女：我好高興。課程何時開始？
+男：十月初到年底。你會需要展現團隊合作及獨立作業能力。
+女：這像是真的美夢成真。我等不及了。非常感謝你提供這個機會。
+男：Melina，妳應得的。 我會告訴總部妳會加入他們！
+
+重要單字及片語
+recommend v. 推薦
+corporate adj. 公司的；集體的
+individual adj. 個人的，單一的/ n. 個人
+opportunity n. 機會
+task n. 任務
+flatter v. 使高興，奉承
+headquarters n. 總部，總辦公室
+答對
+	Question 31.	
+00:0000:03
+ 
+Where does this conversation take place?
+ (A) in the woman's office
+ (B) in a conference room
+ (C) in the man's office(正解)
+ (D) in the break room
+以下何者是這段對話發生的地點？
+a. 在這位女士的辦公室
+b. 在會議室
+c. 在這位男士的辦公室
+d. 在休息室
+ 
+答對
+	Question 32.	
+00:0000:02
+ 
+When does the program start?
+ (A) tomorrow
+ (B) October(正解)
+ (C) the end of the year
+ (D) November
+這課程何時開始？
+a. 明天
+b. 十月
+c. 年底
+d. 十一月
+ 
+答對
+	Question 33.	
+00:0000:04
+ 
+How does the woman feel about the news she was given?
+ (A) She feels nervous.
+ (B) She feels sad.
+ (C) She feels excited.(正解)
+ (D) She feels overwhelmed.
+以下何者是這位女士聽到這個消息的感覺？
+a. 她覺得很緊張
+b. 她覺得很難過
+c. 她覺得很興奮
+d. 她覺得不知所措
+ 
+Questions 34 through 36 refer to the following conversation:
+00:0000:41
+Man: Have you received your tax forms for 2013 yet? I'm new to the office and I'm not sure how the mailing system works.
+
+Woman: Yes, I received mine last week. The office administrator will usually mail them directly to your house.
+
+Man: That makes sense. She emailed me yesterday to confirm my home address. They should be there any day now.
+
+Woman: Yes, that's probably what it was about. Alternatively, if you want to expedite the process, you could schedule an appointment with her.
+
+Man: It's okay. I'm not in that big of a rush. Thanks again for your help.
+
+
+
+男：你收到2013年的所得稅申報單了嗎？我是新進員工，不確定這裡的郵件系統怎麼運作。
+女：是，我上禮拜收到了。營業處通常都會直接寄到家裡。
+男：這就對了。她昨天寄信給我要確認我家的地址。信件應該隨時會寄到我家。
+女：是，那可能就是有關這件事。或者，如果你想要加速流程，你可以和她約時間。
+男：沒關係。我沒有很急。再一次感謝你的幫忙。
+
+重要單字及片語
+administrator n. 行政官員
+confirm v. 確認 (confirmation n.)
+alternatively adv. 二者擇一地
+expedite v. 迅速執行，促進
+process n. 過程，進程
+appointment n. 預約，(正式)約會，委派 make sense 具意義
+Ex. What my coworker said doesn't make sense to me. 我的同事說的話對我來說並不合理。
+答對
+	Question 34.	
+00:0000:02
+ 
+What are they talking about?
+ (A) the annual meeting
+ (B) tax returns(正解)
+ (C) an office memo
+ (D) quarterly reports
+他們在聊什麼？
+a. 年度會議
+b. 報稅事宜
+c. 辦公室備忘錄
+d. 季報
+ 
+答對
+	Question 35.	
+00:0000:03
+ 
+Why did the office administrator email the man?
+ (A) to confirm his home address(正解)
+ (B) to tell him his taxes are late
+ (C) to tell him that the office will be closed
+ (D) to reschedule an appointment
+為什麼營業處需要寄信給這位男士？
+a. 確認他的住家地址
+b. 提醒他的報稅延遲
+c. 告知辦公室將要停止營運
+d. 重新安排會面的時間
+ 
+答對
+	Question 36.	
+00:0000:04
+ 
+Where will the office administrator mail the tax forms to?
+ (A) to the employee's home(正解)
+ (B) to the employee's office
+ (C) to the post office
+ (D) to the man's secretary
+營業處會將報稅單據寄到以下何處？
+a. 到員工的家裡
+b. 到員工的辦公室
+c. 到郵局
+d. 給男士的秘書
+ 
+Questions 37 through 39 refer to the following conversation:
+00:0000:43
+Woman: Advertising prices are going through the roof, Tim. What should we do?
+
+Man: There is a business fair being held at a nearby university next month for incoming freshmen.
+
+Woman: I'm listening. How could we distinguish ourselves from our competitors?
+
+Man: Apart from setting up a table showcasing some of our new laptops and printers, I think it would be fun to showcase an interactive game.
+
+Woman: What did you have in mind?
+
+Man: Maybe we could set up a trivia quiz about the university. If the students answer all of the questions correctly they get a free USB storage device.
+
+Woman: That could work. I'll run it by accounting later today. Nice work, Tim.
+
+
+
+女：Tim，廣告費用太昂貴了。我們該怎麼做？
+男：附近的大學下個月為了這一批即將入學的大一生舉辦了一個商業展。
+女：我在聽。我們要怎麼從競爭者中有所區別呢？
+男：除了擺設桌子展示我們的新筆電及印表機之外，我覺得辦一場互動遊戲很有趣。
+女：你有什麼想法？
+男：也許我們可以舉辦關於大學的問答比賽。如果學生們答對所有的問題就能得到一個免費的隨身碟。
+女：這可行。我今天稍晚會通知會計部門。做的好，Tim。
+
+重要單字及片語
+distinguish v. 與…區別
+competitor n. 競爭者；參賽者
+showcase v. 展示
+interactive adj. 互動的
+trivia n. 瑣事
+storage n. 儲存
+apart from +N/V-ing 除…之外
+Ex. Apart from having overpriced dishes, the restaurant is also dirty and noisy. 除了餐點價格過高之外，那間餐廳又髒又吵雜。
+答對
+	Question 37.	
+00:0000:03
+ 
+What suggestion does the man give the woman?
+ (A) attend a business fair at a local university(正解)
+ (B) buy more commercial space on the radio
+ (C) send out flyers through the mail
+ (D) personally call all of their clients
+這男士給了女士什麼樣的意見？
+a. 參加在地的大學所舉辦的商業展
+b. 在廣播電台買更多的廣告
+c. 藉由電子信件寄廣告
+d. 親自打給所有的客戶
+ 
+答對
+	Question 38.	
+00:0000:04
+ 
+What will the students win if they get all of the questions correct?
+ (A) free college tuition
+ (B) a USB storage device(正解)
+ (C) a new laptop computer
+ (D) a new printer
+如果學生們答對所有的問題的話，會贏得以下何者？
+a. 大學學費免費
+b. 隨身碟
+c. 新的筆記型電腦
+d. 新的印表機
+ 
+答對
+	Question 39.	
+00:0000:02
+ 
+What will the woman probably do?
+ (A) fire the man
+ (B) take the man's suggestion(正解)
+ (C) give the man a promotion
+ (D) ask another employee's opinion
+以下何者是這位女士可能會做的？
+a. 解聘這男的
+b. 接受男子的意見
+c. 給他一些優惠
+d. 詢問其他員工的意見
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 3 refer to the following conversation:
+00:0000:36
+Man: Sorry I am late for lunch.
+
+Woman: What happened? You look very flustered.
+
+Man: My car broke down.
+
+Woman: Why didn't you call me? I would have come and picked you up.
+
+Man: I was going to, but I was so busy getting it off the road and to a mechanic I just forgot.
+
+Woman: Do you know what is wrong with it?
+
+Man: No, they said that they would call me by six. I hope it doesn't cost a fortune. I have so many bills to pay right now.
+
+Woman: I can drive you around until you get your car back.
+
+Man: Thank you so much! I'll treat you to lunch.
+
+
+
+男：抱歉。我午餐遲到了。
+女：怎麼了？你看起來很慌亂。
+男：我的車子拋錨了
+女：你怎麼不打給我？我可以過去接你。
+男：我本來要，但我忙著開離道路找修車工人，我就忘記了。
+女：你知道出了什麼問題嗎？
+男：不知道，他們說六點會打給我。我希望不會花太多錢，我現在要付很多帳單。
+女：我可以載你到處走直到你拿回你的車。
+男：非常謝謝你！我會請你吃午餐。
+
+重要單字及片語
+flustered adj. 緊張不安的，慌亂的
+mechanic n. 機械工，技師
+spray v. 噴，灑
+uniform n. 制服
+nametag n. 名牌
+cost a fortune 花大錢
+treat v. 對待，請客 break down 壞掉
+Ex. My scooter broke down when I was on my way to work this morning. 我的機車今天早上在上班途中壞掉了。
+答對
+	Question 1.	
+00:0000:02
+ 
+Why is the man so upset?
+ (A) He has to pay for lunch.
+ (B) He has a lot of bills to pay.
+ (C) His car broke down.(正解)
+ (D) His friend didn't pick him up.
+為什麼這男的這麼失落？
+a. 他必須付午餐錢
+b. 他有很多帳單要付
+c. 他的車子拋錨了
+d. 他的朋友沒有來接他
+ 
+答對
+	Question 2.	
+00:0000:04
+ 
+What does the woman mean by "You look very flustered"?
+ (A) He looks happy.
+ (B) He looks stressed.(正解)
+ (C) He looks scared.
+ (D) He looks excited.
+這女生說"你看起來很慌亂"是什麼意思？
+a. 他看起來很開心
+b. 他看起來很有壓力
+c. 他看起來很害怕
+d. 他看起來很興奮
+ 
+答對
+	Question 3.	
+00:0000:04
+ 
+Does the man's mood change for the better by the end of the conversation?
+ (A) Yes, because his friend offers to help him.(正解)
+ (B) His mood stays the same.
+ (C) No, he gets more upset.
+ (D) No, because he has to pay for his friend's lunch.
+在對話的尾聲，這位男人的心情有變好一點嗎？
+a. 有的，因為他的朋友提供幫助
+b. 他的心情還是一樣
+c. 沒有，他變得更沮喪
+d. 沒有，因為他必須請朋友吃午餐
+ 
+Questions 4 through 6 refer to the following conversation:
+00:0000:46
+Woman: Do you know why I have called you in here?
+
+Man: I think so.
+
+Woman: This is the second time this week that you have sprayed somebody in the eyes with cologne. We just can't keep you on if you are going to continue to do this.
+
+Man: I understand, but I am really trying. I want people to smell it, so sometimes I spray it in front of them before they walk by.
+
+Woman: How many times have I told you this? First, ask them if they want to try the cologne; if they say yes, then you spray them on their wrist.
+
+Man. I know. I guess I keep forgetting. I am sorry.
+
+Woman: I am sorry, too. I am going to have to let you go. Please turn in your uniform and nametag before you leave.
+
+
+
+女：你知道為什麼我要找你過來嗎？
+男：我想我知道。
+女：這已經是這禮拜第二次你把古龍水噴在別人的眼睛裡。如果你持續這麼做我們實在無法再雇用你。
+男：我了解，但我真的很努力了。我想要人們聞聞看，所以有時候我會在他們走過之前噴在他們正前方。
+女：我告訴你幾次了？第一，先詢問他們是否要試擦古龍水；如果他們說好，那你再噴在他們的手腕上。
+男：我知道，我一直忘記。我很抱歉。
+女：我也很抱歉。我必須要解聘你。請在你離開前歸還你的制服和名牌。
+
+重要單字及片語
+spray v. 噴，灑
+wrist n. 手腕
+cologne n. 古龍水
+uniform n. 制服
+nametag n. 名牌
+walk by走過去
+Ex. The young man turned around to look at the pretty woman as soon as she walked by. 那位漂亮小姐一走過去，年輕人就轉過來看她。
+turn in 交換，取得，睡覺，放棄，告發
+Ex. The boy got a $20 cash reward for turning in the wallet he found on the sidewalk. 那個男孩繳回他在人行道上找到的皮包後得到20元的獎賞。
+答對
+	Question 4.	
+00:0000:02
+ 
+Where are they having this conversation?
+ (A) at the mall
+ (B) in the man's office
+ (C) in the locker room
+ (D) in the woman's office(正解)
+他們在哪裡談話？
+a. 在購物中心
+b. 在這男士的辦公室
+c. 在個人用品儲物室
+d. 在這女士的辦公室
+ 
+答對
+	Question 5.	
+00:0000:02
+ 
+What is the man in trouble for?
+ (A) for not turning in his uniform and nametag
+ (B) for not knowing which cologne people will like
+ (C) for inappropriate conduct at work(正解)
+ (D) for not asking people to try on the cologne
+這男人為何會陷入困境？
+a. 沒有歸還制服和名牌
+b. 不知道人們喜歡哪一種古龍水
+c. 不適當的處理工作
+d. 沒有詢問人們是否想試擦古龍水
+ 
+答對
+	Question 6.	
+00:0000:03
+ 
+What is the store's normal policy for selling cologne?
+ (A) to spray it in the air so customers can smell it
+ (B) to ask before spraying a customer on the wrist(正解)
+ (C) to only spray women with cologne
+ (D) to not spray cologne in the store ever
+以下何者是這間店販售古龍水的正常程序？
+a. 噴在空氣裡這樣顧客就可以聞到它
+b. 再噴在顧客的手腕上之前先詢問
+c. 只噴古龍水在女性身上
+d. 再也不能店內噴古龍水
+ 
+Questions 7 through 9 refer to the following conversation:
+
+Employee Name: Samantha Cummings
+
+Period 1
+Target: $320,000
+Achieved: $284,654
+
+Period 2
+Target: $320,000
+Achieved: $321,986
+
+Period 3
+Target: $320,000
+Achieved: $378,754
+
+Period 4
+Target: $320,000
+Achieved: $345,987
+00:0001:21
+Man: What do you think was your biggest achievement in the last year?
+
+Woman: Well, I managed to expand our printer market by 25%, and I exceeded my sales target in the second, third, and fourth quarters.
+
+Man: So what happened in the first quarter?
+
+Woman: Well, as you know, it's hard for us to meet targets in the first quarter because few companies are doing much spending. At the beginning of the year, they are still working on getting their spending budgets approved.
+
+Man: So what do you think you could do to ensure that you meet your target in the first quarter next year?
+
+Woman: Well, this might prove to be a major challenge. But I think I might try to convince customers to place some initial orders before their budgets get approved. I might have to offer them some kind of deal if they place an order early.
+
+Man: Sounds like a strategy worth trying. And is there anything else that you feel you could improve on or any goals you want to set for the upcoming year?
+
+Woman: Yes. I really want to win over CTM Financial from our competitor. They used to be one of our biggest customers, but haven't been buying from us in ages.
+
+
+
+男：你認為在過去一年最大的成就是什麼？
+
+女：嗯，我擴展了25%的印表機市場，而且我超越了我第二、第三、第四季的銷售目標。
+
+男：那第一季發生了什麼事？
+
+女：嗯，你知道的，第一季我們很難達到目標，因為沒有公司有消費支出。年初時，他們仍在等預算批准。
+
+男：那你認為自己可以做什麼來達到明年第一季的目標？
+
+女：嗯，這可能是一個很大的挑戰。但我想我可能會嘗試說服客戶在預算批准前先下初始訂單。但如果他們早下訂單，我可能需要提供一些好處。
+
+男：聽起來是值得嘗試的策略。還有什麼你覺得可以改善或可以為即將到來的一年設定的目標？
+
+女：有的。我很想要從競爭對手中搶到CTM金融公司。他們曾經是我們最大的客戶之一，但很久沒向我們購買了。
+
+
+
+
+
+
+
+ 
+
+
+員工姓名：Samantha Cummings
+
+
+第1季
+
+目標：$320,000
+
+已達成：$284,654 
+
+
+第2季
+
+目標：$320,000
+
+已達成：$321,986
+
+
+第3季
+
+目標：$320,000
+
+已達成：$378,754
+
+
+第4季
+
+目標：$320,000
+
+已達成：$345,987
+
+
+答對
+	Question 7.	
+00:0000:02
+ 
+What kind of talk is this?
+ (A) an employee self-evaluation(正解)
+ (B) an interview for a new position
+ (C) a budget proposal discussion
+ (D) a casual chat about a promotion
+這是什麼性質的對話？
+A.員工的自我評量
+B.新職位的面試
+C.預算提案的討論
+D.關於升遷的閒聊
+ 
+答對
+	Question 8.	
+00:0000:05
+ 
+Look at the graphic. What does "Period 1" represent?
+ (A) the first week of the month
+ (B) the first month of the year
+ (C) the first 3 months of the year(正解)
+ (D) the first 4 months of the year
+請看圖表。「Period 1」代表以下何者意思？
+A. 該月的第一週
+B. 該年的第1月
+C. 該年的前3個月
+D. 該年的前4個月
+ 
+答對
+	Question 9.	
+00:0000:05
+ 
+What goal has the woman set for the upcoming period?
+ (A) to beat her previous sales record
+ (B) to get back an old customer(正解)
+ (C) to be more efficient at work
+ (D) to get a raise
+此女士對即將到來的一季有什麼目標？
+A. 超過她先前的銷售記錄
+B. 贏回一個老客戶
+C. 工作效率更高
+D. 加薪
+ 
+Questions 10 through 12 refer to the following conversation:
+00:0000:29
+Woman: What can I help you with today, Mr. Kennedy?
+
+Man: I woke up today to a huge rash all over my body. It is everywhere, but it doesn't itch.
+
+Woman: Have you done anything different lately?
+
+Man: I really can't think of anything different…Wait! I went on a new diet recently. Do you think that could have something to do with it?
+
+Woman: Possibly, we will run some tests and see if you are allergic to anything. Please hang on a moment for the nurse.
+
+
+
+女：Kennedy先生，今天有什麼可以為你協助？
+男：我今天起床時，全身上下長滿大片疹子 。每個地方都有，但不會癢。
+女：你最近有做任何不一樣的事嗎？
+男：我真的想不起來有什麼不同…等等！我最近在試新的節食計畫。你覺得可能是這個嗎？
+女：有可能，我會做一些測試來看你是否對任何東西過敏。請等護士過來。
+
+重要單字及片語
+rash n. 紅疹
+prescription n. (醫師)處方箋
+recently adv. 最近地=lately
+be allergic to 對…過敏
+Ex. Lots of kids in the West are allergic to peanuts. 西方國家很多孩童都對花生過敏。
+答對
+	Question 10.	
+00:0000:02
+ 
+Who is the woman in the conversation?
+ (A) a doctor(正解)
+ (B) the man's best friend
+ (C) the man's mother
+ (D) a receptionist
+以下何者誰是這段對話中的女子？
+a. 醫生
+b. 這男士最好的朋友
+c. 這男士的母親
+d. 接待員
+ 
+答對
+	Question 11.	
+00:0000:04
+ 
+How is the woman going to figure out what is wrong with Mr. Kennedy?
+ (A) get him to change his diet
+ (B) make him take some medicine
+ (C) give him some cream
+ (D) do some allergy tests(正解)
+這女士要怎麼知道Kennedy先生的狀況為何？
+a. 讓他改變他的節食計畫
+b. 讓他服用一些藥物
+c. 給他一些藥膏
+d. 做一些過敏測試
+ 
+答對
+	Question 12.	
+00:0000:02
+ 
+What will happen next?
+ (A) The man will pay his bill.
+ (B) The food will be served.
+ (C) The nurse will do some tests. (正解)
+ (D) The man will receive a prescription.
+等一下要發生什麼事？
+a. 這位男士將會繳帳單
+b. 即將會上菜
+c. 護士會做一些測試
+d. 這男士會收到醫師處方籤
+ 
+Questions 13 through 15 refer to the following conversation:
+00:0000:50
+Woman: What are you going to wear to the party tonight?
+
+Man: I don't know, maybe a dress shirt and slacks.
+
+Woman: Gosh, men!
+
+Man: What did I do wrong? I am getting dressed up. What more do you want from me?
+
+Woman: This is a special night for my sister. It is her engagement party. I want you to look nice for it. So, please put more thought into what you are going to wear.
+
+Man: Yes, exactly. It is for your sister. No one will even be looking at me, so it doesn't even matter.
+
+Woman: It matters to me. You are going to be in pictures. Don't you care about how I feel?
+
+Man: Not this again.
+
+Woman: Oh my goodness. Fine, just get dressed. I'll be waiting downstairs.
+
+
+
+女：你要穿什麼參加今晚的派對？
+男：我不知道，也許穿襯衫及寬鬆長褲。
+女：天哪，男人！
+男：我做錯了什麼？我要換衣服了。你還想叫我做什麼？
+女：對我姊姊來說這是個很特別的晚上。這是她的訂婚派對。我要你穿的更體面。所以，請更仔細思考你要穿什麼。
+男：是的，沒錯。這是你的姐姐的派對。甚至沒有人會看我一眼，所以沒有差別。
+女：對我來說有差。你會在照片裡。你不在乎我的感受嗎？
+男：別再來一次了。
+女：我的天。好，換裝吧。我會在樓下等你。
+
+重要單字及片語
+engagement n. 訂婚
+slacks n. 寬鬆的長褲
+matter v. 有關係/ n. 事情，物質，問題
+dress up 盛裝打扮
+Ex. All the students in the graduating class will dress up to attend the prom. 所有的畢業生都會盛裝打扮參加畢業舞會。
+答對
+	Question 13.	
+00:0000:02
+ 
+Where are the speakers?
+ (A) in their house(正解)
+ (B) at an engagement party
+ (C) outside on the street
+ (D) in a fitting room
+以下何者是這些談話者的所在處？
+a. 在他們房子裡
+b. 在訂婚派對
+c. 在路上
+d. 在試衣間
+ 
+答對
+	Question 14.	
+00:0000:02
+ 
+What is this conversation about?
+ (A) Whether they should give a gift of clothing or not.
+ (B) The pictures that will be taken at the party.
+ (C) Which suit to buy.
+ (D) The clothes that the man will wear.(正解)
+以上對話與以下何者選項相關？
+a. 他們是否該送衣服當禮物
+b. 這場派對上拍攝的照片
+c. 該買哪件西裝
+d. 這男士所穿的衣服
+ 
+答對
+	Question 15.	
+00:0000:04
+ 
+Why does the woman want her boyfriend to look nice?
+ (A) Because her sister is his boss.
+ (B) Because photographs will be taken today. (正解)
+ (C) Because she wants him to make new professional contacts.
+ (D) Because the mayor will be there.
+為什麼這女士想要她的男友看起來很體面？
+a. 因為姐姐是他的老闆
+b. 因為今天會拍照
+c. 因為她想要他認識專業人士
+d. 因為市長會出席
+ 
+Questions 16 through 18 refer to the following conversation:
+00:0000:41
+Man: Trisha, have you talked to the boss yet?
+
+Woman: No, I get so nervous around her.
+
+Man: I know what you mean. She makes it so hard to talk to her sometimes.
+
+Woman: Yes, and she is never here. What's up with that?
+
+Man: You can't tell anyone, but I heard that she goes out to night clubs almost every night.
+
+Woman: Are you serious?
+
+Man: That is why she comes in late most days.
+
+Woman: Who did you hear that from?
+
+Man: I heard it from Jim in sales. He is good friends with the boss's son. He also said she might get fired soon.
+
+Woman: She has a son?
+
+
+
+男：Trisha，妳和老闆談過了嗎？
+女：還沒，我在她身邊很緊張。
+男：我懂你的意思。她有時候會搞得很難跟她攀談。
+女：是的，而且她都不在公司。她為什麼要這樣？
+男：你不能告訴任何人，但我聽說她幾乎每天晚上都去夜店。
+女：你是認真的嗎？
+男：這是為什麼她幾乎每天都遲到。
+女：你從誰那邊聽說的？
+男：我從銷售部的Jim那邊聽來的。他和老闆的兒子是好朋友。他也說她可能很快就會被解雇了。
+女：她有個兒子？
+
+重要單字及片語
+nervous adj. 緊張的
+serious adj. 嚴重的，認真的
+hear from 聽到…的消息
+Ex. I haven't heard anything from him since he moved to another country. 自從他搬到另一個國家，我就沒聽說過他的消息了。
+答對
+	Question 16.	
+00:0000:03
+ 
+Why does the woman want to talk to her boss?
+ (A) She wants to talk to her about her drinking problem.
+ (B) She does not say why she wants to talk to her.(正解)
+ (C) She wants to talk to her about her son.
+ (D) She wants to talk to her about Jim in sales.
+為什麼這女士想跟她老闆談話？
+a. 她想和她談她的酗酒問題
+b. 她沒有說為什麼她想和她談話
+c. 她想和她談她的兒子
+d. 她想和她談銷售部Jim的事情
+ 
+答對
+	Question 17.	
+00:0000:03
+ 
+What is the woman's opinion of her boss?
+ (A) She thinks her boss gets nervous very easily.
+ (B) She does not think highly of her boss.(正解)
+ (C) She wishes her boss would not come to work.
+ (D) She thinks her boss a very serious woman.
+這女士對她老闆的想法是什麼？
+a. 她覺得她老闆很容易感到緊張
+b. 她對她老闆的評價不高
+c. 她希望她的老闆不會來工作
+d. 她覺得她的老闆是一位非常嚴肅的女人
+ 
+答對
+	Question 18.	
+00:0000:03
+ 
+What can we infer about the boss?
+ (A) She works hard from home.
+ (B) She is a responsible mother.
+ (C) She is a fun person to be around.
+ (D) She won't be there much longer.(正解)
+我們可以怎麼推斷這位老闆？
+a. 她在家認真工作
+b. 她是一位負責任的媽媽
+c. 她是個好玩的人
+d. 她不會待在這裡很久
+ 
+Questions 19 through 21 refer to the following conversation:
+00:0000:31
+Woman: Guess what I just found out?
+
+Man: What?
+
+Woman: Our flight is going to be delayed by two hours!
+
+Man: Are you serious? We are going to miss our connecting flight. What's the problem?
+
+Woman: They said there's something wrong with the engine.
+
+Man: I am going to see if we can find an earlier flight. This is ridiculous.
+
+Woman: I already checked. There isn't one.
+
+Man: Can they book us on another connecting flight?
+
+Woman: They said they would make an announcement for us if they can.
+
+
+
+女：猜我剛發現什麼？
+男：什麼？
+女：我們的班機將延後兩個小時！
+男：你是認真的嗎？我們會錯過轉機班機。有什麼問題？
+女：他們說引擎有一些問題。
+男：我要看看我們是否有早一點的班機。這太荒謬了。
+女：我已經確認過了。一個都沒有。
+男：他們可以幫我們訂其他轉機航班嗎？
+女：他們說如果可以的話他們會廣播通知。
+
+重要單字及片語
+ridiculous adj. 令人難以置信地
+announcement n. 宣布，宣告
+engine n. 引擎
+be wrong with 有問題，有毛病
+Ex. There's something wrong with my laptop. 我的手提電腦有點毛病
+答對
+	Question 19.	
+00:0000:02
+ 
+Where are the man and woman?
+ (A) at home
+ (B) at the airport(正解)
+ (C) in a taxi
+ (D) in an airplane
+以下何者是這位男士與女士的所在地？
+a 在家裡
+b. 機場
+c. 計程車裡
+d. 在飛機上
+ 
+答對
+	Question 20.	
+00:0000:03
+ 
+What is happening in this situation?
+ (A) They are having trouble buying plane tickets.
+ (B) Their flight is late.(正解)
+ (C) They are boarding a plane.
+ (D) They have a two-hour layover.
+這個狀況中發生了什麼事？
+a. 他們買機票有一些問題
+b. 他們的班機遲到了
+c. 他們在登機
+d. 他們有兩小時的待轉機時間
+ 
+答對
+	Question 21.	
+00:0000:03
+ 
+Was the problem solved by the end of the conversation?
+ (A) No, so they went home.
+ (B) Yes, the engine was fixed and they were able to board the plane.
+ (C) No, they are waiting to find out. (正解)
+ (D) Yes, they were able to catch both of their flights.
+最後問題是否獲得解決？
+a. 沒有，所以他們回家了
+b. 有，引擎修好了，他們能夠登機了
+c. 沒有，他們在等待問題解決
+d. 有，他們兩班飛機都能趕上
+ 
+Questions 22 through 24 refer to the following conversation:
+
+Room Name
+
+Occupancy
+
+Beds
+
+Price
+
+Business Traveler
+
+1 adult maximum
+
+1 single
+
+$99
+
+Econo-Room
+
+2 adults
+(+$20 for additional person)
+
+1 queen size
+
+$149
+
+Family Suite
+
+4 adults
+(+$20 for additional person)
+
+2 queen size
+
+$189
+
+VIP Penthouse
+
+4 adults maximum
+
+2 king size
+
+$249
+
+00:0001:11
+Woman: I'd like to make a change to my reservation.
+
+Man: Sure. Could I get your last name please?
+
+Woman: Geoffroy. That's G-E-O-F-F-R-O-Y.
+
+Man: Got it, Ms. Geoffroy. That's a double room for two adults, arriving December 26 and departing December 28. Am I correct?
+
+Woman: Yes. But we actually want to add a third adult. Would that be possible?
+
+Man: We can place a cot in the room for an additional fee of $20.
+
+Woman: Sure. That's fine. Also, we would like to check out a day later, on the 29th.
+
+Man: I'm sorry, but this room is booked on the 29th. Would you be willing to move to a four-person room for the last night? It comes with two beds.
+
+Woman: What's the price difference?
+
+Man: The room you already booked is $149 per night, plus $20 for the cot. The quadruple room is $189.
+
+Woman: Hm…could we actually get the quadruple room for the whole stay?
+
+Man: Let me see…Yea, sure, it's available.
+
+
+
+女：我想變更訂房。
+男：好的。請問你的姓是？
+女：Geoffroy。是G-E-O-F-F-R-O-Y。
+男：收到，Geoffroy女士。兩個大人一間雙人房，抵達日期12月26日，12月28日離開，對嗎？
+女：是的。但是我們想要增加第三位成年人。請問有辦法嗎？
+男：我們可以放在房間放一張吊床，額外費用20元。
+女：當然。沒關係。另外，我們想要晚一天退房，29日。
+男：很抱歉，但這個房間29日已被訂走了。你願意最後一晚移到四人房嗎？房間配有兩張床。
+女：價差是多少？
+男：你已經訂好的房間是149每晚，再加上小床$20。四人房為$189
+女：嗯......我們可以全部改為四人房嗎？
+男：讓我看看......是的，當然，目前有空房。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+房間類型
+
+容量
+
+床
+
+價錢
+
+商務房型
+
+最多1人
+
+1張單人床
+
+$99
+
+經濟房型
+
+2位成人
+
+(多1人+$20)
+
+1張雙人床
+
+$149
+
+家庭套房型
+
+4位成人
+
+(多1人+$20)
+
+2張雙人床
+
+$189
+
+VIP 豪華房型
+
+最多4人
+
+2張超大雙人床
+
+$249
+
+
+答對
+	Question 22.	
+00:0000:05
+ 
+How many nights did the woman originally plan to stay in the hotel?
+ (A) one
+ (B) two(正解)
+ (C) three
+ (D) four
+該名女子本來打算在飯店住幾晚？
+A.1
+B. 2
+C. 3
+D. 4
+ 
+答對
+	Question 23.	
+00:0000:03
+ 
+What two changes does the woman want to make?
+ (A) longer stay and extra person(正解)
+ (B) longer stay and one person less
+ (C) shorter stay and extra person
+ (D) shorter stay and one less person
+以下變動哪兩項是該名女子想要做的？
+A.停留久一點，多增加一人
+B. 停留久一點，減少一人
+C. 停留短一點，多增加一人
+D. 停留短一點，減少一人
+ 
+答對
+	Question 24.	
+00:0000:05
+ 
+Look at the graphic. Which room did the woman choose in the end?
+ (A) Business Traveler
+ (B) Econo-Room
+ (C) Family Suite(正解)
+ (D) VIP Penthouse
+請看圖表。此女人最後選了以下哪一種房型？
+A. 商旅房型
+B. 經濟房型
+C. 家庭套房型
+D. VIP豪華房型
+ 
+Questions 25 through 27 refer to the following conversation:
+
+Hey Mike,
+
+I need you to come see me in my office as soon as the lunch break is over for an urgent discussion. Please cancel any previous appointments you have made.
+
+Regards,
+
+Meg Jerrand
+
+00:0000:37
+Man: I can't believe it. I'm such an idiot!
+
+Woman: What's wrong?
+
+Man: I accidentally posted a Tweet to the company's Twitter page that was intended for my personal Twitter account!
+
+Woman: Oh, no! What was the Tweet about?
+
+Man: I was complaining about my job.
+
+Woman: That's no good. Did you delete it?
+
+Man: Of course, right away. But it was too late. Somebody saw it and told management about it.
+
+Woman: How do you know?
+
+Man: Look at this notice from HR. It says I have to go see them right after the lunch break.
+
+Woman: Uh oh. Good luck.
+
+
+
+男：我真是不敢相信。我是個大白痴！
+女：怎麼了？
+男：我不小心把原本要貼在我個人Twitter頁面的推文，貼在公司的Twitter頁面！
+女：噢，不！推文的內容是什麼呢？
+男：我在抱怨我的工作。
+女：這真是不妙。你刪除了嗎？
+男：當然，馬上。但為時已晚，已經有人看見，還告訴經理。
+女：你怎麼知道？
+男：看這個從HR來的通知。叫我在午休之後馬上去找他們。
+女：喔喔。 祝你好運。
+
+
+
+
+
+
+嘿Mike：
+
+
+我需要你午休結束後馬上來我的辦公室，以便進行緊急討論。請取消您已預訂的會議。
+
+
+致上
+
+ 
+
+Meg Jerrand
+
+
+答對
+	Question 25.	
+00:0000:02
+ 
+What mistake did the man make?
+ (A) He wrote something negative about his manager on his Twitter page.
+ (B) He allowed his company's website to be hacked into.
+ (C) He posted an inappropriate photo on the Internet.
+ (D) He mistook his company's social media account for his own. (正解)
+此男士犯了什麼錯？
+A.他在他的Twitter頁面上寫了關於他的經理的負面評價。
+B.他讓公司的網站遭受駭客入侵。
+C.他在網上發布了一張不雅照。
+D.他把公司的社交媒體帳戶誤認成自己的。
+ 
+答對
+	Question 26.	
+00:0000:04
+ 
+What did the man do as soon as he realized his mistake?
+ (A) He removed the content. (正解)
+ (B) He apologized to his boss.
+ (C) He changed the website's security settings.
+ (D) He did a virus scan on the computer.
+該名男子在意識到自己的錯誤後馬上採取以下何種動作？
+A. 刪除了內容。
+B. 向老闆道歉。
+C. 變更了網站的安全設定。
+D. 在電腦上執行病毒掃描。
+ 
+答對
+	Question 27.	
+00:0000:05
+ 
+Look at the graphic. What department does Meg Jerrand work for?
+ (A) human resources(正解)
+ (B) payroll
+ (C) management
+ (D) accounting
+請看圖表。Meg Jerrand為以下哪一個部門工作？
+A. 人力資源部門
+B. 薪資部門
+C. 管理部門
+D. 會計部門
+ 
+Questions 28 through 30 refer to the following conversation:
+00:0000:34
+Man: Did you get the memo about this weekend?
+
+Woman: Yes. I can't believe we have to work this weekend. I have plans to do something with my family.
+
+Man: I know. I was going to go to the theatre.
+
+Woman: Do you think we can get out of it?
+
+Man: I don't know. Mrs. Stanphill sounded pretty serious in the email. Since the lay-offs, there is a lot more work to go around.
+
+Woman: I am going to talk to her. Wish me luck!
+
+Man: You are going to need all the luck you can get.
+
+
+
+男：你有收到關於週末計畫的備忘錄嗎？
+女：有，我無法相信週末也得工作。我和我的家人有活動。
+男：我知道。我本來打算去劇院。
+女：你覺得我們可以不加班嗎？
+男：我不知道。Stanphill太太的電子郵件很嚴肅。裁員後，工作就更多了。
+女：我打算和她談談。祝我好運！
+男：你將需要所有你能得到的運氣。
+
+重要單字及片語
+memo n. 備忘錄
+theatre n.(theater) 劇院
+lay-off n. 裁員
+produce v. 製作，(自然)產生
+recreational adj. 娛樂的
+skeptical adj. 懷疑的，多疑的
+get out of 逃避，棄絕，使說出
+Ex. I couldn't get out of attending my ex-girlfriend's wedding. 我無法逃避出席前任女友的婚禮。
+答對
+	Question 28.	
+00:0000:02
+ 
+Why do they have to work on the weekend?
+ (A) Mrs. Stanphill is upset that people made plans.
+ (B) The layoffs have produced more work for everyone.(正解)
+ (C) Mrs. Stanphill wants to hang out with everybody.
+ (D) They need to make up for the last weekend.
+為什麼他們週末需要工作？
+a. Stanphill 太太對大家已經訂好活動而感到低落
+b. 裁員加重大家的工作量
+c. Stanphill 太太想要和大家一起出去
+d. 他們需要彌補上個週末的工作
+ 
+答對
+	Question 29.	
+00:0000:05
+ 
+What recreational plans did the man have for the weekend?
+ (A) He is going to spend time with his family.
+ (B) He is going to work at the office.
+ (C) He doesn't have any plans.
+ (D) He is going to a play. (正解)
+這男士週末有什麼娛樂計畫？
+a. 他打算花時間和家人相處
+b. 他打算在辦公室工作
+c. 他沒有任何計畫
+d. 他打算去看戲劇表演
+ 
+答對
+	Question 30.	
+00:0000:05
+ 
+Do you think the man believes the woman can get the weekend off for everybody?
+ (A) Yes, he thinks it will be guaranteed.
+ (B) He doesn't care.
+ (C) No, he is skeptical.(正解)
+ (D) No, she won't even try.
+你覺得這位男士相信女子可以為每個人爭取到週末休息嗎？
+a. 是的，他覺得可以保證
+b. 他不在乎
+c. 不，他很懷疑
+d. 不，她甚至不會去嘗試
+ 
+Questions 31 through 33 refer to the following conversation:
+00:0001:03
+Woman: Hello, this is Comfy Home Goods customer service. My name is Roberta. How may I help you?
+
+Man: Hi, I recently purchased a recliner from you. It was delivered to me two days ago.
+
+Woman: What seems to be the problem?
+
+Man: Well, when I got home yesterday it was broken in two. I have no idea how this happened. I haven't even been able to sit in it yet.
+
+Woman: Wow. This is the first time I have encountered this. I'm going to put you through to my manager.
+
+Man2: Hi, there. My colleague just mentioned that you received a severely damaged recliner, correct?
+
+Man: Yes.
+
+Man2: What model is it?
+
+Man: It is the Relax 2000. It came with a one-year warranty.
+
+Man2: OK. What is your name and the order number?
+
+Man: Mark D'Angelo. My order number is 495039.
+
+Man2: Mr. D'Angelo, we will make sure to have someone pick up the broken one and deliver a new one in the next five days. Is there anything else I can help you with?
+
+Man: No that will be it. Thank you very much.
+
+
+
+女：哈囉，這裡是Comfy居家商品服務中心。我的名字是Roberta。有什麼能幫你的嗎？
+男：嗨，我最近從你們那邊買了一張躺椅。前兩天已寄送給我。
+女：有什麼問題嗎？
+男：這個嘛，當我昨天回到家的時候它已經斷成兩半。我完全不知道發生了什麼事。我甚至還沒有坐過。
+女：哇噢。我第一次遇到這種事情。我會幫你轉接我的經理？
+男2：嗨你好。我同事剛提到你收到活動躺椅嚴重受損，是嗎？
+男：是的。
+男2：這是哪一型號？
+男：這是Relax2000。有一年的保固期。
+男2：OK，你的名字和訂單編號是？
+男： Mark D'Angelo。我的訂單編號是 495039。
+男2： D'Angelo 先生，我們會確定有個人去回收壞掉的椅子並在五天內寄給你一張新的。還有什麼能幫你的嗎？
+男：不，這樣就好了。非常謝謝你。
+
+
+重要單字及片語
+comfy n. 舒適
+customer n. 顧客
+encounter v. 遇見
+warranty n. 保固
+model n. 模式，模型
+order n. 訂購，順序/v. 訂購
+答對
+	Question 31.	
+00:0000:03
+ 
+What is the problem with the chair?
+ (A) It hasn't arrived yet.
+ (B) It broke in half. (正解)
+ (C) The warranty expired.
+ (D) It's the wrong model.
+這張椅子怎麼了？
+a. 還沒抵達
+b. 壞成兩半
+c. 保固期已過
+d. 寄錯商品
+ 
+答對
+	Question 32.	
+00:0000:02
+ 
+When will the problem be fixed?
+ (A) It cannot be fixed.
+ (B) It will be fixed in two days.
+ (C) in the next five days(正解)
+ (D) in one year
+問題何時會被解決？
+a. 無法解決
+b. 在未來兩天會被修好
+c. 在接下來的五天內
+d. 一年內
+ 
+答對
+	Question 33.	
+00:0000:03
+ 
+How did the woman handle the situation?
+ (A) She explained why the product was damaged.
+ (B) She told the customer the product would be replaced.
+ (C) She forwarded the call to her superior.(正解)
+ (D) She denied that any problem existed.
+這位女士如何處理這個情況？
+a. 她解釋這件商品為何被損壞。
+b. 她告知顧客商品會被替換。
+c. 她將來電轉接給她的上級。
+d. 她否認那個問題的存在。
+ 
+Questions 34 through 36 refer to the following conversation:
+00:0000:45
+Man: Are you still thinking of becoming a yoga teacher?
+
+Woman: I am. It is just going to cost money. I don't know if we can afford it right now.
+
+Man: I told you we are financially sound. Don't worry about how much it will cost.
+
+Woman: I know. I just don't want to always argue about how we don't have enough money to pay the bills.
+
+Man: Don't worry about that. You would be a great yoga teacher. I want you to do this.
+
+Woman: Are you sure?
+
+Man: Of course. You are so good with people, you love yoga, and you are really good at it. Plus, we have saved up a good amount of money in the last couple years.
+
+Woman: Ok! I am going to do it.
+
+
+
+男：你還在考慮要成為ㄧ位瑜珈老師嗎？
+女：我是。只是這要花錢。我不知道我們現在是否能負擔。
+男：我告訴過你我們目前經濟很穩定。不需擔心金額多少。
+女：我知道。我只是不想經常為付賬單的錢不夠而爭吵。
+男：不用擔心這個。你會變成一個很棒的瑜珈老師。我想要你去做。
+女：你確定嗎？
+男：當然。你善於和人群相處，你熱愛瑜珈，且你真的很擅長。再者，我們這幾年已經存了一筆豐厚的資金。
+女：OK！我會去做。
+
+重要單字及片語
+financially adv. 經濟上地
+afford v. 負擔的起
+argue v. (+with) 爭論，爭執
+worry about 擔心…
+Ex. The manager is worried about meeting the new client tomorrow. 經理正在擔心和新客戶碰面這件事。
+答對
+	Question 34.	
+00:0000:02
+ 
+What is the woman trying to decide?
+ (A) Whether or not she can pay for yoga classes.
+ (B) Whether or not she wants to become a yoga teacher.(正解)
+ (C) Whether or not she can pay back the money she borrowed from the yoga teacher.
+ (D) Whether or not she is good with people.
+以下何者是這位女士的決定？
+a. 她是否能支付瑜珈課程
+b. 她是否要成為瑜珈老師
+c. 她是否能償還向瑜珈老師借得錢
+d. 她是否能和他人和平共處
+ 
+答對
+	Question 35.	
+00:0000:03
+ 
+What kind of relationship do you think they have?
+ (A) husband and wife(正解)
+ (B) father and daughter
+ (C) daughter and son
+ (D) brother and sister
+你覺得他們的關係為何？
+a. 夫妻
+b. 父女
+c. 女兒和兒子
+d. 兄弟姐妹
+ 
+答對
+	Question 36.	
+00:0000:03
+ 
+Does the man help her make a decision?
+ (A) She is still undecided by the end.
+ (B) No, he doesn't.
+ (C) Yes, he does.(正解)
+ (D) She already made the decision before the conversation.
+這男士是否幫忙她做決定？
+a. 她最後依舊未能決定
+b. 不，他沒有
+c. 是的，他有
+d. 在這段對話前，她就已經下定決心了
+ 
+Questions 37 through 39 refer to the following conversation:
+00:0000:59
+Woman: Cars R' Us, this is Padma speaking. How can I help you?
+
+Man: Hi, can I bring my car in today to get it looked at and fixed?
+
+Woman: Yes, but the mechanic might not be able to do it today. Is that ok?
+
+Man: Yes, but will they be able to get to it tomorrow?
+
+Woman: Yes, but it might take a few days to be fixed depending on what is wrong with it.
+
+Man: Also, do you offer a tow service? My car has been smoking and overheating and I don't want to drive it in to you.
+
+Woman: That is very smart and yes we do have a tow service. What is your name?
+
+Man: Oliver Cole.
+
+Woman: What is your location and cell phone number?
+
+Man: I live on 546 Mapleton Drive. My zip code is 46903. My number is 344-2967.
+
+Woman: Someone can be there to pick you and your car up in about 30 minutes. Are you at home now?
+
+Man: Yes, I will be here.
+
+女： 安心車廠，我是Padma。有什麼我可以為你協助的？
+男：嗨，我可以今天開車過去檢查維修嗎？
+女：可以，但修車師傅可能無法今天修理。可以嗎？
+男：可以，但明天可以領車嗎？
+女：可以，但視損壞部份而定，也許會多需要幾天來修理。
+男：還有，你們有提供道路救援的服務嗎？我的車子起煙又過熱，我不想這樣開過去車廠。
+女：這樣是聰明的，再者我們的確有拖吊服務。請問大名是？
+男：Oliver Cole。
+女：你的地點以及手機電話？
+男：我住在 Mapleton Drive 546號。地區碼是46903。我的號碼是344-2967。
+女：三十分鐘後會有人去接你及拖車。你現在在家嗎？
+男：是的，我會在家。
+
+重要單字及片語
+mechanic n. 技工
+smoking n. 冒煙，煙燻，抽菸
+overheat v. 過度加熱
+tow v. 拖，拉
+service n. 服務 depend on 根據，依據
+Ex. My decision about whether to go or not will depend on tomorrow's weather. 我會根據明天天氣決定要不要去。
+答對
+	Question 37.	
+00:0000:03
+ 
+What is the reason for this call?
+ (A) The man needs his car fixed.(正解)
+ (B) The man needs a new car.
+ (C) The man needs to talk to someone.
+ (D) The man needs someone to drive his car.
+以下選項何者是這通電話的原因？
+a. 這男的需要修車
+b. 這男的需要一台新車
+c. 這男的需要和人說話
+d. 這男的需要某人將他的車開走
+ 
+答對
+	Question 38.	
+00:0000:02
+ 
+Why does he need a tow service?
+ (A) He parked illegally.
+ (B) Cars R' US requires it.
+ (C) The car has some serious problems. (正解)
+ (D) He is not at home where the car is.
+為什麼他需要拖吊服務？
+a. 他違法停車
+b. 出自安心車廠的要求
+c. 這台車有很嚴重的問題
+d. 車子在家，但他不在
+ 
+答對
+	Question 39.	
+00:0000:04
+ 
+When will the tow service be there to pick the man up?
+ (A) It will be there tomorrow.
+ (B) It will be there in a few days.
+ (C) It will be there in half an hour. (正解)
+ (D) It will be there a few minutes.
+拖吊服務會在以下哪個時間接這位男士？
+a. 明天會到
+b. 過幾天會到
+c. 半個小時會到
+d. 幾分鐘後會到
+ 
+只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
 只顯示答錯  回上一頁
 
@@ -7745,6 +12496,2826 @@ d. 20天
 只顯示答錯  回上一頁
 
 Questions 1 through 3 refer to the following short talk:
+00:0000:53
+Tired of sleeping through your alarm? Tired of having to rush to work because your old, worn-out piece of junk alarm can't get the job done? Look no further because we have got the product for you. Introducing Re-beep, the alarm clock that doesn’t give up! Re-beep works by beeping quickly and loudly, for ten seconds. It makes noise every two, three, five, ten, or fifteen minutes. You can choose the setting. No more pressing that annoying snooze button! Re-beep works for teenagers who need to get to school. It works for parents who need to do those morning chores. It will work for you too! For more information about Re-beep, dial 1-800-GETBEEP. That’s 1-800-GETBEEP.
+
+受夠了因為鬧鐘沒響而睡過頭嗎？不想再因為你的老舊的廢物鬧鐘沒能發揮作用，而讓你匆匆忙忙趕去上班嗎？不用再找了，因為我們有你要的產品。介紹你Re-beep，這款不叫醒你絕不放棄的鬧鐘！Re-beep會發出十秒急促又大聲的嗶嗶聲。它每隔二、三、五、十，或十五分鐘就會發出聲響。你可以自己設定。不用再按那顆令人討厭的貪睡鈕了！Re-beep適合需要上學的青少年。也適合需要早上要做家務的家長。也適合你！欲知更多有關Re-beep的資訊，請撥1-800-GETBEEP。記得是1-800-GETBEEP。
+
+重要單字及片語
+worn-out adj. 用壞的；不能再用的
+junk n. 廢棄的舊物
+beep v. 作嗶嗶聲
+annoying adj. 令人討厭的
+snooze n. 小睡；打盹
+chore n. 家庭雜物 alarm clock 鬧鐘
+ex. I forgot to set my alarm clock, so I was late for school. 我忘了設定鬧鐘所以才會上學遲到。
+give up 放棄
+ex. She gave up the job for her children. 她了孩子而放棄這個工作。
+wake up 醒來
+ex. It’s not easy to wake up in the morning after staying up most of the night. 熬夜一整晚後很難在早上就醒來。
+答對
+	Question 1.	
+00:0000:02
+ 
+Who might respond to this announcement?
+ (A) a heavy sleeper(正解)
+ (B) a light sleeper
+ (C) only teenagers or parents
+ (D) someone who likes to wake up naturally
+以下何者哪位可能會回應這則廣告？
+a. 睡得很沉的人
+b. 淺睡的人
+c. 只有青少年或家長
+d. 喜歡睡到自然醒的人
+ 
+答對
+	Question 2.	
+00:0000:03
+ 
+How often does Re-beep make noise?
+ (A) every ten seconds
+ (B) It depends on the setting.(正解)
+ (C) every two minutes
+ (D) every fifteen minutes
+Re-beep每隔多久會發出聲響？
+a. 每十秒
+b. 取決於設定值
+c. 每兩分鐘
+d. 每十五分鐘
+ 
+答錯
+	Question 3.	
+00:0000:04
+ 
+Which of the following is NOT true about Re-beep?
+ (A) It beeps rapidly.
+ (B) More information can be found out about it via phone.
+ (C) It beeps for ten seconds each time it makes noise.
+ (D) It has a snooze button.(正解)
+關於Re-beep下列何者為非？
+a. 它作響的很急促。
+b. 透過電話可以獲得更多關於它的資訊。
+c. 它每次會發出十秒的嗶聲。
+d. 它有個貪睡鈕。
+ 
+Questions 4 through 6 refer to the following short talk:
+00:0000:44
+Hello, I'm Jacob Jenkins with the weather. Right now it’s 11:00 AM. Florida is in for a treat, because there’s a cold front coming in from the north, which is unusual. With the recent summer heat, I think many of us will be grateful once the temperatures drop. Up near Jacksonville is where the front will hit first. It should arrive at around 4:00 PM there and make its way down to Miami by 6:00 PM. Right now it’s 88 degrees in Jacksonville and 95 degrees in Miami. Later today those temperatures should get much lower. By evening time they should definitely drop by about 20 degrees. That’s all for now.
+
+你好，我是氣象播報員Jacob Jenkins。現在是上午十一點。佛羅里達的人會喜歡這個消息的，因為有一道冷鋒正從北方來，這很罕見。近來的夏季高溫，氣溫一旦降低我想我們有很多人會十分感激的。這道鋒面首先會先到Jacksonville 附近。它應該會在下午四點左右抵達那裡，然後一路往下走在六點前抵達邁阿密。目前的氣溫Jacksonville 是華氏八十八度，邁阿密是華氏九十五度。今天晚一點時這些氣溫應該會變得更低。入夜之後氣溫一定會下降二十度左右。以上是目前氣象報導。
+
+重要單字及片語
+unusual adj. 稀有的；奇特的
+grateful adj. 感激的
+definitely adv. 明確地；肯定地
+commercial n. 商業廣告 be in for a treat 某人會喜歡的
+ex. I believe that you are in for a treat, thanks to our arrangement. 我相信你一定會喜歡我們的安排。
+cold front 冷鋒
+ex. A cold front is moving in and will bring dramatic weather changes. 一股冷鋒正向這裡移動並且會帶來劇烈的天氣變化。
+答錯
+	Question 4.	
+00:0000:03
+ 
+Which of the following is uncommon in Florida?
+ (A) for the temperature in Jacksonville to be 88 degrees
+ (B) for a cold front to come in from the north(正解)
+ (C) for it to be quite hot during the summer
+ (D) for the temperature to be 95 degrees in Miami
+以下何者在佛羅里達州並不常見？
+a. Jacksonville的氣溫達華氏八十八度
+b. 有冷鋒從北方來
+c. 這個夏天十分的熱
+d. 邁阿密的氣溫到達華氏九十五度
+ 
+答對
+	Question 5.	
+00:0000:03
+ 
+When should the temperatures drop by about 20 degrees?
+ (A) by 4:00 PM
+ (B) shortly after 11:00 AM
+ (C) in the evening(正解)
+ (D) once the cold front leaves
+氣溫會在何時下降大約二十度？
+a. 下午四點 前
+b. 上午十一點不久之後
+c. 入夜後
+d. 冷鋒一離開後
+ 
+答錯
+	Question 6.	
+00:0000:03
+ 
+Where is this announcement being made?
+ (A) at a news station(正解)
+ (B) on a TV commercial
+ (C) at Jacob Jenkins's home
+ (D) at a company meeting
+這則訊息是哪裡宣布的？
+a. 新聞電台
+b. 電視廣告
+c. Jacob Jenkins的家
+d. 公司會議
+ 
+Questions 7 through 9 refer to the following short talk:
+
+Nick's canoe trip packing list
+
+two pairs of jeans
+socks, underwear
+two T-shirts, sweater, jacket
+extra contact lenses and contact solution
+sleeping bag and tent
+sunglasses
+sun cream
+rain jacket
+food and water
+life jacket
+00:0000:42
+Hello everybody, and welcome to the 5th annual men and boys canoe trip. I'm Jacob, the organizer. This is a three day camping trip, so if you need any supplies, make sure to grab them before we drive to our destination. Obviously you should have your own tent and sleeping bag. We will supply the food and water. There are three people who need a ride, so if you have extra space in your car, please help out. Our plan is to start driving at 10:00 AM, so please be ready by then. It’s 8:30 AM now, so there’s still time to get breakfast if you haven’t eaten.
+
+大家好，歡迎來到第五屆一年一度的男人與男孩獨木舟之旅。我是主辦人Jacob。這是一個三天的露營行程，因此如果你需要任何物資，請務必在我們開車前往目的地前取得所需物品。很明顯的你應該要有自己的帳篷跟睡袋。我們會供應食物及飲水。有三個人需要搭便車，如果你車上還有多餘的空位，請幫個忙載他們。我們計劃上午十點開車上路，所以到時請務必準備好。現在是上午八點半，因此如果你還沒有吃早餐的話還有時間。
+
+
+
+
+
+
+
+尼克的獨木舟之旅行李清單
+
+
+•兩條牛仔褲
+
+•襪子、內褲
+
+•兩件T侐、毛衣、外套
+
+•額外的隱形眼鏡及隱形眼鏡藥水
+
+•睡袋和帳篷
+
+•太陽眼鏡
+
+•防曬乳
+
+•雨衣
+
+•食物與水
+
+•救生衣
+
+
+
+
+
+重要單字及片語
+annual adj. 一年一次的
+canoe n. 獨木舟
+organizer n. 活動企劃；籌辦者
+supply n. 供給；補給品
+destination n. 目的地
+obviously adv. 顯然地
+tent n. 帳篷 make sure 確定
+ex. Please make sure to close the door when you leave the conference room. 當你離開會議室時，請確定門是否有關好。
+help out 幫助…擺脫困難
+ex. The money you donated will be used to help out the poor.你所捐贈的善款將被用來救濟窮人。
+答錯
+	Question 7.	
+00:0000:02
+ 
+When will the group start driving?
+ (A) in one and a half hours(正解)
+ (B) in one hour
+ (C) before 10:00 AM
+ (D) after everyone has eaten breakfast
+這個團體何時會開車上路？
+a. 一個半小時內
+b. 一個小時內
+c. 上午十點前
+d. 大家都吃完早餐後
+ 
+答錯
+	Question 8.	
+00:0000:02
+ 
+What does the organizer need help with?
+ (A) getting water
+ (B) getting breakfast for those who haven't eaten
+ (C) providing three people with a ride(正解)
+ (D) obtaining some necessary supplies
+以下何者是主辦人需要幫忙的項目？
+a. 取水
+b. 拿早餐給那些還沒吃的人
+c. 給三個人搭便車
+d. 取得必須物資
+ 
+答錯
+	Question 9.	
+00:0000:08
+ 
+Look at the graphic. Which items on Nick's packing list does he not actually need to bring?
+ (A) two pairs of jeans
+ (B) sleeping bag and tent
+ (C) rain jacket
+ (D) food and water(正解)
+請看圖表。在尼克的行李清單中，以下何者是其實是他不用帶？
+a.兩條牛仔褲
+b.睡袋及帳篷
+c.雨衣
+d.食物與水
+ 
+Questions 10 through 12 refer to the following short talk:
+00:0000:46
+Good morning everyone, and happy Friday! It's my honor to introduce our new director of public relations, Martin Frank. Mr. Frank has had over ten years of experience in the field. He graduated from Harvard University in 1997. Though he majored in law, he became interested in PR shortly after college, and was able to land a job in that field. At his previous company, he spent a couple of years abroad in China, and he can speak fluent Mandarin. He will be taking over for Mrs. Parks, who unfortunately had to leave our company due to personal reasons. I hope that you will all warmly welcome Mr. Frank to our team.
+
+大家早安，星期五快樂！我很榮幸的向各位介紹我們公關部新任主任，Martin Frank。Frank先生在這個領域裡已經有十年以上的經驗。他1997年畢業於哈佛大學。雖然他的主修是法律，但他大學畢業不久後對公共關係有興趣，並在公關領域裡找到一份工作。在前一間公司工作時，他被外派到中國好幾年，能說上一口流利的中文。他將會接替Parks小姐的職位，她因為個人因素很遺憾的必須離開我們公司。我希望大家可以熱烈的歡迎Frank先生加入我們的團隊。
+
+重要單字及片語
+field n. 領域
+land v. 弄到；撈到
+previous adj. 先前的
+fluent adj. 流利的
+Mandarin n. 中文
+warmly adv. 熱烈地
+administration n. 管理 public relations 公共關係
+ex. The public relations firm has provided some suggestions for how we can change our image. 這間公關公司提了一些建議來改變我們的形象。
+major in 主修
+ex. What subject are you majoring in? 你現在主修什麼科目?
+take over 接管
+ex. We will look for someone new to take over your job. 我們會找人來接管你的工作。
+答對
+	Question 10.	
+00:0000:02
+ 
+What did Mr. Frank study in college?
+ (A) public relations
+ (B) law(正解)
+ (C) Mandarin
+ (D) business administration
+以下何者是Frank先生在大學裡所學的？
+a. 公共關係
+b. 法律
+c. 中文 
+d. 企管
+ 
+答錯
+	Question 11.	
+00:0000:02
+ 
+Who is being addressed in this announcement?
+ (A) Mrs. Parks
+ (B) those who graduated from Harvard University
+ (C) the employees of the company(正解)
+ (D) the boss of the company
+以上內容是要對以下何人宣佈？
+a. Parks夫人
+b. 那些哈佛大學畢業生
+c. 這家公司的員工
+d. 這家公司的老闆
+ 
+答錯
+	Question 12.	
+00:0000:01
+ 
+Who is speaking?
+ (A) Mr. Frank.
+ (B) the boss of the company
+ (C) Mrs. Parks.
+ (D) We aren't sure.(正解)
+說話的人是以下何者？
+a. Frank先生
+b. 這家公司的老闆
+c. Parks夫人
+d. 無法確定
+ 
+Questions 13 through 15 refer to the following short talk:
+
+Welcome to Bob's Barn!
+
+We offer the freshest produce and tastiest Snacks in Brook County!
+
+Today's opening hours: 9:00 AM to 12:00 PM. Closed tomorrow.
+
+Entrance: Free!
+
+00:0000:35
+Hi there. You've reached Bob's Barn. Sorry we weren't able to make it to the phone. Our store hours are Monday to Friday, 8:00 AM to 5:00 PM, and Saturday
+
+from 9:00 AM to 12:00 PM. Here at Bob's Barn we provide the freshest produce and the best homemade snacks. Ask us about which fruits and vegetables are in season right now. Please leave a message and we'll get back to you as soon as we can. Remember to leave your name and number so that we know who to call. Have a nice day.
+
+你好。你已經聯絡上鮑伯農莊。很抱歉我們沒辦法接電話。我們店裡的營業時間從禮拜一到禮拜五上午八點到下午五點，禮拜六從上午九點到中午十二點。鮑伯農莊提供最新鮮的農產品和最棒的自製點心。現在就詢問我們有什麼當季水果和蔬菜。請你留言，我們會盡我們所能盡快回電。請記得留下你的姓名及電話，以便我們知道要打給誰。祝你有個愉快的一天。
+
+
+
+
+
+
+歡迎來到包柏穀倉！
+
+
+我們提供布魯克最新鮮的農產品以及最美味的零嘴！
+
+
+今天開放時間：上午9:00至下午12:00。明日休息。
+
+
+入場費：免費！
+
+
+
+
+
+重要單字及片語
+produce n. 農產品
+homemade adj. 自製的
+encouraged adj. 受到鼓舞的 in season 應時的；當季的
+ex. Eating fruits or vegetables which are in season means they will be more delicious. 食用當季的水果或蔬菜表示食物會更美味。
+as soon as 一…就
+ex. The student answered the question as soon as his teacher asked him. 老師一提問這個學生馬上就回答問題。
+答對
+	Question 13.	
+00:0000:04
+ 
+Look at the graphic. What day is it today?
+ (A) Monday
+ (B) Friday
+ (C) Saturday(正解)
+ (D) Sunday
+請看圖表。今天是星期幾？
+a.星期一
+b.星期五
+c.星期六
+d.星期日
+ 
+答錯
+	Question 14.	
+00:0000:05
+ 
+According to the message, what are customers encouraged to ask about?
+ (A) what produce is in season(正解)
+ (B) what makes the homemade snacks special
+ (C) why nobody answered the phone
+ (D) the store hours on Saturday
+根據這則訊息，他們鼓勵顧客詢問以下何者？ 
+a. 當季農產品是什麼
+b. 自製點心這麼特別的秘訣是什麼
+c. 為何無人接電話
+d. 禮拜六的營業時間
+ 
+答對
+	Question 15.	
+00:0000:04
+ 
+What is probably true about the speaker?
+ (A) He or she doesn't like fruits or vegetables.
+ (B) He or she works at Bob's Barn.(正解)
+ (C) He or she always calls back immediately.
+ (D) He or she comes to the store every Sunday.
+以下關於這位說話者的選項何者正確？
+a. 他/她不喜歡水果或蔬菜。
+b. 他/她在鮑伯農莊工作。
+c. 他/她總是立刻回電話。
+d. 他/她每個禮拜天都來店裡。
+ 
+Questions 16 through 18 refer to the following short talk:
+00:0000:43
+Attention, shoppers. We have just been informed of a bomb threat. The bomb is supposedly located somewhere in the department store. We ask that you all remain calm and slowly evacuate the building. The emergency exit alarms have all been turned off. You may use elevators, escalators, or stairwells to make your way to the ground level. Feel free to use any method. Please take all of your personal belongings with you and disregard any shopping you were doing. Police officers and our floor managers will help guide you to safety. Again, please remain calm and evacuate the building immediately. Remember to take all of your personal possessions with you. Thank you.
+
+購物來賓請注意。我們剛被通知有炸彈威脅。炸彈可能放置在百貨公司裡的某個地方。我們要請大家保持冷靜並且慢慢的從大樓疏散。緊急出口的警鈴已經關閉。您可以利用電梯、手扶梯或樓梯間到達一樓。任何一種方法都可以。請你放下正在採買的物品，並帶著您的個人物品。警察和我們的樓層經理會引導您前往安全地點。再次強調，請保持冷靜並立即從本大樓疏散。記得攜帶您的隨身物品。謝謝！
+
+重要單字及片語
+bomb n. 炸彈
+threat n. 威脅
+supposedly adv. 大概；可能
+remain v. 保持
+calm adj. 冷靜
+evacuate v. 撤離；疏散
+emergency n. 緊急情況
+elevator n. 電梯
+escalator n. 手扶梯
+stairwell n. 樓梯間
+belongings n. 隨身攜帶物品
+disregard v. 不顧；不理會
+possession n. 所有物
+merchandise n. 商品；貨物
+escort v. 護送；陪同 make one’s way 向前走
+ex. After finishing the performance, the teacher asked students to make their way off the stage. 表演結束後，老師要求學生離開舞台。
+feel free to 隨意
+ex. If you have any questions about our quotation, please feel free to call me anytime. 如果你對我們的報價有任何問題，請隨時都可以打給我。
+about to 即將
+ex. The train is about to pull in. 火車即將進站了。
+as opposed to 與…對照；而不是
+ex. The VIP guest would like to have dinner in the restaurant as opposed to in his room. 這個VIP貴賓想在餐廳用晚餐而不是在他房間。
+答對
+	Question 16.	
+00:0000:03
+ 
+Which of the following should shoppers bring with them?
+ (A) the items they own(正解)
+ (B) the items they were about to buy
+ (C) whatever the police officers say they should bring
+ (D) They shouldn't bring anything with them.
+購物者應該隨身帶著下列哪些物品？
+a. 他們自己的物品
+b. 他們原本要買的物品
+c. 警察說他們所應該帶的任何物品
+d. 他們不應該攜帶任何物品
+ 
+答錯
+	Question 17.	
+00:0000:03
+ 
+What is the purpose of this announcement?
+ (A) to get shoppers to purchase more merchandise
+ (B) to get shoppers to use stairwells, as opposed to elevators or escalators
+ (C) to get shoppers to leave the building in a peaceful manner(正解)
+ (D) to get shoppers to ask the floor managers questions about the products
+這則廣播的目的為何？
+a. 要購物者採買更多的商品
+b. 要購物者利用樓梯間而不是使用電梯或電扶梯
+c. 要購物者平靜的離開這棟大樓
+d. 要購物者向樓層經理詢問關於產品的問題
+ 
+答對
+	Question 18.	
+00:0000:04
+ 
+What might a floor manager do in this situation?
+ (A) find an exit and leave the building
+ (B) turn on the emergency exit alarms
+ (C) escort the police officers downstairs
+ (D) help shoppers find a way out(正解)
+樓層經理在這樣的情況下可能會怎麼做？
+a. 找個出口離開這棟大樓
+b. 開啟緊急出口警鈴
+c. 護送警察下樓
+d. 協助購物者找到離開的路
+ 
+Questions 19 through 21 refer to the following short talk:
+00:0000:56
+Thank you for calling Fineview Cinema. It's our pleasure to bring you the latest and best in the world of movies. Today we will be airing several movies. Spiderman 2 will air at 2:00 PM, 4:30 PM, 8:00 PM, and 10:30 PM. Eternal Sunshine of the Spotless Mind will air at 2:30 PM, 5:00 PM, 8:30 PM, and 11:00 PM. The Incredibles will air at 2:00 PM, 4:30 PM, 8:00 PM, and 10:30 PM. Finally, The Aviator will air at 2:30 PM, 5:00 PM, 8:30 PM, and 11:30 PM. The show times will remain the same every day throughout the week, except on the weekend. For more information, please press the pound sign.
+
+感謝您致電絕色影院。我們很榮幸為您獻上世界上最新最好看的電影。今天我們將放映幾部電影。「蜘蛛人 2」將在下午的2:00、4:30、8:00 及 10:30放映。「王牌冤家」將在下午的2:30、5:00、8:30 及 11:00 放映。「超人特攻隊」將在下午的2:00、4:30、8:00及10:30放映。最後，「神鬼玩家」將在下午的2:30、5:00、8:30及 11:30放映。除了週末以外，周一到周五的放映時間維持不變。欲知更多訊息，請按#字鍵。
+
+重要單字及片語
+duty n. 責任
+air v. 播放；放映
+throughout prep. 從頭到尾
+cinema n. 電影 pound sign 井字鍵
+ex. Please dial the pound sign to confirm after you input your ID number. 在你輸入你的身分證號碼後請按#字鍵確認。
+答錯
+	Question 19.	
+00:0000:04
+ 
+At which of the following times will Spiderman 2 air?
+ (A) PM 2:30
+ (B) PM 4:30(正解)
+ (C) PM 11:00
+ (D) PM 5:00
+蜘蛛人2將在以下哪個時間放映？
+a. 下午2:30
+b. 下午4:30
+c. 下午11:00
+d. 下午5:00
+ 
+答對
+	Question 20.	
+00:0000:05
+ 
+Which movie will air at 11:30 PM on weekdays?
+ (A) The Aviator(正解)
+ (B) The Incredibles
+ (C) Eternal Sunshine of the Spotless Mind
+ (D) Spiderman 2
+哪一部電影會在週末的下午11:30放映？
+a. 「神鬼玩家」
+b. 「超人特攻隊」
+c. 「王牌冤家」
+d. 「蜘蛛人 2」
+ 
+答對
+	Question 21.	
+00:0000:03
+ 
+Why might a caller press the pound sign?
+ (A) to hear the show times of a different cinema
+ (B) to find out when The Incredibles will air on Wednesday
+ (C) to find out about weekend show times(正解)
+ (D) to find out when Eternal Sunshine of the Spotless Mind will air on Friday
+致電者需要按下#字鍵的原因何在？ 
+a. 想聽聽看其他電影院的放映時間表
+b. 想知道禮拜三什麼時候會放映「超人特攻隊」
+c. 想知到週末的放映時間表
+d. 想知道禮拜五什麼時候會放映「王牌冤家」
+ 
+Questions 22 through 24 refer to the following short talk:
+
+Discount Codes
+
+Code #344
+Buy one get one free
+
+Code #621
+Six for the price of five
+
+Code #771
+6 bottles for 9.99
+
+Code #109
+10% off orders of five bottles or more
+
+00:0000:55
+We all know ketchup isn't really a vegetable. But it could be! Introducing Ketch-all, a new product from Foodies Inc. This creation tastes just like ketchup, but has over ten essential vitamins and minerals that tend to escape our diet. Vitamins C, E, and B12 are in Ketch-all, as well as important minerals such as zinc, magnesium, and iron. With this product, you don’t have to worry about eating those greens. Instead, enjoy a nice burger and dip it in Ketch-all. One bottle costs only $9.99. Order five bottles of Ketch-all today and enjoy the 6th for free! This is a limited time offer. Please dial 1-866-9292ALL to order now!
+
+我們都知道番茄醬並非真的是蔬菜做的。但是它可以是！介紹你Ketch-all，來自Foodies Inc.的一款新產品。這個創新產品吃起來像是番茄醬，但卻含有我們飲食中常缺少的十種以上所需的維他命與礦物質。Ketch-all裡面有維他命C、E和B12，以及像是鋅、鎂、鐵等重要礦物質。有這個產品，你不必費心要食用這些蔬菜。而是，你可以邊沾著Ketch-all邊享用美味的漢堡。一瓶只要9.99美元。今天訂購五瓶可享有第六瓶免費！這是限時特惠。現在就撥打1-866-9292ALL訂購！
+
+
+折扣代碼
+
+
+
+
+
+
+
+
+
+
+
+
+代碼 #344
+
+買一送一	
+代碼 #621
+
+買五送一
+
+代碼 #771
+
+6瓶 9.99
+
+代碼 #109
+
+五瓶或以上打九折
+
+
+
+
+
+重要單字及片語
+ketchup n. 調味番茄醬
+essential adj. 必要的；不可缺的
+vitamin n. 維他命
+mineral n. 礦物質
+escape v. 逃避；避免
+diet n. 食物；飲食
+zinc n. 鋅
+magnesium n. 鎂
+iron n. 鐵
+dip v. 浸一下
+limited adj. 有限的
+ingredient n. 組成部分；原料
+calcium n. 鈣
+testimonial n. 證明書；推薦書 tend to 傾向
+ex. Smartphone designers tend to favor simplicity and functionality. 智慧型手機的設計偏向簡易又具功能性。
+As well as 也；還；而且
+ex. He is an outstanding engineer as well as a talented chef. 他不但是個傑出的工程師還是個天才廚師。
+答錯
+	Question 22.	
+00:0000:04
+ 
+Which of the following is NOT one of the ingredients in Ketch-all?
+ (A) vitamin B12
+ (B) calcium(正解)
+ (C) zinc
+ (D) vitamin E
+下列何者不是Ketch-all的其中一項成分？
+a. 維他命B12
+b. 鈣
+c. 鋅
+d. 維他命E
+ 
+答對
+	Question 23.	
+00:0000:04
+ 
+What could the above passage be defined as?
+ (A) an advertisement(正解)
+ (B) a news report
+ (C) a testimonial
+ (D) a recorded message on an answering machine
+上面的短文可以被定義成以下何者？ 
+a. 廣告
+b. 新聞報告
+c. 證詞
+d. 答錄機上的預錄訊息
+ 
+答錯
+	Question 24.	
+00:0000:07
+ 
+Look at the graphic. Which discount code will be applied on order placed over the phone now?
+ (A) 344
+ (B) 771
+ (C) 621(正解)
+ (D) 109
+請看圖表。現在電話中的訂單會有以下何項折扣？
+A. 344
+B. 771
+C. 621
+D. 109
+ 
+Questions 25 through 27 refer to the following short talk:
+00:0000:44
+Good afternoon everyone. I hope you all had a pleasant weekend and that you're ready for another week of hard work here at Bob’s Depot. Unfortunately, I have some sad news. Due to the recent economic slump, we will have to reduce our staff by 15% next month. The employees affected by this will be notified privately. To make up for our reduction, I hope that some of you can take on some additional responsibilities. Please don’t see this as a burden, but as a challenge. Use your leadership ability and resourcefulness. I apologize for the inconvenience, but we must respond to the state of the market.
+
+大家午安。我希望你們有個愉快的週末，也準備好在包博公司另一個勤奮工作的一周。不幸的是，我有一些壞消息。由於近來經濟不景氣的緣故，下個月我們必須裁員百分之十五。被裁員的員工會私下通知。為了彌補人力的短少，我希望部份人員可以負起一些額外的工作責任。請不要把它視為負擔，而要將它視為挑戰。來運用你的領導能力與聰明才智。我為這個不便致歉，但我們必須反應市場狀況。
+
+重要單字及片語
+pleasant adj. 令人愉快的
+unfortunately adv. 不幸地
+economic adj. 經濟上的
+slump n. 衰退
+privately adv. 私底下地
+reduction n. 短少
+additional adj. 額外的
+burden n. 負擔
+leadership n. 領導才能
+resourcefulness n. 足智多謀
+imminent adj. 即將發生的
+layoff n. 臨時解雇 due to 由於；因為
+ex. He has to pay a hefty fine due to drugs charges. 因為毒品交易他必須支付很重的罰鍰。
+make up for 彌補
+ex. We have tried our best to make up for what he has lost. 我們已經盡力來彌補他的損失了。
+take on 承擔
+ex. His father took on all the family responsibilities after he lost his wife in the car accident. 母親在車禍事故中喪生後，父親一肩扛起所有的家庭責任。
+答對
+	Question 25.	
+00:0000:02
+ 
+What is this announcement?
+ (A) a company introduction for some new staff members
+ (B) an announcement of a layoff(正解)
+ (C) an announcement of an imminent job opening in the company
+ (D) an announcement of an employee's retirement
+以下何者是公司宣佈的消息？
+a. 對新進員工的公司介紹
+b. 宣佈裁員
+c. 宣佈公司裏即將有一個職缺
+d. 宣佈有名員工退休
+ 
+答錯
+	Question 26.	
+00:0000:03
+ 
+How will the affected employees be informed?
+ (A) in another company meeting
+ (B) by the department leaders
+ (C) in a personal setting(正解)
+ (D) later in the announcement
+受波及的員工將如何被告知？
+a. 在另一個公司會議中
+b. 由部門主管
+c. 在私下場合
+d. 在稍後的宣布中
+ 
+答錯
+	Question 27.	
+00:0000:03
+ 
+Why is the company reducing staff?
+ (A) It doesn't need certain employees.
+ (B) The boss doesn't like particular employees.
+ (C) Next month won't be very busy.
+ (D) The economy isn't doing well.(正解)
+該公司為什麼要裁員？
+a. 不需要某些員工。
+b. 這位老闆不喜歡特定幾位員工。
+c. 下個月不會非常忙碌。
+d. 經濟局勢不佳。
+ 
+Questions 28 through 30 refer to the following short talk:
+00:0000:45
+Good afternoon ladies and gentlemen. This is your captain speaking. We are currently cruising at an altitude of 35,000 feet, soon to be 40,000. As you may have noticed, the fasten-seatbelt sign has been turned off. Of course, we always recommend that you stay in your seat with your seatbelt securely fastened in case we come across any unexpected turbulence. Our flight staff will be serving you hot or cold beverages shortly. You may also now turn on any electronic devices such as cell phones, laptops, or MP3 players. Thank you all for joining us and we wish you an enjoyable flight.
+
+各位女士、先生早安。這裡是機長廣播。我們目前的飛行高度是三萬五千英呎，很快會到達四萬英呎高。你可能已經注意到，繫上安全帶的指示燈已經關閉。當然，我們一向建議你留在你的座位並繫上安全帶，以防飛機遇到突發的亂流。機艙組員即將為您送上冷熱飲。您現在也可以開啟任何行動電話、筆記型電腦或mp3播放器等的電子產品。謝謝您搭乘我們的航班，祝您的航程愉快。
+
+重要單字及片語
+captain n. 機長
+currently adv. 現在
+cruise v. 航行；行駛
+altitude n. 高度
+fasten v. 繫緊
+seatbelt n. 安全帶
+recommend v. 建議
+unexpected adj. 突如其來的
+turbulence n. 亂流
+electronic adj. 電子的
+device n. 設備；裝置
+stewardess n. 女空服員 turn off 關掉
+ex. My grandmother always asks me to turn off my radio when she comes over. 我的祖母來時總叫我把收音機關掉。
+in case 以防萬一
+ex. Keep your voice down in case someone is listening. 小聲一點以防被人聽見。
+turn on 打開；開啟
+ex. We should turn on the heater to warm the room. 我們應該打開暖氣使房間暖和。
+答對
+	Question 28.	
+00:0000:02
+ 
+Who is making the announcement?
+ (A) a stewardess
+ (B) one of the passengers
+ (C) the pilot of the plane (正解)
+ (D) a TV ad voice actor
+這則廣播是由以下何者所發佈？
+a. 空中小姐
+b. 其中一名乘客
+c. 這架飛機的駕駛員
+d. 電視廣告的配音員
+ 
+答錯
+	Question 29.	
+00:0000:03
+ 
+What can we infer about the situation?
+ (A) The flight staff will serve a meal soon.
+ (B) The fasten-seatbelt sign was turned off during the ascent.
+ (C) There will be unexpected turbulence soon.
+ (D) The plane has already taken off. (正解)
+我們可以做什麼推論？
+a. 空服員很快會送上餐點。
+b. 起飛過程中繫上安全帶的指示燈會熄滅。
+c. 很快會遇到不預期的亂流。
+d. 這架飛機已經起飛。
+ 
+答對
+	Question 30.	
+00:0000:04
+ 
+When can passengers turn on electronic devices?
+ (A) when the fasten-seatbelt sign turns back on
+ (B) right now (正解)
+ (C) once the plane finishes its ascent
+ (D) after the flight staff serves beverages
+乘客什麼時候可以開啟電子產品？
+a. 繫上安全帶指示燈再度亮起時
+b. 現在
+c. 飛機完成起飛後
+d. 空服員送上飲料後
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 3 refer to the following short talk:
+00:0000:42
+Good morning everybody. I hope you had a nice rest, because today is the day of the big move! We will be changing buildings today to accommodate for the increase in staff. We won't move everything today, but we should get a good start. Before we begin, I'd like to introduce you to Sherry Carr. She will be painting our new building. She's lived in the community for over 20 years and has painted many houses for families and buildings for businesses. She will be in charge of a small team that will paint the building as we move in. Let's all give her and her team a warm welcome.
+
+
+
+大家早。我希望你們都已經有了充分的休息，因為今天是大搬家的日子！我們將要換到另一棟建築物以應付員工的增加。我們今天不會把所有的東西都搬走，但我們應該要有個好的開始。在我們開始之前，我想把大家介紹給Sherry Carr認識。她將負責粉刷我們的新地點。她在這個社區已經住了二十年以上並且粉刷過許多的住宅和商辦建物。我們搬進去時她將帶領一小組人粉刷這棟建物。讓我們給她和她的團隊熱烈的歡迎。
+
+重要單字及片語
+accommodate v. 容納
+director n. 主管
+location n. 位置 in charge of 負責
+ex. I am in charge of food and drinks at the trade fair. 我負責貿易展的飲食。
+move in 搬進新居
+ex. My parents let my uncle move in temporarily. 我父母讓我叔叔暫時先搬進來住。
+答對
+	Question 1.	
+00:0000:03
+ 
+Where is this announcement being made?
+ (A) at a news station
+ (B) on the radio
+ (C) in an office(正解)
+ (D) at a public event
+這個訊息的是在以下何處宣布的？
+a. 新聞台
+b. 收音機
+c. 辦公室
+d. 公開活動場合
+ 
+答錯
+	Question 2.	
+00:0000:03
+ 
+What is NOT true about Sherry Carr?
+ (A) She's lived in the community for a long time.
+ (B) She's painted many houses before.
+ (C) She's the director of a small team of painters.
+ (D) She will paint the new building by herself.(正解)
+關於Sherry Carr以下何者為非?
+a. 她已經在這個社區住了很長一段時間。
+b. 她已前曾粉刷過許多房屋。
+c. 她是一個小粉刷工的團隊負責人。
+d. 她將會自己粉刷這棟新建築。
+ 
+答對
+	Question 3.	
+00:0000:03
+ 
+Why is the company changing buildings?
+ (A) The old building doesn't look very nice.
+ (B) The company needs more space for the new employees.(正解)
+ (C) The speaker likes the location of the new building.
+ (D) Because Sherry Carr recommended it.
+這間公司為何要更換建築物？
+a. 舊的建物看起來不太美觀。
+b. 該公司需要更多空間來容納新的員工。
+c. 說話者喜歡這個新地點的所在地。
+d. 因為Sherry Carr推薦它。
+ 
+Questions 4 through 6 refer to the following short talk: 
+00:0000:46
+Next week, August 12th through the 16th, the county book fair will be held at the Summerfield Public Library. People of all ages are welcome, especially kids who love to read. There will be all kinds of books: science books, art books, mysteries, romance novels, comics, cookbooks, you name it! The book fair will be run by volunteers from the community, and there's still time to sign up if you'd like to help out! Call or visit Summerfield Public Library to find out how you can help. The book fair hours are from 9:00 AM until 4:30 PM. On Friday, the fair will go on until 5:30 PM. Don't miss it!
+
+下星期的十二號到十六號，本郡的圖書展將會在夏田公共圖書館舉行。各年齡都歡迎參加，尤其是喜愛閱讀的孩童。展覽中將會有各式各樣的圖書：科學、美術、懸疑、浪漫小說、漫畫、烹飪，應有盡有！這個書展會由社區志工負責管理，如果你想出一份力的話現在還可以報名。打個電話或來一趟夏田公共圖書館以了解有什麼是你可以幫忙。書展開放時間是從上午九點一直到下午四點半。禮拜五書展將會一直開放到下午五點半。別錯過了！
+
+重要單字及片語
+science n. 科學
+mystery n. 推理小說
+comic n. 漫畫書
+volunteer n. 義工；志願者
+community n. 社區 you name it 能說出(或能想到)的任何東西(或地方)
+ex. She can cook anything you want to eat. You name it, she can make it! 她可以為你煮任何你想吃的東西。隨便你說，她都辦得到!
+sign up 註冊；報名登記
+ex. Many college students sign up for the army because they cannot find a job after graduating. 許多大學生都報名登記要參軍，因為畢業後他們都找不到工作。
+答錯
+	Question 4.	
+00:0000:03
+ 
+How many days will the book fair last?
+ (A) 7 days
+ (B) 5 days(正解)
+ (C) 6 days
+ (D) 4 days
+書展會持續展出多少天？
+a. 7天
+b. 5 天
+c. 6 天
+d. 4天
+ 
+答對
+	Question 5.	
+00:0000:05
+ 
+Look at the graphic. Where will the book fair take place?
+ (A) at the bookshop
+ (B) at the Summerfield Public Library(正解)
+ (C) at the Summerfield Community Center
+ (D) at the Summerfield Park
+請看圖表。書展會在哪裡舉行？
+a.書店
+b.夏田公共圖書館
+c.夏田社區中心
+d.夏田公園
+ 
+答錯
+	Question 6.	
+00:0000:08
+ 
+What should a person do if he or she wants to go to the book fair next week, but cannot make it until 5:00 PM?
+ (A) go on Friday afternoon(正解)
+ (B) go on Monday afternoon
+ (C) call or visit the library and ask about weekend hours for the book fair
+ (D) contact one of the volunteers that are helping out at the book fair
+如果有人下禮拜想去書展，但是沒辦法在下午5點以前去時該怎麼辦？
+a. 禮拜五下午去
+b. 禮拜一下午去
+c. 打電話或親自去圖書館尋問書展的週末營業時間
+d. 連絡在書展幫忙的其中一位義工
+ 
+Questions 7 through 9 refer to the following short talk:
+00:0000:41
+Attention, shoppers. We hope you are enjoying your shopping experience at Walmart. We would like to take this opportunity to tell you that today marks Walmart's 25th anniversary. If you would like some free cotton candy, come to the front of the store. At the front, you will see a little booth. Go there and write a short note of congratulations using the pen and card stock provided. Then, just stick it on the designated wall. Once you do that, you are eligible for free cotton candy! At Walmart, we will continue to strive for excellence in service. We appreciate that you have chosen to shop here on this special day.
+
+購物來賓請注意。我們希望您還滿意您在Walmart的購物體驗。我們想藉此機會告訴您今天是Walmart的二十五周年慶。如果您想吃免費的棉花糖，請到本店前方來。你會看到前方有一個小攤位。去到那裡再用我們提供的筆與卡片寫下一則簡短的道賀話語。然後，把卡片黏在指定的牆面上。你一但做好了，就有資格得到免費棉花糖！在W mart，我們會持續努力做到最好的服務。我們感謝您在這個特別的日子選擇來店來購物。
+
+重要單字及片語
+experience n. 經驗
+opportunity n. 機會
+anniversary n. 周年紀念日
+cotton candy n. 棉花糖
+booth n. 攤位
+congratulation n. 祝賀詞
+stick v. 黏貼
+designated adj. 指定的
+anxious adj. 焦慮的
+congratulatory adj. 祝賀的
+particular adj. 特別的 be eligible for 適合；有資格
+ex. The prisoner is eligible for parole in two weeks. 該牢犯再兩個星期就有假釋資格。
+strive for 力爭；為…努力
+ex. The player keeps practicing nonstop to strive for perfection. 選手持續不斷的練習力求完美。
+put on 放上
+ex. Please put on your overcoat if you would like to go outside. 如果你想要到外面去，請把外套穿上。
+答對
+	Question 7.	
+00:0000:03
+ 
+What is the reason for this announcement?
+ (A) to notify customers that the store will be closing soon
+ (B) to notify customers that they can get free cotton candy(正解)
+ (C) to get customers to shop at the front of the store
+ (D) to get customers to purchase pens and card stock
+以下何者是這則廣播的原因？
+a. 通知顧客本店即將要打烊
+b. 通知顧客他們可以得到免費的棉花糖
+c. 要顧客到本店的前方去採購
+d. 要顧客購買庫存的筆和卡片
+ 
+答對
+	Question 8.	
+00:0000:04
+ 
+What tone of voice does the speaker most likely exhibit?
+ (A) a polite tone of voice(正解)
+ (B) a pitiful tone of voice
+ (C) an anxious tone of voice
+ (D) a joking tone of voice
+說話者所呈現出來的語調為何？
+a. 禮貌的
+b. 可憐的
+c. 焦慮的
+d. 開玩笑的
+ 
+答錯
+	Question 9.	
+00:0000:05
+ 
+In order to be eligible for free cotton candy, what must a customer do?
+ (A) purchase something from the store
+ (B) visit the booth at the front of the store
+ (C) write a congratulatory note and put it on a particular wall(正解)
+ (D) congratulate one of the employees
+為了有資格拿到免費的棉花糖，顧客必須做什麼事？ 
+a. 跟店裡買些東西
+b. 到本店前方的攤位逛逛
+c. 寫下道賀字條再放在特定的牆上
+d. 向其中一名員工祝賀
+ 
+Questions 10 through 12 refer to the following short talk:
+00:0000:42
+Are you a Polaroid camera lover? Me too. Taking photos is also a hobby for me. But, the other day, I took a photo of my friend and tried to fit it into a section of my wallet. It wouldn't fit. Then I had a thought. What if Polaroid cameras could create a photo of any size? At Shumaker Design, we've developed a Polaroid camera that can produce five different sizes of photos. The width of each photo can vary between two and fifteen centimeters. It's up to you what size to create! You can find us on the web at www.shumakerdesign.com.
+
+你是個拍立得相機的愛好者嗎？我也是。攝影對我來說也是一種嗜好。可是，幾天前，我替我朋友拍了一張照片，然後試著把它放進我錢包裡的一個夾層裡。它卻放不下。然後我有了個念頭。如果拍立得可以製作出任何尺寸的照片呢？在旭梅可設計，我們已經開發出一款可以製作五種不同大小照片的拍立得相機。每張照片的寬度從二到十五公分不等。要製作出什麼尺寸由你決定！你可以在www.shumakerdesign.com這個網址找到我們。
+
+重要單字及片語
+Polaroid n. 拍立得一次成像照相機
+hobby n. 嗜好
+section n. 部份
+vary v. 變化；使多樣化
+centimeter n. 公分 fit into 適合；把…放進
+ex. Our new TV won't fit into the space on the cabinet. 櫃子的空間太小放不下我們的新電視。
+up to 視為某人的責任
+ex. It's up to you to make a decision about the destination for our trip. 我們旅行的目的地就由你來做決定。
+答對
+	Question 10.	
+00:0000:04
+ 
+Why was the speaker inspired to make the camera?
+ (A) He took a photo and it wouldn't fit into part of his wallet.(正解)
+ (B) The company he works for asked him for ideas.
+ (C) His friend said it was a good idea.
+ (D) He loves all kinds of cameras.
+談話者為何啟發出製作這款相機的念頭？
+a. 他照了張相片但卻放不進他的錢包的某處。
+b. 他服務的公司要他想點子。
+c. 他的朋友說那是個好主意。
+d. 他喜歡各式各樣的相機。
+ 
+答錯
+	Question 11.	
+00:0000:02
+ 
+What's special about the company's camera?
+ (A) Every photo it produces can fit into a wallet.
+ (B) It's an ideal camera for couples.
+ (C) It can create various sizes of photos.(正解)
+ (D) It can make photos that are longer than fifteen centimeters.
+這家公司的相機有什麼特別的？
+a. 它製作出的每張照片都可以放進錢包裡。
+b. 它是一款適合情侶的相機。
+c. 它可以製作多種尺寸的照片。
+d. 它可以製作出比十五公分更長的照片。
+ 
+答對
+	Question 12.	
+00:0000:06
+ 
+According to the advertisement, how could the listener find out more information?
+ (A) by contacting the speaker
+ (B) by studying photography
+ (C) by calling the company
+ (D) by visiting the company's website(正解)
+根據這則廣告，收聽者要如何取得更多資訊？
+a. 連絡談話者
+b. 學習攝影
+c. 打電話給該公司
+d. 上這家公司的網站
+ 
+Questions 13 through 15 refer to the following short talk:
+
+Christmas Party Invitation
+
+When: Saturday
+
+Where: 2021 Mango Avenue
+
+Directions: Head south on Highway 1 and turn right on Mango Avenue.
+
+Additional details: Welcome to bring a gift for gift exchange, but notify us in advance! Kids and spouses welcome. Let us know for any other guests!
+
+00:0000:49
+Good afternoon everyone. Before you all go home, there's something I would like to remind you about. Please don't forget that we will hold our yearly company Christmas party this Saturday at Paul's house. The address is 2021 Mango Avenue. The road intersects with Highway 1, so it shouldn't be too hard to find. Just head north on Highway 1 and when you see Mango Avenue, turn right. If you would like to bring a gift for the Secret Santa gift exchange, please notify me before you leave work on Friday. All employees are invited. Kids and spouses are also welcome. Don't bring a guest unless you tell me in advance. Thanks!
+
+大家午安。在你們回家以前，有些事情我想提醒你們。請別忘了這個禮拜六我們將在Paul家舉辦年度公司聖誕派對。地址是2021 曼果大道。這條路跟1號高速公路相接，所以應該不會太難找。1號高速公路往北開，當你看到曼果大道時右轉。如果你想帶個禮物當成神秘聖誕交換禮物，請你禮拜五下班前通知我。全體員工都歡迎參加。小孩和配偶也都歡迎。請別額外攜伴，除非你事先知會我。謝謝！
+
+
+
+
+
+
+聖誕派對邀請函
+
+
+
+時間：週六
+
+
+
+地點：曼果大道2021號
+
+
+
+方向：高速公路一號往南，曼果大道右轉
+
+
+
+附加細節：歡迎攜帶禮物來交換，但請事先通知我們！
+
+歡迎配偶及小孩。讓我們知道是否有其他客人！
+
+
+
+
+
+
+
+
+重要單字及片語
+remind v. (+of) 提醒
+intersect v. 與…交叉
+spouse n. 配偶 in advance 預先
+ex. I would advise you to book your flight at least six months in advance. 我建議你至少六個月前就要先預訂機票。
+participate in 參加
+ex. All candidates are expected to participate in the debate. 所有的候選人被認為應該要參加辯論會。
+答錯
+	Question 13.	
+00:0000:04
+ 
+Look at the graphic. Which part contains an error, according to the talk?
+ (A) The date of the party.
+ (B) The address.
+ (C) The directions.(正解)
+ (D) The additional details.
+請看圖表。根據對話內容，以下選項何者與對話內容相悖？
+a. 派對日期
+b. 地址
+c. 方向
+d. 附加細節
+
+ 
+答對
+	Question 14.	
+00:0000:04
+ 
+In what situation can employees bring a guest?
+ (A) The guest brings a gift for the Secret Santa gift exchange.
+ (B) They bring the guest to work on Friday, for approval.
+ (C) They notify the speaker before the event.(正解)
+ (D) The guest knows Paul.
+員工在什麼情況可以額外攜伴參加？
+a. 訪客帶禮物來參加神祕聖誕交換禮物活動。
+b. 得到許可的話他們禮拜五可以攜伴來上班。
+c. 他們在活動以前通知發表消息者。
+d. 外賓認識Paul。
+ 
+答對
+	Question 15.	
+00:0000:02
+ 
+What is the purpose of this talk?
+ (A) to persuade the employees to bring a gift for the gift exchange
+ (B) to remind the employees about the Christmas party(正解)
+ (C) to tell the employees' spouses and kids about the party
+ (D) to remind the employees to stay late at work on Friday
+這段談話的目的為何？
+a. 說服員工帶禮物來參加交換禮物活動
+b. 提醒員工有聖誕節派對
+c. 告知員工的配偶及小孩有關這個派對的事
+d. 提醒員工禮拜五要留下來工作晚一點
+ 
+Questions 16 through 18 refer to the following short talk:
+00:0000:49
+Any ladies out there with oily hair? Introducing a brand-new product from Globe Cosmetics: Streamline V. Streamline V helps get rid of excess sebum to make your hair smoother and lighter. It contains essential oils that are gentle on that feminine scalp. It also has proteins to help strengthen and repair your hair. On top of that, Streamline V lathers up nicely. The consistency is thick; it's different from those runny, watery shampoos that you end up wasting. Visit our website to find out how Streamline V has changed people's lives: www.slinev.com. Oil is natural, but too much oil is not. Streamline V can help with that.
+
+有任何女士是油膩的髮質嗎？介紹您一款來自全球彩妝公司的全新的產品Streamline V。Streamline V能幫助您擺脫過多的皮脂，讓您的頭髮更柔順更光亮。它含有適合您嬌嫩頭皮的溫和精油。也含有能幫助加強與修復您頭髮的蛋白質。最重要的是，Streamline V的泡沫令你滿意。泡沫的濃度黏稠；有別於那些含水量多得像水的洗髮精，最後都白白浪費掉了。請造訪我們的網站www.slinev.com了解Streamline V是如何改變人們的生活。有油脂是正常的，但太多油脂就不正常了。Streamline V能幫您解決這個問題。
+
+重要單字及片語
+brand-new adj. 全新的
+excess adj. 過量的
+sebum n. 皮脂
+contain v. 包含
+essential adj. 不可或缺的
+scalp n. 頭皮
+protein n. 蛋白質
+strengthen v. 加強
+repair v. 修補
+lather v. 以泡沫覆蓋
+consistency n. 濃度
+thick adj. 黏稠的
+runny adj. 水分過多的
+watery adj. 充滿水的
+greasy adj. 油膩的；多脂的
+waxy adj. 上蠟的 get rid of 擺脫；除去
+ex. We should consider getting rid of this old piece of furniture if you want to put your new desk in the room. 如果你想要把你的新書桌放在房間，那我們應該考慮扔掉這件舊家具。
+end up 結果成為
+ex. The murderer ended up doing thirty years in prison. 這個殺人犯最終在監獄關30年。
+答對
+	Question 16.	
+00:0000:03
+ 
+Who does this advertisement target?
+ (A) women with greasy hair(正解)
+ (B) everyone
+ (C) all women
+ (D) men with oily hair
+以下何者誰是這則廣告的目標？
+a. 油膩髮質的女人
+b. 每個人
+c. 所有的女人
+d. 油性髮質的男人
+ 
+答錯
+	Question 17.	
+00:0000:03
+ 
+What is the consistency of Streamline V?
+ (A) runny and watery
+ (B) about the same as other shampoos
+ (C) waxy
+ (D) thick(正解)
+Streamline V的濃度如何？
+a. 稀得像水
+b. 差不多與其他洗髮精一樣
+c. 蠟狀
+d. 稠密
+ 
+答錯
+	Question 18.	
+00:0000:04
+ 
+Which of the following is true about the product?
+ (A) It is often used by men.
+ (B) It lacks proteins.
+ (C) It has essential oils.(正解)
+ (D) It's a product that's been around for a while.
+關於這個產品下列何者正確？
+a. 經常是男士在使用。
+b. 它缺乏蛋白質。
+c. 它含有精油。
+d. 它是已經上市一陣子的產品。
+ 
+Questions 19 through 21 refer to the following short talk:
+00:0000:40
+Good evening ladies and gentlemen. We would now like to begin the boarding procedure for flight A292 to Hong Kong. Right now we would like to welcome first class passengers to board the aircraft. We would also like to invite any disabled passengers, or passengers with small children to come aboard. Please take out your passport and boarding pass. Also, open your passport to the photo page to help the process go more smoothly. We will begin regular boarding in approximately five minutes. Remember to take all of your personal belongings with you. Thank you.
+
+
+
+女士、先生們晚安！飛往香港的A292號班機現在要開始登機。目前我們想請頭等艙乘客登機。同時我們也要請行動不便的旅客，或有幼童隨行的旅客登機。請拿出您的護照及登機證。另外，請打開您的護照並翻到有照片那一頁以協助登機過程更加順暢。大約五分鐘內我們將會開始一般乘客登機。請記得攜帶您的隨身物品。謝謝！
+
+重要單字及片語
+boarding n. 登機
+procedure n. 程序
+aircraft n. 飛機
+disabled adj. 行動不便的
+passport n. 護照
+smoothly adv. 順暢地
+approximately adv. 大概
+belongings n. 隨身攜帶物品 take out取出
+ex. The doctor took out the splinter from his throat. 醫生從他喉嚨取出這根刺。
+boarding pass 登機證
+ex. I can hold on to your boarding pass for you if you would like to use the washroom. 如果你想要去洗手間，我可以幫你保管你的登機證。
+答對
+	Question 19.	
+00:0000:02
+ 
+Where might we hear this announcement?
+ (A) at a bus station
+ (B) at an airport(正解)
+ (C) at a train station
+ (D) on a cruise ship
+我們可能會在以下哪一地點聽到這則廣播？
+a. 公車站
+b. 機場
+c. 火車站
+d. 遊輪
+ 
+答對
+	Question 20.	
+00:0000:03
+ 
+Which of the following people cannot board yet?
+ (A) a woman with a baby
+ (B) a first class passenger
+ (C) an economy class passenger(正解)
+ (D) a person with special needs
+下列何人還不能登機？
+a. 帶著嬰兒的婦人
+b. 頭等艙乘客
+c. 經濟艙乘客
+d. 有特殊需求的人士
+ 
+答對
+	Question 21.	
+00:0000:03
+ 
+What should a passenger take out?
+ (A) his or her passport
+ (B) his or her boarding pass
+ (C) his or her passport, boarding pass, and an additional photo ID
+ (D) his or her passport and boarding pass(正解)
+乘客應該將什麼拿出來？
+a. 他/她的護照
+b. 他/她的登機證
+c. 他/她的護照、登機證，和另外一張有照片的證件
+d. 他/她的護照和登機證
+ 
+Questions 22 through 24 refer to the following short talk:
+
+Work Absence Form
+
+Reason for absence	
+Check Below
+
+Personal illness
+
+ 
+
+Dental or medical appointment
+
+ 
+
+Holiday
+
+ 
+
+Family Emergency
+
+ 
+
+00:0000:38
+You've reached the voicemail box of Dr. Jim Beamer. Unfortunately I will be out of the office until Monday, July 19th due to a family emergency. I apologize for the inconvenience. Feel free to leave a message, and I will respond to you when I get back. You can also call my assistant, Vicky, at 09122-23229, if you have any questions or would like to set up a future appointment. If this is an emergency, please contact Florence Hospital directly. Again, I will not be back until July 19th. Thank you for calling and have a nice day.
+
+您已經進到了Jim Beamer醫師的語音信箱。很遺憾的，由於發生家庭急事，直到七月十九日禮拜一前我都不會回到辦公室。很抱歉造成您的不便。請您留言，等我回來時我會回覆給您。如果您有任何問題或是想要預約看診，您也可以聯絡我的助理Vicky，她的電話是09122-23229。如果您有緊急狀況，請直接聯絡佛羅倫斯醫院。再重複一次，直到七月十九日前我都不會回到辦公室。謝謝您的來電並祝您有個美好的一天。
+
+
+工作缺席表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+缺席原因	
+以下打勾
+
+個人疾病
+
+ 
+
+牙齒或醫療看疹
+
+ 
+
+休假
+
+ 
+
+家庭緊急狀況
+
+ 
+
+
+
+
+
+重要單字及片語
+voicemail n. 語音信箱
+unfortunately adv. 遺憾地
+emergency n. 緊急狀況
+inconvenience n. 不便
+appointment n. 約會 out of 離開
+ex. After the negotiations went sour, he walked out of the conference room without saying a word. 談判破裂後，他不發一語就走出了會議室。
+set up 安排
+ex. I'd like to set up a meeting for the 4th of July at 2:30. 我想安排7月4日2點30分開會。
+答錯
+	Question 22.	
+00:0000:03
+ 
+Why might the listener contact Vicky?
+ (A) He or she has a medical emergency.
+ (B) He or she doesn't want to talk to the doctor directly.
+ (C) He or she would like to schedule an appointment.(正解)
+ (D) He or she needs to talk to Dr. Beamer right now.
+以下何者是聽者可能要連絡Vicky的原因？ 
+a. 他/她有緊急醫療事故。
+b. 他/她不想直接跟醫生說話。
+c. 他/她想預約。
+d. 他/她必須立刻跟Beamer醫生通話。
+ 
+答對
+	Question 23.	
+00:0000:07
+ 
+Look at the graphic. Which reason would Dr. Jim Bremer check for his absence at work?
+ (A) Personal illness
+ (B) Dental or medical appointment
+ (C) Holiday
+ (D) Family emergency(正解)
+請看圖表。Jim Bremer醫生會在他的工作缺席表上勾選以下何者？
+a.個人疾病
+b.牙齒或看疹
+c.休假
+d.家庭緊急狀況
+
+ 
+答對
+	Question 24.	
+00:0000:05
+ 
+What should the listener do if he or she has an emergency?
+ (A) call Vicky
+ (B) contact Florence Hospital(正解)
+ (C) try contacting Dr. Beamer using a different method
+ (D) wait until Dr. Beamer calls back
+如果聽者有緊急狀況的話應該怎麼辦？
+a. 打電話給Vicky
+b. 連絡佛羅倫斯醫院
+c. 利用不同方式嘗試聯絡Beamer醫生
+d. 一直等到Beamer醫生回電話
+ 
+Questions 25 through 27 refer to the following short talk:
+00:0000:42
+Attention all students and faculty. At 9:09 AM The University of Iowa's water lines became polluted. The reason for this is still unclear. Please refrain from using the taps for drinking, washing your hands, classroom activities, or any other reason. For the time being, please also refrain from using the toilets or showers on campus. The situation will be remedied soon by our sewage management personnel. Public Health and Safety will notify us when it is safe to use the water again. For updates about the condition of the water lines, please visit the The University of Iowa's website.
+
+全體學生與教職員請注意。在上午九點零九分時愛荷華大學的自來水管線受到了污染。事發原因尚不清楚。請不要飲用水龍頭的水、洗手、從事課堂活動，或是任何其他動機。目前，請勿使用校園內的廁所或淋浴間。我們的汙水管理人員很快就會解決這個狀況。可再次安全用水，公共衛生與安全部將會通知我們。欲了解自來水管線的最新情形，請上愛荷華大學的網站查詢。
+
+重要單字及片語
+faculty n. 全體教職員
+polluted adj. 受汙染的
+unclear adj. 不清楚的
+tap n. 水龍頭
+campus n. 校園
+remedy v. 補救；改善；修補
+sewage n. 汙水
+personnel n. 人員
+update v. 為…提供最新訊息
+predicament n. 危境；情況
+contamination n. 汙染 refrain from 避免；克制不要
+ex. Would you please refrain from smoking around pregnant women?可以請你盡量不要在孕婦周圍抽菸嗎?
+for the time being 目前；暫時
+ex. We don't have any new information on the murder case, so for the time being, please continue looking for witnesses. 我們目前還未得到有關兇殺案的最新消息，請繼續搜尋證人。
+答錯
+	Question 25.	
+00:0000:03
+ 
+Who would be interested in this announcement?
+ (A) students
+ (B) students and faculty members(正解)
+ (C) faculty members
+ (D) anyone who visits The University of Iowa's website
+以下何者會對這則通告感興趣？
+a. 學生們
+b. 學生與教職員
+c. 教職員
+d. 任何造訪愛荷華大學網站的人
+ 
+答對
+	Question 26.	
+00:0000:03
+ 
+What can we infer about this predicament?
+ (A) Someone on campus polluted the water lines.
+ (B) Public Health and Safety probably won't contact the school for a long time.
+ (C) The problem will be remedied soon.(正解)
+ (D) No one will use the taps until the problem is fixed.
+於這個困境我們可以做什麼推論？
+a. 校園裡有人污染了自來水管線
+b. 公共衛生與安全部可能很長一段時間不會與學校聯絡。
+c. 這個問題很快會得到解決。
+d. 直到問題解決前，沒有人會使用水龍頭。 
+ 
+答對
+	Question 27.	
+00:0000:03
+ 
+Who or what caused the contamination?
+ (A) We aren't sure.(正解)
+ (B) a member of the university's sewage management team
+ (C) a student
+ (D) a hole in one of the water pipes
+是何人或何種原因造成了這次污染？
+a. 不確定
+b. 學校汙水管理團隊的其中ㄧ名成員
+c. 學生
+d. 水管上的破洞
+ 
+Questions 28 through 30 refer to the following short talk:
+00:0000:43
+This just in: There is currently a police chase on Interstate 28. Several police cars are in pursuit of a black Lexus. It isn't clear who is driving the car, as the windows are tinted, although local authorities suspect it's a gang member. The driver might also be responsible for the bank robbery earlier today, but that hasn't been confirmed yet. Apparently the chase has been going on for over twenty minutes. The driver is going about 90 miles per hour. No one has been harmed thus far, but the driver of the Lexus has put numerous people in danger. We will keep you posted.
+
+
+
+剛收到的最新消息：目前在28號州際公路上有一起警匪追逐。數部警車正在追捕一部黑色的Lexus。由於車窗顏色很深無法得知駕駛者為何人，但當地警方懷疑是一名幫派份子。該名駕駛還可能犯下今天稍早的銀行搶案，但尚未被證實。據稱這個追捕行動已經持續二十分鐘以上。該名駕駛以大約九十英哩的時速駕車。到目前為止尚未有人員受傷，但這部Lexus的駕駛人已經使許多人陷於險境。我們會持續為您掌握最新訊息。
+
+重要單字及片語
+chase n. 追逐
+tinted adj. 染色的；著色的
+authority n. 當局
+suspect v. 懷疑
+gang n. 幫派
+robbery n. 搶劫案
+confirm v. 證實
+apparently adv. 顯然地
+harm v. 傷害 in pursuit of 追捕
+ex. The firemen are in pursuit of a wild boar. 消防隊員正在追捕一隻野豬。
+in danger 處於危險中；有危險
+ex. The worker standing in the river is in danger. 站在河裡的工人有危險了。
+答對
+	Question 28.	
+00:0000:03
+ 
+How long has the chase been happening?
+ (A) we aren't sure
+ (B) not quite 20 minutes
+ (C) over 20 minutes(正解)
+ (D) exactly 20 minutes
+這個追逐行動發生多久了？
+a. 不確定
+b. 不到20分鐘
+c. 超過20分鐘
+d. 正好20分鐘
+ 
+答對
+	Question 29.	
+00:0000:02
+ 
+How fast is the driver driving?
+ (A) around 90 miles per hour(正解)
+ (B) about the same speed as other traffic
+ (C) not quite 90 miles per hour
+ (D) over 90 miles per hour
+這名駕駛車子開得多快？
+a. 大約時速90英哩
+b. 跟其他的車子開得差不多快
+c. 不到時速90英哩
+d. 超過時速90英哩
+ 
+答錯
+	Question 30.	
+00:0000:02
+ 
+What will probably happen?
+ (A) The driver will get away.
+ (B) The police will catch the driver.
+ (C) The driver will injure some other drivers.
+ (D) We can't be sure.(正解)
+可能會發生什麼事？
+a. 該名駕駛會逃脫。
+b. 警方會抓到這名駕駛。
+c. 該名駕駛會傷害到其他車輛的駕駛人。
+d. 不確定。
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 3 refer to the following conversation:
+00:0000:36
+Man: Sorry I am late for lunch.
+
+Woman: What happened? You look very flustered.
+
+Man: My car broke down.
+
+Woman: Why didn't you call me? I would have come and picked you up.
+
+Man: I was going to, but I was so busy getting it off the road and to a mechanic I just forgot.
+
+Woman: Do you know what is wrong with it?
+
+Man: No, they said that they would call me by six. I hope it doesn't cost a fortune. I have so many bills to pay right now.
+
+Woman: I can drive you around until you get your car back.
+
+Man: Thank you so much! I'll treat you to lunch.
+
+
+
+男：抱歉。我午餐遲到了。
+女：怎麼了？你看起來很慌亂。
+男：我的車子拋錨了
+女：你怎麼不打給我？我可以過去接你。
+男：我本來要，但我忙著開離道路找修車工人，我就忘記了。
+女：你知道出了什麼問題嗎？
+男：不知道，他們說六點會打給我。我希望不會花太多錢，我現在要付很多帳單。
+女：我可以載你到處走直到你拿回你的車。
+男：非常謝謝你！我會請你吃午餐。
+
+重要單字及片語
+flustered adj. 緊張不安的，慌亂的
+mechanic n. 機械工，技師
+spray v. 噴，灑
+uniform n. 制服
+nametag n. 名牌
+cost a fortune 花大錢
+treat v. 對待，請客 break down 壞掉
+Ex. My scooter broke down when I was on my way to work this morning. 我的機車今天早上在上班途中壞掉了。
+答對
+	Question 1.	
+00:0000:02
+ 
+Why is the man so upset?
+ (A) He has to pay for lunch.
+ (B) He has a lot of bills to pay.
+ (C) His car broke down.(正解)
+ (D) His friend didn't pick him up.
+為什麼這男的這麼失落？
+a. 他必須付午餐錢
+b. 他有很多帳單要付
+c. 他的車子拋錨了
+d. 他的朋友沒有來接他
+ 
+答對
+	Question 2.	
+00:0000:04
+ 
+What does the woman mean by "You look very flustered"?
+ (A) He looks happy.
+ (B) He looks stressed.(正解)
+ (C) He looks scared.
+ (D) He looks excited.
+這女生說"你看起來很慌亂"是什麼意思？
+a. 他看起來很開心
+b. 他看起來很有壓力
+c. 他看起來很害怕
+d. 他看起來很興奮
+ 
+答對
+	Question 3.	
+00:0000:04
+ 
+Does the man's mood change for the better by the end of the conversation?
+ (A) Yes, because his friend offers to help him.(正解)
+ (B) His mood stays the same.
+ (C) No, he gets more upset.
+ (D) No, because he has to pay for his friend's lunch.
+在對話的尾聲，這位男人的心情有變好一點嗎？
+a. 有的，因為他的朋友提供幫助
+b. 他的心情還是一樣
+c. 沒有，他變得更沮喪
+d. 沒有，因為他必須請朋友吃午餐
+ 
+Questions 4 through 6 refer to the following conversation:
+00:0000:46
+Woman: Do you know why I have called you in here?
+
+Man: I think so.
+
+Woman: This is the second time this week that you have sprayed somebody in the eyes with cologne. We just can't keep you on if you are going to continue to do this.
+
+Man: I understand, but I am really trying. I want people to smell it, so sometimes I spray it in front of them before they walk by.
+
+Woman: How many times have I told you this? First, ask them if they want to try the cologne; if they say yes, then you spray them on their wrist.
+
+Man. I know. I guess I keep forgetting. I am sorry.
+
+Woman: I am sorry, too. I am going to have to let you go. Please turn in your uniform and nametag before you leave.
+
+
+
+女：你知道為什麼我要找你過來嗎？
+男：我想我知道。
+女：這已經是這禮拜第二次你把古龍水噴在別人的眼睛裡。如果你持續這麼做我們實在無法再雇用你。
+男：我了解，但我真的很努力了。我想要人們聞聞看，所以有時候我會在他們走過之前噴在他們正前方。
+女：我告訴你幾次了？第一，先詢問他們是否要試擦古龍水；如果他們說好，那你再噴在他們的手腕上。
+男：我知道，我一直忘記。我很抱歉。
+女：我也很抱歉。我必須要解聘你。請在你離開前歸還你的制服和名牌。
+
+重要單字及片語
+spray v. 噴，灑
+wrist n. 手腕
+cologne n. 古龍水
+uniform n. 制服
+nametag n. 名牌
+walk by走過去
+Ex. The young man turned around to look at the pretty woman as soon as she walked by. 那位漂亮小姐一走過去，年輕人就轉過來看她。
+turn in 交換，取得，睡覺，放棄，告發
+Ex. The boy got a $20 cash reward for turning in the wallet he found on the sidewalk. 那個男孩繳回他在人行道上找到的皮包後得到20元的獎賞。
+答對
+	Question 4.	
+00:0000:02
+ 
+Where are they having this conversation?
+ (A) at the mall
+ (B) in the man's office
+ (C) in the locker room
+ (D) in the woman's office(正解)
+他們在哪裡談話？
+a. 在購物中心
+b. 在這男士的辦公室
+c. 在個人用品儲物室
+d. 在這女士的辦公室
+ 
+答對
+	Question 5.	
+00:0000:02
+ 
+What is the man in trouble for?
+ (A) for not turning in his uniform and nametag
+ (B) for not knowing which cologne people will like
+ (C) for inappropriate conduct at work(正解)
+ (D) for not asking people to try on the cologne
+這男人為何會陷入困境？
+a. 沒有歸還制服和名牌
+b. 不知道人們喜歡哪一種古龍水
+c. 不適當的處理工作
+d. 沒有詢問人們是否想試擦古龍水
+ 
+答對
+	Question 6.	
+00:0000:03
+ 
+What is the store's normal policy for selling cologne?
+ (A) to spray it in the air so customers can smell it
+ (B) to ask before spraying a customer on the wrist(正解)
+ (C) to only spray women with cologne
+ (D) to not spray cologne in the store ever
+以下何者是這間店販售古龍水的正常程序？
+a. 噴在空氣裡這樣顧客就可以聞到它
+b. 再噴在顧客的手腕上之前先詢問
+c. 只噴古龍水在女性身上
+d. 再也不能店內噴古龍水
+ 
+Questions 7 through 9 refer to the following conversation:
+
+Employee Name: Samantha Cummings
+
+Period 1
+Target: $320,000
+Achieved: $284,654
+
+Period 2
+Target: $320,000
+Achieved: $321,986
+
+Period 3
+Target: $320,000
+Achieved: $378,754
+
+Period 4
+Target: $320,000
+Achieved: $345,987
+00:0001:21
+Man: What do you think was your biggest achievement in the last year?
+
+Woman: Well, I managed to expand our printer market by 25%, and I exceeded my sales target in the second, third, and fourth quarters.
+
+Man: So what happened in the first quarter?
+
+Woman: Well, as you know, it's hard for us to meet targets in the first quarter because few companies are doing much spending. At the beginning of the year, they are still working on getting their spending budgets approved.
+
+Man: So what do you think you could do to ensure that you meet your target in the first quarter next year?
+
+Woman: Well, this might prove to be a major challenge. But I think I might try to convince customers to place some initial orders before their budgets get approved. I might have to offer them some kind of deal if they place an order early.
+
+Man: Sounds like a strategy worth trying. And is there anything else that you feel you could improve on or any goals you want to set for the upcoming year?
+
+Woman: Yes. I really want to win over CTM Financial from our competitor. They used to be one of our biggest customers, but haven't been buying from us in ages.
+
+
+
+男：你認為在過去一年最大的成就是什麼？
+
+女：嗯，我擴展了25%的印表機市場，而且我超越了我第二、第三、第四季的銷售目標。
+
+男：那第一季發生了什麼事？
+
+女：嗯，你知道的，第一季我們很難達到目標，因為沒有公司有消費支出。年初時，他們仍在等預算批准。
+
+男：那你認為自己可以做什麼來達到明年第一季的目標？
+
+女：嗯，這可能是一個很大的挑戰。但我想我可能會嘗試說服客戶在預算批准前先下初始訂單。但如果他們早下訂單，我可能需要提供一些好處。
+
+男：聽起來是值得嘗試的策略。還有什麼你覺得可以改善或可以為即將到來的一年設定的目標？
+
+女：有的。我很想要從競爭對手中搶到CTM金融公司。他們曾經是我們最大的客戶之一，但很久沒向我們購買了。
+
+
+
+
+
+
+
+ 
+
+
+員工姓名：Samantha Cummings
+
+
+第1季
+
+目標：$320,000
+
+已達成：$284,654 
+
+
+第2季
+
+目標：$320,000
+
+已達成：$321,986
+
+
+第3季
+
+目標：$320,000
+
+已達成：$378,754
+
+
+第4季
+
+目標：$320,000
+
+已達成：$345,987
+
+
+答對
+	Question 7.	
+00:0000:02
+ 
+What kind of talk is this?
+ (A) an employee self-evaluation(正解)
+ (B) an interview for a new position
+ (C) a budget proposal discussion
+ (D) a casual chat about a promotion
+這是什麼性質的對話？
+A.員工的自我評量
+B.新職位的面試
+C.預算提案的討論
+D.關於升遷的閒聊
+ 
+答對
+	Question 8.	
+00:0000:05
+ 
+Look at the graphic. What does "Period 1" represent?
+ (A) the first week of the month
+ (B) the first month of the year
+ (C) the first 3 months of the year(正解)
+ (D) the first 4 months of the year
+請看圖表。「Period 1」代表以下何者意思？
+A. 該月的第一週
+B. 該年的第1月
+C. 該年的前3個月
+D. 該年的前4個月
+ 
+答對
+	Question 9.	
+00:0000:05
+ 
+What goal has the woman set for the upcoming period?
+ (A) to beat her previous sales record
+ (B) to get back an old customer(正解)
+ (C) to be more efficient at work
+ (D) to get a raise
+此女士對即將到來的一季有什麼目標？
+A. 超過她先前的銷售記錄
+B. 贏回一個老客戶
+C. 工作效率更高
+D. 加薪
+ 
+Questions 10 through 12 refer to the following conversation:
+00:0000:29
+Woman: What can I help you with today, Mr. Kennedy?
+
+Man: I woke up today to a huge rash all over my body. It is everywhere, but it doesn't itch.
+
+Woman: Have you done anything different lately?
+
+Man: I really can't think of anything different…Wait! I went on a new diet recently. Do you think that could have something to do with it?
+
+Woman: Possibly, we will run some tests and see if you are allergic to anything. Please hang on a moment for the nurse.
+
+
+
+女：Kennedy先生，今天有什麼可以為你協助？
+男：我今天起床時，全身上下長滿大片疹子 。每個地方都有，但不會癢。
+女：你最近有做任何不一樣的事嗎？
+男：我真的想不起來有什麼不同…等等！我最近在試新的節食計畫。你覺得可能是這個嗎？
+女：有可能，我會做一些測試來看你是否對任何東西過敏。請等護士過來。
+
+重要單字及片語
+rash n. 紅疹
+prescription n. (醫師)處方箋
+recently adv. 最近地=lately
+be allergic to 對…過敏
+Ex. Lots of kids in the West are allergic to peanuts. 西方國家很多孩童都對花生過敏。
+答對
+	Question 10.	
+00:0000:02
+ 
+Who is the woman in the conversation?
+ (A) a doctor(正解)
+ (B) the man's best friend
+ (C) the man's mother
+ (D) a receptionist
+以下何者誰是這段對話中的女子？
+a. 醫生
+b. 這男士最好的朋友
+c. 這男士的母親
+d. 接待員
+ 
+答對
+	Question 11.	
+00:0000:04
+ 
+How is the woman going to figure out what is wrong with Mr. Kennedy?
+ (A) get him to change his diet
+ (B) make him take some medicine
+ (C) give him some cream
+ (D) do some allergy tests(正解)
+這女士要怎麼知道Kennedy先生的狀況為何？
+a. 讓他改變他的節食計畫
+b. 讓他服用一些藥物
+c. 給他一些藥膏
+d. 做一些過敏測試
+ 
+答對
+	Question 12.	
+00:0000:02
+ 
+What will happen next?
+ (A) The man will pay his bill.
+ (B) The food will be served.
+ (C) The nurse will do some tests. (正解)
+ (D) The man will receive a prescription.
+等一下要發生什麼事？
+a. 這位男士將會繳帳單
+b. 即將會上菜
+c. 護士會做一些測試
+d. 這男士會收到醫師處方籤
+ 
+Questions 13 through 15 refer to the following conversation:
+00:0000:50
+Woman: What are you going to wear to the party tonight?
+
+Man: I don't know, maybe a dress shirt and slacks.
+
+Woman: Gosh, men!
+
+Man: What did I do wrong? I am getting dressed up. What more do you want from me?
+
+Woman: This is a special night for my sister. It is her engagement party. I want you to look nice for it. So, please put more thought into what you are going to wear.
+
+Man: Yes, exactly. It is for your sister. No one will even be looking at me, so it doesn't even matter.
+
+Woman: It matters to me. You are going to be in pictures. Don't you care about how I feel?
+
+Man: Not this again.
+
+Woman: Oh my goodness. Fine, just get dressed. I'll be waiting downstairs.
+
+
+
+女：你要穿什麼參加今晚的派對？
+男：我不知道，也許穿襯衫及寬鬆長褲。
+女：天哪，男人！
+男：我做錯了什麼？我要換衣服了。你還想叫我做什麼？
+女：對我姊姊來說這是個很特別的晚上。這是她的訂婚派對。我要你穿的更體面。所以，請更仔細思考你要穿什麼。
+男：是的，沒錯。這是你的姐姐的派對。甚至沒有人會看我一眼，所以沒有差別。
+女：對我來說有差。你會在照片裡。你不在乎我的感受嗎？
+男：別再來一次了。
+女：我的天。好，換裝吧。我會在樓下等你。
+
+重要單字及片語
+engagement n. 訂婚
+slacks n. 寬鬆的長褲
+matter v. 有關係/ n. 事情，物質，問題
+dress up 盛裝打扮
+Ex. All the students in the graduating class will dress up to attend the prom. 所有的畢業生都會盛裝打扮參加畢業舞會。
+答對
+	Question 13.	
+00:0000:02
+ 
+Where are the speakers?
+ (A) in their house(正解)
+ (B) at an engagement party
+ (C) outside on the street
+ (D) in a fitting room
+以下何者是這些談話者的所在處？
+a. 在他們房子裡
+b. 在訂婚派對
+c. 在路上
+d. 在試衣間
+ 
+答對
+	Question 14.	
+00:0000:02
+ 
+What is this conversation about?
+ (A) Whether they should give a gift of clothing or not.
+ (B) The pictures that will be taken at the party.
+ (C) Which suit to buy.
+ (D) The clothes that the man will wear.(正解)
+以上對話與以下何者選項相關？
+a. 他們是否該送衣服當禮物
+b. 這場派對上拍攝的照片
+c. 該買哪件西裝
+d. 這男士所穿的衣服
+ 
+答對
+	Question 15.	
+00:0000:04
+ 
+Why does the woman want her boyfriend to look nice?
+ (A) Because her sister is his boss.
+ (B) Because photographs will be taken today. (正解)
+ (C) Because she wants him to make new professional contacts.
+ (D) Because the mayor will be there.
+為什麼這女士想要她的男友看起來很體面？
+a. 因為姐姐是他的老闆
+b. 因為今天會拍照
+c. 因為她想要他認識專業人士
+d. 因為市長會出席
+ 
+Questions 16 through 18 refer to the following conversation:
+00:0000:41
+Man: Trisha, have you talked to the boss yet?
+
+Woman: No, I get so nervous around her.
+
+Man: I know what you mean. She makes it so hard to talk to her sometimes.
+
+Woman: Yes, and she is never here. What's up with that?
+
+Man: You can't tell anyone, but I heard that she goes out to night clubs almost every night.
+
+Woman: Are you serious?
+
+Man: That is why she comes in late most days.
+
+Woman: Who did you hear that from?
+
+Man: I heard it from Jim in sales. He is good friends with the boss's son. He also said she might get fired soon.
+
+Woman: She has a son?
+
+
+
+男：Trisha，妳和老闆談過了嗎？
+女：還沒，我在她身邊很緊張。
+男：我懂你的意思。她有時候會搞得很難跟她攀談。
+女：是的，而且她都不在公司。她為什麼要這樣？
+男：你不能告訴任何人，但我聽說她幾乎每天晚上都去夜店。
+女：你是認真的嗎？
+男：這是為什麼她幾乎每天都遲到。
+女：你從誰那邊聽說的？
+男：我從銷售部的Jim那邊聽來的。他和老闆的兒子是好朋友。他也說她可能很快就會被解雇了。
+女：她有個兒子？
+
+重要單字及片語
+nervous adj. 緊張的
+serious adj. 嚴重的，認真的
+hear from 聽到…的消息
+Ex. I haven't heard anything from him since he moved to another country. 自從他搬到另一個國家，我就沒聽說過他的消息了。
+答對
+	Question 16.	
+00:0000:03
+ 
+Why does the woman want to talk to her boss?
+ (A) She wants to talk to her about her drinking problem.
+ (B) She does not say why she wants to talk to her.(正解)
+ (C) She wants to talk to her about her son.
+ (D) She wants to talk to her about Jim in sales.
+為什麼這女士想跟她老闆談話？
+a. 她想和她談她的酗酒問題
+b. 她沒有說為什麼她想和她談話
+c. 她想和她談她的兒子
+d. 她想和她談銷售部Jim的事情
+ 
+答對
+	Question 17.	
+00:0000:03
+ 
+What is the woman's opinion of her boss?
+ (A) She thinks her boss gets nervous very easily.
+ (B) She does not think highly of her boss.(正解)
+ (C) She wishes her boss would not come to work.
+ (D) She thinks her boss a very serious woman.
+這女士對她老闆的想法是什麼？
+a. 她覺得她老闆很容易感到緊張
+b. 她對她老闆的評價不高
+c. 她希望她的老闆不會來工作
+d. 她覺得她的老闆是一位非常嚴肅的女人
+ 
+答對
+	Question 18.	
+00:0000:03
+ 
+What can we infer about the boss?
+ (A) She works hard from home.
+ (B) She is a responsible mother.
+ (C) She is a fun person to be around.
+ (D) She won't be there much longer.(正解)
+我們可以怎麼推斷這位老闆？
+a. 她在家認真工作
+b. 她是一位負責任的媽媽
+c. 她是個好玩的人
+d. 她不會待在這裡很久
+ 
+Questions 19 through 21 refer to the following conversation:
+00:0000:31
+Woman: Guess what I just found out?
+
+Man: What?
+
+Woman: Our flight is going to be delayed by two hours!
+
+Man: Are you serious? We are going to miss our connecting flight. What's the problem?
+
+Woman: They said there's something wrong with the engine.
+
+Man: I am going to see if we can find an earlier flight. This is ridiculous.
+
+Woman: I already checked. There isn't one.
+
+Man: Can they book us on another connecting flight?
+
+Woman: They said they would make an announcement for us if they can.
+
+
+
+女：猜我剛發現什麼？
+男：什麼？
+女：我們的班機將延後兩個小時！
+男：你是認真的嗎？我們會錯過轉機班機。有什麼問題？
+女：他們說引擎有一些問題。
+男：我要看看我們是否有早一點的班機。這太荒謬了。
+女：我已經確認過了。一個都沒有。
+男：他們可以幫我們訂其他轉機航班嗎？
+女：他們說如果可以的話他們會廣播通知。
+
+重要單字及片語
+ridiculous adj. 令人難以置信地
+announcement n. 宣布，宣告
+engine n. 引擎
+be wrong with 有問題，有毛病
+Ex. There's something wrong with my laptop. 我的手提電腦有點毛病
+答對
+	Question 19.	
+00:0000:02
+ 
+Where are the man and woman?
+ (A) at home
+ (B) at the airport(正解)
+ (C) in a taxi
+ (D) in an airplane
+以下何者是這位男士與女士的所在地？
+a 在家裡
+b. 機場
+c. 計程車裡
+d. 在飛機上
+ 
+答對
+	Question 20.	
+00:0000:03
+ 
+What is happening in this situation?
+ (A) They are having trouble buying plane tickets.
+ (B) Their flight is late.(正解)
+ (C) They are boarding a plane.
+ (D) They have a two-hour layover.
+這個狀況中發生了什麼事？
+a. 他們買機票有一些問題
+b. 他們的班機遲到了
+c. 他們在登機
+d. 他們有兩小時的待轉機時間
+ 
+答對
+	Question 21.	
+00:0000:03
+ 
+Was the problem solved by the end of the conversation?
+ (A) No, so they went home.
+ (B) Yes, the engine was fixed and they were able to board the plane.
+ (C) No, they are waiting to find out. (正解)
+ (D) Yes, they were able to catch both of their flights.
+最後問題是否獲得解決？
+a. 沒有，所以他們回家了
+b. 有，引擎修好了，他們能夠登機了
+c. 沒有，他們在等待問題解決
+d. 有，他們兩班飛機都能趕上
+ 
+Questions 22 through 24 refer to the following conversation:
+
+Room Name
+
+Occupancy
+
+Beds
+
+Price
+
+Business Traveler
+
+1 adult maximum
+
+1 single
+
+$99
+
+Econo-Room
+
+2 adults
+(+$20 for additional person)
+
+1 queen size
+
+$149
+
+Family Suite
+
+4 adults
+(+$20 for additional person)
+
+2 queen size
+
+$189
+
+VIP Penthouse
+
+4 adults maximum
+
+2 king size
+
+$249
+
+00:0001:11
+Woman: I'd like to make a change to my reservation.
+
+Man: Sure. Could I get your last name please?
+
+Woman: Geoffroy. That's G-E-O-F-F-R-O-Y.
+
+Man: Got it, Ms. Geoffroy. That's a double room for two adults, arriving December 26 and departing December 28. Am I correct?
+
+Woman: Yes. But we actually want to add a third adult. Would that be possible?
+
+Man: We can place a cot in the room for an additional fee of $20.
+
+Woman: Sure. That's fine. Also, we would like to check out a day later, on the 29th.
+
+Man: I'm sorry, but this room is booked on the 29th. Would you be willing to move to a four-person room for the last night? It comes with two beds.
+
+Woman: What's the price difference?
+
+Man: The room you already booked is $149 per night, plus $20 for the cot. The quadruple room is $189.
+
+Woman: Hm…could we actually get the quadruple room for the whole stay?
+
+Man: Let me see…Yea, sure, it's available.
+
+
+
+女：我想變更訂房。
+男：好的。請問你的姓是？
+女：Geoffroy。是G-E-O-F-F-R-O-Y。
+男：收到，Geoffroy女士。兩個大人一間雙人房，抵達日期12月26日，12月28日離開，對嗎？
+女：是的。但是我們想要增加第三位成年人。請問有辦法嗎？
+男：我們可以放在房間放一張吊床，額外費用20元。
+女：當然。沒關係。另外，我們想要晚一天退房，29日。
+男：很抱歉，但這個房間29日已被訂走了。你願意最後一晚移到四人房嗎？房間配有兩張床。
+女：價差是多少？
+男：你已經訂好的房間是149每晚，再加上小床$20。四人房為$189
+女：嗯......我們可以全部改為四人房嗎？
+男：讓我看看......是的，當然，目前有空房。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+房間類型
+
+容量
+
+床
+
+價錢
+
+商務房型
+
+最多1人
+
+1張單人床
+
+$99
+
+經濟房型
+
+2位成人
+
+(多1人+$20)
+
+1張雙人床
+
+$149
+
+家庭套房型
+
+4位成人
+
+(多1人+$20)
+
+2張雙人床
+
+$189
+
+VIP 豪華房型
+
+最多4人
+
+2張超大雙人床
+
+$249
+
+
+答對
+	Question 22.	
+00:0000:05
+ 
+How many nights did the woman originally plan to stay in the hotel?
+ (A) one
+ (B) two(正解)
+ (C) three
+ (D) four
+該名女子本來打算在飯店住幾晚？
+A.1
+B. 2
+C. 3
+D. 4
+ 
+答對
+	Question 23.	
+00:0000:03
+ 
+What two changes does the woman want to make?
+ (A) longer stay and extra person(正解)
+ (B) longer stay and one person less
+ (C) shorter stay and extra person
+ (D) shorter stay and one less person
+以下變動哪兩項是該名女子想要做的？
+A.停留久一點，多增加一人
+B. 停留久一點，減少一人
+C. 停留短一點，多增加一人
+D. 停留短一點，減少一人
+ 
+答對
+	Question 24.	
+00:0000:05
+ 
+Look at the graphic. Which room did the woman choose in the end?
+ (A) Business Traveler
+ (B) Econo-Room
+ (C) Family Suite(正解)
+ (D) VIP Penthouse
+請看圖表。此女人最後選了以下哪一種房型？
+A. 商旅房型
+B. 經濟房型
+C. 家庭套房型
+D. VIP豪華房型
+ 
+Questions 25 through 27 refer to the following conversation:
+
+Hey Mike,
+
+I need you to come see me in my office as soon as the lunch break is over for an urgent discussion. Please cancel any previous appointments you have made.
+
+Regards,
+
+Meg Jerrand
+
+00:0000:37
+Man: I can't believe it. I'm such an idiot!
+
+Woman: What's wrong?
+
+Man: I accidentally posted a Tweet to the company's Twitter page that was intended for my personal Twitter account!
+
+Woman: Oh, no! What was the Tweet about?
+
+Man: I was complaining about my job.
+
+Woman: That's no good. Did you delete it?
+
+Man: Of course, right away. But it was too late. Somebody saw it and told management about it.
+
+Woman: How do you know?
+
+Man: Look at this notice from HR. It says I have to go see them right after the lunch break.
+
+Woman: Uh oh. Good luck.
+
+
+
+男：我真是不敢相信。我是個大白痴！
+女：怎麼了？
+男：我不小心把原本要貼在我個人Twitter頁面的推文，貼在公司的Twitter頁面！
+女：噢，不！推文的內容是什麼呢？
+男：我在抱怨我的工作。
+女：這真是不妙。你刪除了嗎？
+男：當然，馬上。但為時已晚，已經有人看見，還告訴經理。
+女：你怎麼知道？
+男：看這個從HR來的通知。叫我在午休之後馬上去找他們。
+女：喔喔。 祝你好運。
+
+
+
+
+
+
+嘿Mike：
+
+
+我需要你午休結束後馬上來我的辦公室，以便進行緊急討論。請取消您已預訂的會議。
+
+
+致上
+
+ 
+
+Meg Jerrand
+
+
+答對
+	Question 25.	
+00:0000:02
+ 
+What mistake did the man make?
+ (A) He wrote something negative about his manager on his Twitter page.
+ (B) He allowed his company's website to be hacked into.
+ (C) He posted an inappropriate photo on the Internet.
+ (D) He mistook his company's social media account for his own. (正解)
+此男士犯了什麼錯？
+A.他在他的Twitter頁面上寫了關於他的經理的負面評價。
+B.他讓公司的網站遭受駭客入侵。
+C.他在網上發布了一張不雅照。
+D.他把公司的社交媒體帳戶誤認成自己的。
+ 
+答對
+	Question 26.	
+00:0000:04
+ 
+What did the man do as soon as he realized his mistake?
+ (A) He removed the content. (正解)
+ (B) He apologized to his boss.
+ (C) He changed the website's security settings.
+ (D) He did a virus scan on the computer.
+該名男子在意識到自己的錯誤後馬上採取以下何種動作？
+A. 刪除了內容。
+B. 向老闆道歉。
+C. 變更了網站的安全設定。
+D. 在電腦上執行病毒掃描。
+ 
+答對
+	Question 27.	
+00:0000:05
+ 
+Look at the graphic. What department does Meg Jerrand work for?
+ (A) human resources(正解)
+ (B) payroll
+ (C) management
+ (D) accounting
+請看圖表。Meg Jerrand為以下哪一個部門工作？
+A. 人力資源部門
+B. 薪資部門
+C. 管理部門
+D. 會計部門
+ 
+Questions 28 through 30 refer to the following conversation:
+00:0000:34
+Man: Did you get the memo about this weekend?
+
+Woman: Yes. I can't believe we have to work this weekend. I have plans to do something with my family.
+
+Man: I know. I was going to go to the theatre.
+
+Woman: Do you think we can get out of it?
+
+Man: I don't know. Mrs. Stanphill sounded pretty serious in the email. Since the lay-offs, there is a lot more work to go around.
+
+Woman: I am going to talk to her. Wish me luck!
+
+Man: You are going to need all the luck you can get.
+
+
+
+男：你有收到關於週末計畫的備忘錄嗎？
+女：有，我無法相信週末也得工作。我和我的家人有活動。
+男：我知道。我本來打算去劇院。
+女：你覺得我們可以不加班嗎？
+男：我不知道。Stanphill太太的電子郵件很嚴肅。裁員後，工作就更多了。
+女：我打算和她談談。祝我好運！
+男：你將需要所有你能得到的運氣。
+
+重要單字及片語
+memo n. 備忘錄
+theatre n.(theater) 劇院
+lay-off n. 裁員
+produce v. 製作，(自然)產生
+recreational adj. 娛樂的
+skeptical adj. 懷疑的，多疑的
+get out of 逃避，棄絕，使說出
+Ex. I couldn't get out of attending my ex-girlfriend's wedding. 我無法逃避出席前任女友的婚禮。
+答對
+	Question 28.	
+00:0000:02
+ 
+Why do they have to work on the weekend?
+ (A) Mrs. Stanphill is upset that people made plans.
+ (B) The layoffs have produced more work for everyone.(正解)
+ (C) Mrs. Stanphill wants to hang out with everybody.
+ (D) They need to make up for the last weekend.
+為什麼他們週末需要工作？
+a. Stanphill 太太對大家已經訂好活動而感到低落
+b. 裁員加重大家的工作量
+c. Stanphill 太太想要和大家一起出去
+d. 他們需要彌補上個週末的工作
+ 
+答對
+	Question 29.	
+00:0000:05
+ 
+What recreational plans did the man have for the weekend?
+ (A) He is going to spend time with his family.
+ (B) He is going to work at the office.
+ (C) He doesn't have any plans.
+ (D) He is going to a play. (正解)
+這男士週末有什麼娛樂計畫？
+a. 他打算花時間和家人相處
+b. 他打算在辦公室工作
+c. 他沒有任何計畫
+d. 他打算去看戲劇表演
+ 
+答對
+	Question 30.	
+00:0000:05
+ 
+Do you think the man believes the woman can get the weekend off for everybody?
+ (A) Yes, he thinks it will be guaranteed.
+ (B) He doesn't care.
+ (C) No, he is skeptical.(正解)
+ (D) No, she won't even try.
+你覺得這位男士相信女子可以為每個人爭取到週末休息嗎？
+a. 是的，他覺得可以保證
+b. 他不在乎
+c. 不，他很懷疑
+d. 不，她甚至不會去嘗試
+ 
+Questions 31 through 33 refer to the following conversation:
+00:0001:03
+Woman: Hello, this is Comfy Home Goods customer service. My name is Roberta. How may I help you?
+
+Man: Hi, I recently purchased a recliner from you. It was delivered to me two days ago.
+
+Woman: What seems to be the problem?
+
+Man: Well, when I got home yesterday it was broken in two. I have no idea how this happened. I haven't even been able to sit in it yet.
+
+Woman: Wow. This is the first time I have encountered this. I'm going to put you through to my manager.
+
+Man2: Hi, there. My colleague just mentioned that you received a severely damaged recliner, correct?
+
+Man: Yes.
+
+Man2: What model is it?
+
+Man: It is the Relax 2000. It came with a one-year warranty.
+
+Man2: OK. What is your name and the order number?
+
+Man: Mark D'Angelo. My order number is 495039.
+
+Man2: Mr. D'Angelo, we will make sure to have someone pick up the broken one and deliver a new one in the next five days. Is there anything else I can help you with?
+
+Man: No that will be it. Thank you very much.
+
+
+
+女：哈囉，這裡是Comfy居家商品服務中心。我的名字是Roberta。有什麼能幫你的嗎？
+男：嗨，我最近從你們那邊買了一張躺椅。前兩天已寄送給我。
+女：有什麼問題嗎？
+男：這個嘛，當我昨天回到家的時候它已經斷成兩半。我完全不知道發生了什麼事。我甚至還沒有坐過。
+女：哇噢。我第一次遇到這種事情。我會幫你轉接我的經理？
+男2：嗨你好。我同事剛提到你收到活動躺椅嚴重受損，是嗎？
+男：是的。
+男2：這是哪一型號？
+男：這是Relax2000。有一年的保固期。
+男2：OK，你的名字和訂單編號是？
+男： Mark D'Angelo。我的訂單編號是 495039。
+男2： D'Angelo 先生，我們會確定有個人去回收壞掉的椅子並在五天內寄給你一張新的。還有什麼能幫你的嗎？
+男：不，這樣就好了。非常謝謝你。
+
+
+重要單字及片語
+comfy n. 舒適
+customer n. 顧客
+encounter v. 遇見
+warranty n. 保固
+model n. 模式，模型
+order n. 訂購，順序/v. 訂購
+答對
+	Question 31.	
+00:0000:03
+ 
+What is the problem with the chair?
+ (A) It hasn't arrived yet.
+ (B) It broke in half. (正解)
+ (C) The warranty expired.
+ (D) It's the wrong model.
+這張椅子怎麼了？
+a. 還沒抵達
+b. 壞成兩半
+c. 保固期已過
+d. 寄錯商品
+ 
+答對
+	Question 32.	
+00:0000:02
+ 
+When will the problem be fixed?
+ (A) It cannot be fixed.
+ (B) It will be fixed in two days.
+ (C) in the next five days(正解)
+ (D) in one year
+問題何時會被解決？
+a. 無法解決
+b. 在未來兩天會被修好
+c. 在接下來的五天內
+d. 一年內
+ 
+答對
+	Question 33.	
+00:0000:03
+ 
+How did the woman handle the situation?
+ (A) She explained why the product was damaged.
+ (B) She told the customer the product would be replaced.
+ (C) She forwarded the call to her superior.(正解)
+ (D) She denied that any problem existed.
+這位女士如何處理這個情況？
+a. 她解釋這件商品為何被損壞。
+b. 她告知顧客商品會被替換。
+c. 她將來電轉接給她的上級。
+d. 她否認那個問題的存在。
+ 
+Questions 34 through 36 refer to the following conversation:
+00:0000:45
+Man: Are you still thinking of becoming a yoga teacher?
+
+Woman: I am. It is just going to cost money. I don't know if we can afford it right now.
+
+Man: I told you we are financially sound. Don't worry about how much it will cost.
+
+Woman: I know. I just don't want to always argue about how we don't have enough money to pay the bills.
+
+Man: Don't worry about that. You would be a great yoga teacher. I want you to do this.
+
+Woman: Are you sure?
+
+Man: Of course. You are so good with people, you love yoga, and you are really good at it. Plus, we have saved up a good amount of money in the last couple years.
+
+Woman: Ok! I am going to do it.
+
+
+
+男：你還在考慮要成為ㄧ位瑜珈老師嗎？
+女：我是。只是這要花錢。我不知道我們現在是否能負擔。
+男：我告訴過你我們目前經濟很穩定。不需擔心金額多少。
+女：我知道。我只是不想經常為付賬單的錢不夠而爭吵。
+男：不用擔心這個。你會變成一個很棒的瑜珈老師。我想要你去做。
+女：你確定嗎？
+男：當然。你善於和人群相處，你熱愛瑜珈，且你真的很擅長。再者，我們這幾年已經存了一筆豐厚的資金。
+女：OK！我會去做。
+
+重要單字及片語
+financially adv. 經濟上地
+afford v. 負擔的起
+argue v. (+with) 爭論，爭執
+worry about 擔心…
+Ex. The manager is worried about meeting the new client tomorrow. 經理正在擔心和新客戶碰面這件事。
+答對
+	Question 34.	
+00:0000:02
+ 
+What is the woman trying to decide?
+ (A) Whether or not she can pay for yoga classes.
+ (B) Whether or not she wants to become a yoga teacher.(正解)
+ (C) Whether or not she can pay back the money she borrowed from the yoga teacher.
+ (D) Whether or not she is good with people.
+以下何者是這位女士的決定？
+a. 她是否能支付瑜珈課程
+b. 她是否要成為瑜珈老師
+c. 她是否能償還向瑜珈老師借得錢
+d. 她是否能和他人和平共處
+ 
+答對
+	Question 35.	
+00:0000:03
+ 
+What kind of relationship do you think they have?
+ (A) husband and wife(正解)
+ (B) father and daughter
+ (C) daughter and son
+ (D) brother and sister
+你覺得他們的關係為何？
+a. 夫妻
+b. 父女
+c. 女兒和兒子
+d. 兄弟姐妹
+ 
+答對
+	Question 36.	
+00:0000:03
+ 
+Does the man help her make a decision?
+ (A) She is still undecided by the end.
+ (B) No, he doesn't.
+ (C) Yes, he does.(正解)
+ (D) She already made the decision before the conversation.
+這男士是否幫忙她做決定？
+a. 她最後依舊未能決定
+b. 不，他沒有
+c. 是的，他有
+d. 在這段對話前，她就已經下定決心了
+ 
+Questions 37 through 39 refer to the following conversation:
+00:0000:59
+Woman: Cars R' Us, this is Padma speaking. How can I help you?
+
+Man: Hi, can I bring my car in today to get it looked at and fixed?
+
+Woman: Yes, but the mechanic might not be able to do it today. Is that ok?
+
+Man: Yes, but will they be able to get to it tomorrow?
+
+Woman: Yes, but it might take a few days to be fixed depending on what is wrong with it.
+
+Man: Also, do you offer a tow service? My car has been smoking and overheating and I don't want to drive it in to you.
+
+Woman: That is very smart and yes we do have a tow service. What is your name?
+
+Man: Oliver Cole.
+
+Woman: What is your location and cell phone number?
+
+Man: I live on 546 Mapleton Drive. My zip code is 46903. My number is 344-2967.
+
+Woman: Someone can be there to pick you and your car up in about 30 minutes. Are you at home now?
+
+Man: Yes, I will be here.
+
+女： 安心車廠，我是Padma。有什麼我可以為你協助的？
+男：嗨，我可以今天開車過去檢查維修嗎？
+女：可以，但修車師傅可能無法今天修理。可以嗎？
+男：可以，但明天可以領車嗎？
+女：可以，但視損壞部份而定，也許會多需要幾天來修理。
+男：還有，你們有提供道路救援的服務嗎？我的車子起煙又過熱，我不想這樣開過去車廠。
+女：這樣是聰明的，再者我們的確有拖吊服務。請問大名是？
+男：Oliver Cole。
+女：你的地點以及手機電話？
+男：我住在 Mapleton Drive 546號。地區碼是46903。我的號碼是344-2967。
+女：三十分鐘後會有人去接你及拖車。你現在在家嗎？
+男：是的，我會在家。
+
+重要單字及片語
+mechanic n. 技工
+smoking n. 冒煙，煙燻，抽菸
+overheat v. 過度加熱
+tow v. 拖，拉
+service n. 服務 depend on 根據，依據
+Ex. My decision about whether to go or not will depend on tomorrow's weather. 我會根據明天天氣決定要不要去。
+答對
+	Question 37.	
+00:0000:03
+ 
+What is the reason for this call?
+ (A) The man needs his car fixed.(正解)
+ (B) The man needs a new car.
+ (C) The man needs to talk to someone.
+ (D) The man needs someone to drive his car.
+以下選項何者是這通電話的原因？
+a. 這男的需要修車
+b. 這男的需要一台新車
+c. 這男的需要和人說話
+d. 這男的需要某人將他的車開走
+ 
+答對
+	Question 38.	
+00:0000:02
+ 
+Why does he need a tow service?
+ (A) He parked illegally.
+ (B) Cars R' US requires it.
+ (C) The car has some serious problems. (正解)
+ (D) He is not at home where the car is.
+為什麼他需要拖吊服務？
+a. 他違法停車
+b. 出自安心車廠的要求
+c. 這台車有很嚴重的問題
+d. 車子在家，但他不在
+ 
+答對
+	Question 39.	
+00:0000:04
+ 
+When will the tow service be there to pick the man up?
+ (A) It will be there tomorrow.
+ (B) It will be there in a few days.
+ (C) It will be there in half an hour. (正解)
+ (D) It will be there a few minutes.
+拖吊服務會在以下哪個時間接這位男士？
+a. 明天會到
+b. 過幾天會到
+c. 半個小時會到
+d. 幾分鐘後會到
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 3 refer to the following short talk:
 00:0000:35
 Attention passengers. We'll be making a brief stop in Moose Jaw before continuing on to our final destination. Feel free to get out and stretch your legs but don't stray too far. We'll be leaving as soon as our delivery has been completed and have a strict schedule to maintain. For those of you in need of a snack, there are a few vending machines inside the bus terminal. Please do not attempt to make a purchase at the restaurant across the street as they will be unable to process your order in time.
 
@@ -11568,6 +19139,1456 @@ d. 一名醫生
 答對
 Question 1.	 
  
+____________ Kelly R. Murji, professor of neurosciences at the University of Wellington, the study of neural networks is the most promising new branch of neuroscience.
+ (A) In contrast to
+ (B) According to(正解)
+ (C) In accordance to
+ (D) In comparison to
+根據威靈頓大學的神經科學教授Kelly R. Murji，研究神經網路是神經科裡最有前景的新科系。
+a. 與……相比
+b. 根據
+c. 錯誤用法，正確為 【In accordance with】
+d. 與…相比
+
+解析：後句為個人意見的陳述，故選項(b)較符合題意，表根據某人意見來呈現後句的陳述。
+ 
+答對
+Question 2.	 
+ 
+____________ he had just filled the car, the gas meter still said it was empty.
+ (A) Despite
+ (B) Even
+ (C) Even though(正解)
+ (D) Since
+雖然他剛把車子加滿油，油表仍然顯示空箱已空。
+a.儘管、不論(介詞)
+b.甚至(副詞)
+c.雖然、即使(連接詞)
+d.自….以來(介詞)、由於(連接詞)
+
+解析：本句前後兩句語意相反，前句【filled the car車子剛加滿油】後句【it was empty還是空的】，選(c)表【雖然、即使】與選項(a)表【儘管】都可使用在連接語氣相反的子句，但選項(a)【despite=in spite of】為介係詞用法，後接名詞；選項(c)後接子句。從空格後方【he(主詞) had just filled(動詞) the car】可判斷本句為子句，故選項(c)為正解。
+ 
+答錯
+Question 3.	 
+ 
+After the big merger, several positions were ____________ and half the office workers were laid off.
+ (A) cut(正解)
+ (B) broke
+ (C) snapped
+ (D) disappeared
+經過公司大合併之後，好幾個職位已經被削減，還有一半的辦公室員工被裁員。
+a. 削減、剪掉 (動詞)
+b. 打破 (動詞)
+c. 拉斷 (動詞)
+d. 消失(動詞)
+
+解析：根據關鍵單字【merger合併】【were laid off被裁員】可判斷主詞【several positions數個職位】會愈變愈少，故可判斷選項(a)為正解。其餘選項意思與題意不符。
+ 
+答錯
+Question 4.	 
+ 
+The karate instructor made the students ____________ to build up their strength and flexibility.
+ (A) to do some moves
+ (B) done some moves
+ (C) do some moves(正解)
+ (D) doing some moves
+空手道教練要學生做一些提升自己的強度與柔軟度的動作。
+a. 不定詞to+原型動詞do
+b. do的過去分詞用法
+c. do的原型動詞用法
+d. do的現在分詞用法
+
+解析：句意為主動語氣時，使役動詞【have, make, let】後接原形動詞，故選(c)為正解。為被動語氣時，使役動詞後接過去分詞V-pp。由本句的使役動詞【made】後方的受詞【the students】與動詞【do】的關係可判斷兩者為主動，故動詞【do】為原形動詞，選項(c)為正解。
+ 
+答錯
+Question 5.	 
+ 
+Having been in a ____________ relationship for more than a decade, Brett and Yoko finally decided to get married.
+ (A) committed(正解)
+ (B) commented
+ (C) recommended
+ (D) commercialized
+交往超過十年後，Brett和Yoko終於決定結婚。
+a. 下承諾的、忠於(某人)的 (形容詞)
+b. 被評論的(形容詞)
+c. 被推薦的(形容詞)
+d. 商業化的(形容詞)
+
+解析：根據前句關鍵單字【more than a decade超過十年】加上後句的結果【decided to get married決定要結婚】可判斷主詞兩人的【relationship關係】很長久，只有選項(a)符合題意。其餘選項皆不合題意。
+ 
+答錯
+Question 6.	 
+ 
+____________ for the management position were asked to submit their CVs no later than the 5 December 2012.
+ (A) Apply
+ (B) Applicants(正解)
+ (C) Applications
+ (D) Applicators
+應徵管理職位者最晚於2012年12月5日需繳交個人履歷表。
+a. 申請 (動詞)
+b. 申請人 (名詞複數)
+c. 申請表 (名詞複數)
+d. 塗藥器 (名詞複數)
+
+解析：根據空格後方的關鍵單字【for the management position管理職位】及動詞【were asked被要求】可判斷前方主詞為人，主詞為人才能去申請管理職位，故選項(b)符合題意為正解。
+ 
+答錯
+Question 7.	 
+ 
+According to the directions, this medicine should be taken ____________ a glass of lukewarm water.
+ (A) for
+ (B) by
+ (C) around
+ (D) with(正解)
+依藥物說明，這種藥必須連同溫水一起服用。
+a. 因為(介係詞)
+b. 藉由…(方法) (介係詞)
+c. 大約、大概(介係詞)
+d. 和、與、有、用(介係詞)
+
+解析：根據題意，服用藥物需搭配溫水服下，選項中只有(d)可當【搭配、附加…、有、用、和、連同…一起】的意思，其餘選項並無此意，故(d)為正解。
+ 
+答對
+Question 8.	 
+ 
+Following the seven-car accident, over ten people ____________ to the local hospital.
+ (A) took
+ (B) taken
+ (C) were taken(正解)
+ (D) are taking
+由於七部汽車連環撞的意外，造成超過十人被送到當地的醫院。
+a. 過去式
+b. 過去分詞
+c. 過去式的被動語氣(主詞複數)
+d. 現在進行式(主詞複數)
+
+解析：根據句意，後句【主詞over ten people】是被送到醫院裡的，故本句為被動語氣Be-V+V-pp，故選(c)為正解。
+ 
+答錯
+Question 9.	 
+ 
+The ____________ of the audience into discussion groups will take place after the first presentation.
+ (A) divide
+ (B) divisive
+ (C) dividend
+ (D) division(正解)
+第一場演講後會將觀眾分組進行討論會。
+a. 區分 (動詞) 
+b. 區分的 (形容詞)
+c. 紅利 (名詞)
+d. 分配、分開 (名詞)
+
+解析：空格前的定冠詞【the】後需接名詞，故只有選項(d)為正解。選項(c)也是名詞，但意思與本句不符。
+
+ 
+答對
+Question 10.	 
+ 
+If the customer wants to pay with a credit card, just take the card and ____________ it with this device.
+ (A) stripe
+ (B) swipe(正解)
+ (C) spike
+ (D) snipe
+假如顧客想要用信用卡付款，只要用這台裝置刷卡即可。
+a. 條紋、線條 (名詞)
+b. 擦過、揮擊 (動詞)
+c. 尖釘、(運動用)釘鞋 (名詞)
+d. 狙擊(動詞)
+
+解析：前句指出【pay with a credit card以信用卡付款】可判斷付款手續要刷卡才能進行，搭配刷卡的動詞多用【swipe the card】來表示，故選項(b)較符合題意。
+ 
+答對
+Question 11.	 
+ 
+Don't forget to ____________ your back pills after you eat dinner, Grandpa!
+ (A) sniff
+ (B) drink
+ (C) take(正解)
+ (D) eat
+爺爺！晚飯後別忘記吃治療背痛的藥丸！
+a. 嗅、聞(動詞)
+b. 喝 (動詞)
+c. 服藥(動詞)
+d. 吃 (動詞)
+
+解析：【吃藥】的常用語法為【take…(顆粒狀藥丸類)】，【擦藥】的常用語法則為【apply(藥膏乳液類)on(身體部位)】。根據空格後方的關鍵單字【pill藥丸】可得知選項(c)為正解。選項(b)適用於【液狀】的藥物，與本句敘述不符。
+ 
+答對
+Question 12.	 
+ 
+Don't forget to collect all the bags that don't have any holes in them and are still ____________.
+ (A) user
+ (B) usable(正解)
+ (C) useless
+ (D) used
+別忘了將所有沒有破洞及依然可使用的袋子收集起來。
+a. 使用者 (名詞)
+b. 可用的 (形容詞)
+c. 無用的 (形容詞)
+d. 用過的、二手的 (形容詞)
+
+解析：空格處用來修飾後句受詞【all the bags所有的袋子】，受詞為名詞用法故需選擇形容詞來修飾名詞，故選項(b)為正解。選項(c)(d)同為形容詞，但意義不符合本句。
+ 
+答對
+Question 13.	 
+ 
+The only way I can finish this project on time is to concentrate ____________ completing all these charts and not get distracted by all the noise outside.
+ (A) in
+ (B) on(正解)
+ (C) by
+ (D) for
+唯一讓我可以如期完成這個計畫的方法是專注完成這些表格且不被外面的聲音干擾。
+a. 在…裡面
+b. 在..上面/部分
+c. 藉由…(方法)
+d. 為了…(原因)
+
+解析：動詞【concentrate專注於】為不及物動詞，需接介係詞【on】才能接受詞，故選項(b)為正解。其他選項的介係詞皆不可搭配動詞【concentrate專注於】使用。
+
+ 
+答對
+Question 14.	 
+ 
+The last time I ____________ in the city marathon was so long ago that I can't even remember it.
+ (A) participated(正解)
+ (B) would participate
+ (C) will participate
+ (D) participate
+我最後一次參加城市馬拉松比賽已經久遠到我都不記得了。
+a. 過去式動詞 (已參加)
+b. 過去式助動詞+原型動詞 (會參加)
+c. 助動詞+原型動詞 (將會參加)
+d. 原型動詞 (參加)
+
+解析：根據時間副詞【The last time上一次】可判斷前句為過去式，故選(a)為正解。
+ 
+答錯
+Question 15.	 
+ 
+First, we'd like to thank you for your ____________ on the Jack Steels case.
+ (A) cooperate
+ (B) cooperation(正解)
+ (C) conclusion
+ (D) contamination
+首先，非常感謝你在Jack Steel案子上的協助。
+a. 合作、協助 (動詞)
+b. 合作 (名詞)
+c. 結論、推論 (名詞)
+d. 汙染 (名詞)
+
+解析：空格前的所有格【your】後接名詞，故只有選項(b)符合本句句意為正解。其餘選項皆與本句句意不符。
+ 
+答錯
+Question 16.	 
+ 
+To ____________ exactly did you mail your application for the government subsidy?
+ (A) whom(正解)
+ (B) who
+ (C) whose
+ (D) which
+你到底把政府補助申請表寄給誰?
+a. 關係代名詞(先行詞為人)的受詞用法
+b. 關係代名詞(先行詞為人)的主詞用法
+c. 關係代名詞(先行詞為人/非人接可)的所有格用法
+d. 關係代名詞(先行詞為非人)的主詞用法
+
+解析：空格前的不定詞【to】後接【受詞】，選項(b)的疑問詞who為主詞用法，需選擇選項(a)為受詞用法為正解。
+ 
+答對
+Question 17.	 
+ 
+The value of the US dollar has been ____________ steadily since the end of last month.
+ (A) downing
+ (B) downsizing
+ (C) decreasing(正解)
+ (D) narrowing
+自上個月底以來，美元價值已在趨緩。
+a. 向下 (動詞)
+b. 規模縮小 (動詞)
+c. 減少 (動詞)
+d. 變窄 (動詞)
+
+解析：本句主詞為【The value of the US dollar美元的價值】可判斷價值的高低可增加或減小，除選項(c)外其餘選項意思皆不符，故為正解。
+ 
+答對
+Question 18.	 
+ 
+The construction of this nuclear facility was done primarily ____________ the years of 1999 and 2001.
+ (A) between(正解)
+ (B) for
+ (C) through
+ (D) on
+核能設施的工程於1999年和2001年之間初步完工。
+a. 在(兩個明確時間)之間(時間介係詞)
+b. 後接一段時間(時間介係詞)
+c. 從頭到尾(時間介係詞)
+d. 後接某一個特定日期(時間介係詞)
+
+解析：選項四個介係詞中，只有選項(a)可用來搭配空格後方的連接詞【and】→表示【between A and B在AB兩者之間】，故(a)為正解。選項(b)(d)不可搭配後方的連接詞【and】。空格前方表示主詞【was done已經完工】選項(c)意義與本句敘述不合。
+ 
+答錯
+Question 19.	 
+ 
+America's richest and most successful people have one thing in common: they always ____________ every opportunity presented to them.
+ (A) hug
+ (B) hold
+ (C) catch
+ (D) grab(正解)
+美國最富有、最成功的人都有一項共同的特徵：他們總是抓住眼前的每個機會。
+a. 擁抱
+b. 握、舉行
+c. 抓住、捕獵、捕抓
+d. 緊抓、抓取
+
+解析：根據空格後的關鍵單字【opportunity機會】可得知搭配的動詞需使用【grab every opportunity】表【抓住每個機會】，故選項(d)為正解。選項(c)表【捕抓】使用於抓住較具體的物件。選項(b)則表示【握住、持有】具體的物件，故兩者選項皆不適用於本句。
+ 
+答對
+Question 20.	 
+ 
+Due to increased ____________ from foreign travel agencies, Santana Tours was forced to lower its package tour prices.
+ (A) compete
+ (B) contemplate
+ (C) competition(正解)
+ (D) continuation
+由於來自國外旅行社的競爭激烈，桑塔納旅行社的旅行套裝被迫降價。
+a.競爭 (動詞)
+b.思量、仔細考慮 (動詞)
+c.競爭 (名詞)
+d.延續 (名詞)
+
+解析：空格前方【increased增加的】為過去分詞【V-pp】當形容詞用，做前位修飾後方的名詞，只有選項(c)為名詞又符合題意，故為正解。其他選項的意思皆與題意不符。
+ 
+答錯
+Question 21.	 
+ 
+I'd like to request that all these window frames ____________ in a color that matches our front porch.
+ (A) painted
+ (B) will paint
+ (C) be painted(正解)
+ (D) were painted
+我想要求窗戶外框的油漆塗色要搭配我們前廊。
+a. 過去式
+b. 未來式助動詞+原型動詞
+c. 被動語氣
+d. 過去式的被動語氣	
+
+解析：動詞【request要求】後接【to+原形動詞】，不定詞【to】可省略，故選項(c)為正解。
+ 
+答對
+Question 22.	 
+ 
+Dr. Clark was so exhausted from working all night ____________ he collapsed on the bed when he got home.
+ (A) such
+ (B) that(正解)
+ (C) where
+ (D) which
+克拉克醫生整晚工作太疲憊，因此到家後馬上倒在床上。
+a.如此的(+名詞)
+b.搭配句型使用，見解析
+c.哪裡(疑問詞)
+d.哪一個(疑問詞)
+
+解析：根據空格前方的關鍵單字【so】可判斷本句使用句型【so…that…】表【如此…以致於(+結果)】，故選項(b)為正解。
+ 
+答錯
+Question 23.	 
+ 
+All first-time patients at the Glenrose Community Health Center ___________ to fill out a personal information form.
+ (A) were asking
+ (B) are asked(正解)
+ (C) asked
+ (D) had been asked
+第一次來格蘭洛斯社區健康中心的患者要填寫個人資料表。
+a. 過去式的被動語氣
+b. 現在式的被動語氣
+c. 過去式
+d. 過去完成式的被動語氣
+
+解析：根據句意，主詞【All first-time patients初診的病患】會被要求要填寫表格，可判斷為被動語氣，故選項(b)為正解。選項(d)為過去完成的被動語氣，表某動作在過去持續發生一段時間，本句表達一件事實，並沒有持續一段時間，故選項(d)與用法不符。
+ 
+答錯
+Question 24.	 
+ 
+The judge sentenced the accused man to seven months in jail for he ____________ arrested for petty theft twice before.
+ (A) have
+ (B) has
+ (C) had
+ (D) had been (正解)
+由於被告過去有兩次偷竊被捕的紀錄，法官判他入監服刑七個月。
+a. 現在完成式(have+V-pp)
+b. 現在完成式(has+V-pp) (搭配主詞三單)
+c. 過去完成(had+V-pp)
+d. 過去完成式的被動語氣(had+been+V-pp)
+
+解析：兩個皆發生在過去的動詞，為區隔發生的前後順序。先發生用過去完成式【had+V-pp】，後發生則用過去簡單式【V-pt】。根據題意可判斷後句的時間副詞【theft …before之前…偷竊】，所以之後才會被【sentenced…jail入監服刑】，故選項(d)為正解。
+ 
+答錯
+Question 25.	 
+ 
+He ___________ seem like a very inactive man, but Mr. Cutting loves to hike in the mountains behind his neighborhood every weekend.
+ (A) could
+ (B) must
+ (C) may(正解)
+ (D) would
+卡丁先生看起來似乎是個非常怠惰的人，但他喜歡每個禮拜去他家後面爬山。
+a. 能夠(can的過去式)
+b. 必須
+c. 可以、可能
+d. 會(will的過去式)
+
+解析：前句關鍵單字【seem似乎】有推測的意思，故選(c)表推測。選項(a)表能力、可以；選項(b)表必須，用來表示義務及命令；選項(d)表將會，為過去時間的未來式用法。這三個選項均與本句題意不符。
+ 
+答對
+Question 26.	 
+ 
+The CEO was arrested for ____________ in a variety of illegal activities, including money laundering and bribery.
+ (A) enlarging
+ (B) enraging
+ (C) engaging (正解)
+ (D) encaging
+該執行長因涉及各種非法活動而被逮捕，包含洗錢及賄賂。
+a. 擴大 (動名詞)
+b. 使憤怒 (動名詞)
+c. 從事、參與 (動名詞)
+d. 關入籠中 (動名詞)
+
+解析：根據關鍵單字【a variety of illegal activities各種非法行動】故可判斷主詞被逮捕是因為【The CEO】介入這些活動，故選項(c)為正解。其他選項的意思與本句不符。
+ 
+答錯
+Question 27.	 
+ 
+This is the town ____________ Jesus Christ was born.
+ (A) which
+ (B) in which(正解)
+ (C) at
+ (D) when
+這裡是耶穌基督誕生的城鎮。
+a. 代替非人的先行詞(關係代名詞)
+b. 介係詞+關係代名詞=關係副詞
+c. 後接某一刻鐘/幾點鐘(介係詞)
+d. 代替時間(關係副詞)
+
+解析：還原本句為【This is the town./ Jesus Christ was born in the town.】以關係代名詞連接兩句後→【This is the town which Jesus Christ was born in.】故可將形容詞子句後句的介係詞移置關代【which】的前方。
+ 
+答對
+Question 28.	 
+ 
+Even though ____________ of my coworkers are being forced to attend the meeting, my boss gave me permission to give it a miss.
+ (A) most(正解)
+ (B) neither
+ (C) each
+ (D) most of all
+雖然大部分的同事被迫參加會議，但是我的老闆已經准許我缺席。 
+a. 大部分的
+b. 兩者任一都非
+c. 每一個的
+d. 最重要的
+
+解析：根據空格後方的Be動詞【are】可判斷主詞為複數，選項(b)表【任一皆非】選項(c)表【每一個】兩個選項皆為單數用法，而選項(d)搭配後方名詞【most of all】文法錯誤。故只有選項(a)為正解。
+ 
+答錯
+Question 29.	 
+ 
+____________ people, such as those with injuries or in wheelchairs, can use the elevator to reach the second and third floors.
+ (A) Disabled(正解)
+ (B) Disinterested
+ (C) Disconnected
+ (D) Disappeared
+行動不便的人士，如：那些受傷或坐輪椅的人們，可以搭電梯到第二和第三樓。
+a. 殘廢的、有缺陷的 (形容詞)
+b. 無私的、公正的 (形容詞)
+c. 無聯繫的 、分離的(形容詞)
+d. 消失的 (形容詞)
+
+解析：後句【those with injuries or in wheelchairs受傷或坐輪椅的那些人】可知這些人為身體有行動障礙，故選(a)符合題意為正解。其餘選項的意思皆不合題意。
+ 
+答錯
+Question 30.	 
+ 
+Dr. Coolridge is neither a doctor ____________ a real man. It's just a brand name.
+ (A) or
+ (B) and also
+ (C) and
+ (D) nor(正解)
+Dr. Coolridge不是醫生也不是個真人，它是品牌名。
+a. 或者
+b. 也
+c. 和、然後
+d. 也非
+
+解析：由空格前方的關鍵單字【neither】可得知句型【neither…nor…】表【不是A…也不是B】，故選(d)為正解。
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+答對
+Question 1.	 
+ 
+I can't tell you how much ____________ it will be until we arrive, because I don't have the slightest clue where we are.
+ (A) longer(正解)
+ (B) faster
+ (C) farther
+ (D) quicker
+我無法告訴你還要多久直到我們到達目的地，因為我連目前位子在哪裡的一點線索都沒有。
+a. 更長的 (時間) (比較級形容詞)
+b. 更快的 (速度) (比較級形容詞)
+c. 更遠的 (距離) (比較級形容詞)
+d. 更快的(速度) (比較級形容詞)
+
+解析：根據空格後關鍵字【until we arrive直到我們到達】可判斷本句在詢問到達的時間，故選項(a)為正解。選項(b)(d)指動作速度，而選項(c)指距離皆與題意不符。
+ 
+答錯
+Question 2.	 
+ 
+The product must undergo a series ____________ quality assurance tests before being introduced to the market.
+ (A) on
+ (B) of(正解)
+ (C) for
+ (D) to
+一件未上市的產品必須事先經過一系列的品質保證檢驗。
+a. 在上面 (後接名詞)
+b. …的(後接名詞)
+c. 表目地 (後接名詞)
+d. 表目的 (後接原形動詞)
+
+解析：由空格前方的關鍵單字【a series】可得知空格處為片語【a series of】表【一連串的、一系列的】，故選項(b)為正解。其餘選項不可與關鍵單字合併使用。
+ 
+答錯
+Question 3.	 
+ 
+This is the hotel bar ____________ the Singapore Sling, a world-famous fruity cocktail, was invented.
+ (A) in which(正解)
+ (B) whose
+ (C) in that
+ (D) that
+這間酒吧是發明新加坡司令，世界最知名的水果雞尾酒的地方，
+a. 介係詞+關係代名詞=關係副詞
+b. 關係代名詞(先行詞為人/非人皆可)的所有格用法
+c. 無此用法
+d. 關係代名詞(先行詞為人/非人皆可)的用法
+
+解析：本句以關係代名詞連接後方的形容詞子句，子句還原後→【The Singapore Sling, a world-famous fruity cocktail, was invented in this hotel bar.】，本句中介係詞可被提到關代which之前，故選項(a)為正解。
+ 
+答對
+Question 4.	 
+ 
+Swipe your card on the electronic reader then ____________ the station to the left.
+ (A) collide
+ (B) exit(正解)
+ (C) outside
+ (D) off
+你可以把卡片刷在電子閱讀器上，然後從車站的左手邊出去。
+a. 與…相撞、碰撞(動詞)【+with】
+b. 出去 (動詞)
+c. 外面 (形容詞)；外部、外面(名詞)
+d. 離開 (介詞)
+
+解析：根據前句可知刷卡後可進入也可出站，四個選項中只有選項(b)的意思符合題意，故為正解。
+ 
+答對
+Question 5.	 
+ 
+I am totally convinced that Brazil ____________ this year's World Cup.
+ (A) wins
+ (B) had won
+ (C) has won
+ (D) will win(正解)
+我完全地確信巴西將會贏得今年世足賽。
+a. 現在簡單式
+b. 過去完成式
+c. 現在完成式 
+d. 未來式
+
+解析：根據空格後方的時間副詞【this year今年】可知動作尚未完成，故需選未來式，選項(d)為正解。
+ 
+答對
+Question 6.	 
+ 
+Excuse me, sir. We need to ask you to leave the bar because of your ____________ behavior.
+ (A) appropriate
+ (B) acceptable
+ (C) inappropriate(正解)
+ (D) inappropriately
+先生，不好意思，由於你的行為不當，我們必須要求你離開酒吧。
+a. 適當的 (形容詞)
+b. 可接受的(形容詞)
+c. 不適當的(形容詞)
+d. 不適當地(副詞)
+
+解析：根據句意可知主詞被請出酒吧是因為行為不佳，故可知空格處需加入形容詞修飾空格後方的名詞，故選項(c)為正解。其餘選項意思與本句題意不符。
+ 
+答對
+Question 7.	 
+ 
+Due to the ____________ of a spy in the department, an emergency meeting was called.
+ (A) presents
+ (B) permanence
+ (C) pretense
+ (D) presence(正解)
+由於發現部門裡有間諜存在，所以公司馬上召開緊急會議。
+a. 現在、目前 (名詞)；出席的、在場的(形容詞)
+b. 永久(名詞)
+c. 假裝(名詞)
+d. 存在 (名詞)
+
+解析：後句會召開【emergency meeting緊急會議】的原因在於部門裡發現有間諜存在，故選項(d)符合題意為正解。選項(a)【the present】表【在目前】與題意不符；其餘選項意思與句意不符。
+ 
+答對
+Question 8.	 
+ 
+When driving on the highway, it is essential that you are not ____________ and don't drive too fast.
+ (A) care
+ (B) careless(正解)
+ (C) careful
+ (D) caring
+當你在高速公路行駛時，不要粗心大意也不要開太快是很重要的。
+a. 照顧(名詞)
+b. 粗心(形容詞)
+c. 小心(形容詞)
+d. 有愛心的(形容詞)
+解析：根據後句【don't drive too fast不要開太快】可判斷空格前指主詞開車不可【粗心大意】，故選項(b)較符合題意為正解。其餘選項意思與本句不符。
+ 
+答錯
+Question 9.	 
+ 
+It shouldn't ____________ you more than an hour or two to figure out the problem with this piece of equipment.
+ (A) take(正解)
+ (B) spend
+ (C) cost
+ (D) last
+你不應該花超過一兩個小時去尋找這項設備的問題。
+a. 花費【+時間】的句型，主詞為事物
+b. 花費【+時間/錢】的句型，主詞為人
+c. 花費【+錢】的句型，主詞為事物
+d. 持續
+
+解析：三花動詞定律: 【人+spend+時/金】【事物+take+時】【事物+cost+金】。本句前方主詞為【事物】後方接【時間】故可判斷選項(a)為正解。
+ 
+答錯
+Question 10.	 
+ 
+Miss Campbell had a lot of ____________ in her neck so she got a Swedish massage after work.
+ (A) digestion
+ (B) expansion
+ (C) sanction
+ (D) tension(正解)
+Campbell的肩頸很緊繃，所以下班後，她去做瑞典式按摩。
+a. 消化 (名詞)
+b. 擴展、膨脹 (名詞)
+c. 贊成、批准 (名詞)
+d. 緊繃 (名詞)
+解析：根據後句【got a Swedish massage瑞典式按摩】可知主詞Miss Campbell的肩頸很緊繃，故只有選項(d)符合題意為正解。其他選項的意思皆不合題意。
+ 
+答錯
+Question 11.	 
+ 
+Westerners traditionally dine with a spoon, knife and fork, ____________ Easterners have the habit of using chopsticks.
+ (A) whereas(正解)
+ (B) what
+ (C) where
+ (D) when
+西方人通常用湯匙、刀子、和叉子吃飯，反之，東方人習慣使用筷子。
+a. 反之 (連接詞)
+b. 何物、何事(疑問詞)
+c. 何處(疑問詞)
+d. 何時(副詞連接詞)
+ 
+答錯
+Question 12.	 
+ 
+Currently, the e-reader market ____________ by three major brands.
+ (A) dominates
+ (B) dominated
+ (C) is dominated(正解)
+ (D) was dominated
+目前，電子閱讀器的市場由三大主要品牌支配。
+a. 現在簡單式(搭配主詞三單)
+b. 過去簡單式
+c. 現在簡單被動式
+d. 過去簡單被動式
+
+解析：根據空格後介係詞【by】可判斷主詞【the e-reader market電子閱讀器的市場】被三大品牌所支配，故本句為被動語氣用法【be+V-pp】，選項(c)為正解。
+ 
+答對
+Question 13.	 
+ 
+One of Mao Zedong's greatest achievements was to ____________ Chinese characters, reducing the number of strokes required to write many of them.
+ (A) simple
+ (B) simplify(正解)
+ (C) simplified
+ (D) simplicity
+毛澤東最偉大的成就之一是簡化漢字，減少很多漢字原來的筆畫。
+a. 簡單的(形容詞)
+b. 簡化、精簡(動詞)
+c. 被簡化的(過去分詞)
+d. 簡單、簡易(名詞)
+
+解析：空格前方的不定詞【to】後接原形動詞及名詞，故選項(b)(d)皆有可能。但選項(d)【Mao Zedong's greatest achievements was to simplicity】表【毛的成就變得簡易】，與本句要表達的意思不符，故選項(b)為正解。
+ 
+答對
+Question 14.	 
+ 
+The massive turkey was roasted to ____________ and then cut into thin slices by the chef.
+ (A) perfect
+ (B) perfected
+ (C) perfection(正解)
+ (D) perfectly
+那隻大火雞烤到全熟後主廚將它切成薄片。
+a. 形容詞【完美的】、動詞【使完美】
+b. 動詞過去分詞【使完美】
+c. 名詞 【完美、完善、成功】
+d. 副詞【完美地】
+解析：不定詞後方可接原形動詞(decide to leave )表(決定去...做另一個動作) , 或當介係詞使用時亦可接名詞/動名詞, 如(be accustomed to 習慣於+N/Ving),或(He was hit to death(N).), 但不可接形容詞或副詞用法, 故選項(a)(b)(d)皆非 。本題中的主詞turkey搭配動詞 roast to 表示烤到某種狀態, 選項(c) roast to perfection 表烤到全熟的狀態,為名詞用法, 故(c)符合用法為正解 。
+ 
+答錯
+Question 15.	 
+ 
+America was the only NATO country that didn't ____________ the trade agreement.
+ (A) register
+ (B) ratify(正解)
+ (C) resign
+ (D) reapply
+美國是唯一不認可貿易協定的北大西洋公約組織的國家。
+a. 註冊 (動詞)
+b. 批准、認可(動詞)
+c. 辭職(動詞)
+d. 從新申請(動詞)
+
+解析：根據空格後的關鍵字【didn't…the trade agreement貿易協定】可判斷主詞American美國是唯一沒有簽約的國家，故選項(b)為正解。其餘意思皆與句意不符。
+ 
+答對
+Question 16.	 
+ 
+If you ____________ an appointment, we wouldn't have had to wait for two hours to see the specialist!
+ (A) had made(正解)
+ (B) made
+ (C) has made
+ (D) make
+假如你已經事先預約，我們就不用為了看專科醫生等了兩個小時。
+a. 過去完成式
+b. 過去簡單式
+c. 現在完成式
+d. 現在簡單式
+
+解析：根據後句【wouldn't have had】可判斷本句為【與過去事實相反的假設】故前句需用過去完成【had+V-pp】→句型為【if+ 過去完成式(had+V-pp), S+would/might/could/should+have+Vpp】，故選項(a)為正解。
+ 
+答對
+Question 17.	 
+ 
+He filmed such a nice video that he ___________ the responsibility of assisting with all future video projects.
+ (A) gave
+ (B) has been giving
+ (C) was given(正解)
+ (D) is giving
+他拍的影片很好看，因此他被賦予負責協助未來所有拍攝影片的責任。
+a. 過去簡單式 (V-pt)
+b. 現在完成進行式 (have/has been +Ving)
+c. 過去式的被動語氣 (was/were+V-pp)
+d. 現在進行式 (am/is/are+Ving)
+
+解析：根據後句【the responsibility of assisting協助拍攝的責任】可判斷主詞的責任歸屬是被給予的，故可判斷本句為被動語氣用法【beV+Vpp】，選項(c)為正解。
+ 
+答錯
+Question 18.	 
+ 
+After twelve weeks of ____________, the chemist was finally ready to conduct the experiment.
+ (A) prepares
+ (B) preparatory
+ (C) preparations(正解)
+ (D) prepared
+經過十二個禮拜的籌備後，化學家終於可以開始進行試驗。
+a. 準備(動詞)
+b. 預備的(形容詞)、預備學校(名詞)
+c. 預備、準備(名詞)
+d. 已準備的(過去分詞)
+
+解析：由空格前方的介係詞【of】可得知空格為名詞，只有選項(c)為名詞用法故為正解。其餘用法皆不符。
+ 
+答對
+Question 19.	 
+ 
+After the price of oil ____________ for several weeks, it finally became stable.
+ (A) calibrated
+ (B) punctuated
+ (C) fluctuated(正解)
+ (D) eliminated
+經過好幾個禮拜的油價波動後，油價終於穩定下來了。
+a. 使……標準化(動詞)
+b. 加標點符號(動詞)
+c. 波動、起伏不斷(動詞)
+d. 排除，消除(動詞)
+
+解析：根據後句【it finally became stable.終於穩定下來】可判斷前句的油價起起伏伏不斷，故只有選項(c)為正解。其餘選項的意思與本句題意不符。
+ 
+答錯
+Question 20.	 
+ 
+Having forgotten to take the laundry out of the drier, Eva had no other choice ____________ to wear damp clothes to work.
+ (A) so
+ (B) but(正解)
+ (C) and
+ (D) because
+由於忘了把衣服從烘乾機拿出來，Eva只好穿潮濕的衣服去上班。
+a. 所以 (連接詞)
+b. 搭配句型使用，見解析
+c. 和、與 (連接詞)
+d. 因為 (連接詞)
+
+解析：根據前句【forgotten to take the laundry out of the drier忘了把衣服從烘乾機拿出來】可得知主詞Eva只能穿著潮濕的衣服去上班。句型【have no other choice but】表【不得不】符合題意，故選項(b)為正解。其餘選項無法與空格前【have no other choice】搭配使用。
+ 
+答對
+Question 21.	 
+ 
+Cory was really upset because ____________ had stolen his brand new Armani suit jacket.
+ (A) anybody
+ (B) somebody(正解)
+ (C) nobody
+ (D) everybody
+Cory非常生氣因為有人偷了他的全新亞瑪尼外套。
+a. 任何人
+b. 某個人、有人
+c. 沒有人
+d. 每一個人
+
+解析：根據後句，因為有人偷走了主詞Cory的全新阿曼尼西裝外套，但主詞不確定是何人，故可知選項(b)為正解。選項(a)適用於否定及疑問句。
+ 
+答錯
+Question 22.	 
+ 
+When coming in to work, make sure you follow the dress code as ____________ on page 35 of your worker's manual.
+ (A) describe
+ (B) described(正解)
+ (C) describes
+ (D) describing
+當你來上班的時候，請確認你的衣著須符合員工作手冊第35頁敘述的服裝規定。
+a. 原形動詞
+b. 過去分詞
+c. 現在式動詞(搭配主詞三單)
+d. 現在分詞
+
+解析：後句表示【dress code服裝規定】被列在工作手冊的35頁，由受詞【dress code服裝規定】與動詞【describe描述】的關係判斷為被動語氣，故需選項(b)表【被描述的】為【過去分詞用法當形容詞】使用來修飾受詞為正解。 
+ 
+答錯
+Question 23.	 
+ 
+I ____________ to find the right lid for this container, but I'm still looking.
+ (A) hadn't been able
+ (B) haven't been able(正解)
+ (C) am not able
+ (D) won't be able
+我無法找到適合這個容器的蓋子，但是我仍然在找。
+a. 過去完成式【had+V-pp】
+b. 現在完成式【have/has+V-pp】
+c. 現在簡單式
+d. 未來式【will+V.R】
+
+解析：根據後句現在式動詞【am】可知主詞到現在都還沒找到容器的蓋子，故使用現在完成式【have+V-pp】來表示【到目前為止都還沒有找到】。故選項(b)為正解。選項(a)為過去完成，用來表示【某動作從過去某時間點持續發生到過去便結束了】。選項(c)表示【現在還在進行中】，根據後句【I'm still looking還在找】，時式前後矛盾。
+ 
+答錯
+Question 24.	 
+ 
+The driver will ____________ the shipment onto the dock and then you need to make sure everything is there and sign the form.
+ (A) untie
+ (B) unload(正解)
+ (C) undo
+ (D) uncover
+司機會把船運的貨物卸到碼頭上，然後你必須確保所有的東西都在那裡，並在這個表單上簽名。
+a. 解開、解除(動詞)
+b. 卸下(動詞)
+c. 解開、取消(動詞)
+d. 打開蓋子(動詞)
+
+解析：根據空格後【onto the dock移置到碼頭上】可知主詞需將【the shipment船運的貨物】卸下再移到碼頭上，故選項(b)符合選項為正解。其餘選項的意思與題意不合。
+ 
+答對
+Question 25.	 
+ 
+I don't like going to Thailand ____________ because it's too crowded with tourists from all over the world.
+ (A) anymore(正解)
+ (B) any longer
+ (C) no more
+ (D) somehow
+我不再喜歡去泰國，因為泰國擠滿了來自全世界的觀光客。
+a. 搭配【not....anymore，表示再也不】
+b. 無此用法，正確為【no longer，否定副詞，置於動詞之前，表(不再)】
+c. 不再 (否定副詞，置句尾)
+d. 不知怎麼的 (形容詞)
+
+解析：根據後句【it's too crowded太擁擠】可判斷主詞不再喜歡去泰國，故選項a)為正解。
+ 
+答錯
+Question 26.	 
+ 
+____________ conclusion, our study has proved that students learn less if they don't take a break and stretch their bodies at least once every hour.
+ (A) On
+ (B) In(正解)
+ (C) In a
+ (D) On the
+總而言之，我們的研究證明，如果學生沒有休息或者沒有做伸展至少每小時一次，他們的學習效果會變更少。
+a. 無此用法
+b. 搭配句型使用，見解析
+c. 無此用法
+d. 無此用法
+
+解析：副詞片語【in conclusion】表【總結而言】，只有選項(b)為正解，其餘選項皆無法搭配空格後方名詞使用。
+ 
+答錯
+Question 27.	 
+ 
+Kent's sales were only surpassed ____________ Kim's, the company's most experienced sales rep.
+ (A) beyond
+ (B) by(正解)
+ (C) between
+ (D) below
+Kent 的銷售業績只有被公司最資深的業務代表Kim超過。
+a. 越過(介詞)
+b. 由、被 (介詞)
+c. 在…之間(介詞)
+d. 在下面(介詞)
+
+解析：根據主詞【Kent's sales業績】被受詞【Kim】超過，故動詞【be surpassed】為被動語氣，後方介係詞需接【by】。故選項(b)為正解。
+ 
+答錯
+Question 28.	 
+ 
+The dance instructor was really ____________ for being ten minutes late for the class.
+ (A) apology
+ (B) apologetic(正解)
+ (C) apologizer
+ (D) apologize
+舞蹈老師因上課遲到10分鐘而感到非常抱歉。
+a. 名詞
+b. 形容詞 
+c. 無此用法
+d. 動詞
+
+解析：空格處位於Be-V後方為形容詞，用來形容主詞【The dance instructor舞蹈老師】，選項(a)為名詞表【歉意】與題意不符，選項(d)為動詞接在Be-V後需改為【V-ing】表進行式或改為【V-pp】表被動語氣，選項(c)為名詞表【道歉的人】與題意不符。故選項(b)為正解，用來修飾主詞表【具有歉意的】。
+ 
+答對
+Question 29.	 
+ 
+This corporation offers a comprehensive benefits package ____________ massive discounts on merchandise to all its senior employees.
+ (A) as well as(正解)
+ (B) as long as
+ (C) as well
+ (D) as soon as
+這家公司對資深員工提供了全套的福利和多種商品折扣。
+a. 和、與 (連接詞)
+b. 只要 (連接詞)
+c. 也 (副詞，置於句尾)
+d. 一…就 (連接詞)
+
+解析：根據題意，公司對資深員工提供的方案內包含空格後方提到的【discounts折扣】，可判斷選項(a)表【和、與】符合題意，其餘選項意思如上所示皆不符合本句用法。
+ 
+答對
+Question 30.	 
+ 
+I failed ____________ why we had to wait in a line for four hours only to ask a simple question.
+ (A) understand
+ (B) understood
+ (C) for understanding
+ (D) to understand (正解)
+我無法瞭解為什麼我們必須為了詢問非常簡單的問題而排隊好幾個小時。
+a. 原形動詞
+b. 過去分詞
+c. 介係詞 +V-ing
+d. 不定詞 +原型動詞
+
+解析：動詞【failed做…失敗】後接不定詞【to+原形動詞】，故選項(d)為正解。
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+答對
+Question 1.	 
+ 
+__________ we had to pay for all our snacks and drinks, we quite enjoyed the budget airline flight to Bangkok.
+ (A) As though
+ (B) Despite
+ (C) Rather than
+ (D) Even though(正解)
+雖然我們必須負擔全部的點心與飲料費，但是我們喜歡搭這趟廉價航空飛往曼谷。
+a. 仿佛、似乎
+b. 儘管
+c. 而不是
+d. 雖然
+
+解析：前句提及主詞【had to pay for all our snacks and drinks必須負擔全部的點心與飲料費】後句的關鍵單字提及【enjoyed the budget airline flight喜歡這趟廉價航空的旅程】，可判斷前後兩句語意相反，故選(d)為正解。選項(a)【as though/as if】表【好像】則用於假設語氣，與本句不符。
+ 
+答對
+Question 2.	 
+ 
+You can move the cursor across the screen __________ using a mouse.
+ (A) with
+ (B) by(正解)
+ (C) for
+ (D) in
+你可以用滑鼠將游標移到螢幕的另一邊。
+a. 用…(工具) (介詞)
+b. 藉由…(方法或工具) (介詞)
+c. 為了 (介詞)
+d. 在…方面 (介詞)
+
+解析：前句要將游標移到螢幕的另一邊，需藉由使用滑鼠。故選項(b)表【藉由…(方法或工具) 】為正解。選項(a)表【用、有…(工具)】→須改為【with a mouse】，故不符本句用法。
+ 
+答錯
+Question 3.	 
+ 
+Advance tickets for the movie premiere go __________ at exactly noon this Friday.
+ (A) for sale
+ (B) to sell
+ (C) on sales
+ (D) on sale(正解)
+電影首映的預售票將在這星期五中午準時折扣特賣。
+a. 待售 (片語)
+b. 賣 (不定詞)
+c. 無此用法
+d. 折扣 (片語)
+
+解析：選項(a)表【販售中】而選項(d)表【折扣中】，選項(a)不可與空格前方的動詞【go】合併使用，故選項(d)【go on sale】為正解。
+ 
+答對
+Question 4.	 
+ 
+Currency analysts __________ for years that the value of the dollar would plummet, but it still hasn't happened.
+ (A) will predict
+ (B) have been predicting(正解)
+ (C) has predicted
+ (D) are predicting
+貨幣分析師好幾年來都預測美元價值會下降，但是到目前為止仍然還沒發生。 
+a. 未來式
+b. 現在完成進行式
+c. 現在完成式
+d. 現在進行式
+
+
+解析：根據空格後方的時間副詞【for years】可判斷【某動作持續了一段時間】故需使用【完成式have+V-pp】或【完成進行式have+been+V-ing】，此外主詞為複數，故選項(b)為正解。
+ 
+答對
+Question 5.	 
+ 
+Don't even consider registering for the competition __________ first asking your wife!
+ (A) with
+ (B) without(正解)
+ (C) within
+ (D) withheld
+沒先問過你太太，千萬不要想報名參賽！
+a.搭配、用（工具）(介詞)
+b. 沒有、不 (介詞)
+c. 在…之內 (介詞)
+d. 抑制、保留 (動詞)
+
+解析：由空格後【first asking your wife先問過你的太太】搭配前句的關鍵單字【Don't even consider甚至別考慮】可判斷句意為要先詢問過太太才能參加，如果沒有，連考慮都不用。根據句意可判斷選項(b)符合題意為正解，其餘選項的意思如上所示，皆不符合題意。
+ 
+答對
+Question 6.	 
+ 
+After waiting in line for over three hours to buy tickets for the Oasis concert, Kelly finally __________ the idea and went home.
+ (A) rejected
+ (B) denied
+ (C) declined
+ (D) abandoned(正解)
+Kelly為了買Oasis演唱會票排隊超過三給小時之後，她最後放棄然後回家。
+a. 拒絕(動詞)
+b. 否認(動詞)
+c. 下降(動詞)
+d. 拋棄 (動詞)
+
+解析：根據前句的關鍵單字【waiting in line for over three hours排隊超過三小時】加上後句的關鍵單字【went home回家】可判斷主詞排隊一段時間後就放棄了然後回家。故選項(d)為正解。其他選項皆與本句句意不符。
+ 
+答對
+Question 7.	 
+ 
+If I __________ you, I'd apologize to that man at once.
+ (A) were(正解)
+ (B) was
+ (C) am
+ (D) would be
+假如我是你，我會立刻向那位先生道歉。
+a. 過去式的be動詞
+b. 過去式的be動詞
+c. 現在式的be動詞 (主詞為第一人稱)
+d. 將成為 (在過去時間發生的未來式)
+
+解析：根據語意以及後句的關鍵單字【I'd apologize= I would apologize(助動詞+動詞原形)】可判斷本句為【與現在事實的假設語氣】，句型為【If+過去式/were, 主詞+would/could/should/might+原形動詞】。故選項(a)為正解。
+ 
+答對
+Question 8.	 
+ 
+Come on everybody, __________ haste and find your seats!
+ (A) take
+ (B) make(正解)
+ (C) break
+ (D) fake
+大家快點過來找您的座位。
+a. 拿取 (動詞)
+b. 搭配句型使用，見解析
+c. 休息 (名詞)、打破(動詞)
+d. 假的 (形容詞)
+
+解析：空格的名詞【haste】需搭配動詞【make】使用，故選項(b)【make haste】表【動作快】為正解。
+ 
+答對
+Question 9.	 
+ 
+In order to get your ears pierced, you must have this form signed by your parents or a person who is __________ responsible for you, such as your guardian.
+ (A) legally(正解)
+ (B) legal
+ (C) law
+ (D) a lawyer
+為了要打耳洞，你必須請你的父母或是你的合法照養人，例如你的監護人，先在這個表格上簽名。
+a. 合法地(副詞)
+b. 合法的(形容詞)
+c. 法律 (名詞)
+d. 律師 (名詞)
+
+解析：根據空格後形容詞【responsible】可判斷空格處為副詞，才可用來修飾後方的形容詞。故選項(a)為正解。其他選項的詞性如選項所示，皆不合本句文法。
+ 
+答對
+Question 10.	 
+ 
+The main reason Walden got the lecturing position at the technical institute was that his old professor had written a letter of __________ for him.
+ (A) revelation
+ (B) recommendation(正解)
+ (C) respiration
+ (D) renovation
+Walden能去那間技術學院當講師的主要原因是他以前的教授幫他寫推薦信。
+a. 暴露、揭示(名詞)
+b. 推薦(名詞)
+c. 呼吸(名詞)
+d. 裝潢、改裝(名詞)
+
+解析：根據前方題意，主詞Walden得到工作機會的原因是因為他以前的教授寫的信件。故可得知教授幫他寫推薦信讓他得到教職，故選項(b)的意思符合題意為正解。其餘選項的意思皆不合題意。
+ 
+答對
+Question 11.	 
+ 
+Alright, folks, let's break __________ lunch and restart the meeting at one o'clock.
+ (A) for(正解)
+ (B) from
+ (C) to
+ (D) before
+各位，請先休息吃午餐，一點後再繼續開會。
+a. 因為…(後接原因)(介係詞)
+b. 自從… (介係詞)
+c. 去、到 (介係詞)
+d. 在…之前 (連接詞、介係詞、副詞)
+
+解析：根據後句【restart the meeting再繼續開會】可得知主詞一點鐘時再繼續開會，故前句的【let's break休息一下】是要去吃午餐休息，吃午餐是休息的原因，故選項(a)表【因為】為正解。
+ 
+答對
+Question 12.	 
+ 
+Renovations shall commence on July 24 and the motel __________ for a period of two to four weeks.
+ (A) closed
+ (B) will be closed(正解)
+ (C) has been closed
+ (D) was not closed
+飯店將於7月24日開始整修，然後將會休業二到四周之久。
+a. 過去式
+b. 未來被動式
+c. 現在完成被動式
+d. 過去被動式
+
+解析：由前方的助動詞【shall將會】可得知本句為未來式，由句尾的時間副詞【for a period of two to four weeks二到四周之久】可得知本句的連續時間為完成式用法，故可得知本句為未來完成式，故選項(b)為正解。
+ 
+答對
+Question 13.	 
+ 
+Do not __________ to contact me if you have any questions or concerns about the brochure.
+ (A) anticipate
+ (B) consider
+ (C) hesitate(正解)
+ (D) debate
+假如你對廣告冊的內容有任何問題或疑慮，請不要猶疑聯絡我。
+a. 預期、期望、預料 (動詞)
+b. 考慮(動詞)
+c. 遲疑、猶疑(動詞)
+d. 辯論(動詞)
+
+解析：根據後句【if you have any questions 假如你有任何的問題】可判斷前句表示【不要遲疑】有問題時要趕快連絡，只有選項(c)符合題意為正解。
+ 
+答對
+Question 14.	 
+ 
+So __________ water was leaking onto the floor that the factory crew had to call in an emergency plumber in the middle of the night.
+ (A) much(正解)
+ (B) little
+ (C) many
+ (D) lots of
+由於太多水滲漏到地板上，結果工廠員工必須在半夜打緊急電話請水電工過來一趟。
+a. 多的(+不可數名詞)
+b. 幾乎沒有的 (+不可數名詞)
+c. 多的 (+可數名詞)
+d. 多的(+可數/不可數名詞)，前不可與So搭配使用
+
+解析：後句提及【call in an emergency plumber打電話緊急請水電工】可知前句的漏水情況一定很嚴重，由空格後的不可數名詞【water】可判斷選項(a)為正解。而選項(b)【little】表【幾乎不】為否定字，與句意不符。
+ 
+答對
+Question 15.	 
+ 
+The price of property in downtown Vancouver has __________ to nearly double what it was five years ago.
+ (A) tightened
+ (B) plummeted
+ (C) skyrocketed(正解)
+ (D) widened
+溫哥華市區的房價比五年前劇增了將近兩倍之多。
+a. 使變緊、使緊繃(動詞)
+b. 筆直落下、驟降(動詞)
+c. 劇增、猛然上升 (動詞)
+d. 使變寬(動詞)
+
+解析：根據空格後的關鍵單字【nearly double將近兩倍】可判斷主詞的價格是上升的，故選項(c)為正解。
+ 
+答對
+Question 16.	 
+ 
+Assuming __________ the train arrives on schedule, we should be in Moscow by noon.
+ (A) what
+ (B) that(正解)
+ (C) when
+ (D) which
+假設火車準時抵達的話，我們應該最晚中午前會抵達莫斯科。
+a. 問何事物(疑問詞)
+b. that引導名詞子句，為前方動詞所接的受詞使用
+c. 問何時(疑問詞)
+d. 代替非人的先行詞(關係代名詞)
+
+解析：本句為分詞構句，分詞構句刪除【連接詞】及【相同的主詞】再根據子句語意是【主動】或【被動】將動詞改為【現在分詞V-ing】或【過去分詞V-pp】，故本句還原後→【If we assume __________ the train arrives on schedule, we should be in Moscow by noon.】。空格前方為動詞，動詞後接受詞，故空格處需接名詞子句，故選項(b)為正解。
+ 
+答對
+Question 17.	 
+ 
+After working in the import-export industry for half her life, Kelly decided to quit and __________ a career in fashion design.
+ (A) produce
+ (B) peruse
+ (C) pursue(正解)
+ (D) purpose
+Kelly在進出口產業工作大半輩子後決定辭職，然後轉職到流行設計產業上班。
+a. 生產、製造(動詞)
+b. 細讀、精讀(動詞)
+c. 追求、從事(動詞)
+d. 目的(名詞)
+
+解析：前句指出主詞在進口商工作大半輩子，後句的動詞【quit辭職】指出主詞辭職，再搭配關鍵單字【…a career in fashion design在流行設計產業的工作】可得知主詞轉職到流行設計產業工作。故選項(c)表【pursue a career從事某份工作】符合句意為正解。
+ 
+答對
+Question 18.	 
+ 
+I'd give my right arm _________ the Queen of England in person.
+ (A) to meet(正解)
+ (B) meet
+ (C) to met
+ (D) to be meeting
+我為了能親自見到英國女皇願不惜任何代價。
+a. 不定詞
+b. 原形動詞
+c. 無此用法
+d. 現在分詞
+
+解析：動詞【give給、與】後方需接不定詞【to】再接另一個動詞，故選項(a)為正解。
+ 
+答對
+Question 19.	 
+ 
+If you don't have anything __________ to say, then don't say anything at all.
+ (A) construct
+ (B) construction
+ (C) constructive(正解)
+ (D) constructively
+若你沒有任何建設性的意見，就不要說話。
+a. 建造、構成(動詞)
+b. 建築物、建設(名詞)
+c. 有建設性的(形容詞)
+d. 有建設性地(副詞)
+
+解析：【any/every/no】與【thing/body(one)/where】的九種搭配用法(例：anything/everything/nothing…等)，其修飾的形容詞位置與一般形容詞不同。一般形容詞置於名詞前方，但遇到這九種代名詞時，形容詞置於後方。故選項(c)為正解。
+ 
+答對
+Question 20.	 
+ 
+Kim has __________ been a film editor for more than twenty years.
+ (A) yet
+ (B) already(正解)
+ (C) ever
+ (D) before
+Kin從事電影編輯工作已經超過20年之久。
+a. 尚未
+b. 已經
+c. 曾經
+d. 之前
+
+解析：根據題意，主詞Kim已經從事這份工作超過20年之久。故選項(b)符合題意為正解。選項(a)常用於否定句【not…yet】表【尚未】，而選項(c)則用於疑問句。選項(d)則用來表示發生在過去的動作。
+ 
+答對
+Question 21.	 
+ 
+There has been a __________ in the law regarding the use of seat belts in Sacramento.
+ (A) relax
+ (B) relaxation(正解)
+ (C) relaxed
+ (D) relaxes
+對於安全帶的使用，薩克拉門托地區政府已放寬了相關法律。
+a. 動詞
+b. 名詞
+d. 現在動詞(搭配主詞三單)
+c. 過去動詞
+
+解析：由空格前方的冠詞【a】可得知後接名詞，故空格需選擇名詞。只有選項(b)為正解。其餘選項的詞性如選項所示。
+ 
+答對
+Question 22.	 
+ 
+__________ entertaining as this car race is, I'm really tired and want to go home.
+ (A) So
+ (B) Too
+ (C) As (正解)
+ (D) Such
+雖然這場賽車很精采，但我真的很累而且想回家。
+a. 【so/as…as】表【和…一樣】
+b. 表【太】後接形容詞
+c. 表【雖然】
+d. 表【如此的】後接名詞
+
+解析：當選項(a)(c)和空格後方的介係詞【as】連用時，其中【so/as…as】表【和…一樣】，但不符合本句的句意。選項(c)的用法多種，不但可表【和…一樣】、後方連接子句時也可表示【當…時】等等。而在本句中，選項(c)【as】表示【雖然、即便、即使】符合題意為正解。選項(b)後方也可接形容詞，卻與本句題意不合。
+ 
+答對
+Question 23.	 
+ 
+We'd like stop purchasing from that supplier because delayed deliveries have been a __________ problem.
+ (A) constant(正解)
+ (B) continue
+ (C) regulated
+ (D) regulation
+我們要停止向那間供應商進貨，因為他們延遲送貨已經變成常態性的問題了。
+a. 接連不斷的、持續的 (形容詞)
+b. 繼續 (動詞)
+c. 使規則化(動詞)
+d. 規定(名詞)
+
+解析：由空格後方的名詞【problem】可得知空格為形容詞用法來修飾名詞，搭配前句指出主詞要停止向那間供應商叫貨，故可知名詞【problem問題】不只發生一次。故選項(a)為形容詞用法為正解。
+ 
+答對
+Question 24.	 
+ 
+Is it required for all employees to get a health check to remain ____________ with this firm?
+ (A) employ
+ (B) employing
+ (C) employed(正解)
+ (D) to employ
+公司員工是否要有健康檢查報告才能繼續被公司僱用？
+a. 原形動詞
+b. 現在分詞
+c. 過去分詞
+d. 不定詞
+
+解析：本句【all employees所有職員】都是被公司所聘雇的，可知受詞【all employees所有職員】與動詞【employ】的關係為被動語氣，故空格處需選擇過去分詞(V-pp)表示被動語氣，故選項(c)為正解。
+ 
+答對
+Question 25.	 
+ 
+It is generally believed that a glass of red wine per day can __________ oxidants from the body.
+ (A) eliminate(正解)
+ (B) eliminated
+ (C) eliminating
+ (D) to eliminate
+一般人都相信每天喝一杯紅酒可以減少體內的氧化劑。
+a. 原形動詞
+b. 過去式
+c. 現在分詞
+d. 不定詞+原型動詞
+
+解析：由空格前方的助動詞【can】後接動詞原形，故可判斷空格選擇(a)選項為正解。其餘皆與本句文法不符。
+ 
+答對
+Question 26.	 
+ 
+Mrs. Lee doesn't care for the opera, __________ does she enjoy going to watch ballet performances.
+ (A) and not
+ (B) or never
+ (C) nor(正解)
+ (D) neither
+李太太對歌劇沒有興趣也不喜歡看芭蕾舞表演。
+a. 和不
+b. 或不曾
+c. 也非(置前，後接倒裝句，為連接詞)
+d. 也非 (搭配連接詞使用，後接倒裝句)
+
+解析：根據後方倒裝句【does she enjoy (助動詞+主詞+原形動詞)】可得知本句需選擇(c)(d)表否定性的連接詞。通常【neither A nor B】會用來搭配兩者任一皆非的句型，但由於前句已經是否定用法，且空格處為連接詞用法，故可判斷只有選項(c)的連接詞才符合本句，選項(d)需搭配連接詞使用如【and neither +倒裝句】，【neither】不可單獨當連接詞使用。
+ 
+答對
+Question 27.	 
+ 
+The company is intending __________ its foreign affairs division due to the acquisition of several key international clients.
+ (A) expanding
+ (B) expand
+ (C) to be expanded
+ (D) to expand(正解)
+由於幾名主要的國際客戶的增加，公司有意擴展海外部門， 
+a. 動名詞
+b. 原形動詞
+c. 被動式【be-V+V-pp】
+d. 不定詞
+
+解析：根據後句的關鍵單字【the acquisition of several key international clients增加幾名主要的國際客戶】可得知主詞想要延伸海外部門，故可知本句為主動語氣，而動詞【intend】後需接不定詞【to】才能接另一個動詞，故選項(d)為正解。選項(c)為被動語氣不符合本句句意。而選項(a)(b)不符合本句文法。
+ 
+答對
+Question 28.	 
+ 
+Over 50% of the speakers have dropped out of the conference; __________, it will still take place as scheduled.
+ (A) furthermore
+ (B) therefore
+ (C) nevertheless(正解)
+ (D) even more
+有超過百分之五十的演講者退出會議，但會議依然如期舉行。
+a. 此外(副詞)
+b. 因此(副詞)
+c. 然而(副詞)
+d. 甚至更多(比較級形容詞)
+
+解析：根據前句關鍵單字【dropped out of the conference退出會議】搭配後句【still take place as scheduled依然照計畫舉行】可得知前後兩句句意相反，故選(c)為正解。選項(a)用來連接兩句語意相同的子句；選項(b)用來連接因果關係句；而選項(d)則用來補充說明前一句的內容。
+ 
+答對
+Question 29.	 
+ 
+Kaylan felt carsick from driving around so many turns on the __________ road up the mountainside.
+ (A) wintery
+ (B) windy
+ (C) winning
+ (D) winding(正解)
+Kaylan因開車上山經過很多彎道路讓她覺得暈車了。
+a. 寒冷的、冷淡的(形容詞)
+b. 多風的(形容詞)
+c. 獲勝的(形容詞)
+d. 彎曲的(形容詞)
+
+解析：前句提及主詞【felt carsick暈車】是因為車輛行駛時經過【so many turns很多彎道】，故可判斷後方名詞【road道路】的狀況很彎曲，故選項(d)的單字意思符合題意為正解。
+ 
+答對
+Question 30.	 
+ 
+Instead of purchasing a new desktop, Randy bought individual components and put the computer together __________ himself.
+ (A) all for
+ (B) to have
+ (C) all by(正解)
+ (D) all on
+Randy沒有購買一台新的桌上型電腦，反而買了單獨的零件自己組裝電腦。
+a. 全部為了【for oneself】
+b. 不定詞+原形動詞
+c. 獨自地【by oneself】
+d. 無此用法
+
+解析：根據本句的關鍵單字【Instead of purchasing a new desktop沒有購買一台新的桌上型電腦】再加上【put the computer together組裝電腦】可得知主詞自己購買零件組裝電腦，故副詞片語【by himself = on his won】表【獨自地…】，表主詞自己組裝電腦，故選項(c)為正解。
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+答對
+Question 1.	 
+ 
 __________, what we are trying to tell you is that you are fired.
  (A) Essence
  (B) Essential
@@ -13990,6 +23011,930 @@ d. 驗證、核對 (過去式動詞)
 
 Questions 1 through 4 refer to the following article:
 
+June 6, 2014
+
+Sveta Putin
+#44, Tverskaya Street
+Moscow, Russia
+83823
+
+Dear Mrs. Putin,
+
+We are pleased to inform you that the article ___(1)___ "Corporations and Environmental Responsibility in the 21st Century" that you submitted by mail to Business Quarterly Russia last month has been accepted for publication. ___(2)___ Please review it thoroughly and then send us a signed copy. You can also scan and e-mail it to brushevnost@bquarterly.com.ru.
+
+Please note that according to article 5.7 of the contract, our editorial team shall be authorized to ___(3)___ minor modifications to the article. Furthermore, I'd like to point your attention to article 6.2, which indicates that Business Quarterly Russia shall own all the rights of publication to the article, in other words, you may not publish it elsewhere.
+
+The only ___(4)___ is for a personal blog, and so long as it is indicated that the article was originally published in Business Quarterly Russia.
+
+If you have any concerns, please don't hesitate to contact me.
+
+Warm regards,
+Mikhail Brushevnost,
+Business Quarterly Russia
+
+
+2014年6月6日
+
+83823俄羅斯 莫斯科市 特維爾街44號
+斯維塔o普丁
+親愛的普丁太太您好：
+
+茲通知，上個月您以普通郵件投稿至俄羅斯商業季刊，標題為「21世紀企業環境責任」，本社已經同意出刊。信件中已經附上出版合約。請仔細閱讀內容後，簽名並將影本寄回。你也可以掃描後再以電郵寄到brushevnost@bquarterly.com.ru。
+
+請留意，根據合約第5項第7條規定，我們的編輯團隊有權微調您的文章內容。此外，請您留意合約第6項第2條規定，該法條指出，俄羅斯商業期刊擁有出刊文章的出版權，換句話說，你不能在別的地方刊登。
+
+唯一的例外是，您可以上傳至個人部落格，但要標註該文章已在俄羅斯商業期刊登。
+若您有任何問題，請隨時與我聯繫。
+
+祝安好
+米開爾．布希隆
+俄羅斯商業期刊
+
+重要單字
+inform v. 通知; 告知
+entitle v. 給（書等）題名
+publication n. 出版; 發行
+enclose v. 把（公文，票據等）封入
+Ex. A check is enclosed herewith. 隨信附寄支票一張。
+editorial adj. 編輯（上）的
+modification n. 修改；改變
+furthermore adv. 此外，再者
+indicate v. 指示；指出
+hesitate v. 猶豫
+答錯
+ 
+	Question 1.	
+ (A) name
+ (B) title
+ (C) entitled(正解)
+ (D) referred
+a. 姓名(名詞)、命名(動詞)
+b. 標題 (名詞)
+c. 給 (書)題名 (過去分詞)
+d. 談到 (過去分詞)
+答錯
+ 
+	Question 2.	
+ (A) I have enclosed a publication contract.(正解)
+ (B) I have received your email concerning the publication.
+ (C) I am looking forward to your reply.
+ (D) Business Quarterly Russia is published four times per year.
+A.我已附上出版合約。
+B.我已收到你出版品的電郵。
+C.我期待著您的回復。
+D.俄羅斯商業季刊每年四次出刊 。
+答對
+ 
+	Question 3.	
+ (A) makes
+ (B) make(正解)
+ (C) making
+ (D) made
+a. 現在式的動詞 (主詞為單數)
+b. 原形動詞
+c. 動名詞
+d. 過去分詞
+ 
+答對
+ 
+	Question 4.	
+ (A) except
+ (B) exceptionally
+ (C) exceptional
+ (D) exception(正解)
+a. 除此…之外 (介詞)
+b. 例外地 (副詞)
+c. 例外的 (形容詞)
+d. 例外 (名詞)
+Questions 5 through 8 refer to the following article:
+
+Smartphone Usage Survey
+Dear Calgary Northeast District resident,
+
+Your address has been randomly selected by our computer system to ___(5)___ part in our smartphone usage survey.
+
+It is imperative that all of the addresses selected for the survey complete the survey in its ___(6)___ to maintain statistical accuracy in our study.
+
+As an incentive, we offer you a voucher that entitles you to a free one-year phone plan, with a value of $395. ___(7)___, all you have to do is complete the enclosed survey and return it to the address below before July 29th.
+
+Please note, there is a separate section of the survey for each member of your household, ___(8)___ of their age (with the exception of two years of age or under).
+
+We look forward to receiving your completed survey!
+
+
+智慧型手機使用調查
+親愛的卡爾加里東北區的居民，
+
+您的地址已經被我們的電腦系統隨機抽樣成為我們的智慧型手機使用調查的對象。
+
+所有被選到的居民完成調查是非常重要的，因為這樣可以維持統計的精確度。
+
+我們提供了一年份的免費通話方案的兌換券作為獎勵，兌換券的底部會標註您的姓名，該券價值達$395。為了得到兌換券，你只要完成附件裡的問卷調查並於7月29日前寄回到以下的地址。
+
+請注意，每份調查問卷中有個別給每位家庭成員填寫的欄位，年齡不限(兩歲以下免填)。我們期待收到您填寫完整的問卷調查！
+
+
+重要單字
+randomly adv. 隨機地
+take part in參加, 出席
+imperative adj. 必要的；極重要的
+statistical adj. 統計的
+accuracy n. 正確（性）；準確（性）
+incentive n. 鼓勵
+entitle v. 給……權力（或資格）
+in order to為了…
+答對
+ 
+	Question 5.	
+ (A) sake
+ (B) make
+ (C) break
+ (D) take(正解)
+a. 片語【for the sake of】表示【因為、由於】
+b. 製作、使 (動詞)
+c. 片語【take a break】表示【休息】
+d. 片語【take part in】表【參加、參與】
+答錯
+ 
+	Question 6.	
+ (A) entire
+ (B) entirety(正解)
+ (C) entirely
+ (D) entireties
+a. 全部的、整個的 (形容詞)
+b. 全部、全體 (名詞) 
+c. 全部地 (副詞) 
+d. 無此用法
+答對
+ 
+	Question 7.	
+ (A) Thanks for completing the voucher
+ (B) In order to receive the voucher(正解)
+ (C) For only $395
+ (D) With this one-year phone plan
+a.感謝您填寫兌換券
+b.為了得到兌換券
+c.只要$395
+d.為期一年通話方案
+ 
+答錯
+ 
+	Question 8.	
+ (A) despite
+ (B) regardless(正解)
+ (C) no matter
+ (D) even though
+a. 儘管+子句(S+V)
+b. 無論如何、 不管怎麼樣 (副詞)
+c. 無論 (後接疑問詞)
+d. 雖然 (連接詞)
+Questions 9 through 12 refer to the following article:
+
+NOTICE TO GLENWOOD BUILDING RESIDENTS
+
+All three elevators will be out of order due to repairs during the following hours:
+
+Sunday, July 27, 2014: 11:00 PM to 5:00 AM
+
+Glenwood Building Management strives to ensure the highest standard of living for all residents, and ___(9)___ it is imperative that the building's elevators undergo regular maintenance.
+
+This maintenance ensures that the elevators are running safely and reliably, to get you to your floor without any bumps. ___(10)___
+
+We ___(11)___ to conduct the repairs at the time with the ___(12)___ amount of foot traffic in the building. Try to arrive to your floor before 11 PM, otherwise, the staircases at either side of the elevators will be your only choice until 5 AM. Thank you for your understanding.
+
+給格蘭木大樓居民的公告。
+
+大樓內的三台電梯將進行維護保養，因此電梯將會在下列時間停止運作：
+
+2014年7月27 日星期日，從晚上十一點到早上五點
+
+格蘭居大樓管理部為了確保最高標準的生活品質，因此定期維護大樓電梯是當務之急的事情。
+
+本次維護保養確保電梯安全地運作而且讓您覺得安心又可靠，不會讓您在搭電梯的時候感到任何顛簸。您的安全是我們最優先的考量。
+
+我們選擇維護的時間在大樓內客流量最少的時間。請儘量在晚間11點前回到您的樓層，否則，電梯兩旁的樓梯將會是您直到五點早上前的唯一選擇。
+
+感謝您的諒解。
+
+
+重要單字
+strive v. 力圖；力求
+undergo v. 經歷；經受
+maintenance n. 維修，保養
+conduct v. 實施；處理
+答錯
+ 
+	Question 9.	
+ (A) in touch
+ (B) as much
+ (C) so much
+ (D) as such(正解)
+a. 動詞片語【keep/get/be in touch with】 表示 【保持聯絡】
+b. 一樣多 (後接+ as ) →【as much as】表【和…一樣多】
+c. 如此的多 
+d. 【such+名詞】表【如此的】
+答錯
+ 
+	Question 10.	
+ (A) Your well-being is our number-one priority!(正解)
+ (B) We apologize for all the bumps on the stairs.
+ (C) It depends which floor you live on.
+ (D) The elevators will be closed for 24 hours.
+a.您的安全是我們最優先的考量。
+b.我們為樓梯間的凹凸不平道歉。
+c.依您住的樓層為不同。
+d.電梯將會關閉24小時。
+答錯
+ 
+	Question 11.	
+ (A) have chosen(正解)
+ (B) choose
+ (C) chosen
+ (D) choice
+a. 已經選擇(現在完成式動詞)
+b. 選擇 (動詞)
+c. 已選擇的(過去分詞)
+d. 選擇、抉擇 (名詞)
+ 
+答錯
+ 
+	Question 12.	
+ (A) less
+ (B) small
+ (C) little
+ (D) least(正解)
+a. 較少的 (形容詞比較級)
+b. 小的(形狀) (形容詞)
+c. 少的(年齡…等) (形容詞)
+d. 最少的 (形容詞最高級)
+Questions 13 through 16 refer to the following article:
+
+Staples Stationery Depot
+MEMORANDUM
+TO: Floor Managers
+FROM: Carl Sanders
+DATE: November 21, 2009
+SUBJECT: New Anti-Theft bar codes
+
+Please ___(13)___ that as per our new initiative to minimize theft from the shop, all items with a value of five dollars or greater shall be inlaid ___(14)___ anti-theft barcode labels ___(15)___. We have hired a special unit of temporary staff to affix the bar codes to all qualifying items during the nighttime closing hours of Sunday, November 28.
+
+Please remind all of your staff about the change. For all cashiers, if the alarm is accidentally triggered, there is a button located below the till. If there is a suspected theft, cashiers ___(16)___ dial security at *99 immediately. Cashiers should also be reminded to deactivate the barcode labels on all sale items with the deactivation device at the point of purchase.
+
+Thank you for your cooperation.
+
+Carl Sanders
+
+
+史泰普文具倉庫
+備忘錄
+收件人：樓管經理
+寄件人：卡爾o山迪斯
+日期：2009年11月21日
+主旨：新的防竊條碼
+
+請知悉，依我們之前為了減少門市偷竊事件的提議，所有價值超過五塊的商品將會裝置非常難以撕掉的防竊條碼標籤。我們已經僱用專門單位的臨時員工於星期日11月28日夜間休息時間，在符合上述的商品上添加條碼。
+
+請提醒所有的員工關於這次變更。至於收銀員，若警報器不小心被觸動，收銀台抽屜下面有一個按鈕。若發現可疑的竊賊，請收銀員馬上撥打*99給安全人員。提醒收銀員，若商品已售出，請在商品被購買時，使用解除裝置解除條碼標籤。
+
+感謝您的合作！
+
+敬啟
+卡爾．山迪斯
+
+
+重要單字
+per prep. 按照，根據
+initiative n. 提議
+minimize v. 使減到最少
+inlaid adj. 鑲嵌的
+temporary adj. 臨時的；暫時的
+affix v. 添上, 附上
+till n. （櫃臺中）放錢的抽屜
+suspected adj有嫌疑的
+deactivate v.停止運作
+purchase v. 購買
+答錯
+ 
+	Question 13.	
+ (A) be informed(正解)
+ (B) informed
+ (C) to inform
+ (D) inform
+a. 被通知的(被動詞)
+b. 已知會的(過去分詞)
+c. 通知(不定詞)
+d. 通知(原形動詞)
+答錯
+ 
+	Question 14.	
+ (A) on
+ (B) with(正解)
+ (C) for
+ (D) in
+a. 在…上面 (介詞)
+b. 用(工具)、搭配、有、和/與 (介詞)
+d. 在…裡面 (介詞)
+c. 為了…(原因) (介詞)
+答錯
+ 
+	Question 15.	
+ (A) and thanks for listening
+ (B) , which customers can purchase for a low price
+ (C) for your personal protection
+ (D) that will be nearly impossible to rip off(正解)
+a.謝謝聆聽
+b.顧客可以用低價購買
+c.以保顧你自己
+d.幾乎無法撕掉
+ 
+答對
+ 
+	Question 16.	
+ (A) should(正解)
+ (B) could
+ (C) would
+ (D) will
+a. 應該 (助動詞)
+b. 可以、允許、可能(過去助動詞)
+c. 會(過去式助動詞)
+d. 將會 (助動詞，表未來式)
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 4 refer to the following article:
+
+Messages for Kandra Samona, Attorney at Law
+
+Name: Imani Sesay
+Callback number: 776-111-1161
+Message: The caller indicated that important new evidence has come to light in the State vs. Colin Courshane case. Due to the___(1)___confidential nature of the evidence, he insists that he meet up with you as soon as possible to share it with you face-to-face. ___(2)___
+Name: Alton Ferreira
+Callback number: 779-917-8361
+Message: Mr. Ferreira is seeking an attorney to represent his daughter, who ___(3)___ by her ex-employer of purposely falsifying figures on accounting reports.
+I told him your normal rates, but he would like to speak to you first before making a ___(4)___.
+
+
+
+給律師Kandra Samona的信息
+
+姓名：Imani Sesay
+回電電話：776-111-1161
+訊息：來電者指出The State與Colin Courshane這個案子的重要新證物已經浮上檯面。由於證物的機密性極高，他堅持要儘快與你見面並當面告知。
+
+姓名：Alton Ferreira
+回電電話：779-917-8361
+訊息：Ferreira先生正在找一位律師來代表他被前雇主指控蓄意做假帳的女兒。我已經告訴他您一般的收費標準，但他想在接受委任前和你談談。
+答錯
+ 
+	Question 1.	
+ (A) high
+ (B) highly(正解)
+ (C) higher
+ (D) highest
+a. 高的 (形容詞)
+b. 非常地、高度地 (形容詞)
+c. 比較高的 (形容詞)
+d. 最高的 (形容詞)
+答錯
+ 
+	Question 2.	
+ (A) I told him this is not normal practice, but that I'd pass along the message. (正解)
+ (B) He would like your email address to send you all the details.
+ (C) Your father said to call him at home as soon as possible.
+ (D) Thanks for getting back to me so quickly about the State vs. Colin Courshane case.
+A.我已告訴他，我們一般不會這樣做，但我會將訊息傳遞出去。
+B.他想要知道您的電子郵件以便寄發的所有細節。
+C.您的父親請您儘快打電話回家。
+D.感謝您這麼快回覆有關State 和Colin Courshane的案件。
+答錯
+ 
+	Question 3.	
+ (A) accused
+ (B) were accused
+ (C) has been accused(正解)
+ (D) will accuse
+a. 指控 (過去動詞)
+b. 被指控的 (過去式的被動語氣)
+c. 已經被指控的 (現在完成式的被動語氣)
+d. 將會指控 (未來簡單式)
+ 
+答對
+ 
+	Question 4.	
+ (A) experiment
+ (B) development
+ (C) treatment
+ (D) commitment(正解)
+a. 實驗、試驗 (名詞)
+b. 發展 (名詞)
+c. 治療、對待、處理 (名詞)
+d. 承諾、委託、委任 (名詞)
+Questions 5 through 8 refer to the following article:
+
+BBN Daily Monday, April 9 2009
+
+Bomb Explosion Kills 10 in Islamabad
+
+At 3:22 this morning a bomb was detonated in the lobby of the Capital Hotel in Islamabad, the capital of the Islamic Republic of Pakistan. At ___(5)___ , the total number of casualties is 94, which includes 14 dead and 80 injured, with another 38 reported ___(6)___. Included among the casualties are two French tourists and Lynn Franklin, the British ambassador to Pakistan.
+
+Security cameras at the gate of the hotel show two suicide bombers entering the hotel grounds just eight minutes before the ___(7)___ explosion. Islamabad chief of police and security has informed the media that three suspects have been apprehended in connection with the explosion. ___(8)___
+
+For more details on the story, log on to our website at BNDaily.com
+
+
+BBN日報，2009年4月9日，星期一
+
+伊斯蘭堡炸彈爆炸，10 人喪生
+
+今天凌晨3點22分，位於巴基斯坦的首都伊斯蘭堡的首都飯店大廳遭受炸彈爆炸。目前，人員傷亡已達94人，其包含14人死亡、80人受傷、其它38人失蹤。其中傷亡的人數中有兩名法籍觀光客以及駐巴基斯坦的英國大使Lynn Franklin。
+
+設置在飯店大門的監視器補捉到炸彈引爆前八分鐘，有兩位自殺炸彈客進入飯店。伊斯蘭堡警長以及安檢局長已經向媒體宣布已逮捕三位與爆炸案有關的嫌疑犯，但是還沒確定他們是否是為主要恐怖組織的成員。欲知詳情，請登入我們的網站BNDaily.com。
+答錯
+ 
+	Question 5.	
+ (A) current
+ (B) present(正解)
+ (C) now
+ (D) today
+a. 目前 (副詞)
+b. 片語【at present】 表示現今、目前 (副詞)
+c. 現今 (副詞)
+d. 今天 (副詞)
+答錯
+ 
+	Question 6.	
+ (A) missing(正解)
+ (B) misses
+ (C) missed
+ (D) miss
+a. 未找到的、失蹤的 (現在分詞當形容詞)
+b. 未找到、失蹤 (現在式動詞，主詞為三單)
+c. 未找到的、失蹤的 (過去分詞當形容詞)
+d. 未找到、失蹤 (原形動詞)
+答對
+ 
+	Question 7.	
+ (A) vitamin
+ (B) violent(正解)
+ (C) violence
+ (D) vinyl
+a. 維他命 (名詞)
+b. 暴力的 (形容詞)
+c. 暴力 (名詞)
+d. 乙烯基(化) (名詞)
+ 
+答錯
+ 
+	Question 8.	
+ (A) Police are still searching the streets of Islamabad for the three suspects.
+ (B) The chief of police and security will personally arrest the suspects tomorrow.
+ (C) It is not yet clear whether they are members of a major terrorist organization.(正解)
+ (D) The location of the explosion is still uncertain, but police are conducting questioning.
+A.警方仍在伊斯蘭堡的街道上搜尋三名嫌疑犯。
+B.警察和安檢局長明天將親自逮捕嫌疑犯。
+C.目前尚不清楚他們是否為主要恐怖組織的成員。
+D.爆炸的地點仍是未知數，但警方會進行訪查。
+Questions 9 through 12 refer to the following article:
+
+Please find attached the first revision of the article you have submitted for ___(9)___ in the journal Western Review. Once again, we'd like to thank you for your submission and for your continued cooperation in the editing process.
+
+Our chief editor has made some minor changes to the articles, which are denoted ___(10)___ red. For each modification, please change the color back to black if you can accept the change. ___(11)___
+
+If you could have this back to us by 9 pm on Tuesday ___(12)___, that would be much appreciated.
+
+Sincerely,
+
+Malinda Ashton
+
+
+親愛的Krumpert先生您好：
+
+附件中是您投稿至Western Review期刊的文章修改版，再次感謝您的投稿以及您持續地配合我們修稿的過程。
+
+我們的總編輯在文章裡做了小幅度的修改，修改內容標記為紅色。若您可接受每處修改部分，請把標記改回黑色。若無法接受，請在相關段落的註腳處說明原因即可。
+
+最晚可於禮拜二晚上九點前回覆我們，非常感激。
+
+敬上，
+
+Malinda Ashton
+答錯
+ 
+	Question 9.	
+ (A) include
+ (B) inclusive
+ (C) inclusion(正解)
+ (D) including
+a. 包含 (動詞)
+b. 包含的(+of+N) (形容詞)
+c. 包含 (名詞)
+d. 包含 (介係詞)
+答錯
+ 
+	Question 10.	
+ (A) in(正解)
+ (B) on
+ (C) by
+ (D) for
+a. 用 (顏色) (介詞)
+b. 在… 之上 (介詞)
+c. 用(方法)，搭(交通工具) (介詞)
+d. 為了 (目的) (介詞)
+答錯
+ 
+	Question 11.	
+ (A) We would like to know why you made so many changes to the article.
+ (B) On the other hand, please remember to bring your notes with you next time.
+ (C) Hopefully you enjoy reading this article.
+ (D) If not, please explain why in a footnote at the end of the relevant paragraph.(正解)
+A.我們想知道您為什麼針對文章做那麼多更改。
+B.另一方面，下次請記得帶著您的筆記。
+C.希望您喜歡這篇文章。
+D. 若無法接受，請在相關段落的註腳處說明原因。
+ 
+答錯
+ 
+	Question 12.	
+ (A) in the final
+ (B) at the latest(正解)
+ (C) for the last
+ (D) to the end
+a. 歸根究底 
+b. 最晚(副詞、置時間後)
+c. 最後(後接時間)
+d. 直到最後
+Questions 13 through 16 refer to the following article:
+
+To: carollou@outlook.com
+From: PDBank@banking.com.au
+Subject: Important details regarding card transition
+
+Dear PD visa card user,
+
+Your account transition is now complete. At PD, we are grateful to have you as a new PD Aero Miles credit cardholder. All your information from KMM banking has been transferred to your new account, so there is no ___(13)___ for you to provide us with any personal information at the moment. ___(14)___
+
+All we need is for you to register your new PD Aero Miles online account at www.pdaeromiles.com.au. You will be asked to create a new password, ___(15)___ must be at least 8 characters in length, and must include at least one letter and one number.
+All your Aero Miles will be transferred from your KMM account, and you will still accrue miles in the same manner that you did previously. There have been some minor ___(16)___ to the reward system, which you can see in a chart by clicking here.
+
+Thanks again for bearing with us as we complete your card transfer.
+
+Have a nice day.
+
+
+收件人：carollou@outlook.com
+寄件人：PDBank@banking.com.au
+主旨：卡片轉換重要細項
+親愛的PD信用卡卡友你好：
+你的帳戶轉移手續已經完成。萬分感謝您成為我們PD航空哩程卡的新持卡人。您所有的資料已經從KMM銀行移轉到新的帳戶，因此，目前您不需要提供任何個人資料給本公司。若我們日後需要您提供任何資料，我們會再與您聯絡。
+
+您只需要在www.pdaeromiles.com.au.網站，登入新的PD航空哩程卡網路帳號。您會被要求建立新的密碼，至少8碼，必需含有至少一個字母及一個數字。 您所有哩程數將會從KMM帳戶移轉過來，你依然可像之前一樣累積哩程。積分獎項系統有幾處些許的變更，你可以點開此處以便查看。
+
+再次感謝您在我們移轉帳戶資料的過程中的等待。
+祝你有個美好的一天
+答對
+ 
+	Question 13.	
+ (A) quote
+ (B) need(正解)
+ (C) require
+ (D) must
+a. 引言(動詞)
+b. 需要(名詞)
+c. 需要(動詞)
+d. 必須(助動詞)
+答對
+ 
+	Question 14.	
+ (A) All the personal information will be published shortly.
+ (B) Should we require anything from you in the future, we'll let you know. (正解)
+ (C) Please provide us with that information as soon as possible.
+ (D) Thanks for applying for your new KMM credit card.
+a.所有個人資料將會馬上發公告
+b.若我們日後需要您提供任何資料，我們會再與您聯絡。
+c.請盡快提供我們資料
+d.謝謝您申請KMM信用卡。
+答錯
+ 
+	Question 15.	
+ (A) which(正解)
+ (B) what
+ (C) whose
+ (D) whom
+a. 先行詞非人 (關係代名詞)
+b. 什麼(事物) (疑問詞)
+c. 先行詞的所有格 (關係代名詞)
+d. 先行詞的受詞 (關係代名詞)
+ 
+答錯
+ 
+	Question 16.	
+ (A) corrects
+ (B) modifies
+ (C) differences
+ (D) adjustments(正解)
+a. 修正、訂正 (動詞)
+b. 修改 (動詞) 
+c. 不同處 (名詞)
+d. 調整 (名詞)
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 4 refer to the following article:
+
+To the driver of the vehicle with the license plate GNJ 580,
+
+Your vehicle is constantly blocking the back entrance to our building. This makes it very difficult for my family and I to access the back door, and I am sure I am speaking on behalf of all the residents of the building. Your parking space is several meters from the door, ___(1)___ you always park at such an angle that the back half of your car ___(2)___ our way.
+
+I have already contacted the building owner, who seems to ___(3)___ nothing to resolve the issue. If the problem persists, I will make a formal complaint of the obstruction of property to the local police.
+
+___(4)___ If it happens again, I will not hesitate to make that phone call.
+
+
+GNJ580車牌的駕駛者：
+
+您的愛車經常堵住我們大樓的後方出口。這讓我的家人與我很難從後門進入，而且我非常相信，我也說出本大樓所有住戶的心聲。您的停車位離門口還有好幾公尺，但是你停車的角度常讓車輛的後半部堵住我們的去路。
+
+我已和大樓所有人連絡，看起來他還沒有採取任何行動來解決這個問題。倘若這個問題持續發生，我將會向當地警方正式提出妨礙公共區域的抱怨函
+
+請把本函視為最後一次的警告。假如再發生一次，我將會立即通知警方。
+答對
+ 
+	Question 1.	
+ (A) also
+ (B) besides
+ (C) therefore
+ (D) yet(正解)
+a. 也 (副詞，置句中)
+b. 此外 (副詞)
+c. 因此 (副詞)
+d. 但是、然而 (連接詞)
+答對
+ 
+	Question 2.	
+ (A) bucks
+ (B) box
+ (C) blocks(正解)
+ (D) brats
+a. (口語)美元 (名詞)
+b. 箱子 (名詞)
+c. 堵、阻塞(動詞)
+d. 小傢伙 (名詞)
+答對
+ 
+	Question 3.	
+ (A) did
+ (B) have done(正解)
+ (C) has done
+ (D) done
+a. 過去動詞
+b. 現在完成式 (主詞複數)
+c. 現在完成式 (主詞三單)
+d. 過去分詞
+ 
+答對
+ 
+	Question 4.	
+ (A) It is quite disrespectful of you to speak to my wife like that.
+ (B) Consider this your last warning.(正解)
+ (C) I would remind you to kindly use the elevator next time.
+ (D) I apologize for my delayed reply.
+A. 你這樣和我的太太說話很無禮。
+B. 請將此視為最後一次的警告。
+C. 我要提醒你下次使用電梯要小心。
+D. 我為太晚的回覆而道歉。
+
+Questions 5 through 8 refer to the following article:
+
+Peach Daily
+Warning Issued over Faulty Games
+By Jocelyn Jung
+
+An official warning has been issued by the National Board of Quality and Fairness in Online Shopping (NBQFONS) ___(5)___ a series of faulty games being sold from a number of online application shops.
+
+Going by the name MEGA MAN INVADERS 1-4, the games claim to have eight levels each, but users are complaining that after completing the first level, the second level and all subsequent levels are ___(6)___ to the first.
+
+The games are in direct violation of article 8.9 in the National Regulations for Internet Games and Applications, which states that, “False claims regarding the structure, content, or plot of games sold online are not permissible.” The creators of the game have ___(7)___ been apprehended and are facing charges of USD1.2 million.
+
+___(8)___ There is currently no legislation in place requiring them to do so in cases such as this.
+
+桃子日報
+警告遊戲詐騙事件
+記者：Jocelyn Jung
+
+線上購物品質與公平交易委員會已經針對許多網路商店所販售的一系列的詐騙遊戲發佈一份的官方警告。名為MEGA MAN INVADERS 1-4的遊戲，宣稱每一系列遊戲有八個關卡，但使用者抱怨，當完成第一道關卡後，第二道關卡以及隨後的關卡還是與第一道關卡相同。
+
+
+此遊戲明顯地違反了國家線上遊戲及程式規範第8條第9項，該法條聲明 ，「不允許線上販賣的遊戲架構、內容或情節不實。」遊戲製造商已被逮捕且面臨120萬美金的罰款。很遺憾，線上商店尚未執行遊戲的退款機制。目前沒有立法要求這樣的情況下他們要這樣做。
+答對
+ 
+	Question 5.	
+ (A) regarded
+ (B) regarding(正解)
+ (C) in regards
+ (D) giving regards
+a. 關於(過去分詞)
+b. 關於 (介係詞)
+c. 關於 (後接+to)
+d. 問候 (動名詞+名詞)
+答對
+ 
+	Question 6.	
+ (A) same
+ (B) identical(正解)
+ (C) like
+ (D) exact
+a. 一樣的 【the same as】表 (和…一樣)
+b. 完全相同的、同卵的 (形容詞後接to)
+c. 相像的 (形容詞後接名詞)；喜歡 (動詞)
+d. 精確的 (形容詞後接名詞)
+答對
+ 
+	Question 7.	
+ (A) already(正解)
+ (B) still
+ (C) yet
+ (D) further
+a. 已經 (副詞)
+b. 仍然 (副詞)
+c. 還沒 (副詞)
+d. 更進一步的 (形容詞比較級)
+ 
+答對
+ 
+	Question 8.	
+ (A) Unfortunately, no online shops are giving refunds for purchases of the games yet. (正解)
+ (B) The games were created between the years of 2009 and 2013.
+ (C) However, the police are still searching for the perpetrators of the crime.
+ (D) Customers are demanding refunds for the games.
+A. 很遺憾，線上商店尚未執行遊戲的退款機制。
+B 此遊戲在2009年和2013年之間創立。
+C. 不過，警方仍在尋找案件的肇事者。
+D. 顧客要求此款遊戲可退款。
+Questions 9 through 12 refer to the following article:
+
+Dear Mr. Osbourne,
+
+In response to your ad in the City Newspaper, please ___(9)___ my resume in your search for a new office assistant at the Republican campaign office in Brooklyn.
+
+I am a recent graduate of the Elections & Campaign Management program at Fordham University. Thanks to my education, I ___(10)___ all the skills necessary to be a functional and useful member of your team.
+
+Enclosed please find my resume as well as a letter of recommendation from Samuel Tiger, the Dean of Humanities at Fordham University. ___(11)___
+
+If you wish to schedule an interview, please contact me at e-mail address or telephone number provided on my resume ___(12)___ your convenience.
+
+I truly look forward to hearing from you.
+
+Sincerely,
+
+Jeffrey Kembel
+
+
+親愛的Osbourne先生：
+
+
+此信回覆您在城市日報上刊登應徵新的辦公室助理，工作地點為布魯克林的共和黨宣傳部辦公室內容，請您參考我的履歷表。
+
+我目前剛取得Fordham大學選舉暨競選管理系的碩士。由於我的教育背景，我具備競選團隊所需的技能，也一定能成為可幫助團隊的一名成員。
+
+附件為在下的履歷表以及Samuel Tiger，也是Fordham大學人文學院院長的推薦函。你會發現，他對我而言是：「我所見過的最勤奮的學生。」
+
+若您要安排面試，請於您方便的時間經由履歷表下方所列的電話或電子郵件與我聯絡。
+
+期待您的回信
+
+敬上，
+
+Jeffrey Kembel
+答對
+ 
+	Question 9.	
+ (A) think
+ (B) consider(正解)
+ (C) wonder
+ (D) ponder
+a. 想、思考 (動詞)
+b. 考慮 (動詞)
+c. 想知道 (動詞)
+d. 沉思 (動詞)
+答對
+ 
+	Question 10.	
+ (A) acquires
+ (B) will acquire
+ (C) will have acquired
+ (D) have acquired(正解)
+a. 取得(現在式動詞)
+b. 將取得(未來式)
+c. 將已取得(未來完成式)
+d. 已取得(現在完成式)
+答對
+ 
+	Question 11.	
+ (A) Samuel was one of my smartest students when I mentored him several years ago.
+ (B) You will notice that he refers to me as, "One of the hardest working students I've ever met."(正解)
+ (C) Hopefully, Mr. Tiger will be willing to sign the contract after you give him your proposal.
+ (D) Samuel, Dean, and I have been close friends since junior high school.
+A. 幾年前我教他時，Samuel是我的最聰明的學生之一。
+B. 你會發現，他認為我是：「我所見過的最勤奮的學生。」
+C. 但願虎先生在你給他建議後會願意在合約上簽字。
+D. Samuel院長和我從初中開始就是很親密的朋友。
+ 
+答對
+ 
+	Question 12.	
+ (A) at(正解)
+ (B) on
+ (C) by
+ (D) of
+a. 副詞片語【at your convenience】表【在你方便時儘早告知】
+b. 在…上面/方面 (介詞)
+c. 藉由…(方法)(介詞)
+d. ..的 (無生命的所有格用法)
+Questions 13 through 16 refer to the following article:
+
+TO: hubertszer@imq.com
+FROM: ZIPSTER notifications@zipster.com
+
+Hey, Hubert!
+
+We're writing today to tell you we've made some changes to our Terms of Service and Privacy Policy. The updated Terms of Service and Privacy Policy go ___(13)___ effect on August 19, 2014. You can read the old and new Terms of Service here, and the old and new Privacy Policy here.
+
+In addition to updating our Privacy Policy and Terms of Service to reflect how the industry has changed, we have also included some changes regarding how we ___(14)___ disputes if and when they arise in the future. In particular, for our Guatemalan and Mexican subscribers, we've added a section to our Terms of Service agreeing to resolve most disputes using arbitration (if we can't get it resolved through our customer service channels, of course).
+
+Arbitration is usually a faster and more ___(15)___ alternative to going to court.
+
+___(16)___
+Check out Section 19 of the updated Terms of Service to learn more.
+
+Thanks for subscribing,
+
+The ZIPSTER Team
+
+收件人：hubertszer@imq.com
+寄件人：ZIPSTER notifications@zipster.com
+
+Hubert, 您好：
+
+來信告知，我們已修正服務條款以及隱私權政策內容。更新的服務條款以及隱私權規定將於2014年8月19日起開始實施。您可以在這裡閱讀我們新舊的服務條款，以及在這裡閱讀新舊隱私權規定。
+
+為反映產業的改變，我們除了更新服務條款以及隱私權政策，另外針對我們如何解決未來可能會引發的爭議而加入一些變更。特別是針對我們的瓜地馬拉和墨西哥訂戶，已於服務條款裡增加了一項同意以仲裁的方法處理爭議的部分(若無法透過我們客戶服務部解決)。仲裁通常是更快而且比上法院更有效率的解決方法。因此，這已成為最近幾年最常見的訴訟案件。詳細請看服務條款更新版的第19條。
+
+感謝您的訂閱
+
+ZIPSTER團隊
+答對
+ 
+	Question 13.	
+ (A) in
+ (B) on
+ (C) onto
+ (D) into(正解)
+a. 在… 之內 (介詞)
+b. 在…上面 (介詞)
+c. 進入…之上 (介詞)
+d. 進入…之中 (介詞)
+答對
+ 
+	Question 14.	
+ (A) resolves
+ (B) will resolve(正解)
+ (C) were resolving
+ (D) have resolved
+a. 解決、解答 (現在式動詞，主詞三單)
+b. 未來簡單式
+c. 過去進行式(主詞複數)
+d. 現在完成式(主詞複數)
+答對
+ 
+	Question 15.	
+ (A) efficient(正解)
+ (B) efficiently
+ (C) efficiency
+ (D) effective
+a. 有效率的 (形容詞)
+b. 有效率地 (副詞)
+c. 效率 (名詞)
+d. 有效的、有功用的
+ 
+答對
+ 
+	Question 16.	
+ (A) Our main goal is to help you earn as much money as possible with your business.
+ (B) That's why many people prefer going to court these days.
+ (C) If you don't receive your new product on time, be sure to let us know.
+ (D) Therefore, this has become the most popular course of action in recent years. (正解)
+A. 我們的主要目標是幫您的事業得到最多的錢。
+B. 這就是為什麼現在很多人喜歡上法院打官司。
+C. 如果你沒準時收到您的新產品，請一定要告訴我們。
+D. 因此，這已成為最近幾年最常見的訴訟案件。
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 through 4 refer to the following article:
+
 20% OFF
 DINNER & COMEDY NIGHT
 
@@ -15434,6 +25379,7883 @@ c. 優惠的(形容詞)
 d. 優先地(副詞)
 只顯示答錯  回上一頁
 # part 7.
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 - 4 refer to the following article:
+
+
+
+For Sale: Second Hand Canon L60 Machine
+
+Price:￡55 plus ￡3 shipping (city) or ￡8 (national)
+
+Seller ID: Rick444
+
+
+Product Description: This is an all-in-one machine with the copy, printing, scanner and faxing functions. With advanced laser printing technology and optical resolution of 600 x 600 dpi, you’ll find that both images and documents print clearly, with vivid colors.
+
+
+Product Condition: The printer is less than a year old and has barely been used; the only reason I want to get rid of it is because I’ve upgraded to a professional printer for my design work. This one is more than enough for regular household or office functions. I still have the original box, and I’ll even throw in a spare black ink cartridges and a color one, which have a value of ￡18 and ￡21, respectively. The machine is fully operation, though there is one small scratch on the left side panel. This minor deficiency has no effect whatsoever on the functioning of the machine.
+
+
+Shipping Details: Product ships within five business days within the Barcelona city limits, and two weeks to anywhere in Spain. No expedited shipping service is available for this product.
+
+
+To buy now, click here.
+
+To contact the seller with a question about the product, click here.
+
+
+
+
+
+出售：二手Canon L60機器
+
+價格 : 55歐元 加運費3歐元(市區) or 8歐元(全國)
+
+賣價編號: Rick444
+
+
+產品說明：這是台多功能事務機，有影印、列印、掃描和傳真功能。擁有先進技術的雷射列印功能和600*600dpi解析度，會清楚地列印色彩鮮麗的影像和文件。
+
+
+產品狀況：印表機使用不到一年並幾乎很少用到。會拿出來拍賣的原因是因為，我已經買升級版的專業影印表機用來影印我設計的作品。這台對一般家庭或辦公室使用綽綽有餘。我還保留原裝盒子，甚至還有附一個備用黑墨水匣，價值分別是18歐元和 21歐元。這台機器是正常運作，但左邊的面板有小刮痕。這小缺點對機台的任何功能毫無影響。
+
+
+運輸說明：限巴塞隆納市區，產品將在五個工作天內運送。另外，其它西班牙地區則需要兩個禮拜。本產品無提供快速運送服務。
+
+
+馬上購買，請在這裡點選。
+
+
+向賣家提出產品的相關問題，請在這裡點選。
+
+
+重要單字
+
+function n. 功能，作用
+
+technology n. 技術；科技
+
+optical adj. 光學的
+
+vivid adj. 鮮豔的
+
+upgrade v. 升級；提高品級
+
+spare adj. 備用的
+
+cartridge n. 墨水匣
+
+respectively adv. 分別地，各自地
+
+operation n. 操作；運轉
+
+panel n. 面板
+
+deficiency n. 缺陷，缺點
+
+expedite v. 迅速執行
+答對
+	Question 1.	
+ 
+ 
+Where might we find this advert?
+ (A) In a magazine.
+ (B) In a newspaper.
+ (C) On the Internet.(正解)
+ (D) Posted on a wall.
+請問在哪裡可能會看到這項廣告?
+a. 雜誌。
+b. 報紙。
+c. 網路。
+d. 公佈欄。
+ 
+答錯
+	Question 2.	
+ 
+ 
+Which of the following is NOT true about the product?
+ (A) It's been used before.
+ (B) It has many different functions.
+ (C) It is in perfect condition.(正解)
+ (D) It has been used for less than one year.
+關於產品敘述，下列何者是錯誤的?
+a. 作者不曾使用過本產品。
+b. 它有很多功能。
+c. 它的狀況完美。
+d. 作者才使用不到一年。
+ 
+答對
+	Question 3.	
+ 
+ 
+How much does one color cartridge cost for this machine?
+ (A) ￡18
+ (B) ￡58
+ (C) ￡55
+ (D) ￡21(正解)
+請問機器的彩色墨水匣的價格為何?
+a. 18歐元
+b. 58歐元
+c. 55歐元
+d. 21歐元
+ 
+答對
+	Question 4.	
+ 
+ 
+What can you do if you want the product in less than five days?
+ (A) You can pay an additional ￡3.
+ (B) This option is not available.(正解)
+ (C) You can pick it up yourself.
+ (D) Yon pay an additional ￡8.
+若您欲在五天內得到產品，請問您可以怎麼做?
+a. 你可以付額外的3歐元。
+b. 沒有這個選項。
+c. 你可以自取。
+d. 你可以付額外的8歐元。
+ 
+Questions 5 - 6 refer to the following article:
+
+ 
+
+Price per word (English to local language)
+
+Price per word (local language to English)
+
+Spanish
+
+$0.06
+
+$0.05
+
+French
+
+$0.06
+
+$0.06
+
+Russian
+
+$0.08
+
+$0.09
+
+Italian
+
+$0.06
+
+$0.05
+
+Mandarin
+
+$0.15
+
+$0.8*
+
+Cantonese
+
+$0.18
+
+$0.9*
+
+Japanese
+
+$0.12
+
+$0.7*
+
+Bahasa
+
+$0.09
+
+$0.10
+
+Thai
+
+$0.14
+
+$0.13
+
+
+
+ 
+
+每字的單價(英文翻成當地語言)
+
+每字的單價(當地語言翻成英文)
+
+西班牙文
+
+$0.06
+
+$0.05
+
+法文
+
+$0.06
+
+$0.06
+
+俄文
+
+$0.08
+
+$0.09
+
+義大利文
+
+$0.06
+
+$0.05
+
+中文
+
+$0.15
+
+$0.8*
+
+廣東話
+
+$0.18
+
+$0.9*
+
+日文
+
+$0.12
+
+$0.7*
+
+印尼文
+
+$0.09
+
+$0.10
+
+泰文
+
+$0.14
+
+$0.13
+
+答對
+	Question 5.	
+ 
+ 
+Who might consult this chart?
+ (A) A writer who needs an article translated.(正解)
+ (B) The worker in a currency exchange booth.
+ (C) A professor who teaches European history.
+ (D) A pilot who is flying to a different country.
+以下何者何人可能要參考這張表單?
+a. 有文章需要翻譯的作者。
+b. 貨幣兌換站的職員。
+c. 教歐洲歷史的教授。
+d. 飛行到其它國家的飛行員。
+ 
+答對
+	Question 6.	
+ 
+ 
+Which of the following is true about the chart?
+ (A) Thai words are charged on a per character basis.
+ (B) The price per word is always more expensive from English to local language.
+ (C) Asian languages are generally more expensive(正解)
+ (D) Spanish and French have the exact same prices.
+以下有關圖表的敘述，何者正確？
+a. 泰文翻譯價格是依每字計價。
+b. 從英文翻譯到當地其它語言的每字價格比較貴。
+c. 亞洲語系通常比較貴。
+d. 西班牙和法文翻譯價格相同。
+ 
+Questions 7 - 8 refer to the following article:
+
+
+
+Student paleontologists have made an amazing discovery in Drumheller, southern Alberta. The remains of what is now that to be a feathered dinosaur have been dug up 12 kilometers northwest of Drumheller, a city famed for its dinosaur bones. The dinosaur, which many are now referring to as the “ostrich dinosaur, is the first of its kind to be discovered in North America. The fossil is being traced to the Late Cretaceous Period, approximately 73 million years ago. The dinosaur appears to have been 2.4 meters long and believed to have been able to travel at speeds of up to 70 kilometers per hour. Starting next week, the fossil will be on display at the Royal Tyrell Museum of Paleontology.
+
+
+
+
+
+古生物學的學生在德拉姆黑勒，亞伯達南部已有驚奇的發現。目前認定為有羽毛恐龍的遺骨已經在一座因恐龍化石而聲名大噪的城市，也就是離德拉姆黑勒12公里的西南邊挖出。這隻恐龍也就是現在所稱的 “鴕鳥恐龍”，首次在北美洲發現。該化石可以追溯到白堊紀末期，約7300萬年前。該恐龍似乎長達有2.4公尺且我們認為牠能以每小時70公里的速度移動。自下禮拜起，該化石將在皇家泰瑞爾古生物博物館展出。
+
+
+
+
+重要單字
+
+paleontologist n. 古生物學者
+
+remains n. 遺體；遺骨
+
+famed adj有名的；著名的
+
+fossil n. 化石
+
+approximately adv. 大概；近乎
+
+appear to 似乎
+答錯
+	Question 7.	
+ 
+ 
+What would be an appropriate title for this article?
+ (A) Royal Tyrell Museum Open Soon.
+ (B) The Running Speeds of Various Dinosaurs.
+ (C) Description of Dinosaurs from the Late Cretaceous.
+ (D) One-of-a-Kind Bird Dinosaur Discovered.(正解)
+以下何者是此文章最適合的標題?
+a. 皇家泰瑞爾古生物博物館即將開幕。
+b. 各種恐龍的飛行速度。
+c. 白堊紀末期恐龍的說明。
+d. 發現獨一無二的鳥恐龍。
+ 
+答對
+	Question 8.	
+ 
+ 
+What was the running speed of the ostrich dinosaur?
+ (A) 2.4 kilometers per hour.
+ (B) 12 kilometers per hour.
+ (C) 70 kilometers per hour.(正解)
+ (D) 73 kilometers per hour.
+鴕鳥恐龍的奔跑速度是多少?
+a. 每小時2.4公里
+b. 每小時12公里
+c. 每小時70公里
+d. 每小時73公里
+ 
+Questions 9 - 12 refer to the following article:
+
+
+
+London has recently introduced a bike hiring scheme that is available 24 hours a day, 7 days a week, 365 days a year. (1) _____________ More than 10,000 bikes are available for over 700 docking stations found throughout the city. Nicknamed “Boris Bikes” after the London City Mayor Boris Johnson, the black and blue bikes have gained immense popularity with city residents and tourists alike. All you need to do to hire one is swipe a valid bank card and follow the directions on the screen at any of the docking stations. The bike is free for up to thirty minutes, and ￡1 is charged for every hour after that. Using for part of an hour is charged as an hour. You can use the same bike for up to 24 hours. (2) _____________ If you want to avoid any fees, simply dock the bike every 30 minutes or less and hire a new one. (3) _____________ An annual membership costs ￡90 and requires a simple registration. (4) _____________ Environmentalists are applauding London’s bike hiring scheme, and a number of cities around the globe are considering adopting similar schemes.
+
+
+
+
+最近，倫敦推出全天24小時，一個禮拜7天，一年365天的單車租借服務方案。在整遍城市將有10,000個單車可以使用以及700個租借站。依倫敦市長的名字「鮑里斯·約翰遜」取的暱稱「鮑里斯單車」，這些黑色和藍色的單車很受市民與觀光客的歡迎。你只要刷有效的銀行卡就可以租用，就可以隨著螢幕上指示方向抵達任何的停靠站。租用前30分鐘免費，之後的每一小時為1英鎊。使用不足一個小時以一小時計算。你可以於二十四小時內使用同一台腳踏車。在一整天循環後，就必須歸還自行車或換一台新的，否則除了每小時的費用外，你還會被收取額外10鎊的多天租用費用。如果你想要避免任何費用，只要每30分鐘(或之內)將單車停回租借站然後再租借新的一台。年度會員的費用是90鎊並僅要簡易註冊。環保人士對倫敦單車租借方案十分支持，且世界上有很多城市也已經考慮要施行類似的方案。
+
+
+重要單字
+scheme n. 計畫；方案
+docking station n. 停靠站
+throughout prep. 遍及，遍布
+immense adj. 廣大的
+swipe v. 刷（磁卡）
+avoid v. 避開，躲開
+environmentalist n. 環境保護論者
+applaud v. 稱讚；贊成
+adopt v. 採取；採納
+答錯
+	Question 9.	
+ 
+ 
+Which of the following is true about London's new bike hiring scheme?
+ (A) There are over 10,000 stations you can hire the bikes from.
+ (B) The bikes are black and blue.(正解)
+ (C) The bikes are available on weekdays only.
+ (D) The bikes are hired by city residents only.
+下列何者對倫敦新單車租借方案是正確的?
+a.你可以從超過一萬個停靠站租借。
+b.單車顏色是黑和藍色。
+c.單車只能在平日使用。
+d.單車只有城市居民租借。
+ 
+答對
+	Question 10.	
+ 
+ 
+Where does the bike name come from?
+ (A) The prime minister.
+ (B) It's a fake name.
+ (C) The founder of a bike company.
+ (D) A city politician.(正解)
+請問單車的名字是從哪裡來的?
+a. 總理。
+b. 這是假名字。
+c. 單車公司創辦人。
+d. 城市的政治家。
+ 
+答對
+	Question 11.	
+ 
+ 
+How much do you pay if you use a bike for one hour?
+ (A) ￡2.
+ (B) ￡90.
+ (C) At least ￡24.
+ (D) ￡1.(正解)
+若你使用一個小時的單車，請問該付多少錢?
+a. 2英鎊。
+b. 90英鎊。
+c. 至少24英鎊。
+d. 1英鎊。
+ 
+答錯
+	Question 12.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "After this full day cycle, it is necessary to return the bike or exchange it for a new one, otherwise you will be charge an additional multi-day fee of ￡10 on top of the hourly fee."
+ (A) (1)
+ (B) (2)(正解)
+ (C) (3)
+ (D) (4)
+下面的句子屬於標示的(1), (2), (3)或(4)之中的哪個位置？
+「在一整天循環後，就必須歸還自行車或換一台新的，否則除了每小時的費用外，你還會被收取額外10鎊的多天租用費用。」
+ 
+Questions 13 - 17 refer to the following food information, customer survey, and e-mail
+
+
+Burgers
+
+(v = vegetarian, * = recommended dish, s = spicy, n = new dish)
+
+All burgers come with your choice of two of the following;
+garlic fries, Caesar salad, French onion soup, onion rings, fruit salad, cheese sticks
+
+Double Australian
+Two beef patties topped with mozzarella cheese, beet root, and a fried egg.
+
+Mexican (s, *)
+Tons of melted cheese with spicy jalapeno peppers and sour cream.
+
+Veggie Delight (v)
+A tofu and chickpea patty topped with eight different grilled vegetables, cheese optional.
+
+Classic with Cheese
+All beef patty with cheese, pickle, lettuce, and tomato.
+
+Barbecue Deluxe (*)
+Loads of smoky flavor on this grilled patty, served with our homemade BBQ sauce, caramelized onions, and smoked gouda cheese.
+
+Korean (s, n)
+Be surprised to learn how delicious kimchi is on a burger! Also comes with fried egg.
+
+
+------------------------------------------------------------------------------------
+
+Smokey John's Customer Survey
+Because we care about quality, please take the time to fill out this survey.
+
+Contact	
+Name
+
+Address
+
+Phone
+
+Armin Reiner
+
+121 Kirk Street
+Frankfurt, Germany 32802
+
+69-2020-8043
+
+
+Regularity
+
+Every day
+
+Often
+
+Sometimes
+
+Rarely/Never
+
+How often do you dine with us?
+
+ 
+
+*
+
+ 
+
+ 
+
+
+Restaurant
+
+Excellent
+
+Great
+
+Satisfactory
+
+Needs Improvement
+
+Menu readability
+
+ 
+
+*
+
+ 
+
+ 
+
+Taste of the food
+
+ 
+
+*
+
+ 
+
+ 
+
+Presentation of the food
+
+ 
+
+ 
+
+*
+
+ 
+
+Atmosphere and lighting
+
+ 
+
+*
+
+ 
+
+ 
+
+Value for money
+
+ 
+
+*
+
+ 
+
+ 
+
+
+Wait Staff/ Service
+
+Excellent
+
+Great
+
+Satisfactory
+
+Needs Improvement
+
+Promptness
+
+ 
+
+ 
+
+ 
+
+*
+
+Genial and polite
+
+ 
+
+ 
+
+ 
+
+*
+
+Knowledgeable about menu items
+
+ 
+
+ 
+
+ 
+
+*
+
+Accuracy of order
+
+ 
+
+ 
+
+*
+
+ 
+
+Availability after order
+
+ 
+
+ 
+
+ 
+
+*
+
+
+Subsequent Visits
+
+Every day
+
+Often
+
+Sometimes
+
+Rarely/Never
+
+Will you dine with us again?
+
+ 
+
+ 
+
+ 
+
+*
+
+
+Additional Comments
+
+I'm a regular customer at Smokey John's. You guys have great burgers and generally provide very friendly service. Despite that, I'm quite upset about my recent visit. I've never experienced such awful service anywhere. The waiter we had must have been new, because I hadn't seen him before. First of all, we had to wait twenty minutes to order. Even on Friday nights, when the restaurant is busiest, I've never had to wait that long. He was not courteous at all, and he didn't even know that there were new menu items! He at least managed to get our order right, but after that he disappeared. There was no ketchup and I had to eat my burger without any ketchup at all. My family and I will not come back here unless the standards of your wait staff improve.
+
+-------------------------------------------------------------------------------------
+Smokey John's
+--
+8042 South Main Street
+Frankfurt, Germany 32802
+To:
+Armin Reiner
+121 Kirk Street
+Frankfurt, Germany 32802
+Dear valued customer,
+Here at Smokey John's, we always take the time to improve our service. Upon recent assessment of our new wait staff, we realized that our service was not up to par. We have made the necessary changes to ensure this never happens again.
+Due to this incident, we have included ten 50% discount coupons. Each coupon will ensure that you get the same quality of food for half of the usual price. Please note that these coupons are only valid within the next six months.
+Please call us at 69-7348-0091 for any further enquiries or comments.
+Sincerely,
+Smokey John's
+
+
+
+漢堡類
+
+(v = 素食, * = 推薦餐點, s = 辣, n = 新餐點)
+
+所有漢堡皆可選用以下兩項：蒜味薯條、凱薩沙拉、法式洋蔥湯、洋蔥圈、水果沙拉、起司條
+
+雙層澳洲漢堡
+雙層牛肉加上莫札瑞拉起司、甜菜根、煎蛋
+
+墨西哥漢堡 (s, *)
+滿溢的融化起司加墨西哥辣椒、酸奶
+
+素食甜心 (v)
+豆腐及鸚嘴豆夾心加上八種不同的燒烤風味蔬菜、可多加起司
+
+經典漢堡加起司
+牛肉加起司、酸黃瓜、生菜、番茄
+
+豪華BBQ漢堡 (*)
+燒烤風味漢堡肉佐特製烤肉醬汁、焦糖洋蔥、煙燻高達起司
+
+韓式漢堡(s, n)
+你會訝異地發現韓式泡菜夾在漢堡中這麼的美味！同時也附煎蛋。
+ 
+
+ 
+
+Smokey John’s餐廳顧客意見調查表
+
+因為我們在乎餐點品質，煩請您抽空填寫本表。
+
+ 
+
+聯繫方式
+姓名
+地址
+電話
+
+ 
+
+ 
+Armin Reiner
+121號，肯克街
+
+法蘭克福，德國 32802
+69-2020-8043
+
+ 
+
+ 
+
+來店頻率
+每天
+經常
+不常
+很少/從來沒有
+
+ 
+
+您多常來這裡用餐？
+ 
+*
+ 
+ 
+
+ 
+
+ 
+
+餐廳環境
+優秀
+極佳
+滿意
+有待改進
+
+ 
+
+菜單易讀性
+ 
+*
+ 
+ 
+
+ 
+
+食物口味
+ 
+*
+ 
+ 
+
+ 
+
+食物外觀
+ 
+ 
+*
+ 
+
+ 
+
+氣氛與及照明
+ 
+*
+ 
+ 
+
+ 
+
+物有所值
+ 
+*
+ 
+ 
+
+ 
+
+ 
+
+服務人員
+優秀
+極佳
+滿意
+有待改進
+
+ 
+
+服務即時度
+ 
+ 
+ 
+*
+
+ 
+
+親切有禮
+ 
+ 
+ 
+*
+
+ 
+
+熟悉菜單內容
+ 
+ 
+ 
+*
+
+ 
+
+出餐準確度
+ 
+ 
+*
+ 
+
+ 
+
+點餐後服務積極度
+ 
+ 
+ 
+*
+
+ 
+
+ 
+
+回訪頻率
+每天
+經常
+不常
+很少/從來沒有
+
+ 
+
+是否會再光顧？
+ 
+ 
+ 
+*
+
+ 
+
+ 
+
+額外意見
+我是Smokey John餐廳的常客。你們的漢堡超好吃而且服務還滿親切的。儘管如此，我最近一次去卻讓我很生氣。我在任何地方都從沒有遇過這麼糟糕的服務。服務我們的服務生一定是個新人，因為我以前沒有見過他。一開始，點餐我們得等上二十分鐘。就算是在禮拜五晚上餐廳最忙碌的時候，我也從來沒有等那麼久過。他一點禮貌也沒有，而且他甚至連菜單有新的項目都不知道！至少他總算是有把我們點的東西送對，可是在那之後他就不見蹤影了。因為沒有番茄醬，所以我得完全沒沾番茄醬的吃我的漢堡。除非你們服務人員的水準有進步，不然我家人跟我不是會再來這裡了。
+
+ 
+
+ 
+
+----------------------------------------------------------------------------
+
+Smokey John's
+--
+8042號，南大路，
+
+法蘭克福，德國 32802
+
+收件人：
+
+Armin Reiner
+
+121號，肯客街
+
+法蘭克福，德國 32802
+
+敬愛的顧客：
+Smokey John一直不斷地花時間改進我們的服務。從您最近對我們的新進服務人員的評價，我們知道我們的服務並沒有達到水準。我們已經做了必要的改變以確保這樣的情形不會再發生。
+
+因為這個事件，我們隨信附上了十張五折折價券給您。每一張折價券都可以讓您用半價買到跟平常一樣品質的食物。請留意這些折價券只有在接下來的六個月內有效。
+
+有任何其他問題或意見請撥打電話69-7348-0091 給我們。
+
+誠摯的，
+
+Smokey John
+
+重要單字
+dine v. 進餐，用餐
+readability n. 易讀；可讀程度
+presentation n. 外觀
+promptness n. 敏捷；迅速
+genial adj. 和藹的，親切的
+knowledgeable adj. 有知識的
+accuracy n. 正確（性）
+subsequent adj. 其後的，隨後的
+generally adv. 通常
+despite prep. 儘管
+courteous adj. 有禮貌的
+assessment n. 評價
+par n. 標準
+incident n. 事件
+enquiry n. 詢問；打聽
+
+答對
+	Question 13.	
+ 
+ 
+What was the customer's main issue with the restaurant?
+ (A) A member of the wait staff was new.
+ (B) The taste of the food wasn't good.
+ (C) The waiter's overall performance was bad.(正解)
+ (D) He didn't get the meal he ordered.
+這位客人對該餐廳的主要不滿為何？
+a. 服務人員裡有一位是新人。
+b. 食物口味不佳。
+c. 該服務生的整體表現不好。
+d. 他點的餐沒有送來。
+ 
+答錯
+	Question 14.	
+ 
+ 
+Which of the following is NOT true about the customer survey?
+ (A) The customer was not impressed with the food.
+ (B) The customer said that the waiters and waitresses are usually nice.
+ (C) The customer doesn't usually dine at Smokey John's.(正解)
+ (D) The customer said that there wasn't enough ketchup available at his table.
+關於這份顧客意見調查表下列何者不正確？
+a. 這位客人並未被食物打動。
+b. 這位客人說這裡的男服務生與女服務生通常都很不錯。
+c. 這位客人並不常去Smokey John's餐廳用餐。
+d. 這位客人說桌上沒有足夠的番茄醬可用。
+ 
+答對
+	Question 15.	
+ 
+ 
+How did the restaurant remedy the situation?
+ (A) By firing the bad employee.
+ (B) By providing coupons that would reduce the price of some meals.(正解)
+ (C) By providing coupons that would ensure some free meals.
+ (D) None of the above.
+該餐廳如何補救這個狀況？
+a. 開除該名不肖員工。
+b.提供可以降低部分餐點價格的折價券。
+c. 提供可以保證部分餐飲免費的折價券。
+d. 以上皆非。
+ 
+答錯
+	Question 16.	
+ 
+ 
+Which menu item was the waiter who served Armin Reiner unknowledgeable about?
+ (A) The Korean burger. (正解)
+ (B) The Veggie Delight burger.
+ (C) The Classic with Cheese burger.
+ (D) All of the burgers.
+以下選項何項是為Armin Reiner服務的服務生所不知道的餐點品項？
+a. 韓式漢堡。
+b. 素食甜心。
+c. 經典起司漢堡。
+d. 所有的漢堡。
+ 
+答錯
+	Question 17.	
+ 
+ 
+What will the restaurant likely focus on improving?
+ (A) The presentation of the food.
+ (B) The arrangement of the tables.
+ (C) The clarity of the menu.
+ (D) The quality of the wait staff.(正解)
+這家餐廳可能會集中注意力在什麼地方的改善上？
+a. 食物的外觀。
+b. 桌位的安排。
+c. 菜單的明晰度。
+d. 服務人員的素質。
+ 
+Questions 18 - 20 refer to the following article:
+
+
+
+Did you know that the Mona Lisa, perhaps the most famous painting in the history of art, was once stolen right off the wall of the Louvre in Paris? On August 21, 1911. In fact, Leonardo Da Vinci’s masterpiece was missing for a whole day before anybody noticed! After they finally noticed, dozens of police officers conducted an investigation yet they uncovered few clues. Apparently, the security guard in that section of the Louvre had gone for a cigarette break when the robbery occurred. It wasn’t until two years later, in autumn of 1913, that the case came to a close. An Italian named Vincenzo Peruggia was arrested after trying to sell the painting to an art dealer from a hotel room in Florence, Italy. The painting was finally returned to its home in France on December 30, 1913.
+
+
+
+
+您知道蒙娜麗莎，也許是美術歷史上最知名的一幅畫，曾在巴黎羅浮宮的牆上眾目睽睽下被偷嗎？就是1911年8月21日這一天。事實上，李奧納多‧達文西的傑作是在沒人注意到之前已經消失一整天了！終於有人注意畫作失蹤後，數十名警員調查此案卻幾乎沒有線索。顯然地，竊案是在當負責羅浮宮區域的警衛正去抽菸休息的時候發生。直到兩年後，1913年的秋天，該案子才結束。一位義大利人，裴路賈，在佛羅倫斯義大利的一間飯店房間，試著銷售該幅畫給一位藝術品經銷商的時候被捕。1913年12月30 日，該幅畫重返故鄉，法國。
+
+
+重要單字
+perhaps adv. 大概，或許
+masterpiece n. （個人或團體的）最傑出的作品
+dozens n. 幾十，許多
+investigation n. 研究；調查
+apparently adv. 顯然地
+section n. 地區，區域
+cigarette n. 香煙
+occur v. 發生
+答錯
+	Question 18.	
+ 
+ 
+Why didn't the security guard notice the theft?
+ (A) It occurred at night.
+ (B) He was outside smoking.(正解)
+ (C) The robber tricked him.
+ (D) He was asleep.
+為何保全沒有注意到竊賊?
+a. 竊盜案在晚上發生。
+b. 他出去外面抽菸。
+c. 竊賊哄騙他。
+d. 他睡著了。
+ 
+答錯
+	Question 19.	
+ 
+ 
+When did they catch the man who stole the Mona Lisa?
+ (A) August 21, 1911.
+ (B) August 22, 1911.
+ (C) Autumn, 1913.(正解)
+ (D) December 30, 1913.
+警方何時抓到偷蒙娜麗莎畫像的人?
+a. 1911年8月21日。
+b. 1911年8月22日。
+c. 1913年的秋天。
+d. 1913年12月30日。
+ 
+答錯
+	Question 20.	
+ 
+ 
+Where can we assume the Mona Lisa is right now?
+ (A) In the Louvre.(正解)
+ (B) In Leonardo Da Vinci's house.
+ (C) In a hotel room in Florence.
+ (D) Somewhere in Italy.
+從文章判斷，請問蒙娜麗莎畫像目前位於何處?
+a. 在羅浮宮裡。
+b. 在達文西家裡。
+c. 在佛羅倫斯的某個飯店的房間裡。
+d. 義大利的某處。
+ 
+Questions 21 - 25 refer to the following article:
+
+www.lushmettabeads.com
+
+Welcome!
+
+Lush Metta Beads offers the world’s largest selection of beads for DIY jewelry making. Browse over 25,000 beads on our website and get ready to make your own necklaces, bracelets, anklets, earrings and so on. We are based in Lithuania but we can ship worldwide and there is no minimum order size.
+
+We also offer custom artisan creations and repairs. If you don’t know where to start, our expert craftsmen can choose the best combination of beads to suit your needs or fix up any old or damaged jewelry that you hold dear.
+
+Lush Metta Beads partners with the local community charity Clothes for Kids, which provides much needed clothing for underprivileged children. 20% of all our earnings go directly to supporting their compassionate programs.
+
+Click here to begin your search for the best beads today!
+
+------------------------------------------------------------------
+
+www.facebook.com/clothesforkids/
+
+Clothes for Kids
+
+Timeline
+
+Clothes for Kids
+May 22 at 1:22pm
+
+An important general announcement to all of our followers: There is a private company in Lithuania called Lush Metta Beads that claims on their website to be partnered with our organization. We were surprised and shocked to see this because we have no relationship whatsoever with this company, and we had never even heard of them until one of our family members brought this to our attention.
+
+We have tried multiple times to contact the company via telephone and email, but to no avail. Please do not support this company by purchasing from them, and please do us a favor by sharing this status so we can inform the general public.
+
+Thanks and have a wonderful day.
+
+-------------------------------------------------------------------
+
+Message Inbox
+From: Timothy Paulauskas
+
+Dear Clothes for Kids,
+
+My name is Mr. Paulauskas and I am a lawyer based in Vienna. I recently came across your Facebook post regarding a false partnership claimed by Lush Metta Beads in Lithuania after it was shared by one of my friends. I specialize in international disputes and have handled several cases similar to this in the past. I would like to offer you my services in bringing this pesky problem to an end as soon as possible.
+
+My first step would be to assist you to take legal action against Lush Metta Beads, since they have already ignored your requests to take down the false claims. However, for the time being, I would strongly advise you to take down your post on Facebook and anywhere else that you have posted it. While you may feel that it is important to warn the public about this company, doing so may hurt you in the long run. It is better that we conduct a thorough, legal investigation first and touch base with the company in question. I can assist you with both these matters should you hire me. For cases such as this, I charge a base investigation fee of 150 euros plus 10% of any amount obtained via a successful lawsuit.
+
+Please let me know if you’d like me to proceed with the case. I’d suggest that we conduct this discussion via email. Please contact me ASAP at tpaulauskasassociates@gmail.com.
+
+ 
+
+
+
+www.lushmettabeads.com
+
+歡迎！
+
+Lush Metta Beads提供世界上最大DIY首飾製作珠飾的選擇。瀏覽我們的網站上超過2千500種的珠飾，準備為自己做項鍊、手鍊、腳鍊、耳環等。我們的總部設在立陶宛，但我們可以運往世界各地，並沒有最低訂貨量。
+
+我們還提供顧客工匠創作和維修。如果你不知道從哪裡開始，我們的專業工匠幫您選擇最符合您需求的組合，或修復你珍視的任何舊的或損壞的首飾。
+
+Lush Metta Beads與當地社區的慈善機構Clothes for Kids合作，此機構提供急需的服裝給弱勢兒童。我們所有收入的20％直接用來支持他們的慈愛方案。
+
+點此處，現在開始搜尋最好的珠飾！
+
+------------------------------------------------------------------
+
+www.facebook.com/clothesforkids/
+
+童衣國際
+
+時間
+
+童衣國際
+下午1:225月22日
+
+對我們所有的追隨者的重要公告：有一家立陶宛稱為Lush Metta Beads的私人公司在他們網站上宣稱與我們合作。我們對於這一點又驚訝又震驚，因為我們與該公司沒有任何關係，我們甚至從來沒有聽說過他們，直到我們的家庭中的一位成員引起我們的注意。我們試著多次打電話和寄電子郵件與該公司聯繫，但都無濟於事。請不要藉由購買產品支持這家公司，也請幫忙分享這個狀態，所以我們可以告知大眾。
+
+感謝，並祝大家有美好的一天。
+-------------------------------------------------------------------
+
+郵件收件箱
+寄件者：Timothy Paulauskas
+
+親愛的Clothes for Kids，
+
+我的名字是Paulauskas先生，我是在維也納的一名律師。最近，因朋友的分享，我在你的臉書 貼文中看到關於立陶宛Lush Metta Beads做假聲稱的合作關係。我專門從事國際爭議，已經處理過類似的幾起案件。我想為你們提供服務，盡快把這個討厭的問題解決。
+
+我的第一個步驟將是幫助您對Lush Metta Beads採取法律行動，因為他們忽略你要求撤下虛假陳述的請求。然而，就目前而言，我強烈建議你刪除你在 臉書上和在其他地方張貼的文章。雖然你可能覺得它警告大眾了解這家公司，但這樣做可能會對你造成長遠的傷害。我們先進行徹底且合法的調整，與該公司初步接觸。若你雇用我，我可以為您提供這兩項服務。對於這樣的案件，我收取150歐元的費用，加上成功訴訟獲得的賠償金額的10％。
+
+請讓我知道你是否想要我進行此案件。我建議我們通過電子郵件進行的討論。請盡快通過tpaulauskasassociates@gmail.com與我聯繫。
+
+ 
+
+重要單字
+worldwide adv. 在世界各地
+artisan n. 工匠；技工
+combination n. 結合（體）
+suit v. 適合
+underprivileged adj. 社會地位低下的
+compassionate adj. 有同情心的
+announcement n. 宣告，宣布
+avail n. 效用；幫助
+specialize v. 專攻；專門從事
+dispute n. 爭論
+pesky adj. 麻煩的；討厭的
+assist v. 幫助，協助
+ignore v. 不理會；忽視
+claim n. 主張，斷言
+obtain v. 得到，獲得
+via prep. 經由
+
+答對
+	Question 21.	
+ 
+ 
+Which of the following is NOT true about Lush Metta Beads?
+ (A) They will even make a shipment if you only order one bead.
+ (B) They can custom design and repair jewelry.
+ (C) Their headquarters is in Lithuania.
+ (D) They also make clothing for children.(正解)
+以下哪項關於Lush Metta Beads何者為非？
+a.如果你只訂購一個珠子，他們也會出貨。
+b.他們可以量身定制設計和修複珠寶。
+c.他們的總部設在立陶宛。
+d.他們還做兒童服飾。
+ 
+答錯
+	Question 22.	
+ 
+ 
+What is a false claim on the Lush Metta Beads webpage, according to the Clothes for Kids Facebook fan page post?
+ (A) Lush Metta Beads is the world's largest bead distributor.
+ (B) Lush Metta Beads makes clothing for children.
+ (C) Lush Metta Beads donates partial profits to Clothes for Kids.(正解)
+ (D) Lush Metta Beads donates jewelry to impoverished kids.
+根據童衣國際在臉書的粉絲頁上的貼文，Lush Metta Beads網頁上的虛假聲稱為以下何者？ 
+a. Lush Metta Beads是世界上最大的珠飾經銷商。
+b. Lush Metta Beads生產童衣。
+c. Lush Metta Beads捐贈部分的利潤給童衣國際。
+d. Lush Metta Beads捐贈珠寶給貧困的孩子。
+ 
+答對
+	Question 23.	
+ 
+ 
+What happened when Clothes for Kids tried to contact Lush Metta Beads?
+ (A) Lush Metta Beads denied the allegations.
+ (B) Lush Metta Beads didn't reply.(正解)
+ (C) It turned out that Lush Metta Beads was a fake company.
+ (D) It seemed that Lush Metta Beads wanted to sue Clothes for kids.
+當童衣國際要聯繫Lush Metta Beads時，發生了以下何事？
+a. Lush Metta Beads否認了指控。
+b. Lush Metta Beads沒有回覆。
+c.原來Lush Metta Beads一間假公司。
+d.看起來Lush Metta Beads想要起訴童衣國際。
+ 
+答錯
+	Question 24.	
+ 
+ 
+Why does Timothy Paulauskas advise Clothes for Kids to take down their Facebook post?
+ (A) It contains false claims.
+ (B) It is better to undertake legal action first.(正解)
+ (C) It is not necessary to warn the public.
+ (D) It was posted in the wrong place.
+Timothy Paulauskas為什麼建議童衣國際取消他們在臉書上發表的貼文？
+a.包含虛假陳述。
+b.最好是先採取法律行動。
+c.不需要警告大眾。
+d.它被張貼在錯誤的地方。
+ 
+答對
+	Question 25.	
+ 
+ 
+What is implied by Timothy Paulauskas?
+ (A) Clothes for Kids should sue Lush Metta Beads.(正解)
+ (B) Clothes for Kids does not have a strong case against Lush Metta Beads.
+ (C) Clothes for Kids is guaranteed to win their lawsuit against Lush Metta Beads.
+ (D) Clothes for Kids should give up on dealing with Lush Metta Beads.
+以下選項何者是Timothy Paulauskas所暗示的意思？
+a. Clothes for Kids應該起訴Lush Metta Beads。
+b. Clothes for Kids起訴Lush Metta Beads並沒有很大的勝算。
+c. Clothes for Kids被保證會贏得和Lush Metta Beads的訴訟。
+d. Clothes for Kids應該放棄和Lush Metta Beads打交道。
+ 
+Questions 26 - 29 online chat discussion:
+
+
+
+Hunter Brown (14:15)
+
+Cynthia, Bruce, I’m sorry. I’m stuck in a meeting. Can we postpone our appointment? Perhaps tomorrow at 11 AM?
+
+
+
+Cynthia Gomez (14:16)
+
+I could do anytime after 9 AM tomorrow, but no later than 3 PM. I could use more time to fine-tune my proposal. Bruce?
+
+
+
+Bruce Carter (14:17)
+
+I’m afraid I’m already in the conference room ready to go. I’m headed to Brussels on business tomorrow bright and early, and I won’t be back until the 17th. I don’t think we want to wait that long, do we?
+
+
+
+Cynthia Gomez (14:19)
+
+Definitely not. I can still make it there at the scheduled time. Hunter, do you really need to be there or can we go ahead without you?
+
+
+
+Hunter Brown (14:21)
+
+Yes, please do. I really can’t get out of this meeting. But I need to know every detail that you guys discuss. Could you please record your meeting? There is recording equipment in the conference room.
+
+
+
+Cynthia Gomez (14:21)
+
+Certainly. I’ll send you the PowerPoint version of my proposal as well.
+
+
+
+Bruce Carter: (14:21)
+
+Hunter, I was really looking forward to your insight on the proposal. Would you be able to review Cynthia’s presentation and add any additional thoughts your have before I leave?
+
+
+
+Hunter (14:22)
+
+Sure. I should be done this meeting in a few hours, then I just need to head back to my office and I’ll get on it. I’ll send it to your before I leave the office.
+
+
+
+Bruce Carter (14:23)
+
+Great, thanks. Cynthia: what is your estimated time or arrival?
+
+
+
+Cynthia Gomez (14: 25)
+
+OMW right now. I’ll be there at the scheduled time.
+
+
+
+Bruce Carter (14:26)
+
+Great. See you in a few mins.
+
+
+
+
+亨特．布朗(14點15分)
+辛西亞、布魯斯，我很抱歉。我被困在會議中。我們可以把約會延後嗎？也許明天上午11點？
+
+辛西亞·戈麥(14:16)
+我明天早上9點後都可以，但不要晚於下午3點。我要用多一點時間來微調我的提案。布魯斯呢？
+
+布魯斯·卡特(14:17)
+可是我已經在會議室裡準備了。我明天一大早要前往布魯塞爾出差，直到17號才回來。我們應該不想等這麼久，對吧？
+
+辛西亞·戈麥(14:19)
+當然不。我還可以預定的時間出現。亨特，你有需要出席嗎？或者我們可以先進行？
+
+亨特．布朗(14:21)
+是的，請進行。我真的無法走出會議。但我需要知道你們商量的每一個細節。能否請您做會議記錄？會議室裡錄音設備。
+
+辛西亞·戈麥(14時21分)
+當然。我也寄給你我提案的PowerPoint版本。
+
+布魯斯·卡特(14:21)
+亨特，我真的很期待你對提案的見解。你有辦法在我離開前看辛西亞的簡報，並加入你有的想法嗎？
+
+亨特(14時22分)
+當然。我應該幾個小後就會結束這個會議，然後我只需要回到我的辦公室，就可開始進行。在我離開辦公室，我會把它寄給你。
+
+布魯斯·卡特(14:23)
+萬分感謝。辛西亞：你估計什麼時間會到達？
+
+辛西婭·戈麥斯(14:25)
+我已經在路上。我會在預定的時間抵達。
+
+布魯斯·卡特(14:26)
+太好了。幾分鐘後見。
+
+
+重要單字
+postpone v. 使延期，延遲
+proposal n. 計畫；提案
+definitely adv. 肯定地；當然
+equipment n. 配備，裝備
+certainly adv. （用於回答）當然
+insight n. 洞悉；深刻的理解
+additional adj. 添加的；額外的
+estimate v. 估計
+答對
+	Question 26.	
+ 
+ 
+What time was the speakers' meeting originally scheduled for?
+ (A) 9 AM
+ (B) 11 AM
+ (C) 2:30 PM(正解)
+ (D) 3 PM
+講話者會議原定於什麼時候？
+a.上午9點
+b.上午11點
+c.下午2時30分
+d.下午3點
+ 
+答對
+	Question 27.	
+ 
+ 
+Why can't the meeting be rescheduled?
+ (A) Cynthia Gomez isn't ready.
+ (B) Bruce Carter is going on a business trip tomorrow morning.(正解)
+ (C) Hunter Brown is stuck in a very important meeting.
+ (D) The conference room is not currently available.
+會議為什麼不能改期？
+a.辛西亞．戈麥還沒有準備好。
+b.布魯斯．卡特明天早上要出差。
+c.亨特．布朗被困在一個非常重要的會議。
+d.會議室是目前不可使用。
+ 
+答錯
+	Question 28.	
+ 
+ 
+What does Bruce Carter still hope to get from Hunter Brown?
+ (A) his proposal
+ (B) his PowerPoint presentation
+ (C) his advice regarding his trip to Brussels
+ (D) his comments on Cynthia's presentation(正解)
+布魯斯．卡特仍希望從亨特．布朗那獲得什麼？
+a.他的提案
+b.他的PowerPoint簡報
+c.他對他至布魯塞爾行程的意見
+d.他對辛西亞簡介的評論
+ 
+答對
+	Question 29.	
+ 
+ 
+What does Cynthia Gomez mean by OMW?
+ (A) only my work
+ (B) on my way(正解)
+ (C) on Monday or Wednesday
+ (D) on most weekends
+辛西亞·戈麥斯指的OMW是什麼意思？
+a.只是我的工作
+b.在路上
+c.在週一或週三
+d.大多數週末
+ 
+Questions 30 - 34 refer to the following article:
+
+
+
+The 3 other keys to being happy
+
+By Arnold Witherspoon of the Sacramento Post
+
+
+Many think that a happy life can come from being a go-getter. Modern society favors dominant attitudes over passive ones. Extroverts always win. Enterprising is the only way! Survival of the fittest! But, does it really make you happy? Actually, true happiness comes from helping others and putting them before you.
+
+
+Key 1:
+
+Be empathetic. A 2013 study by graduate students at the University of Santa Cruz shows that people who recognize what other people are feeling are happier. Happiness is a group effort.
+
+
+Key 2:
+
+Be a soft leader. Not all leaders need to be bold. Professor Dominique Gervaise, who has studied behavioral sciences for over twenty years, talks about using ‘soft power’ to succeed as a leader. Favor collaboration over arrogant management to build up a strong business.
+
+
+Key 3:
+
+
+Be good to your partner. There are times when you think you’re right, and times when your partner thinks he or she is right. It’s crucial to listen to what your partner has to say. It’s about the ‘we’, not the ‘I’. This can extend beyond your personal relationship and into relationships you have with family and friends. So, smile together.
+-------------------------------------------------------------------------------------
+
+1 comment
+
+
+
+Eddie Manboots:
+
+
+This is not what America was founded on. We had to fight for our freedom, and that resolve didn’t come from caring about how Englanders felt. Our founding fathers knew that being free was true happiness, and that they had to fight for it. If we were focused on making the members of the British Empire happy at that time, we wouldn’t be the great country that we are today.
+
+
+Big business is important in today’s economy. If all businesses made the same amount of money, then people would get lazy. This ‘soft power’ that you talk about isn’t right. You don’t have to be arrogant to manage your company well. Workers need management. Not everyone is a born with a top dog attitude. Sure, cooperation is good, but truly successful leaders make it to the top and boost the economy from that level. Some people raise a fuss along the way, but a good economy truly begets happy citizens.
+
+
+The last of your points is the only one I agree with. Sometimes you’re not always right, and you need to know when you’ve made a mistake. Feedback from your partner, business partner, friend, or family member is always important. However, you need to improve yourself before you can improve others. It’s crucial to keep that in mind.
+
+
+
+讓自己快樂的其他三個關鍵
+
+Arnold Witherspoon撰稿，沙加緬度郵報
+
+
+許多人認為快樂的人生來自於讓自己成為勤奮的人。現代社會對態度強勢的人有利，而不是消極的人。個性外向的人永遠是贏家。唯有積極進取一途！適者生存！可是這真的能夠讓你快樂嗎？其實，真正的快樂是來自於幫助他人與以他人為重。
+
+
+關鍵一：
+
+要有同理心。一個2013年由Santa Cruz 大學的研究生所做的研究顯示，能夠了解別人的感受的人比較快樂。快樂是一種集體的努力。
+
+
+關鍵二：
+
+要作個身段柔軟的領導者。不是所有的領導者都必須是強悍的。Dominique Gervaise教授研究行為科學已經超過二十年，主張運用「軟實力」來成為成功的領導者。他贊成用協同合作來取代傲慢自大的管理風格以建立一個堅強的企業。
+
+
+關鍵三：
+
+
+要好好對待你的夥伴。有些時候你認為你是對的，但有時候你的夥伴認為他/她是對的。傾聽你的夥伴想說的話是很重要的。重點是在「我們」，而不是「我」。這點可以超越你的個人人際關係擴及到你跟家人及朋友之間的關係。因此，大家一起微笑吧。
+----------------------------------------------------------------------------
+
+聊天室
+
+1 則評論
+
+
+Eddie Manboots：
+
+
+美國不是這樣來的。我們的自由是奮戰得來的，那種決心並不是出自於在乎英國人怎麼想。我們的開國者明白擁有自由才是真正的快樂，而且他們必須自己爭取。如果我們那時候關心的是取悅大英帝國的成員，我們就不會成為今天的偉大國家。
+
+
+大型企業在今日的經濟情勢有舉足輕重的地位。如果所有的企業錢都賺得一樣多，那人們就會變得懶散。你說的「軟實力」是行不通的。你並非一定要高高在上才能管理好你的公司。員工「需要」的是管理。不是每個人天生就是掌權者。確實，合作是好的，但真正的成功領導者要能夠讓經濟登峰造極屢創新高。有人總是愛小題大作，但是有好的經濟才會有快樂的人民。
+
+
+你最後一個論點是我唯一認同的。有時候你並不是永遠都是對的，當你犯錯時你必須要知道。知道你的夥伴、生意搭擋、朋友，或家人對你的評價永遠都是重要的。然而，你必須先提升自己才能提升別人。務必要牢記這點。
+
+
+
+重要單字
+
+favor v. 有利於，有助於
+
+dominant adj. 支配的，統治的
+
+extrovert n. 個性外向的人
+
+enterprising adj. 富進取心的；有魄力的
+
+empathetic adj. 移情作用的，感情移入的
+
+behavioral sciences行為科學
+
+succeed v. 獲得成效
+
+collaboration n. 合作；共同研究
+
+arrogant adj. 傲慢的；自大的
+
+crucial adj. 決定性的，重要的
+
+extend v. 延伸；擴展
+
+beyond prep. 超過，越過
+
+resolve v. 決心，決定
+
+economy n. 經濟
+
+boost v. 提高；促進
+
+fuss n. 大驚小怪；小題大作
+
+beget v. 引起，招致
+答錯
+	Question 30.	
+ 
+ 
+In which of the key points does the author of the first article NOT cite a source of authority?
+ (A) Key 1.
+ (B) Key 2.
+ (C) He cites a source of authority in all of the key points.
+ (D) Key 3.(正解)
+第一篇文章的作者在哪一個關鍵點上沒有引用權威資料來源？
+a. 關鍵一。
+b. 關鍵二。
+c. 他在全部的關鍵點中引用了同一個權威資料來源。
+d. 關鍵三。
+ 
+答對
+	Question 31.	
+ 
+ 
+What is Arnold Witherspoon's main point?
+ (A) It's important to be unselfish.(正解)
+ (B) It's important to be enterprising.
+ (C) It's important to be a dominant person.
+ (D) It's hard to define true happiness.
+Arnold Witherspoon的主要論點為何？
+a. 做人不自私是很重要的。
+b. 做人積極進取是很重要的。
+c. 做人強勢是很重要的。
+d. 真正的快樂很難定義。
+ 
+答錯
+	Question 32.	
+ 
+ 
+What can be said about Eddie Manboots's response?
+ (A) He mostly disagrees with the article.(正解)
+ (B) He completely disagrees with the article.
+ (C) He mostly agrees with the article.
+ (D) He completely agrees with the article.
+Eddie Manboots的回應可以說是如何？
+a. 他大部分不認同本文。
+b. 他完全不認同本文。
+c. 他大部分認同本文。
+d. 他完全認同本文。
+ 
+答對
+	Question 33.	
+ 
+ 
+What does the replier think about good management?
+ (A) Leadership and the economy are not related.
+ (B) You must be egotistical to manage your company well.
+ (C) Workers need a leader because they don't all possess the attitude of leadership.(正解)
+ (D) Englanders don't know how to manage very well.
+這個回應本文的人認為好的經營管理是怎麼樣？
+a. 領導能力與經濟並不相關。
+b. 你必須要狂妄自大才能管好你的公司。
+c. 員工因為不具備領導者的心態而需要一個領袖。
+d. 英國人不知道如何好好的管理。
+ 
+答錯
+	Question 34.	
+ 
+ 
+Which of the following viewpoints are shared by both sides?
+ (A) They do not share any viewpoints.
+ (B) They both think that nobody is completely right all the time.(正解)
+ (C) They both think that the feeling of individual freedom begets happiness.
+ (D) They both think that cooperation with others is the most vital part of good management.
+下列哪個觀點是雙方都認同的？
+a. 他們沒有共同的看法。
+b. 他們都認為沒有人永遠是對的。
+c. 他們都認為個人自由的感覺能產生快樂。
+d. 他們都認為與別人合作是良好的管理中最重要的一部分。
+ 
+Questions 35 - 39 refer to the following article:
+
+
+
+Remember Your Mother
+
+
+Because mom deserves the greatest gift this Mother’s Day, let us help arrange it for you. We have over ten different floral arrangements that you can choose from. Here are five to get you started.
+
+
+Spring and Bloom: This arrangement features primarily Amaryllises with Delphiniums sprinkled into the mix. The Delphiniums give energy to the otherwise slow and graceful Amaryllises. It’s good for those spunky mothers! ￡30
+
+
+The Fareast: Look no further if you have a soft spot for Asian culture. This arrangement combines Asiatic Lilies with several Birds of Paradise. Both of these flowers have a sharp quality. There is also one Oriental Lily to add some flair. Sometimes the flowers look like they’re moving even though they’re still. ￡45
+
+
+The Eye of the Iris: You guessed it. This arrangement showcases some glorious violet Irises interspersed among childlike Lilacs. The Irises pop out. It’s an eye-catcher! This is great for a husband who “caught her eye” someday in the past. ￡35
+
+
+Radiance in the Night: This arrangement is highlighted by numerous Ranunculus flowers. The Hydrangeas live beneath these glowing night creatures. For those moms who have to stay up late, this is the right choice. For those family members or loved ones chasing low prices, this is the right choice. ￡20
+
+
+Queen of Kings: One big King Protea dares to step up amongst some Peonies and Carnations. However, she isn’t a king; she’s a queen! This arrangement is perfect for a bold mother. ￡50
+
+
+Not into fancy arrangements? We have the traditional bouquets of roses as well. Please visit our website: http://www.flowers4you.com. You can find ordering information here.
+
+
+Also, please note that these arrangements do NOT come in pots. To purchase a pot along with the arrangement, please visit our website.
+
+
+If you have any questions please call us at 1-828-FLOWER4.
+ 
+
+-------------------------------------------------------------------------------------
+
+To: request@flowers4you.com
+
+From: readerjoe86@lisco.com
+
+Date: August 12th, 2009
+
+Time: 9:34 p.m.
+
+Subject: Alternative Arrangement
+
+
+Hello,
+
+
+I’m interested in purchasing an arrangement. However, I was wondering if I could request my own arrangement of flowers. I’m quite picky when it comes to putting colors together. I also want only the best for my mom, and I’m okay with paying a high price for it.
+
+
+I like The Fareast arrangement, but I want to substitute the Asiatic Lilies for some Oriental Lilies. I don’t particularly like the effect that just one Oriental Lily adds. I’d like the arrangement to be approximately 40% Birds of Paradise, and 60% Oriental Lilies.
+
+
+As for the pot, can you suggest a pot that would match this arrangement? I checked your website, and you only suggested two pots for The Fareast arrangement. Nevertheless, I don’t think these suggested pots would match MY arrangement, even though they’re painted in an Asian theme.
+
+
+I tried calling your number to ask, but I was put on hold. Thanks for your time. I appreciate it.
+
+
+Best,
+
+
+Joe Reader
+
+
+
+別忘了你的媽媽
+
+
+因為老媽值得收到這個母親節最好的禮物，請讓我們來替你安排。我們有十種以上的不同搭配供您挑選。這裡是五種入門款。
+
+
+春暖花開：這個搭配的主要特色是孤挺花再加上飛燕草混入點綴。飛燕草為原本和緩高雅的孤挺花增添了活力。它適合生氣蓬勃的媽媽們！30英鎊
+
+
+遠東風情：如果你非常喜愛亞洲文化的話就不必再猶豫了。這個搭配結合了亞洲百合與幾枝天堂鳥。這兩種花的品質一流。還有一枝東方百合增添風情。這些花雖然是靜止的但有時看似搖曳生姿。45英鎊
+
+
+花之眼眸：你猜對了。這個搭配所展示的是華麗紫鳶尾花穿插於稚氣紫丁香花中。鳶尾花十分突出。她是萬眾矚目的焦點！這正是在從前的某一天「擄獲她的青睞」的丈夫要的。35英鎊
+
+
+夜裡的光輝：這個搭配有許多的陸蓮花。還有繡球花伴隨在這些鮮豔的夜間生物之下。對於那些必須很晚才睡的媽媽們來說，這是最合適的選擇。對於只求便宜的家人或至愛而言，這最合適。20英鎊
+
+
+龍中之鳳：一大朵帝王花昂然挺立在牡丹與康乃馨之中。但是，她並不是國王，她是王后！這個搭配非常適合強悍的母親。50英鎊
+
+
+沒有你喜歡的搭配嗎？我們也有傳統的玫瑰花束 。請上我們的網站：http://www.flowers4you.com。你可以在這裡找到訂購資訊。
+
+
+此外，請注意這些搭配並「不含」花器。要購買附花器的搭配，請上我們的網站。
+
+
+若您有任何問題請來電: 1-828-FLOWER4。
+ 
+
+----------------------------------------------------------------------------
+
+收件者：request@flowers4you.com
+
+寄件者：readerjoe86@lisco.com
+
+日期： 八月12日，2009年
+
+時間：下午 9:34
+
+主旨： 其他的搭配
+
+
+你好，
+
+
+我想要買一盆插花。不過，我想知道我是否可以用我自己的搭配。我是個對配色非常挑剔的人。而且我只想給我媽最好的，為此砸下重金我也在所不惜。
+
+
+我喜歡「遠東風情」這個搭配，但是我想把亞洲百合花換成一些東方百合花。我並不是特別喜歡單只有遠東百合一種花的效果。我想要這個搭配裡有將近四成是用天堂鳥，六成是遠東百合。
+
+
+至於花器的部分，你能推薦一款跟這個搭配會合的花器嗎？我看過你們的網站，「遠東風情」這個搭配你們只給了兩款建議的花器。不過，即使這些建議的花器畫有了亞洲主題，我也不認為它們會跟「我的」搭配相合。
+
+
+我試過打電話問你們，可是你們讓我在電話上一直等。謝謝您的時間。我很感激。
+
+
+祝好,
+
+
+Joe Reader
+
+
+
+重要單字
+
+deserve v. 應受，該得
+
+floral adj. 花的
+
+arrangement n. 安排；準備工作
+
+bloom v. 開花；生長茂盛
+
+feature v. 以……為特色
+
+primarily adv. 主要地
+
+spunky adj. 有精神的
+
+culture n. 文化
+
+combine v. 結合；聯合
+
+showcase v. 使展現；使亮相
+
+intersperse v. 散置，散布
+
+numerous adj. 許多的
+
+amongst prep.（表示位置）處在…中
+
+bouquet n. 花束
+
+request v. 要求，請求
+
+picky adj. 挑剔的
+
+substitute v. 用……代替
+
+particularly adv. 具體地，明確地
+
+effect n. 效果
+
+approximately adv. 大概；近乎
+
+nevertheless adv. 仍然，不過
+答對
+	Question 35.	
+ 
+ 
+Which is the best arrangement for someone who has a restricted amount of money?
+ (A) Queen of Kings.
+ (B) Spring and Bloom.
+ (C) Radiance in the Night.(正解)
+ (D) The Eye of the Iris.
+預算有限的人最適合那個搭配？
+a. 龍中之鳳。
+b. 春暖花開。
+c. 夜裡的光輝。
+d. 花之眼眸。
+ 
+答錯
+	Question 36.	
+ 
+ 
+Which of the following arrangements has three types of flowers?
+ (A) Spring and Bloom.
+ (B) Queen of Kings.(正解)
+ (C) The Eye of the Iris.
+ (D) None of the above.
+下列哪一盆插花裏有三種花卉？
+a. 春暖花開。
+b. 龍中之鳳。
+c. 花之眼眸。
+d. 以上皆非。
+ 
+答錯
+	Question 37.	
+ 
+ 
+What is Joe Reader's request?
+ (A) He wants the company to come up with a new arrangement.
+ (B) He wants to add several more types of flowers.
+ (C) He wants to get rid of the Birds of Paradise.
+ (D) He wants to organize the flowers in his own way.(正解)
+Joe Reader有什麼要求？ 
+a. 他想要這間公司想一個新的搭配。
+b. 他想要多增加幾種花。
+c. 他想要去掉天堂鳥。
+d. 他想要這些花照他的想法來搭配。
+ 
+答錯
+	Question 38.	
+ 
+ 
+What can we assume about the person who sent the email?
+ (A) He's a terrible person.
+ (B) He's quite fussy.(正解)
+ (C) He doesn't like pots at all.
+ (D) He is a florist.
+我們可以如何假設寄這封電子郵件的人？
+a. 他是個可怕的人。
+b. 他非常挑剔。
+c. 他一點都不喜歡這些花器。
+d. 他是個花商。
+ 
+答錯
+	Question 39.	
+ 
+ 
+What does he think of the two suggested pots for The Fareast arrangement?
+ (A) He thinks that they don't match the original arrangement.
+ (B) He thinks that his own pots are better.
+ (C) He thinks that they don't match his own arrangement.(正解)
+ (D) He thinks that the pots shouldn't be painted in an Asian theme.
+他認為建議的兩款「遠東風情」用的花器如何？
+a. 他認為它們和原來的搭配不合。
+b. 他認為他自己的花器比較好。
+c. 他認為它們和他自己的搭配不合。
+d. 他認為花器不應該被畫上亞洲主題。
+ 
+Questions 40 - 44 refer to the following article
+
+Room Type
+
+Rate of room
+
+Guests
+
+Loyalty Program
+
+Refundable
+
+Single
+
+€120
+
+1
+
+No
+
+Yes
+
+Double
+
+€180
+
+1 or 2
+
+No
+
+Yes
+
+Triple
+
+€220
+
+2 or 3
+
+No
+
+Yes
+
+Quad
+
+€250
+
+2 to 4
+
+No
+
+Yes
+
+Suite
+
+€370 to €450
+
+2 to 5
+
+Yes
+
+No
+
+Business Suite
+
+€465 to €530
+
+1 to 4
+
+Yes
+
+No
+
+Luxury
+
+€575 to €690
+
+1 to 3
+
+Yes
+
+No
+
+____________________________________________________________________
+
+
+Concorde Hotel: Make your stay a memory
+We are nestled into a quiet road just off Champs-Elysees Avenue, just a few minutes' walk from the famous monument, Arc de Triomphe. Everyone, from celebrity chefs to the average traveler, has stayed here. We offer luxury and affordable accommodation.
+Notes about Rooms
+1. Those with a Choice Privileges Reward Plan are free to browse through our brochure at their leisure. Extra amenities will be discounted. Those with a Choice Privileges Master Reward Plan automatically have certain amenities included in their room at no added cost.
+2. Single, Double, Triple, and Quad Rooms are refundable up to a week before the booking date.
+3. Luxury rooms are refundable for those who have had a Choice Privileges Reward Plan or a Choice Privileges Master Reward Plan for two years or more.
+4. Suites are non refundable in all cases.
+Services
+AC and heating are provided in each room. The room maintenance crew will tidy your room between the hours of 10:00 AM and 12:00 PM, as well as 4:00 PM and 6:00 PM. If you would like your room cleaned at a different time, feel free to ask our hotel staff about this upon arrival. All rooms are painted and lit to create a comforting atmosphere.
+The hotel also offers the following:
+1. A reception desk that is open at all hours.
+2. A bar that is open at all hours, Tuesday through Saturday.
+3. A drink and snack machine on each floor.
+4. A 20-meter-long swimming pool and a gym that can hold up to 50 people.
+Contact
+Please email Philippe at contactconcorde@concorde.com, or give him a call at 32-0-1489-9942.
+
+-------------------------------------------------------------------------------------
+To: contactconcorde@concorde.com
+From: antwanwendell@telegroup.com
+Sent: May 4, 2011 at 5:43 a.m.
+Subject: A question about refunds
+
+Dear Philippe,
+I am coming to Paris on a business trip next month. I've already booked a Business Suite for a period of one week, the 12th through the 19th. Your website says these rooms are nonrefundable, but I have to cancel my trip due to personal reasons.
+My wife and I are expecting our baby to come a month early now. As a result, I cannot travel to Paris. I've had a Choice Privileges Reward Plan for well over three years, and I know Luxury Rooms are refundable. I've stayed in your hotel before, and usually I choose a Luxury Room, but they were all booked for the month of June.
+I was wondering if you could make an exception to your refund policy due to this unexpected family situation. I may reschedule my trip for August, but I'm not certain.
+
+Your patron,
+Antwan Wendell
+
+
+
+早夏專案房型價目
+
+ 
+
+房型
+房價
+住宿人數
+老顧客方案
+全額退費
+
+ 
+
+單人房
+120歐元
+1
+無
+是
+
+ 
+
+雙人房
+180歐元
+1 或2
+無
+是
+
+ 
+
+三人房
+220歐元
+2 或3
+無
+是
+
+ 
+
+四人房
+250歐元
+2 至4
+無
+是
+
+ 
+
+普通套房
+370至450歐元
+2 至5
+有
+否
+
+ 
+
+商務套房
+465 至 530歐元
+1 至4
+有
+否
+
+ 
+
+豪華客房
+575 至690歐元
+1 至3
+有
+否
+
+協和飯店：讓你的住宿永難忘懷
+我們隱身在離香榭麗舍大道不遠的一條僻靜道路上，距離著名的凱旋門走路只要幾分鐘。每一個人，從名廚到普通的旅行者都住過這裡。我們提供豪華與平價的住宿。
+客房介紹
+Notes about Rooms
+1. Choice Privileges獎勵計畫會員請隨意瀏覽我們的宣傳冊。要求額外設施享有折扣。Choice Privileges尊爵獎勵計畫會員的房價內已自動免費包含某些設施。
+2. 單人、雙人、三人，以及四人房於預定住宿日前一個禮拜取消訂房可以退費。
+3. 豪華房型僅限加入Choice Privileges獎勵計畫或Choice Privileges尊爵獎勵計畫兩年以上的會員可要求退費。
+4. 尊爵套房一概不得退費。
+提供服務
+每一間客房皆提供空調及暖氣。客房服務會在上午十點到中午十二點以及下午四點到下午六點的時段整理您的房間。若您想要在不同的時間清理您的房間，在您抵達飯店時請隨意向我們的飯店職員詢問。全部的客房都有粉刷與照明以營造舒適的氣氛。
+本飯店還提供下列服務：
+1. 接待櫃台二十四小時服務。
+2. 一間週二到週六二十四小時營業的酒吧。
+3. 每層樓都有飲料及零食販賣機。
+4. 一座二十公尺長的泳池及一間最高可容納五十人的健身房。
+
+聯絡方式
+
+請寄電子郵件至contactconcorde@concorde.com信箱給Philippe，或撥打32-0-1489-9942找他。
+----------------------------------------------------------------------------
+收件人：contactconcorde@concorde.com
+寄件人：antwanwendell@telegroup.com
+寄件日期：五月 4日，2011 年，上午5:43
+主旨：關於退費的問題
+
+親愛的Philippe：
+我下個月要到巴黎出差。我已經訂了一間商務套房，從12號到19號為期一個禮拜。你們的網站上說這個房間是無法退費的，可是我因為個人因素必須取消我的行程。
+目前我太太和我預料我們的嬰兒會早一個月出生。由於這個原因，我沒辦法去巴黎。我加入Choice Privileges 獎勵計畫已經超過三年，我知道豪華客房是可以退費的。我以前住過你們飯店，而且我通常選的是豪華客房，可是六月的時候它們全都被訂光了。
+我在想你是不是可以為這個不預期的家庭狀況在你們的退費原則上通融一下。我有可能會把我的行程改到八月，但我還不確定。
+你們的老顧客
+Antwan Wendell
+
+重要單字
+nestled v. 半隱半現地處於
+monument n. 紀念碑，紀念館
+celebrity n. 名人，名流
+luxury n. 奢侈，奢華
+affordable adj. 負擔得起的
+accommodation n. 住處
+browse v. 隨便翻閱
+brochure n. 小冊子
+leisure n. 閒暇，空暇時間
+amenity n. 福利設施
+automatically adv. 自動地
+refundable adj. 可退還的
+provide v. 提供
+atmosphere n. 氣氛
+period n. 時期，期間
+policy n. 政策
+
+答對
+	Question 40.	
+ 
+ 
+How much is the room that Antwan Wendell booked?
+ (A) €120
+ (B) €370 to €450
+ (C) €465 to €530(正解)
+ (D) €575 to €690
+Antwan Wendell預定的房間價格為以下何者？
+A. €120
+B. €370 to €450
+C. €465 to €530
+D. €575 to €690
+ 
+答錯
+	Question 41.	
+ 
+ 
+Which of the following is true about the hotel's services?
+ (A) The bar is open at all hours, every day of the week.
+ (B) All of the rooms have air conditioning and heating.(正解)
+ (C) The room maintenance crew will only come between the hours of 10:00 AM and 12:00 PM, or 4:00 PM and 6:00 PM.
+ (D) The gym can accommodate less than fifty people.
+有關該飯店的服務下列何者為真？
+a. 酒吧是整個禮拜裏的每一天都二十四小時營業。
+b. 全部的房間都有空調和暖氣。
+c. 客房服務只要在上午十點到中午十二點或下午四點到下午六點的時段會過來。
+d. 健身房可以容納不到五十個人。
+ 
+答錯
+	Question 42.	
+ 
+ 
+What is unique about the Choice Privileges Master Reward Plan?
+ (A) It includes some extra features for free.(正解)
+ (B) It offers discounts on all extra amenities.
+ (C) It entitles patrons to a refund on most types of room.
+ (D) It provides guests with free amenities if they have had it for two years or more.
+Choice Privileges頂級獎勵計畫會員有什麼獨特之處？
+a. 內含免費提供的部分額外設施。
+b. 所有的額外設施都享有折扣。
+c. 老顧客在大多數的房型上有權利要求退費。
+d. 如果客人已經加入會員兩年或以上的話，可享有免費設施。
+
+ 
+答對
+	Question 43.	
+ 
+ 
+What is Antwan Wendell's objective?
+ (A) To change the duration of his stay.
+ (B) To ask the hotel for assistance with his pregnant wife.
+ (C) To get money returned for the room that he booked.(正解)
+ (D) To change his room to a Luxury Room.
+Antwan Wendell的目的為何？ 
+a. 更改他的住宿停留期間。
+b. 要求飯店協助他懷孕的妻子。
+c. 取得他訂了的房間的退款。
+d. 把房間換成豪華客房。
+
+ 
+答錯
+	Question 44.	
+ 
+ 
+When did he initially intend to visit Paris?
+ (A) In mid-August.
+ (B) In early July.
+ (C) In late May.
+ (D) In mid-June.(正解)
+他最初是打算什麼時候要去巴黎？
+a. 八月底。
+b. 七月初。
+c. 五月底。
+d. 六月中。
+ 
+Questions 45 - 46 refer to the following article:
+
+
+
+RIVERSIDE GOLF COURSE
+
+
+Wichita’s Finest Golfing Facilities
+
+Over 12 square miles of prime turf
+
+
+Due to a recent high volume of visitors, we strongly recommend advance reservations. In order to make a reservation, a credit card and exact number of guests is needed. 25% of the total entrance fees will be charged for no-shows. When arriving at the course, please bring the original card with which the reservation was made.
+
+
+Call now to make your reservation at 316-0099-1931
+
+
+
+
+河畔高爾夫球場
+
+
+威奇托最好的高爾夫球設備
+
+超過12平方公里的優質草地
+
+
+由於最近有大量的訪客來臨，我們強烈建議您事先預約。預約時，請攜帶信用卡以及告知正確的訪客人數。未依預定日期出現的旅客，將酌收入門費總額百分之二十五。抵達高爾夫球場時，請攜帶訂位時使用的信用卡。
+
+趕快預約撥打 316-0099-1931
+
+
+
+重要單字
+
+facilitiy n. 設備，設施
+
+prime adj最好的
+
+turf n. 草皮
+
+volume n. 量
+
+advance adj. 預先的，事先的
+
+reservation n. 預訂
+答錯
+	Question 45.	
+ 
+ 
+What would be the best subheading for this notice?
+ (A) Listing of Golf Courses in Wichita.
+ (B) How to Book your Day at the Riverside Golf Course.(正解)
+ (C) Chart of prices for a Game of Golf at the Riverside Course.
+ (D) Riverside Golf Course: List of Prices
+下列何者是此則公告最好的副標題?
+a. 威奇托高爾夫球場的列表。
+b. 如何在河畔高爾夫球場預約打球。
+c. 河畔高爾夫球場的高爾夫球價目表
+d. 河畔高爾夫球場：價目表。
+ 
+答錯
+	Question 46.	
+ 
+ 
+What happens if you make a reservation then don't show up?
+ (A) Nothing.
+ (B) You just have to call them to reserve a new day.
+ (C) Your credit card will be charged a quarter of the total price.(正解)
+ (D) You won't be able to return there again.
+若你預約後不出現，將會發生以下何種情況？
+a. 任何事都不會發生。
+b. 你只要打電話重新預定。
+c. 球場將會從你的信用卡，酌收總價的百分之二十五。
+d. 你再也無法去那裡。
+ 
+Questions 47 - 48 refer to the following text message chain:
+
+
+
+Sunday, May 9, 2016
+
+
+
+Vanya Lal:
+
+Hi, Merta. Were you able to compile the list of missing documents for our application?
+
+sent 22:18
+
+
+
+Monday, May 10, 2016
+
+
+
+Merta Ivanovich:
+
+Good morning, Vanya. Could you please specify which application you are referring to?
+
+sent 8:04
+
+
+
+Vanya Lal:
+
+Sorry, I should have been more specific. I’m talking about the application to register Indonesia-made Sensitone facial moisturizing cream for free sales in Russia.
+
+sent 8:49
+
+
+
+Merta Ivanovich:
+
+Oh, yes. I’m still working on the list, but it should be ready by Wednesday afternoon at the latest.
+
+sent 8:52
+
+
+
+Vanya Lal:
+
+I see. Is it possible for you to send me what you’ve got so far? We don’t have much time before the application deadline, so we’d like to begin assembling the correct documentation as soon as possible.
+
+sent 8:53
+
+
+
+Merta Ivanovich:
+
+I’m afraid I’m still awaiting a reply from the health department reviewer, but I will get in touch again with him this morning. After I hear back from him, I’ll have to do a little more research, then I can provide you with the final list.
+
+sent 8:55
+
+
+
+Vanya Lal:
+
+So do you think we will need to submit a detailed diagram of our new production facility?
+
+sent 8:55
+
+
+
+Merta Ivanovich:
+
+Unfortunately I can’t say for sure at this time. This is not a mandatory requirement, but sometimes they do ask for it.
+
+sent 8:59
+
+
+
+2016年5月9日週日
+凡尼亞‧拉爾
+嗨，梅爾塔。你有辦法編輯我們申請表中遺失的文件嗎？
+22:18發送
+
+2016年5月10日週一
+
+梅爾塔．伊諾維奇
+早安，凡尼亞。你能說清楚是在指哪個申請表嗎？
+8:04發送
+
+萬尼亞‧拉爾
+對不起，我應該要講清楚一點。我說的是註冊印尼製造聖提同面部保濕霜在俄羅斯銷售的申請表。
+8:49發送
+
+梅爾塔．伊諾維奇
+哦，我還在處理，但最遲週三下午會好。
+8:52發送
+
+凡尼亞‧拉爾
+我知道了。你有辦法先傳給我已經處理好的部分嗎？申請截止日期前我們沒有多少時間，所以我們希望開始盡快整理正確的文件。
+8:53發送
+
+梅爾塔．伊諾維奇
+但我還在等衛生部門審查員的回覆，但我今天早上會再和與他聯絡。等我得到他的回覆，我會做更多研究，我就可以提供您最終的名單。
+8:55發送
+
+凡尼亞‧拉爾
+你認為我們會需要提交我們的新生產設施的詳細圖嗎？
+8:55發送
+
+梅爾塔．伊諾維奇
+不幸的是，我這個時候還不能確定。這並不是強制需要，但有時他們也提出要求。
+8:59發送
+
+
+重要單字
+compile v. 編輯
+application n. 申請；申請書
+specify v. 明確說明
+refer v. 談到，提及
+specific adj. 明確的；具體的
+assembling v. 收集
+documentation n. 文件
+research n. 調查，探究
+provide v. 供給
+diagram n. 圖表；圖解
+facility n. 設備，設施
+mandatory adj. 義務的；強制的
+requirement n. 必要條件；規定
+答對
+	Question 47.	
+ 
+ 
+What can we infer from the conversation?
+ (A) Ms. Ivanovich is currently handling multiple applications for Ms. Lal.(正解)
+ (B) Ms. Ivanovich is Ms. Lal's boss.
+ (C) Ms. Lal is not in a big rush to get the documents list.
+ (D) Ms. Lal represents an electronics company.
+我們從此對話可以推斷出什麼？
+A.伊諾維奇女士目前正在處理拉爾女士多個申請表。
+B.伊諾維奇女士拉爾女士的老闆。
+C.拉爾女士不急要得到文件列表。
+D.拉爾女士代表一家電子公司。
+ 
+答錯
+	Question 48.	
+ 
+ 
+What is causing the delay?
+ (A) Ms. Ivanovich forgot to reply to Ms. Lal.
+ (B) Ms. Ivanovich didn't submit the documents on time.
+ (C) Ms. Ivanovich needs to hear back from someone else.(正解)
+ (D) Ms. Ivanovich is working on the diagram of the new production facility.
+是什麼原因造成延遲？
+A.伊諾維奇女士忘了回覆拉爾女士。
+B.伊諾維奇女士沒有按時提交文件。
+C.伊諾維奇女士需要先得到別人的回覆。
+D.伊諾維奇女士正在處理新生產設施的圖表。
+ 
+Questions 49 - 51 refer to the following article:
+
+
+
+                                                                                         Page
+
+Dress code……………………………………………………3
+
+Working hours………………………………………………5
+
+Punching in and out………………………………………6
+
+Breaks…………………………………………………….……6
+
+Benefits……………………………………………………..…7
+
+Salary………………………………………………………….11
+
+Raises………………………………………………………..…13
+
+Bonuses………………………………………………………14
+
+Keeping your desk tidy…………………………………15
+
+Internet usage during working hours……………15
+
+Smoking………………………………………………………15
+
+Grievances and complaints……………………………16
+
+Harassment…………………………………………………19
+
+Overtime……………………………………………………21
+
+Holidays………………………………………………………22
+
+Travel………………………………………………………….23
+
+Meetings and conferences………………………………25
+
+Stock options…………………………………………………32
+
+Promotions…………………………………………………….35
+
+
+
+
+                  頁數
+
+服裝規範……………………………………………………3
+
+上班時間……………………………………………………5
+
+上下班打卡……………………………………………..…6
+
+休息時間  …………………………………………….……6
+
+福利……………………………………………………..…7
+
+薪資………………………………………………………….11
+
+加薪辦法………………………………………………………..…13
+
+獎金……………………………………………………………14
+
+保持辦公座整潔…………………………………………15
+
+上班時間的網路使用辦法……………………………15
+
+抽菸……………………………………………………………15
+
+投訴與抱怨………………………………………………16
+
+騷擾…………………………………………………19
+
+加班……………………………………………………21
+
+休假………………………………………………………22
+
+旅遊………………………………………………………….23
+
+大小會議………………………………25
+
+股票選擇…………………………………………………32
+
+升遷…………………………………………………….35
+
+答錯
+	Question 49.	
+ 
+ 
+What is this reading?
+ (A) The index for a dictionary of business terms.
+ (B) The table of contents for a policy manual for new staff.(正解)
+ (C) The schedule for an international conference.
+ (D) The minutes for a meeting on company policies.
+下列何這是本文章的主要內容?
+a. 商業用語字典的文獻索引。
+b. 關於新進員工的公司手冊的目錄。
+c. 國際會議日程表。
+d. 關於公司政策會議的紀錄。
+ 
+答對
+	Question 50.	
+ 
+ 
+What page should a person look to find information about investing in the company?
+ (A) Page 6.
+ (B) Page 32.(正解)
+ (C) Page 23.
+ (D) Page 15.
+若員工想尋找關於公司內部投資的資訊，應該要翻開第幾頁?
+a. 第六頁
+b. 第三十二頁
+c. 第二十三頁
+d. 第十五頁
+ 
+答對
+	Question 51.	
+ 
+ 
+Which section probably provides the most information?
+ (A) Meetings and conferences.(正解)
+ (B) Grievances and complaints.
+ (C) Holidays.
+ (D) Salary.
+哪一個章節最可能提供最多的資訊?
+a. 大小會議
+b. 投訴與抱怨
+c. 休假
+d. 薪資
+ 
+Questions 52 - 54 refer to the following article:
+
+
+
+To: FrankAddonizio@SheraldInn.com
+
+From: hissy227@hotmail.com
+
+Sent: Nov 11, 2011, 16:22
+
+Subject: A few questions
+
+
+Dear Mr. Addonizio,
+
+
+My name is a Linda Hissy and I represent the software manufacturer HTT. (1) _____________ We are currently in the planning stage of an international conference that is part of the prize package for our top sales representatives of the year. (2) _____________ We are treating the winners to a 4-night stay in the US, and your hotel is one of the choices we are looking at. For now, I just need to know if you have the capacity for 28 twin rooms (total 56 guests) and a meeting room that could accommodate the entire group on the last two nights of our stay. (3) _____________ The dates we are looking at are February 4 to 7 of next year. Finally, could you offer us a group rate for the rooms, or will the prices remain as advertised on the website? (4) _____________
+
+
+Thanks in advance,
+
+Linda Hissy
+
+Director of Employee Events, HTT
+
+
+
+收件人：FrankAddonizio@SheraldInn.com
+寄件人：hissy227@hotmail.com
+寄件日：2011年11月11日，四點二十二分
+
+主旨：相關詢問
+
+親愛的亞多尼西歐先生，
+
+我是代表HTT軟體生產公司的琳達荷西。目前，我們正在籌備舉辦獎勵最佳業務人員的年度國際大會議。我們將招待得獎者免費在美國住四晚，而您的飯店是我們正在考慮的其中一間。目前，我只想知道是否您是否有二十八間雙人單人床的房間(總共五十六位)，以及一間在入住的最後兩天，可容納所有團員的會議廳。我們預定將在明年的二月四至七日舉行。最後，請問您可不可以提供房間的團體價格，還是價格如公司網站所公告的價格？
+
+先謝謝您。
+琳達荷西
+HTT 的職員活動籌畫總監。
+
+
+重要單字
+represent v. 作為……的代表
+manufacturer n. 製造公司
+currently adv. 現在
+representative n. 代表，代理人
+treat v. 款待
+capacity n. 容量，容積
+accommodate v. 能容納
+remain v. 保持，仍是
+advertise v. 通告，做宣傳
+答錯
+	Question 52.	
+ 
+ 
+What is the main purpose of the e-mail?
+ (A) To lodge a complaint against the hotel.
+ (B) To inform the hotel about HTT's travel benefits for workers.
+ (C) To ask about the hotel facilities.
+ (D) To inquire about vacancies.(正解)
+下列何者是電子郵件的主要目的?
+a. 向飯店提出抱怨。
+b. 告知飯店關於HTT公司員工旅遊福利。
+c. 詢問關於飯店設施。
+d. 詢問空房。
+ 
+答對
+	Question 53.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "In terms of equipment, we'd need the latter facility to come with a microphone and speaker system."
+ (A) (1)
+ (B) (2)
+ (C) (3)(正解)
+ (D) (4)
+標示中的(1), (2), (3)或(4)最符合下面的句子？
+「在設施方面，我們需要後面的設施附上麥克風和擴音系統。
+ 
+答錯
+	Question 54.	
+ 
+ 
+Which information could we expect Mr. Addonizio to include in the reply?
+ (A) The hotel address.
+ (B) The room prices.(正解)
+ (C) The hotel's list of rules and regulations.
+ (D) A list of awards the hotel has won.
+若亞多尼西歐先生回覆這封信，哪一個資訊內容是最有可能包含在內?
+a. 飯店地址。
+b. 房價。
+c. 飯店規章制度表。
+d. 飯店曾獲得獎項表。
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 - 3 refer to the following article:
+
+
+
+Right in the heart of central London there is a cafe brimming with life. Revelations Cafe is full of conversations ending in laughs, happily cluttered tables, and electric cups of coffee.
+
+
+The cafe is run by two London natives: Steve Belaruse and his wife, Merit Johnson. They have been living and working in London for their entire lives, and they’ve been running Revelations Cafe for about fifteen years.
+
+
+An assortment of quaint mugs dots the walls of the dining area. Revelations has over fifty different kinds of drinks, and by London standards, each is affordable. 50% of the menu is organic and they serve vegan dishes as well. If there’s one thing worth trying, though, it’s the wood-fired pizza. The Greek pizza is a local favorite.
+
+
+The staff is friendly but very busy, so watch your step! Expect a short wait during peak hours, as the space is small.
+
+
+
+Visit Revelations today! It’s located at the intersection of River Avenue and Main Street. The hours are Monday to Saturday, 9:00 a.m. to 8:30 p.m. Every third Saturday of the month, Revelations stays open till 11:00 p.m.
+
+
+ 
+
+
+
+
+
+倫敦市中心有間生意興旺的咖啡廳－Revelations咖啡廳。那裡的顧客們談笑風生，笑聲彼此彼落，且他們還使用電子咖啡杯。
+
+
+Revelations咖啡廳由兩位土生土長的倫敦人經營－Steve Belaruse以及他的太太Merit Johnson。他們一輩子都住在倫敦工作生活，經營此咖啡廳亦有15年之久。
+
+
+
+
+
+
+
+各式各樣的馬克杯點綴了用餐區的牆壁。Revelations咖啡廳有超過50種飲品，相較倫敦其他地區，飲品的價位亦屬合理範圍。菜單上有一半的有機餐點，同時也提供素食料理。來到這裡絕對不能錯過他們的窯烤比薩，其中希臘比薩最受當地人喜愛。
+
+
+
+
+
+
+
+店內服務生很親切但總是十分忙碌，所以建議你在店裡走路時要小心！另外，由於店內空間較小，因此用餐尖峰時間需等候片刻。
+
+
+
+
+
+
+
+現在就來Revelations咖啡廳吧！位於River 大道與 Main 街路口。營業時間為周一至周六上午9點到下午8點半。每月的第三個周六Revelations咖啡廳將營業至下午11點。
+
+
+重要單字
+
+cluttered adj. 亂七八糟的
+
+electric adj. 電的，電動的
+
+native n. 本地人，原住民
+
+assortment n. . 分類
+
+vegan n. 嚴守素食主義者
+
+venue n. (事件、行動等)發生地，集合地
+
+
+ 
+
+答錯
+	Question 1.	
+ 
+ 
+Where might a person find this article?
+ (A) The classified section of a newspaper.
+ (B) A pizza cookbook.
+ (C) On a website that gives information about acidity in coffee.
+ (D) A food and dining magazine.(正解)
+這篇文章最可能在哪裡出現？
+a. 報紙分類廣告區
+b. 比薩食譜書
+c. 提供咖啡酸度相關資訊的網站上
+d. 美食與用餐的雜誌
+ 
+答對
+	Question 2.	
+ 
+ 
+What time does Revelations Cafe usually close?
+ (A) 11:00 p.m.
+ (B) 9:00 a.m.
+ (C) 8:30 p.m.(正解)
+ (D) Between 9:00 a.m. and 8:30 p.m.
+Revelations咖啡店通常幾點歇業？
+a. 下午11點
+b. 上午9點
+c. 下午8點半
+d. 上午9點至下午8點半之間
+ 
+答錯
+	Question 3.	
+ 
+ 
+What is the writer's profession?
+ (A) Chef
+ (B) Food critic.(正解)
+ (C) Hostess.
+ (D) Restaurant manager.
+筆者的職業為何 ？
+a. 大廚
+b. 美食評論家
+c. 服務生
+d. 餐廳經理
+ 
+Questions 4 - 7 refer to the following article:
+
+Vivi Hong (10:21)
+Hello Mr. Green. Will you have some kind of pick-up service when I land in Prague?
+
+Nicholas Green (10:34)
+Yes, a representative from our Meet & Greet team will be awaiting you.
+
+Vivi Hong (10:37)
+Great. How will I be able to identify him or her?
+
+Nicholas Green (10:40)
+I’m going to add Rita to the chat. She will be able to answer any of your queries regarding this.
+
+Rita Poloski (11:22)
+Hi, Vivi. Rita here. Our Meet & Greet staff member will be waiting for you in the arrival lounge and will be holding up a sign with your name. That person will then escort you to a vehicle, where the driver will be waiting, and will also accompany you to your hotel and make sure that check-in procedures go smoothly.
+
+Vivi Hong (11:26)
+Sounds good. Do you require my flight details?
+
+Nicholas Green (11:29)
+I’ve already forwarded all of your flight info to Rita.
+
+Rita Poloski (11:34)
+Yup, we got it already, but just let me reconfirm. You’ll be transferring in Riyadh and then coming in on Qatar Airways flight QTR 555, scheduled to arrive in Prague at 16:44 on Tusday, May 3. Does everything look correct?
+
+Vivi Hong (11:35)
+Yes. Do you have a contact number in case my flight is delayed or something?
+
+Rita Poloski (11:41)
+We will monitor any delays. But if you need to contact us for some reason, our office number is 8762-1181.
+
+Nicholas Green (11:45)
+I will be providing Vivi with a local SIM card when I stop in at her hotel to brief her on the week’s conference itinerary, so she might not be able to use her phone when she first arrives.
+
+Vivi Hong (11:46)
+That’s fine. I still just like to have a number in case of emergency.
+
+ 
+
+ 
+
+
+
+Vivi Hong （10:21）
+您好，Green先生。請問我在布拉格降落時你們會有接機服務嗎？
+
+Nicholas Green（10:34）
+會的，我們迎賓團隊的代表將會在那等您。
+
+Vivi Hong （10:37）
+太好了。我要怎麼認出他呢？
+
+Nicholas Green（10:40）
+我現在把Rita加入聊天群組。她將能回答您的任何疑問。
+
+Rita Poloski（11:22）
+嗨，Vivi。我是Rita。我們的迎賓團隊的工作人員會拿著有您名字的牌子在入境大廳等您。駕駛會在車上等待，這個人將護送您上車，也會陪您到飯店，確保入住手續順利完成。
+
+Vivi Hong （11:26）
+聽起來很好。你需要詳細的航班資料嗎？
+
+Nicholas Green（11:29）
+我已將所有的航班資料轉寄給Rita了。
+
+Rita Poloski（11:34）
+是的，我們已經收到，但讓我再次確認。您會在利雅得轉機，然後搭卡達航空航班QTR555，預定於5月3日星期二下午4點44分抵達布拉格，正確嗎？
+
+Vivi Hong （11:35）
+是的。你有任何連絡方式，以免我的航班延誤嗎？
+
+Rita Poloski（11:41）
+我們將監看所有誤點航班。但是如果您有任何需要與我們聯絡的原因，請撥打我們的辦公室號碼8762-1181。
+
+Nicholas Green（11:45）
+去Vivi下榻的飯店時，我會向她介紹本週會議行程時，還有當地的SIM卡，所以她剛到達時可能無法使用電話。
+
+Vivi Hong （11:46）
+沒關係。我還是想有個號碼以免緊急狀況發生。
+
+重要單字
+
+representative n. 代表，代理人
+identify v. 確認，鑑別，鑑定
+query n. 質問，詢問
+regarding prep. 有關於…
+accompany v. 陪伴，陪同
+forward v. 向前…
+monitor v. 監控，監測
+itinerary n. 旅程，旅行計畫
+
+ 
+
+答錯
+	Question 4.	
+ 
+ 
+Where will Nicholas Green and Vivi Hong first meet?
+ (A) at the airport
+ (B) at the car
+ (C) at the hotel (正解)
+ (D) at the conference
+Nicholas Green和Vivi Hong第一次見面時可能會以下何處？
+a. 在機場
+b. 在車上
+c. 在飯店
+d. 在會議上
+ 
+答對
+	Question 5.	
+ 
+ 
+Where can we infer that Vivi Hong is right now?
+ (A) in Prague
+ (B) in Riyadh
+ (C) in Qatar
+ (D) we don't know (正解)
+我們可以推斷Vivi Hong 現在應該位於以下何處？
+a. 在布拉格
+b. 在利雅得
+c. 在卡達
+d. 我們不知道
+ 
+答錯
+	Question 6.	
+ 
+ 
+What should Vivi Hong do if her flight is delayed?
+ (A) call Nicholas Green
+ (B) call Rita Poloski
+ (C) call the Meet & Greet team's office
+ (D) She doesn't need to do anything. (正解)
+如果Vivi Hong的航班延誤，她應該怎麼做？
+a. 打給Nicholas Green 
+b. 打給Rita Poloski
+c. 打給迎賓團隊的辦公室
+d. 她不需要做任何事情。
+ 
+答對
+	Question 7.	
+ 
+ 
+How will Vivi Hong recognize the person who will meet her at the airport?
+ (A) That person will be holding a welcome sign. (正解)
+ (B) That person will send her a message.
+ (C) That person will be wearing a uniform.
+ (D) That person will recognize her first.
+Vivi Hong如何辨認出哪一個是去接機的人？
+a.那個人會拿著歡迎的牌子。
+b.那個人會傳訊息給她。
+c.那個人會穿制服。
+d.那個人會先認出她。
+ 
+Questions 8 - 9 refer to the following article:
+
+
+
+Homicides (per 100,000 people)
+
+
+2004
+
+
+
+Argentina - 3
+
+
+
+Columbia - 23
+
+
+
+Mexico - 24
+
+
+
+Cambodia - 11
+
+
+
+Nigeria - 38
+
+
+
+Saudi Arabia - 25
+
+
+
+Uganda - 34
+
+
+
+Iraq - 40
+
+
+
+United States - 13*
+
+
+
+Australia - 7
+
+
+
+Japan - 2
+
+
+
+Russia - 19
+
+
+
+Austria - 10
+
+
+
+Brazil - 14
+
+
+
+Thailand - 15
+
+
+
+Greece - 4
+
+
+
+Haiti - 22
+
+
+
+South Africa - 29
+
+
+*Does not include Alaska due to research restrictions.
+
+
+This information was compiled by Judy Dent. She has worked on the WWH project for over 14 years. The WWH project has and will continue to provide accurate data on homicides worldwide.
+
+
+ 
+
+
+
+
+
+謀殺率 (每十萬人)
+
+
+2004年
+
+
+
+阿根廷 - 3
+
+
+
+哥倫比亞 - 23
+
+
+
+墨西哥 - 24
+
+
+
+柬埔寨 - 11
+
+
+
+奈及利亞 - 38
+
+
+
+沙烏地阿拉伯 - 25
+
+
+
+烏干達 - 34
+
+
+
+伊拉克 - 40
+
+
+
+美國 - 13*
+
+
+
+澳洲 - 7
+
+
+
+日本 - 2
+
+
+
+俄羅斯 - 19
+
+
+
+奧地利 - 10
+
+
+
+巴西 - 14
+
+
+
+泰國 - 15
+
+
+
+希臘 - 4
+
+
+
+海地 - 22
+
+
+
+南非 - 29
+*因研究限制，美國部分並不包括阿拉斯加
+
+
+
+以上資訊由Judy Dent彙整。Judy Dent曾為(WWH)國際援助組織計畫服務超過14年的時間。國際援助組織計畫將持續進行，並繼續提供全球精確的謀殺率相關資料。
+
+
+重要單字
+
+homicide n. 殺人，殺人犯
+
+restriction n. 限制，限定
+
+compile v. 彙編，編輯
+
+accurate adj. 正確的，精確的
+
+data n. 資料，數據
+
+
+答對
+	Question 8.	
+ 
+ 
+Which of the following countries had a higher murder rate than Uganda?
+ (A) Nigeria.(正解)
+ (B) Saudi Arabia.
+ (C) Japan.
+ (D) None of the above.
+下列哪個國家的謀殺率比烏干達高？
+a. 奈及利亞
+b. 沙烏地阿拉伯
+c. 日本
+d. 以上皆非
+ 
+答錯
+	Question 9.	
+ 
+ 
+Which of the following is NOT true about the information listed?
+ (A) Columbia had a homicide rate of 23 per 100,000 people.
+ (B) The United States had fewer homicides than Russia in 2004.
+ (C) The United States had more homicides than Mexico in 2004.(正解)
+ (D) The homicide rate in Nigeria was greater than the rate in Mexico in 2004.
+以下選項何者與上述內容不符？
+a. 哥倫比亞的謀殺率為10萬分之23
+b. 2004年美國謀殺率比俄羅斯低
+c. 2004年美國謀殺率比墨西哥高
+d. 2004年奈及利亞謀殺率比墨西哥高
+ 
+Questions 10 - 14 refer to the following article:
+
+Caleb’s Adventure Blog List
+
+Places to Stay in Belgrade (Published March 11, 2016): A comprehensive list of traveler’s accommodation in the beautiful Serbian capital. I cover budget hostels, five star hotels, and everything in between.
+Top 10 Sights in Iceland (Published March 02, 2016): Iceland is a kind of heaven for nature lovers. Here I introduce the best that this northern island country has to offer, from hot springs and geysers to glaciers and snowy mountain parks.
+Traveling in Europe with Toddlers (Published January 28, 2016): On your next European holiday, you don’t need to find a babysitter for your kids. Bring ‘em along! This blog offers the best tips for doing Europe with kids, including child-friendly hotels, fun attractions, and buying train tickets for kids.
+Visiting Rome’s Greatest Monument: The Colosseum (Published January 15, 2016) You’ve seen it a million times in books and on the Internet. Now it’s time to see it with your own eyes! Here I offer some secret tips for making the best of your Colosseum visit in Rome.
+-----------------------------------------------
+
+www.TDCradion.com
+
+HOME   |   ABOUT US   |   OUR DJS   |   SCHEDULE OF PROGRAMS   |   CONTACT US
+Monday, March 24, 2016
+
+2-4 PM  Discussion:
+DJ Emily will be chatting with Caleb Nestley of the immensely popular “Caleb’s Adventure Blog” on the topic of traveling with kids. Caleb recently published a comprehensive article about bringing the little ones traveling in Europe, and the article has been shared more than 4000 times on social media. His article covers topics such as kids’ menus in restaurants, hotels with playgrounds, the best amusement parks, the best age for taking kids on the road, how to prepare them for travel, what to bring, and much more. We will have a full two hours to discuss these topics, and see what kind of insightful tips Nestley can offer to parents out there thinking of going on a full-family adventure.
+
+3:30 to 4 PM will be reserved for taking questions and comments from callers. If you are too nervous to call in, feel free to email your questions in to Emily@TDCradio.com. We will be checking the emails throughout the show, so don’t hesitate to get in touch!
+
+-----------------------------------------------
+
+ 
+
+To: Emily@TDCradio.com
+From: DebWillis223@email.com
+Date: 3/24/2016
+Subject: Question for Mr. Nestley
+Hi there. I’ve been listening since the beginning of the discussion, but so far you guys haven’t talked about the one thing that I have the most trouble with as a traveling parent. I’m talking about naptime. My kids have a very set routine when it comes to napping. My daughter (9 months) naps from 10:00 to 11:30 every morning and 1:15 to 2:45 every afternoon. Her naptime is so precise that you could set your clock to it! My son (two years) also usually sleeps from 1:30 to 3:30. We really don’t like to break this routine. If the kids are late for their nap or (even worse) miss it altogether, the consequences are huge. They will be grumpy for the rest of the day, and they won’t sleep well at night, which becomes a nightmare for us.
+
+So here’s my question: When traveling, most hotels have a checkout time of around 11 AM, and then you can’t check in to your next hotel until about 3:00. This means that every time we switch hotels, we don’t have a place for the kids to take their nap. They aren’t very good at falling asleep on trains, either. Do you have any miracle advice for us?
+
+I would love to hear what Caleb Nestley has to say about this. Thanks in advance!
+
+Debra Willis
+
+ 
+
+
+
+Caleb的冒險部落格列表
+1.貝爾格勒的住宿地點（發表於2016年3月11日）：美麗的塞爾維亞首都的住宿完整列表，涵蓋了便宜旅館、五星級酒店、和介於這兩者之間的旅館。
+2.冰島十大景點（發表於2016年3月2日）：冰島是大自然愛好者的天堂。我這裡介紹這個北方島國最棒的景點，從溫泉與噴泉，到冰川與雪山公園都有。
+3.帶幼兒去歐洲旅行（發表於2016年1月28日）：你的下一個的歐洲度假不需要為孩子找保姆了。帶著他們吧！這個部落格提供了與孩子遊歐洲的情報，包括親子飯店、好玩的景點、 以及購買孩童火車票等。
+4.參訪羅馬最偉大的古蹟：鬥獸場（發表於2016年1月15日）你已經在書上和網路上看過一百萬次了。現在，是時候用自己的眼睛看看吧！在這，我將提供參觀羅馬鬥獸場的秘密情報。
+ 
+
+www.TDCradion.com
+首頁  |  關於我們  |  我們的DJ  |  節目排程  |  聯繫我們
+2016年3月24日週一
+
+下午2-4 討論主題：
+DJ Emily將與廣受歡迎的「Caleb冒險部落格」的Caleb Nestley聊帶孩子一起旅行的話題。Caleb最近發表關於帶小傢伙在歐洲遊行的全方位文章，且在社交媒體上已被分享超過4000次。他的文章涵蓋的主題包括餐廳中的兒童菜單、有遊樂場的飯店、最好的兒童樂園、小孩最適合帶出門的年齡、如何讓小孩做好旅遊的準備、要帶什麼等等。我們將有整整兩個小時來討論這些話題，看看Nestley能為想要踏上全家冒險旅程的父母提供什麼見解。
+
+下3:30至4點時間將保留給接聽聽眾來電和給予意見。如果您太緊張不敢來電，請隨時將您的問題以電子郵件寄到Emily@TDCradio.com。我們會在整個節目期間檢查郵件，請不要猶豫跟我們聯繫！
+
+ 
+
+ 
+
+收件人：Emily@TDCradio.com
+寄件人：DebWillis223@email.com
+日期：2016年3月24日
+主旨：給Nestley先生的問題
+你好。我從開始討論起就一直聆聽到現在，但到目前你們還沒有談到我覺得旅行中的父母最麻煩的一件事。也就是午睡時間。我的孩子們有非常規律的午睡習慣。我的女兒（9個月）每天早上10點到11:30，下午1:15到2:45睡午覺。她的午睡時間準到可以設鬧鐘！我的兒子（兩歲），通常也從1:30午睡到3:30。我們真的不希望打破這個習慣。如果孩子午睡時間晚了，或（更糟糕的是）完全錯過了午睡，後果不堪設想。他們接下來都會脾氣暴躁，而且整晚會睡不好，這會變成我們的惡夢。
+所以我的問題就是：旅行期間，大部分飯店退房時間大約都是11點，而且要到下午3點才能入房，所以代表我們每次換飯店的時候，就沒有地方給小孩睡午覺。他們在火車上也不太能入睡。你有什麼奇蹟式的建議嗎？
+我很想聽聽Caleb Nestley對這件事的想法。先行致謝！
+
+Debra Willis
+重要單字
+comprehensive adj. 廣泛的，綜合的
+geyser n. 間歇泉
+glacier n. 冰河
+monument n. 紀念館，紀念碑
+colosseum n. 羅馬競技場
+immensely adv.
+insightful adj. 廣大地，極大地
+routine n. 慣例，例行程序
+consequence n. 結果
+
+ 
+
+ 
+
+ 
+
+答錯
+	Question 10.	
+ 
+ 
+What seems to be the main theme of "Caleb's Adventure Blog"?
+ (A) adventure sports
+ (B) European travel(正解)
+ (C) cruises and luxury hotels
+ (D) ancient architecture
+「Caleb的冒險部落格」的主題為以下何者？
+A.冒險運動
+B.歐洲旅行
+C.遊船和豪華飯店
+D.古代建築
+ 
+答錯
+	Question 11.	
+ 
+ 
+Which of Caleb's articles on the blog list will likely be the main topic of discussion during his appearance on the radio?
+ (A) #1
+ (B) #2
+ (C) #3(正解)
+ (D) #4
+Caleb的部落格上的哪一章文章最有可能成為這個廣播節目上討論的主題？
+A.＃1
+B.＃2
+C.＃3
+D.＃4
+ 
+答錯
+	Question 12.	
+ 
+ 
+In the radio's programming schedule, which topic of discussion is NOT mentioned for the interview with Caleb Nestley?
+ (A) dining
+ (B) accommodation
+ (C) entertainment
+ (D) health(正解)
+在廣播節目的節目表中，以下主題何者是Caleb Nestley訪談節目沒有提及的？
+A. 餐飲
+B. 飯店
+C. 娛樂
+D. 健康
+ 
+答錯
+	Question 13.	
+ 
+ 
+What is Debra Willis's main concern?
+ (A) Her kids' daytime sleeping schedule. (正解)
+ (B) Her kids' nighttime sleeping arrangement.
+ (C) How to make her kids fall asleep in noisy places.
+ (D) How to find hotels with good beds for kids.
+Debra Willis主要關切的討論點是以下何者？
+A.孩子們的白天睡眠時間。
+B.孩子們的夜間睡眠如何安排。
+C.如何讓孩子在嘈雜的地方睡著。
+D.如何為孩子找到有好床的飯店。
+ 
+答對
+	Question 14.	
+ 
+ 
+What does Debra Willis mean by "you could set your clock to it?"
+ (A) The sound of a clock can wake up her kids.
+ (B) Her kids always take a nap and wake up at the same time. (正解)
+ (C) Her kids don't like being woken up at certain times.
+ (D) Her kids suffer from time differences in other countries.
+Debra Willis所說的「可以設鬧鐘」是什麼意思？
+A.時鐘的聲音能吵醒她的孩子。
+B.她的孩子總是在一樣的時間睡午覺及一樣的時間醒來。
+C.她的孩子不喜歡在某些時候被吵醒。
+D.她的孩子在其他國家時受時差影響。
+ 
+Questions 15 - 16 refer to the following article:
+
+Zoe Garcia    11:52 a.m.
+I’m here! Where are you?
+
+Santiago Fernandez    11:52 a.m.
+I’m stuck in traffic. Gonna be at least 10 min late. Why don’t you grab us a table and wait for me?
+
+Zoe Garcia    11:53 a.m.
+The diner is overflowing with people. They said they can’t seat us until everybody in our party has arrived.
+
+Santiago Fernandez    11:54 a.m.
+OK. I’ll come as quickly as possible.
+
+Zoe Garcia    11:54 a.m.
+Don’t worry, drive safely. I’m gonna grab a latte across the street and see if they have WiFi so I can update some reports. Just come find me here after you find parking.
+
+Santiago Fernandez    11:55 a.m.
+Sure. While you’re at it, can you forward that fiscal report with all the errors in it that you mentioned in yesterday’s budget meeting to Andy? He wants to see what went wrong.
+
+Zoe Garcia    11:56 a.m.
+Will do. Do you want me to cc you in it?
+
+Santiago Fernandez    11:58 a.m.
+Please.
+
+
+Zoe Garcia   上午11:52
+我在這裡了！你在哪？ 
+
+Santiago Fernandez   上午11:52
+我在塞車中。至少晚到10分鐘。妳先找張桌子坐下等我吧！
+
+Zoe Garcia   上午11:53
+這家餐廳擠滿了人。他們說在人到齊之前不能帶位。
+
+Santiago Fernandez   上午11:54
+好吧，我會盡快趕到。 
+
+Zoe Garcia   早上11:54
+別擔心，小心開車。我會去對面買一杯拿鐵，看看他們有沒有無線網路(WiFi)，我才能上傳報告。你停好車時再來找我就好。
+
+Santiago Fernandez   早上11:55
+好的。妳在處理的時侯，可以順便把昨天你在預算會議上提到的那份財務報告，連同裡面的所有錯誤都寄給Andy嗎？他想要知道哪裡出錯。
+
+Zoe Garcia   上午11:56
+我會的。你要我轉寄一份副本給你嗎？
+
+Santiago Fernandez   上午11:58
+麻煩妳了。
+答錯
+	Question 15.	
+ 
+ 
+Where will Zoe Garcia and Santiago Fernandez meet?
+ (A) in the parking lot
+ (B) at the entrance of the restaurant.
+ (C) at the table in the restaurant.
+ (D) in a cafe(正解)
+Zoe Garcia和Santiago Fernandez會在以下何處見面？
+a.在停車場。
+b.在餐廳的入口。
+c.在餐廳的桌子上。
+d. 在咖啡廳裡。
+ 
+答錯
+	Question 16.	
+ 
+ 
+What does Mr. Fernandez want Ms. Garcia to do when she sends the report to Andy?
+ (A) Forward a copy of the email to him.(正解)
+ (B) Fix all the errors before she sends it.
+ (C) Adjust the budget that is mentioned in the report.
+ (D) Ask Andy what went wrong.
+以下選項何者是Fernandez先生要Garcia小姐在傳送報告給Andy時所做的事？
+a. 轉寄一份副本給他。
+b. 她在傳送出去前要修正所有的錯誤。
+c. 調整報告中提到的預算。
+d. 問Andy什麼地方出了錯。
+ 
+Questions 17 - 21 refer to the following article:
+
+
+
+Vacation Request Form
+
+
+Today’s Date: October 16, 2007
+
+
+
+Employee’s Name: Manu Parvati
+
+
+
+Department: Data Entry
+
+
+
+I would like the following days off: December 12, 2007 through January 15, 2008.
+
+
+
+Number of paid days off left: 10
+
+
+
+Employee’s signature: Manu Parvati
+
+
+
+Comments:
+
+
+
+Mr. Birkenstock, seeing as I haven’t taken vacation yet this year, I would like to request about a month-long holiday. My family is visiting Tampa Bay from their home in Calcutta, India. I haven’t seen them in over one year, so now is a good time. They rarely travel to the United States. As you know, Tampa Bay isn’t far from Miami. So, during my vacation, I will travel over to Miami for three weeks and stay with them in a hotel. I know this is a busy time of year, but I would very much appreciate sharing this time with my family. Please get back to me at your convenience.
+
+
+
+--------------------------------------------------------
+
+
+
+Employer’s signature:
+
+
+
+Date:
+
+
+ 
+
+
+---------------------------------------------------------
+
+
+To: manumanu@winstonins.org
+
+
+
+From: rbirkenstock@winstonins.org
+
+
+
+Date: October 19, 2007
+
+
+
+Time: 8:45 p.m.
+
+
+
+Subject: RE: Vacation Request
+
+
+Dear Mr. Parvati,
+
+
+Thank you for taking the time to fill out the vacation request form in depth. I see the reasoning behind your request; however, this is a very busy time of year. I cannot give you one month of vacation. At most, I can agree to two weeks.
+
+
+There is a lot of work to do, and Winston Insurance cannot accommodate your request entirely. But, I do care deeply about you as an employee, which is why I’m willing to make room for two weeks of holiday. Since you are one of our hardest working employees, Winston Insurance needs your assistance during this demanding period of time.
+
+
+If it’s not too much trouble, I’d like you to fill out another request form. You don’t have to leave any comments this time. I understand the situation. Please provide the most convenient dates for your two weeks of holiday.
+
+
+Once again, I appreciate your dedication and diligent working habits.
+
+
+Kind regards,
+
+
+
+Mr. Birkenstock
+
+
+
+
+
+休假申請單
+
+
+今天日期： 十月16日，2007年
+
+
+
+員工姓名：Manu Parvati
+
+
+
+單位： 資料輸入
+
+
+
+我想要以下這幾天休假：十二月12日，2007年 至 一月15日，2008年。
+
+
+
+剩餘帶薪休假天數：10天
+
+
+
+員工簽名：Manu Parvati
+
+
+
+說明：
+
+
+
+Birkenstock先生，因為我今年還沒有休過長假，所以我想要請大約一個月的假。我的家人要從他們印度Calcutta的家到坦帕灣來。我已經超過一年沒有見到他們了，因此現在是很好的機會。他們很少到美國來。如你所知道的，坦帕灣離邁阿密不遠。所以在我的假期中，我會去邁阿密三個禮拜和他們住在旅館。我知道現在是一年之中最忙碌的時候，可是如果我可以和我的家人共度這段時光的話我會非常感激的。請您方便時回覆我。
+
+
+
+---
+
+
+
+員工簽名：
+
+
+
+日期：
+
+
+----------------------------------------------------------------------------
+
+
+收件人：manumanu@winstonins.org
+
+
+
+寄件人：rbirkenstock@winstonins.org
+
+
+
+日期：十月19日，2007年
+
+
+
+時間：下午 8:45
+
+
+
+主旨： RE: 休假申請
+
+
+致Parvati先生，
+
+
+謝謝你花時間詳細填寫休假申請單。我了解你的請求的背後理由，然而，現在是整年之中最忙的時候。我沒辦法給你一個月的假。我最多只能同意兩個禮拜。
+
+
+我們有許多工作要做，而Winston保險公司沒辦法全盤接納你的請求。但是，我非常在乎你這樣的員工，因此我願意放寬到兩個禮拜的假期。由於你是我們工作最敬業的員工之一，在這段艱困的時間內Winston保險公司需要你的協助。
+
+
+如果不會太麻煩的話，我想請你再填一張申請單。這次你不必作說明。我了解整個情況。請給我你這兩個禮拜假期最合適的日期。
+
+
+再次感謝你的敬業和勤奮的工作習慣。
+
+
+誠致的問候，
+
+
+
+Birkenstock先生
+
+
+重要單字
+
+request v.請求，要求
+
+depth n. 深度，(色澤)濃度
+
+accommodate v. 容納，提供…膳宿
+
+dedication n. 貢獻，專心致力
+
+
+答對
+	Question 17.	
+ 
+ 
+What is the main reason that the employee is requesting a holiday?
+ (A) Because he hasn't taken a vacation in a while.
+ (B) He wants to use up his paid days off.
+ (C) He doesn't want to work during the busy period.
+ (D) His family will stay in Tampa Bay and he wants to visit them there.(正解)
+這位員工要求休假的主要原因為何？
+a. 因為他有段時間沒有度假了。
+b. 他想把他的帶薪假用完。
+c. 他不想在最忙碌的這段期間上班。
+d. 他的家人會待在坦帕灣所以他想去那裡看他們。
+ 
+答對
+	Question 18.	
+ 
+ 
+How long of a break is the employee asking for?
+ (A) Just over one month.(正解)
+ (B) Not quite one month.
+ (C) Two weeks.
+ (D) Three weeks.
+該員工要求多久的假期？
+a. 一個月多一點。
+b. 不到一個月。
+c. 兩個禮拜。
+d. 三個禮拜。
+ 
+答對
+	Question 19.	
+ 
+ 
+How does the employer respond to the employee?
+ (A) He grants the request.
+ (B) He only permits a two week break.(正解)
+ (C) He denies the request entirely.
+ (D) He asks the employee to fill out another form in great depth.
+雇主如何答覆該員工？
+a. 他同意這個請求。
+b. 他只准許兩個禮拜的假期。
+c. 他完全否決這個請求。
+d. 他要求該員工巨細靡遺的再填一張申請表。
+ 
+答對
+	Question 20.	
+ 
+ 
+Why does the employer want the employee to alter his request?
+ (A) Mr. Parvati isn't very conscientious, so he doesn't deserve so much time off.
+ (B) The first request form wasn't filled out properly.
+ (C) The time period during which the employee wants vacation is too busy.(正解)
+ (D) Mr. Birkenstock doesn't agree with the reason for the request.
+為何該雇主要這位員工更改他的休假申請？
+a. Parvati先生並沒有非常認真盡責，所以他不應該得到這麼多休假。
+b. 第一張申請單沒有填妥。
+c. 員工所要求休假的這段期間太過忙碌。
+d. Birkenstock先生不認同請假的理由。
+ 
+答對
+	Question 21.	
+ 
+ 
+What does the employer ask of the employee?
+ (A) To fill out an additional form requesting less time off.(正解)
+ (B) To give a better reason for taking vacation days.
+ (C) To work without taking any vacation.
+ (D) To work harder in order to obtain more vacation days.
+該雇主要求這位員工做甚麼？
+a. 再填一張休假天數較少的申請單。
+b. 給個休長假的好理由。
+c. 一直上班不要休假。
+d. 更努力工作以獲得更多的休假天數。
+ 
+Questions 22 - 25 refer to the following article:
+
+
+
+Biometrics in Schools: Pass or Fail?
+
+
+Fail. Schools in Dubai should not be allowed to install databases that use biometric data from students. Doing so infringes upon students’ civil rights by compromising their safety and privacy, and also disrupts the relationships teachers and parents have with the school. (1) _____________ Parents have already raised concerns about younger children, and have even threatened to remove their children from schools.
+
+
+In addition, a trend in Dubai shows that hi-tech equipment is being used to monitor society in an unethical way. This equipment can scan retinas, reproduce molds of facial contours, measure hands and fingerprints in a more detailed way, and even determine patterns of body movement. (2) _____________
+
+
+The growth in technology, inside school and out, makes many wary about what the school environment will turn into. There are certain civil liberties at stake, and they must be considered in depth before schools can be allowed to install experimental, hi-tech equipment.
+
+
+
+(3) _____________ According to current child and data protection laws, Technology for the Benefit of Dubai Schools (TFBDS) programs that a few schools want to implement could be illegal. (4) _____________ There has been no formal authoritative report, and all studies are thus far experimental. In the future, schools and the greater community must take care and understand the risks involved.
+
+
+
+
+
+校園內該不該採取生物鑑定？
+
+
+答案是不應該。杜拜學校不該在校內設置資料庫蒐集學生的生物鑑定資料，這不僅侵犯民權、危及學生安全及隱私，更嚴重危害了老師與家長對學校的關係。家長對幼小兒童更加擔憂，甚至揚言要將他們的孩子帶離學校。
+
+
+此外，杜拜出現不道德的方式使用高科技儀器監測社會的趨勢。這個儀器不只可以掃描視網膜、複製臉型，更能精細的測量手與指紋以及測定人體的動作。這些是你之前可能只會在科幻電影中才能看到的設備，現在都成真了。
+
+
+在校內與校外，科技的成長對學校環境的改變造成堪憂。此計畫侵害公民自由的風險甚高，官方應該對於校內設置實驗性的高科技儀器與否應該考慮周詳。
+
+
+
+根據兒童與資料保護法，少數學校期望參與的科技便利杜拜學校(TFBDS)計畫可能違法。目前尚無任何正式官方報告，而所有研究報告目前皆屬實驗階段。未來學校以及各區域必須慎重考慮以及了解此計畫可能產生的風險。
+
+
+重要單字
+
+biometrics n. 生物鑑定
+
+install v. 安裝，設置
+
+infringe (upon) v. 侵犯(他人)權力
+
+civil rights n. 民權
+
+privacy n. 隱私
+
+disrupt v. 使瓦解，使分裂
+
+contour n. 輪廓，外型
+
+retina n. 視網膜
+
+unethical adj. 不道德的
+
+liberty n. 自由
+
+implement v. 履行，實施
+
+authoritative adj. 權威性的，可信賴的，官方的
+
+
+答對
+	Question 22.	
+ 
+ 
+What is the main argument of the article?
+ (A) Child and data protection laws are not strict enough.
+ (B) It is okay to monitor societal behavior with hi-tech equipment.
+ (C) The growth of technology is an interesting topic for students.
+ (D) Collecting biometric data in schools raises issues of safety and privacy.(正解)
+此篇文章主要在討論什麼？
+a. 兒童及資料保護法不夠嚴格
+b. 以高科技儀器監視社會行為是可行之舉
+c. 科近的進步對於學生來說是個有趣的主題
+d. 在校內蒐集生物鑑定資訊造成安全及隱私問題
+ 
+答對
+	Question 23.	
+ 
+ 
+What is the best way to describe the writer's tone?
+ (A) Sad.
+ (B) Content.
+ (C) Offended.
+ (D) Cautionary.(正解)
+以下哪種方式最適合形容筆者語調？
+a. 傷心
+b. 開心　
+c. 被冒犯
+d. 警惕
+ 
+答對
+	Question 24.	
+ 
+ 
+In the author's opinion, how might a parent react to the use of biometric data in schools?
+ (A) He or she might discuss civil rights with his or her child.
+ (B) He or she might withdraw his or her child from the school.(正解)
+ (C) He or she might monitor his or her child more closely.
+ (D) He or she might put the child into a TFBDS program.
+筆者認為若學校使用生物鑑定，家長會有怎麼樣的反應？
+a. 與孩子討論民權問題
+b. 讓孩子轉學
+c. 進一步的監控孩子
+d. 讓孩子參與科技便利杜拜學校(TFBDS)計畫
+ 
+答錯
+	Question 25.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "These are the kinds of devices you may have only seen in sci-fi movies, but now they are becoming a reality."
+ (A) (1)
+ (B) (2)(正解)
+ (C) (3)
+ (D) (4)
+下面的句子最符合標示中的(1), (2), (3)或(4)的所在位置？
+「這些是你之前可能只會在科幻電影中才能看到的設備，現在都成真了。」
+a. (1) 
+b. (2) 
+c. (3)
+d. (4)
+ 
+Questions 26 - 30 refer to the following article
+
+Customer Reviews
+
+4/5 stars
+
+By Monique Latoya
+
+The Adventures of Tommy and Ronny is a classic coming-of-age tale about two twin brothers who were separated at birth, but managed to find each another in their teenage years due to their shared interest in surfing. The book alternates between Tommy’s and Ronny’s story. Tommy grew up in Eastern Virginia, whereas Ronny grew up in Western California. They were apart from birth until the age of seventeen, where they happened to meet in Louisiana and start a surfing company. The story is comprised of two parts. Part one depicts the brothers’ separate lives before they found one another. The latter is about their lives together.
+
+Tommy’s character is strongly developed in this novel. The way he speaks is very typical of a person who grew up in Virginia. His personality is more submissive, and he sometimes mentions to his brother that he wishes he were born a girl. He describes the ocean with beautiful words. Later in the story, he has the opportunity to step out of his brother’s shadow and even save his brother at one point. I wasn’t expecting that at all, which is why I was impressed with his character development.
+
+Ronny’s character is a bit flat, but not bad. He is manlier than Tommy, and he has the accent of a “bro” from California. His outlook never really changes, and he is pretty stubborn about his beliefs. However, he has a sensitive side, and although he doesn’t show it, he cares a lot about his brother. I wasn’t overly impressed though.
+
+The tale gets most captivating when the two share a mutual love interest, Shaniqua. What’s interesting is that she seems to be attracted to both of them! I won’t spoil the end of the story, so I suggest you read it.
+
+I give it four out of five stars.
+
+-------------------------------------------------------------------------------------
+
+Comments:
+
+Edward Hart said:
+
+First of all, SPOILER ALERT! Don’t read this comment unless you have already read the book.
+
+Monique, I don’t know what book you were reading, but that is not how the story went. Yes, the brothers met in Louisiana, but you mixed up Tommy and Ronny! Tommy grew up in California, and Ronny grew up in Virginia. Ronny is the more passive of the two, and Tommy has the “bro” accent.
+
+I thought Tommy’s character was better than Ronny’s character. Sure, he is manlier, but he also struggles with his own inner strife and he manages to change a lot throughout the story. He even lets go of his attachment to Shaniqua so that Ronny can have a relationship with her. That is impressive.
+
+Unlike Monique, I didn’t find the story that compelling, so I’d have to give this novel 2.5/5 stars. Even though the book has two parts, it’s a bit on the short side. Still, it’s a decent novel that you should read.
+
+-------------------------------------------------------------------------------------
+
+The Adventures of Tommy and Ronny
+
+Plot Summary
+
+Part 1
+Two brothers, Tommy and Ronny, are born in an unknown location and separated at birth.
+Tommy and Ronny are raised in California and Virginia, respectively.
+They grow up with contrasting personalities.
+Part 2
+
+The two brothers meet again in Portland at the age of 17.
+They meet due to their shared interest in surfing and start a surf company together.
+Tommy and Ronny fall for the same girl, Shaniqua, and she likes both of them.
+Ronny gets the girl in the end.
+
+
+讀者評論
+
+4星(滿分5星)
+
+Monique Latoya評論
+
+「Tommy 與Ronny歷險記 」是關於兩個雙胞胎兄弟的一部經典成長歷程小說，他們一出生就被分開，但在他們青少年時期因為對衝浪有相同的興趣而 找到彼此。 這本書交替敘述Tommy和Ronny的故事。Tommy在維吉尼亞州東部長大，Ronny則是在加州西部長大。他們出生就被分開一直到十七歲時相遇，他們因緣際會 在路易斯安那州再度相遇並開創一間衝浪公司。這個故事有兩部分 。第一部份 描寫這對兄弟在找到彼此以前各自的 生活為何。第二部分 則是關於他們在一起時的生活。
+
+在這部小說中Tommy的角色有很大的成長。他說話的方式是非常典型的維吉尼亞 人。 個性也比較溫馴，他有時候會跟他的兄弟提起他希望自己生下來是個女兒身。他會用美麗的辭藻來描述大海。在後來的故事中，他有機會走出他兄弟的 影子，甚至還一度救了他。我完全沒有料到這點，這是我非常欣賞他的角色發展的原因。
+
+Ronny的個性有點單板，但又沒那麼無趣 。他比Tommy有男子氣概，他說話有著來自加州「老鄉」的口音。他的外表一成不變，對他的信仰非常固執。然而，他有感情細膩的一面，雖然他沒有顯露出來，但他非常關心他的兄弟。不過我不是非常欣賞他。
+
+故事最引人入勝的是這兩個人有共同的愛慕對象--- Shaniqua。有趣的是她似乎同時被他們兩人所吸引！我不想把故事的結尾講出來讓你失去 興趣，因此我建議你自己去閱讀這本書。
+
+滿分五顆星，我給它四顆。
+
+----------------------------------------------------------------------------
+
+意見：
+
+Edward Hart 評論 ：
+
+先提醒你， 有透露故事劇情喔！除非你已經看過這本書，不然不要看這則評論 。
+
+ 
+
+Monique，我不知道你看的是哪本書，可是書上根本不是那麼寫的。沒錯，這兩兄弟是在路易斯安那州相遇，但是你把Tommy跟Ronny搞混了！Tommy是在加州長大，Ronny是在維吉尼亞州長大。Ronny是兩人之中比較被動的，而Tommy說話有當 地口音。
+
+我認為Tommy的個性比Ronny好。的確，他有男人味，但在故事裡從頭到尾他也在自己的內心裏衝突掙扎，而且他努力做了許多的改變。他甚至放棄他對Shaniqua的愛戀，因此Ronny才能與她交往。那很了不起。
+
+我的想法不像Monique，我不覺得這個故事有那麼扣人心弦，所以我只能給這部小說2.5顆星(滿分五顆星)。這本書雖然有兩個部份 ，但仍有些美中不足。不過它是一本還不錯的小說，你應該閱讀。
+
+ 
+
+Tommy 與Ronny歷險記
+
+劇情摘要
+
+第一部份
+Tommy與Ronny兩兄弟出生地不明，出生後就分開。
+Tommy與Ronny分別在加州與維吉尼亞州長大。
+他們長大後的個性完全相反。
+第二部份
+
+兩兄弟在17歲再度在波特蘭相遇。
+他們得相遇是因為他們一樣對衝浪及創立衝浪公司有興趣。
+Tommy 和Ronny愛上同一個女孩，她也喜歡他們倆人。
+最後Ronny擄獲芳心。
+ 
+ 
+
+ 
+
+重要單字
+alternate v. 供替換的，輪流的
+be comprised of 由…所組成
+submissive adj. 服從的，柔順的
+manly adj. 有男性氣概的
+outlook n.
+overly adv. 觀點，看法；展望，前景
+tale n. 故事，傳說
+mutual adj. 共同的，共通的
+accent n. 口音，語調
+
+答錯
+	Question 26.	
+ 
+ 
+What did the initial reviewer say about Ronny?
+ (A) His character is a bit boring.(正解)
+ (B) His attitude about life changes a lot.
+ (C) He eventually steps out of his brother's shadow.
+ (D) He doesn't care about his brother at all.
+第一個評論者怎麼形容Ronny？
+a. 他的個性有些無趣。
+b. 他對人生的態度改變許多。
+c. 他最後走出了他哥哥的陰影。
+d. 他完全不在呼他的兄弟。
+ 
+答錯
+	Question 27.	
+ 
+ 
+At what point does Monique think that the story gets most interesting?
+ (A) When the two brothers open up a surf business.
+ (B) When the two brothers find one another.
+ (C) When the two brothers fall in love with the same girl.(正解)
+ (D) When Tommy saves Ronny.
+Monique 認為這個故事在什麼地方最引人入勝？
+a. 當這兩兄弟開始經營衝浪生意時。
+b. 當這兩兄弟找到彼此時。
+c. 當這兩兄弟愛上同一個女孩時。
+d. 當Tommy救了Ronny時。
+ 
+答對
+	Question 28.	
+ 
+ 
+What does Edward find most remarkable about Tommy?
+ (A) He gave up on Shaniqua for his brother's sake.(正解)
+ (B) He is a manly character.
+ (C) His emotions are consistent throughout the novel.
+ (D) He has an authentic accent.
+Edward覺得Tommy什麼地方最了不起？
+a. 他為了他的兄弟而放棄Shaniqua。
+b. 他的個性陽剛。
+c. 他在小說裡從頭到尾沒有情緒起伏。
+d. 他有著道地口音。
+ 
+答對
+	Question 29.	
+ 
+ 
+Which review does the plot summary more closely match?
+ (A) Monique Latoya's.
+ (B) Edward Hart's. (正解)
+ (C) It matches both of them exactly.
+ (D) There is no matching information.
+以下那一則評論何者與故事情節較為符合？
+A. Monique Latoya's.
+B. Edward Hart's.
+C. 兩個評論都相符。
+D. 兩者都沒有相符的內容。
+
+ 
+答錯
+	Question 30.	
+ 
+ 
+What piece of information in the plot summary is false, according to the two reviews?
+ (A) The names of the main characters.
+ (B) Information about the characters' personalities.
+ (C) The location where the two characters met again. (正解)
+ (D) The part about Shaniqua.
+根據這兩篇評論，以下劇情概要何者為非？
+A. 主角們的名字。
+B. 有關主角的性格。
+C. 兩名主角再度相遇的地點。
+D. 關於Shaniqua的部分。 
+ 
+Questions 31 - 33 refer to the following article:
+
+
+
+August 10, 2010. Oakland too hot for Denver to handle.
+
+
+It was a surprising overtime victory by the underdog basketball team, The Oakland Heat. They beat the Denver Falcons in the last few minutes of the game. The final score, after four quarters of play, was 90 to 84.
+
+
+Oakland’s Terry Walker started the first quarter with six straight points. He also grabbed three rebounds. Oakland was winning at the end of the first quarter.
+
+
+In the second quarter, the star player for Denver, Jason Holmes, made 80% of his shots. Unluckily for Denver, in the last ten minutes Holmes got called for three fouls and had to be substituted out for the first part of the third quarter.
+
+
+At the half the teams were neck and neck: Denver 42, Oakland 40.
+
+
+In the third quarter, Walker continued to show why he’s an upcoming star. He scored ten points and had three assists, which is an astounding show for a rookie.
+
+
+Finally, in the fourth quarter, Jerry Rodriguez dominated the paint for Denver and scored ten points of his own. Despite that, Oakland held on to keep the score close, and in the final seconds Quentin Jones made a three-point shot to tie the game. The scores were the same!
+
+
+
+From there, it was Terry Walker’s game. In overtime Walker scored six more points and had three steals!
+
+
+ 
+
+
+
+
+
+2010年8月10日 Oakland戰勝Denver隊
+
+
+原先不被看好的Oakland Heat隊在延長賽中獲得勝利！他們在最後幾分鐘擊敗Denver Falcons隊。四節比賽的最後總分為90比84。
+
+
+Oakland Heat隊的Terry Walker在比賽第一節一開始就連續攻下6分，同時也搶到3個籃板球，因此Oakland Heat隊在比賽第一節結束時領先。
+
+
+Denver隊的明星球員Jason Holmes整場球賽百分之80的得分都在比賽第二節拿下，但他卻在同節比賽的最後10分鐘因三次犯規，第三節的上半場判替補球員上場比賽。
+
+
+比賽進行一半時兩隊不分上下，Denver隊拿下42分，Oakland隊 40分。
+
+
+比賽第三節Walker再度向大家證明他是明日之星。他不只攻下10分同時也助攻3次，以一個新手來說這些表現相當不容易。
+
+
+
+
+
+
+
+最後在第四節的比賽中Jerry Rodriguez表現優異，獨自為Denver隊拿下10分。此外，Oakland隊繼續將分數追平 ，在最後幾秒鐘Quentin Jones一記三分球成功將比賽分數拉平！
+
+
+
+Terry Walker一枝獨秀，在延長賽中不只攻下6分還抄截3球！
+
+
+重要單字
+
+victory n. 勝利，戰勝
+
+quarter n. 一季，一刻鐘
+
+rebound n. 彈回，重新振作，回升
+
+substitute v. 代替
+
+assist n. 協助，幫助
+
+astounding adj. 令人驚奇的，令人震驚的
+
+rookie n. 生手，菜鳥
+
+dominate v. 支配，統治
+
+
+ 
+
+答對
+	Question 31.	
+ 
+ 
+What was unfortunate for Denver in the second quarter?
+ (A) Holmes got called for three fouls and had to be substituted out later.(正解)
+ (B) Terry Walker started with six straight points.
+ (C) Quentin Jones made a three-point shot to tie the game.
+ (D) Jerry Rodriquez scored ten points.
+Denver隊在比賽第二節發生什不幸的事情？
+a. Holmes因三次犯規被替補 
+b. Terry Walker 開場連得6分
+c. Quentin Jones以一記三分球拉平比賽 
+d. Jerry Rodriquez得到10分
+ 
+答對
+	Question 32.	
+ 
+ 
+Which of the following did NOT happen?
+ (A) Jason Holmes made 80% of his shots in the second quarter.
+ (B) Terry Walker performed badly in overtime.(正解)
+ (C) Quentin Jones evened the score in the fourth quarter.
+ (D) Oakland beat Denver.
+下列敘述何者為非？
+a. Jason Holmes在整場比賽中百分之80的得分皆於第二節中產生
+b. Terry Walker在延長賽中表現不佳
+c. Quentin Jones在比賽第四節將分數拉平
+d. Oakland隊打敗Denver隊
+ 
+答對
+	Question 33.	
+ 
+ 
+How might an Oakland Heat fan feel about this article?
+ (A) He or she might feel thrilled.(正解)
+ (B) He or she might feel angry.
+ (C) He or she might feel disappointed.
+ (D) He or she might feel unnerved.
+Oakland Heat的支持者看見此文章的心情可能為何？
+a. 激動
+b. 生氣
+c. 失望
+d. 氣餒
+ 
+Questions 34 - 35 refer to the following article:
+
+
+
+Sunnybank Community Pool Rules
+
+1. No diving in the shallow end of the pool.
+
+
+
+2. Do not bring food or drinks into the pool area.
+
+
+
+3. Adults only swimming is from 9:00 a.m. to 11:30 a.m. - no kids allowed.
+
+
+
+4. Animals are not allowed in the pool area.
+
+
+
+5. No reckless behavior - be considerate.
+
+
+
+6. No jumping off the side of the diving board.
+
+
+
+7. Kids under five years of age cannot enter the pool if the lifeguard is off-duty.
+
+
+
+8. Do not smoke in the pool area.
+
+
+
+9. Local laws dictate that noise levels be kept down after 6:00 p.m. - no screaming or shouting after that time.
+
+
+
+10. No horseplay on the waterslide.
+
+
+
+11. The pool is open 6:00 a.m. to 10:00 p.m., but the lifeguard is only on duty from 11:30 a.m. to 8:00 p.m.
+
+
+
+For any questions or assistance, please call the manager: 477-2182. We appreciate your cooperation.
+
+
+ 
+
+
+
+
+
+桑尼班克社區泳池規則
+
+1. 淺水處禁止跳水。
+
+
+
+2. 泳池區禁帶飲料及食物。
+
+
+
+3. 上午9點至11點30分泳池區開放成人使用---兒童禁止入場。
+
+
+
+4. 禁止攜帶動物進入泳池區。
+
+
+
+5. 禁止在泳池區進行魯莽行為，安全至上。
+
+
+
+6. 嚴禁從跳板側邊跳水。’
+
+
+
+7. 無救生員時，禁止5歲以下兒童入池。
+
+
+
+8. 泳池區禁菸。
+
+
+
+9. 當地法律規定，下午6點後須降低音量---禁止大聲喧嘩或叫囂。
+
+
+
+10. 禁止在滑水道嬉鬧。
+
+
+
+11. 泳池開放時間為上午6點至下午10點，救生員巡邏時間為上午11點30分至下午8點。
+
+
+
+如有任何問題或需要協助，請致電經理：477-2182。
+
+
+
+感謝您的合作。
+
+重要單字
+
+community n. 社區，社群
+
+shallow adj. 淺的
+
+lifeguard n. 救生員
+
+dictate v. 口授，命令
+
+waterslide n. 滑水道
+
+appreciate v. 感激
+
+cooperation n. 合作
+
+
+ 
+
+答對
+	Question 34.	
+ 
+ 
+Which of the following is true about the Sunnybank Community Pool rules?
+ (A) It's okay to smoke in the pool area.
+ (B) The pool follows local rules about noise levels. (正解)
+ (C) Diving is not allowed at all.
+ (D) Kids younger than 5 cannot go into the pool.
+下列關於桑尼班克社區泳池的敘述那一個選項與上述內容相符？
+a. 泳池區可以抽菸
+b. 泳池遵守音量管控的相關法規 
+c. 泳池全區禁止潛水
+d. 5歲以下孩童禁止進入泳池
+ 
+答對
+	Question 35.	
+ 
+ 
+What happens from 6:00 a.m. to 11:30 a.m.?
+ (A) Kid's aren't allowed to swim.(正解)
+ (B) The pool is closed.
+ (C) Anybody can swim.
+ (D) The lifeguard is on duty.
+下列關於泳池上午6點至11點30分之敘述，何者正確？ 
+a. 禁止兒童游泳 
+b. 泳池關閉 
+c. 任何人皆可於此時游泳 
+d. 救生員於此時進行巡邏
+ 
+Questions 36 - 40 refer to the following article:
+
+
+
+Overseas Antiques
+
+
+September 11, 2012
+
+
+Jason Schwarzenegger
+
+
+
+4F-3, No. 80, Lane 89, Linsen North Road
+
+
+
+Zhongshan District, Taipei City 104
+
+
+
+Taiwan (R.O.C.)
+
+
+Deborah Chen
+
+
+
+3F-8, No. 44, Lane 28, Songshan Road
+
+
+
+Songshan District, Taipei City 105
+
+
+
+Taiwan (R.O.C.)
+
+
+Dear Mrs. Chen,
+
+
+Due to unforeseen circumstances, Overseas Antiques has experienced a decrease in sales over the past six months. We have also realized that some staff members’ duties overlap. Therefore, we have to cut staff by about 30%. This will come into effect starting November 1st. After this date, you will unfortunately no longer be a member of our team.
+
+
+The employees that must be laid off will receive their final paycheck on November 15th. They will all receive half a month’s severance pay.
+
+
+We sincerely apologize for this inevitability. We will have a short discussion about the reasons behind this decision on Tuesday, September 15th, in the conference room. All employees are not expected to attend, but it is strongly suggested.
+
+
+We wish you luck in the future and we greatly appreciate all of the hard work over the past years.
+
+
+Jason Schwarzenegger
+
+
+
+CEO, Overseas Antiques
+
+
+-------------------------------------------------------------------------------------
+
+
+Deborah Chen
+
+
+
+3F-8, No. 44, Lane 28, Songshan Road
+
+
+
+Songshan District, Taipei City 105
+
+
+
+Taiwan (R.O.C.)
+
+
+Jason Schwarzenegger
+
+
+
+4F-3, No. 80, Lane 89, Linsen North Road
+
+
+
+Zhongshan District, Taipei City 104
+
+
+
+Taiwan (R.O.C.)
+
+
+Dear Mr. Schwarzenegger,
+
+
+Let me first just say that I understand the behind your actions. I do not blame Overseas Antiques for the cuts that they must make. Nonetheless, I have a few comments and requests of my own.
+
+
+I’m a bit upset because I don’t understand why you have chosen to lay me off. I’ve worked at Overseas Antiques for over ten years. Sure, I’m an elderly lady, but I’m a dedicated employee who knows this organization well. At my age, it’s unlikely that I will find another job before I retire. This puts me in a financial predicament.
+
+
+If it turns out that your decision is nonnegotiable, I request that I get my yearend bonus, as well as one month’s severance pay. This will at least give me time to structure my resume and find a new place to work.
+
+
+One further request is that you recommend me for a position at another company. I will not strive to work for a company that competes with Overseas Antiques, but I do want to find another PR position, as it’s something I’ve done my whole life.
+
+
+Thank you for your time.
+
+
+Sincerely,
+
+
+
+Deborah Chen
+
+
+
+
+
+Overseas Antiques公司
+
+
+2012年9月11日
+
+
+Jason Schwarzenegger
+
+
+
+林森北路89巷80號4樓之3
+
+
+
+台北市中山區  104
+
+
+
+台灣(R.O.C.)
+
+
+Deborah Chen
+
+
+
+松山路28巷44號3樓之8
+
+
+
+台北市松山區  105
+
+
+
+台灣(R.O.C.)
+
+
+致陳女士，
+
+
+由於發生了預料之外的情況，導致Overseas Antiques公司在過去六個月的業績衰退。我們也了解到部分職員的職務有重疊之處。因此，我們必須裁員大約三成。這個決定將從十一月一日開始生效。這天以後，很遺憾的你將不再是我們團隊裏的一員。
+
+
+必須被解雇的員工會在11月15日收到最後的薪資。全都可以拿到半個月的遣散費。
+
+
+我們誠摯的為這個無法避免的決定道歉。我們將在9月15日星期二，在會議室開一個簡短的會議討論這個決定背後的原因。全體員工並非一定都要出席，但非常建議你參加。
+
+
+我們祝您好運並萬分感謝你過去這些年來的勤奮工作。
+
+
+Jason Schwarzenegger
+
+
+
+執行長，Overseas Antiques公司
+
+
+----------------------------------------------------------------------------
+
+
+Deborah Chen
+
+
+
+松山路28巷44號3樓之8
+
+
+
+台北市松山區  105
+
+
+
+台灣(R.O.C.)
+
+
+Jason Schwarzenegger
+
+
+
+林森北路89巷80號4樓之3
+
+
+
+台北市中山區  104
+
+
+
+台灣(R.O.C.)
+
+
+致Schwarzenegger先生，
+
+
+首先我必須說我了解你所採取的措施背後的理由。我並不怪Overseas Antiques公司必須裁員的決定。但是，我有一些個人的意見跟要求。
+
+
+我有點生氣，因為我不知道你為什麼選擇裁掉「我」。我已經在Overseas Antiques公司工作超過十年。的確，我是個年紀大一點的女人，可是我是個對組織相當熟悉又敬業的員工。以我的年紀，我要在退休前找到另一個工作是不太可能的事。這會讓我陷入財務困境。
+
+
+如果你的決定是沒得商量的，我要求要拿到我的年終獎金，以及一個月的資遣費。這至少讓我有時間來整理我的履歷表跟找工作。
+
+
+還有一個要求是你要推薦我去另一家公司上班。我不會為了謀生而去替Overseas Antiques公司的競爭對手工作，可是我真的想再找一個公關的職位，因為這是我已經做了一輩子的公作。
+
+
+感謝您抽出時間。
+
+
+誠摯的，
+
+
+
+Deborah Chen
+
+
+
+重要單字
+
+antique n. 古董，古玩
+
+circumstance n. 情勢，情況
+
+overlap v. 重疊，同時發生
+
+paycheck n. 付薪水的支票
+
+severance n. 隔離，分離
+
+inevitability n. 不可逃避，必然性
+
+reasoning n. 推理，推論
+
+lay off 解雇，停止使用
+
+predicament n. 困境，危境；處境
+
+negotiable adj. 可協商的，可通行的
+
+
+答對
+	Question 36.	
+ 
+ 
+When will the employees be let go?
+ (A) Later this month.
+ (B) On the first day of November.(正解)
+ (C) On November 15th.
+ (D) On September 15th.
+員工何時會被解雇？
+a. 這個月晚一點。
+b. 十一月的第一天。
+c. 十一月15日。
+d. 九月15日。
+ 
+答對
+	Question 37.	
+ 
+ 
+Do all employees have to attend the meeting in the conference room?
+ (A) Yes, they all must attend.
+ (B) Yes, but they don't have to stay for the entire duration.
+ (C) No, because they will have another discussion later.
+ (D) No, but it is recommended.(正解)
+全部的員工都必須去會議室開會嗎？
+a. 是，他們全都得參加。
+b. 是，但他們不必全程參與。
+c. 不必，因為他們之後會再討論。
+d. 不必，可是建議參加。
+ 
+答對
+	Question 38.	
+ 
+ 
+When did Mrs. Chen respond to the CEO?
+ (A) One day later.
+ (B) Four days later.
+ (C) There isn't enough information to know for sure.(正解)
+ (D) Over four days later.
+Chen女士是什麼時候回信給執行長的？
+a. 一天之後。
+b. 四天之後。
+c. 沒有足夠的資訊可以確定。
+d. 超過四天以後。
+ 
+答對
+	Question 39.	
+ 
+ 
+Why is Mrs. Chen concerned?
+ (A) Because she isn't sure that she can find another job.(正解)
+ (B) Because Mr. Schwarzenegger is an immoral person.
+ (C) Because she won't be able to attend the discussion on Tuesday.
+ (D) Because she doesn't have enough experience with PR.
+Chen女士為什麼覺得憂心？
+a. 因為她不確定自己可以找到別的工作。
+b. 因為Schwarzenegger先生是個沒有道德的人。
+c. 因為她沒辦法參加禮拜二的討論。
+d. 因為她沒有公關方面的充足經驗。
+
+ 
+答對
+	Question 40.	
+ 
+ 
+Why does she want the bonus and more severance pay?
+ (A) The extra funds will give her more time to locate a new job.(正解)
+ (B) Because she is the best employee of all.
+ (C) She wants to invest the money in another company.
+ (D) Because she doesn't want to work before she retires.
+她為什麼想要獎金跟更多的遣散費？
+a. 多一點的錢可以讓她有更多的時間找到新工作。
+b. 因為她是最優秀的員工。
+c. 她想把錢投資在另一家公司。
+d. 因為她退休前不想再工作。
+ 
+Questions 41 - 44 refer to the following article:
+
+
+
+Momma’s Magnificent Brownies
+
+
+The ingredients:
+
+
+
+.25 cup salted cashews
+
+
+
+2 cups sugar
+
+
+
+1.25 cups chocolate chips
+
+
+
+1.25 cups white chocolate chips
+
+
+
+3.5 cups white flour
+
+
+
+2 teaspoons salt
+
+
+
+1 teaspoon vanilla
+
+
+
+.5 cup smooth peanut butter
+
+
+
+.25 cup cream
+
+
+
+.25 cup whole milk*
+
+
+*If skim milk is used, use half a cup. But really, why would you want to do that?
+
+
+The steps:
+
+
+
+1. Take a 25cm baking pan and grease thoroughly. It looks inviting, right?!
+
+
+
+2. Combine the milk, cream, and peanut butter in a large bowl. Let it chill in the refrigerator for 15 minutes. This will be a long 15 minutes!
+
+
+
+3. Melt the chocolate chips down slightly in a pan or microwave. Oh yes!
+
+
+
+4. Add the sugar, white flour, and salt to the large bowl and blend thoroughly with the other ingredients for ten minutes. It’s coming together!
+
+
+
+5. Preheat oven to 375 degrees. Turn, turn, turn!
+
+
+
+6. Add the vanilla and chocolate chips, and blend it all a little more. But! The secret is not to blend the ingredients for more than one minute. Your tongue will notice the difference later!
+
+
+
+7. Pour the mixture into the baking pan. Get ready!
+
+
+
+8. Crunch up the cashews and sprinkle them onto the mixture. Magic fairy dust!
+
+
+
+9. Bake it at 375 degrees for about 30 minutes. Watch it if you want to!
+
+
+
+10. Remove it from the oven and let it sit for ten minutes. This will be a long ten minutes!
+
+
+
+11. Enjoy Momma’s Magnificent Brownies and eat them while they’re warm! You can also chill them and enjoy them cold.
+
+
+ 
+
+
+
+
+
+媽媽的美味布朗尼
+
+
+材料
+
+
+
+4分之1杯的鹽烤腰果
+
+
+
+2杯糖
+
+
+
+1又4分之1杯的巧克力片
+
+
+
+1又4分之1杯的白巧克力片
+
+
+
+3又2分之1杯的白麵粉
+
+
+
+2茶匙的鹽
+
+
+
+1茶匙的香草
+
+
+
+2分之1杯的花生醬
+
+
+
+4分之1杯的奶油
+
+
+
+4分之1杯的全脂牛奶*
+
+
+*如使用脫脂牛奶，請使用2分之1杯，但你確定真的要用脫脂牛奶嗎？
+
+
+步驟：
+
+
+
+1. 將油平均塗抹於25公分的烤盤上。這聽起來是不是很誘人呀？
+
+
+
+2. 將牛奶、奶油以及花生醬倒入大碗，並放置冰箱冷卻15分鐘。這將會是漫長的15分
+
+
+
+鐘！
+
+
+
+3. 小心地使用平底鍋或是微波爐將巧克力片融化。沒錯，就是這樣！
+
+
+
+4. 將糖、白麵粉以及鹽巴倒入步驟2的大碗裡並均勻攪拌10分鐘，直到它們融為一體。
+
+
+
+5. 將烤箱預熱至375度。轉啊轉、轉啊轉。
+
+
+
+6. 將香草及巧克力片加入步驟4。注意！秘訣就是攪拌不要超過1分鐘，等等你就　
+
+
+
+會嚐出不同了！
+
+
+
+7. 將混合好的材料全部倒進烤盤中。準備好囉！
+
+
+
+8. 將腰果攪粹並灑入混合物中，就好像魔法粉一樣！
+
+
+
+9. 於375度烤大約30分鐘。如果要的話你可以在旁盯著！
+
+
+
+10. 將它拿出烤箱靜置10分鐘。這將會是非常漫長的10分鐘！
+
+
+
+11. 趁熱好好享用媽媽的美味布朗尼！你也可以將它冰鎮後再享用。
+
+重要單字
+
+
+cashew n. 腰果
+
+combine v. 使結合，使聯合
+
+crunch v. 壓過
+
+mixture n. 混合物，(感情)混雜
+
+
+ 
+
+答錯
+	Question 41.	
+ 
+ 
+In step six, why does the author say not to blend the ingredients for more than one minute?
+ (A) The brownies will taste better.(正解)
+ (B) It's too early in the process to blend the ingredients together.
+ (C) It will ruin the final result.
+ (D) Because they have been blended for ten minutes.
+步驟6中，筆者為何提醒大家別將材料攪拌超過1分鐘呢？
+a. 布朗尼會更好吃
+b. 太早將材料攪拌在一起了
+c. 這將毀了成果
+d. 因為他們已經被攪拌10分鐘了
+ 
+答對
+	Question 42.	
+ 
+ 
+What amount of cream is needed in this recipe?
+ (A) The same amount as that of skim milk.
+ (B) One quarter of a cup.(正解)
+ (C) One and one fourth cups.
+ (D) None of the above.
+食譜中所需的奶油量為多少？
+a. 跟牛奶一樣多
+b. 4分之1杯
+c. 1又4分之1杯
+d. 以上皆非
+ 
+答對
+	Question 43.	
+ 
+ 
+At what point are the brownies ready to eat?
+ (A) Thirty minutes after baking.
+ (B) Twenty minutes after baking.
+ (C) Ten minutes after baking.(正解)
+ (D) After they have chilled.
+何時可以享用布朗尼呢？
+a. 烤完30分鐘後
+b. 烤完20分鐘後
+c. 烤完10分鐘後
+d. 等它冷卻後
+ 
+答對
+	Question 44.	
+ 
+ 
+What information is NOT provided in this recipe?
+ (A) The baking temperature.
+ (B) An alternative to whole milk.
+ (C) The amount of chocolate chips required.
+ (D) How many brownies the recipe makes.(正解)
+食譜中並未提及下列何選項 ?
+a. 烤箱溫度
+b. 代替全脂牛奶的另一個選擇
+c. 所需巧克力片的數量
+d. 布朗尼成品的數量
+ 
+Questions 45 - 47 refer to the following article:
+
+
+
+To: silverli_ings@hotmail.com
+
+
+
+From: ushipnow@usn.com
+
+
+
+Date: March 25, 2011
+
+
+
+Time: 2:44 p.m.
+
+
+
+Subject: Your package has been shipped
+
+
+Dear silverli_ings@hotmail.com,
+
+
+Please do not respond to this message. This message is to notify you that your product has been paid for and shipped. For questions about shipping please email Mr. White at whiteuship@usn.com.
+
+
+A tracking number for your parcel was requested. (1) _____________ Your tracking number is 09GJ88NS21. You will receive two further emails. One will come when your package arrives at the destination. (2) _____________ Your package will be sent to a post office near your address. The second email will delineate information about that post office. (3) _____________
+
+
+This is an international package. All international packages will be subject to international rates and additional charges. (4) _____________ For more information about this, please visit USN’s website.
+
+
+Sincerely,
+
+
+
+The USN Team
+
+
+ 
+
+
+
+
+
+收件者：silverli_ings@hotmail.com
+
+
+
+寄件者：ushipnow@usn.com
+
+
+
+日期：2011年3月25日
+
+
+
+時間：下午2點44分
+
+
+
+主題：您的包裹已寄出
+
+
+親愛的silverli_ings@hotmail.com：
+
+
+
+請勿回覆此信件。此訊息通知您的商品已付款並寄出。如有運送問題請聯絡白先生whiteuship@usn.com。
+
+
+您申請的商品追蹤碼為09GJ88NS21。之後您將會收到另外2封電子郵件，它們將分別於貨品抵達目的地時以及進行資料確認後會寄出。您的貨品將送到您的地址附近的郵局。我們將於下一封電子郵件中告知郵局資訊。
+
+
+這是一件國際包裹，所有國際包裹皆參照國際費率以及其它額外費用收費。如需更多資訊請參考USN網站。
+
+
+
+USN團隊敬上
+
+
+ 重點單字
+
+notify v. 通知，知會
+
+request v. 請求，要求
+
+destination n. 目的地，終點
+
+
+ 
+
+答對
+	Question 45.	
+ 
+ 
+Which email address belongs to the customer?
+ (A) whiteuship@usn.com.
+ (B) ushipnow@usn.com.
+ (C) It is not shown.
+ (D) silverli_ings@hotmail.com.(正解)
+下列哪個電子郵箱屬於客戶？
+a. whiteuship@usn.com.
+b. ushipnow@usn.com.
+c. 文章中並未無提供
+d. silverli_ings@hotmail.com.
+ 
+答錯
+	Question 46.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "Another will come when the information is processed."
+ (A) (1)
+ (B) (2) (正解)
+ (C) (3)
+ (D) (4)
+下面的句子最符合標示中的(1), (2), (3)或(4)的所在位置？
+「另一封會在資料確認後寄出。」
+a. (1)
+b. (2) 
+c. (3)
+d. (4)
+ 
+答對
+	Question 47.	
+ 
+ 
+What can we infer based on the email?
+ (A) The package has yet to be shipped.
+ (B) The recipient has already bought the product.(正解)
+ (C) The international shipping rate has recently changed.
+ (D) The recipient will not receive further emails.
+根據這封電子郵件我們可以推論下列何者選項？
+a. 包裹尚未送出
+b. 收件者已購買這件商品
+c. 國際運送費率近期有所調整
+d. 收件者將不會再收到任何電子郵件
+ 
+Questions 48 - 52 refer to the following article
+
+Mahalo Review
+
+Call for submissions, October edition
+
+Do you want to be published in our reputable magazine? Mail your submissions to us at 23 Brown Lane, Toronto, ON, and please note the following:
+
+1. Short stories can be up to 5000 words, and poems up to 500. There is no limit for how many of either you can submit.
+2. Submissions must be received no later than 9/15.
+3. Please include your name, phone number, and email with the hard copy of your submission. If we select one of your works for print, we will notify you and ask for an electronic version.
+4. The theme for the October edition is “outdoors.”
+-----------------------------------------------------------------
+
+Dear Mahalo Review Editing Staff,
+
+I would like you to consider my short story, From One Note to Another, and my selected poems, Only When the Wind Moves, and Circle Journey, for publication in your journal. My work is under consideration elsewhere, but no news has arrived that it has been published at this time. I know that you will not accept work that has already been published elsewhere.
+
+I have recently taken a superb fiction writing class. It has shown me some valuable characteristics of good writing, and I have grown a lot as a writer because of this experience. I like to let a scene play out in my mind and then write it down. Human experience runs so deep, and I think I’ve started to appreciate this.
+
+I’ve written poetry and short stories for a long time. I think sound is just as important as meaning, and I have a lot of fun playing with words.
+
+Home Address:
+
+8899 Juno Lane
+
+Hampton, ON 91761
+
+Canada
+
+School Address:
+
+DeMarco University
+
+2507 University Avenue
+
+Des Moines, MT 50311-4505
+
+Email:
+
+junkiewriter@gmail.com
+
+I appreciate your time.
+
+Sincerely,
+
+Kalani Kainoa
+
+-----------------------------------------------------------------
+
+To: junkiewriter@gmail.com
+
+From: editmahalo@mahaloreview.com
+
+Date: 09/15/2010 at 5:15 PM
+
+Subject: RE: Query Letter
+
+Dear writer,
+
+We at Mahalo Review are glad that you have taken the time to send us your pieces of writing. We are always looking to publish new and upcoming authors.
+
+We must regretfully inform you that your selections do not fit in with this issue of Mahalo Review. On the other hand, they are decent manuscripts, and we hope that you do not give up on publishing them.
+
+Please send us any of your writing in the future. We review all kinds of fiction and nonfiction documents once a month, excluding the month of December. We do not publish a new issue in January, so we will not accept manuscripts after November 15. Do not send us any documents after the 15th of November. On January 1st, we will accept documents again.
+
+Kind regards,
+
+Daya Holokai
+
+Editor at Mahalo Review
+
+ 
+
+
+
+馬哈羅評論報
+
+尋找十月刊號的文稿
+
+你想要在我們知名的雜誌上刊登文章嗎？將你的文稿傳到多倫多布朗巷23號，並且注意以下事項：
+
+1.短文章最多五千字，詩詞最多五百字。份數不限。
+2. 交件日期不得晚於9/15。
+3. 請加上你的名字、電話號碼及電子郵件、以及文稿封面。假如我們選擇你的其中一項作品，我們會通知你並要求一份電子版本。
+4. 十月刊的主題為「戶外活動」。 
+致馬哈羅評論報 編輯人員，
+
+我想請你們考慮一下把我的短篇故事「從一個音節到下一個」，還有我的精選詩「Only When the Wind Moves僅在風動時分」、「Circle Journey繞著圈圈打轉的旅程」發表在你們的期刊上。有別的地方正在考慮我的作品，但目前還沒它已經被刊出來的消息。我知道你們不會接受已經在別的地方發表過的作品。
+
+我最近在上一個超棒的小說寫作班。它讓我明白了好的作品所具備的一些寶貴特性，因為這個經驗讓我在寫作上成長很多。人類經驗之深，我喜歡先在腦海裡構築畫面，然後再把它寫下來。人生閱歷至為深澳，我覺得我已經開始體會到這點。
+
+我寫詩跟短篇小說已經有很長一段時間了。我認為聲音跟意義一樣重要，我在處理文字中得到許多樂趣。
+
+住家地址：
+
+瓊諾巷8899號
+
+漢普頓，安大略省 91761
+
+加拿大
+
+學校地址：
+
+
+狄馬可大學
+
+大學路2507號
+
+Des Moines, MT 50311-4505
+
+電子信箱：
+
+junkiewriter@gmail.com
+
+謝謝您的時間。
+
+誠摯的，
+
+Kalani Kainoa
+
+----------------------------------------------------------------------------
+
+收件人： junkiewriter@gmail.com
+
+寄件人： editmahalo@mahaloreview.com
+
+日期： 09/15/2010 下午5:15
+
+主旨：RE:詢問信
+
+作者敬啟 ：
+
+馬哈羅評論報 全體很高興您撥空將您的作品寄給我們。我們一直努力在發掘文壇新秀。
+
+我們必須很遺憾的通知您，您的選集並不符合 馬哈羅評論報這一期的需求 。在另一方面，那是內容 不錯的文 稿，我們希望您不要放棄發表這些作品。
+
+未來您有任何作品歡迎寄給我們。除了12 月以外，我們每個月會評審各種類型的小說與非小說稿件。一月我們不出版新一期的期刊，因此1 1 月15日以後我們不接受投稿。在那日期之後請勿寄任何文件給我們。1 月1 日我們會重新接受投稿。
+
+誠致的問候，
+
+Daya Holokai
+
+馬哈羅評論報 編輯
+
+重要單字
+publication n. 出版物，刊物
+appreciate v. 感激，欣賞
+selection n. 選擇
+manuscript n. 手寫稿，原稿
+decent adj. 體面的，還不錯的
+
+答對
+	Question 48.	
+ 
+ 
+Why does the writer contact the editing staff?
+ (A) Because he doesn't want to be published in their journal yet.
+ (B) Because he wants to be published in their journal.(正解)
+ (C) Because he wants help finding an alternative journal to be published in.
+ (D) Because he wants to tell them that he has already been published.
+編輯人員為什麼要與這名作家連絡？
+a. 因為他還不想在他們的期刊上發表作品。
+b. 因為他想要自己的作品被他們的期刊發表。
+c. 因為他需要人幫忙找到別的期刊發表作品。
+d. 因為他想告訴他們他的作品已經被發表了。
+ 
+答對
+	Question 49.	
+ 
+ 
+What does the writer tell the editing staff in order to substantiate his writing ability?
+ (A) That he has been published several times.
+ (B) That he completely understands human experience.
+ (C) That he has recently taken an excellent writing class.(正解)
+ (D) That he writes every day.
+這位作家告跟編輯人員說了什麼來證明他的寫作能力？
+a. 他的作品已經發表好幾次。
+b. 他透徹生閱歷。
+c. 他最近上了一個相當棒的寫作課程。
+d. 他每天寫作。
+ 
+答錯
+	Question 50.	
+ 
+ 
+According to the call for submissions, which guideline was not followed by the writer, causing his submission to be rejected?
+ (A) 1
+ (B) 2
+ (C) 3
+ (D) 4(正解)
+根據誠徵作品的要求中，作者沒有依照以下何項要求呈交稿件，而導致他的作品被退？
+A. 1
+B. 2
+C. 3
+D. 4
+
+ 
+答錯
+	Question 51.	
+ 
+ 
+If the date is November 16th, how long must a writer wait before submitting work to the journal?
+ (A) About half a month.
+ (B) About a month and a half.(正解)
+ (C) Until after the first day of January.
+ (D) Until November 15th of next year.
+如果日期是十一月16日，作家要等多久才能向這家期刊投稿？
+a. 大約半個月。
+b. 大約一個半月。
+c. 一直到一月一日以後。
+d. 一直到明年十一月15日。
+ 
+答對
+	Question 52.	
+ 
+ 
+Which of the following does the editor tell the writer?
+ (A) To stop trying to publish his written work.
+ (B) To write more pieces that fit in with their current issue.
+ (C) To send his manuscripts in the future.(正解)
+ (D) To help them find more good writers.
+下列選項何者為編輯跟作者所說的話？
+a. 不要繼續嘗試發表他的作品。
+b. 寫更多符合他們這一期期刊需要的作品。
+c. 未來繼續投稿。
+d. 幫他們找到更多好的作家。
+ 
+Questions 53 - 54 refer to the following article:
+
+
+
+FREE T-SHIRT WITH PURCHASE
+
+
+Act fast! To get your free t-shirt, simply purchase a one year subscription to Fitness for Men now. The first 100 customers will also be eligible for a 25% discount on their subscription! Follow the three easy steps:
+
+
+1. Buy a copy of Fitness for Men.
+
+
+
+2. Find and fill out the application card in the back of the magazine.
+
+
+
+3. Mail the card, along with US $19.95*, to the address shown on the card.
+
+
+
+*This is the subscription fee. Please note that this is a limited time offer. Application cards can be received no later than December 25th, 2002.
+
+
+
+
+
+訂雜誌就送免費T恤
+
+
+
+
+
+
+
+動作快！ 現在只要訂閱一年份的健康男人雜誌就送一件免費T恤。前100名訂閱的讀者更享有75折的優惠！
+
+
+
+
+
+
+
+三個簡單的步驟如下：
+
+
+
+1. 購買一本健康男人雜誌
+
+
+
+2. 找到位於雜誌尾頁的申請表格，並完成填寫
+
+
+
+3. 將填好後的表格連同美金19.95元寄到表格上的地址
+
+
+
+
+
+
+
+*美金19.95元為訂閱雜誌之手續費。
+
+
+
+  此活動為限期優惠，收件截止日期為2002年12月25日。
+
+
+重要單字
+
+subscription n. 訂閱，署名
+
+eligible adj. 有資格當選的，法律上合格的
+
+application n. 應用，適用，申請，申請書
+
+
+ 
+
+答錯
+	Question 53.	
+ 
+ 
+What is the price of the T-shirt?
+ (A) 100 dollars.
+ (B) US $19.95.
+ (C) It is free if you buy a subscription.(正解)
+ (D) Twenty-five dollars.
+T恤的價錢為何？
+a. 美金100元
+b. 美金19.95元
+c. 訂閱雜誌即可免費獲得
+d. 25元
+ 
+答對
+	Question 54.	
+ 
+ 
+When must the application cards be received by?
+ (A) On or after December 25th, 2002.
+ (B) Within 100 days.
+ (C) On or before December 25th, 2002.(正解)
+ (D) The date isn't provided.
+申請表格之收件截止日期為何？
+a. 2002年12月25日後
+b. 100天內
+c. 2002年12月25日前
+d. 文章並無提供日期
+ 
+只顯示答錯  回上一頁
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 - 2 refer to the following article:
+
+
+
+Shoals Vista Bistro
+
+
+
+Home of Alabama’s Best and Brightest Chef
+
+
+Dear valued customers, we are proud to announce that our head chef, Mario Turnstall, will be releasing his highly anticipated recipe book, Marinated Blues, on Saturday, October 17th. To promote the book’s release, Shoals Vista Bistro will be having an outdoor barbeque in Wilson Park from 10 am to 3 pm. Tickets cost $15 and can be purchased at the restaurant. Food and drinks are included in the ticket price, as well as an autographed copy of Chef Mario Turnstall’s cookbook, Marinated Blues. Come on out and have a ball!
+
+
+
+Call now to reserve tickets at 256-534-4421
+
+
+
+威士達餐館
+
+
+
+
+
+
+
+阿拉巴馬最棒、最有才華的主廚之家
+
+
+
+
+
+
+
+親愛的貴賓，我們非常榮幸向大家宣布，我們主廚Mario Turnstall將於10月17日星期六推出眾所期待的食譜書，醬汁爵士樂。威士達餐館將於同日上午10點至下午3點在威爾森公園舉辦戶外烤肉活動來宣傳此書。入場門票可於餐廳購買，一張美金15元，門票包含飲料、餐點以及一本主廚Mario Turnstall親筆簽名的食譜書醬汁爵士樂。
+
+
+
+快來與我們一同慶祝吧！
+
+
+
+
+
+
+
+來電預約門票256-534-4421
+
+重要單字
+
+announce v. 宣告，宣稱
+
+anticipate v. 預期
+
+purchase v. 購買，申購
+
+
+ 
+
+答對
+	Question 1.	
+ 
+ 
+What would be the best subheading for this notice?
+ (A) How to Purchase Your Ticket for the Book Release Party. (正解)
+ (B) Shoals Vista Bistro: Menu Prices.
+ (C) How to Cook Southern Barbecue.
+ (D) Critical Review of Shoals Vista Bistro.
+下列選項何者是最適合的副標題？
+a. 新書發表會門票購買方式。
+b. 威士達餐館：菜單與價錢。
+c. 如何烹煮南方烤肉。
+d. 威士達餐館評論。
+ 
+答對
+	Question 2.	
+ 
+ 
+What is included in the ticket price?
+ (A) Tickets cost $15.
+ (B) Tickets can be purchased at the restaurant.
+ (C) Food and drinks, as well as an autographed cookbook.(正解)
+ (D) Each ticket holder will receive a new set of cookware.
+下列選項何者包含在入場門票內？
+a. 一張門票美金15元。
+b. 門票可於餐廳購買。
+c. 飲料、餐點以及一本主廚親筆簽名的食譜書。 
+d. 凡購買門票即可獲得一組廚房用具。
+ 
+Questions 3 - 7 refer to the following article:
+
+
+
+Seeking alternative psychological help
+
+
+
+By: jimmy_d_2 Apr 21, 2012
+
+
+About six months ago I started to feel very depressed after my wife left me and ran away with another man. I immediately sought the help of my doctor, who prescribed me 50mg of Sertraline (a pill to treat depression), per day. My name was also put on a waiting list to receive psychological help from a professional. I have been meeting with a psychologist for two hours every week for over four months now.
+
+
+I have experienced no major side effects from my medication, and my psychologist and I get on well during our meetings, but the emotional pain I experience on a daily basis is still as severe as it was six months ago. Even if I come out of a session with my psychologist feeling like we made some positive progress, I often very quickly start to feel horribly depressed again. I don’t know what to do. I still haven’t returned to work yet, which is a problem because while my boss is sympathetic, I know he won’t hold my position for me forever.
+
+
+
+If anyone out there knows of any alternative treatments for depression which I haven’t tried yet, please write to me on this forum. I’m open to all suggestions.
+
+-------------------------------------------------------------------------------------
+
+
+5 comments
+
+
+doctor_everyman Apr 22, 2012
+
+
+I have been working as a psychologist for over eight years and I have treated numerous cases such as yours. Let me start by offering you my most sincere sympathies for your hardship.
+
+
+The problem with cases such as yours is that your depression does not lie in your imagination. It is born out of a very real, very painful event. Therefore you have to allow time for the pain to pass. In the meantime it sounds like you are doing all the right things.
+
+
+Firstly, regarding your medication: Sertraline is a drug which I am very familiar with, so I would advise you to keep taking it. It will help you to keep functioning on a day-to-day basis.
+
+
+Secondly, keep up your appointments with your psychologist. Even if they only offer you very momentary relief from your pain, it is vital that you allow yourself an arena in which you can regularly express your pain to someone who will listen and who is trained to help.
+
+
+Again, you’re doing all the right things, but unfortunately there are no easy answers here. Ultimately you need time to come to terms with what has happened to you.
+
+
+ 
+
+
+
+
+尋求其他方的心理協助方法
+
+
+
+作者：jimmy_d_2 四月21日，2012年
+
+
+大約六個月前，我太太離開我跟另一個男人私奔了之後，我開始覺得非常的沮喪。我立刻向我的醫生尋求協助，他開給我50毫克的Sertraline (一種治療憂鬱症的藥)，每天服用一次。我的名字還被放上了需要專業人員的心理協助的等待名單。我每個禮拜花兩個小時看心理醫師，到現在已經超過四個月了。
+
+
+我的藥物並沒有讓我感覺到太大的副作用，而且我的心理醫師和我在面談過程中相處融洽，可是我日復一日的感情傷痛還是跟六個月前一樣的強烈。即便是我完成了一個我的心理醫師覺得我們有滿正面的進展的療程，我還是常常很快又開始覺得非常沮喪。我不知該如何是好。我還是沒辦法回去工作，而這是個問題，因為就算我的老闆很同情，我知道他也沒辦法一直保留著我的職缺。
+
+
+
+如果有任何人知道有什麼我還沒嘗試過的其他憂鬱症治療方法，請在這個討論版留言給我。我很樂意接受各種的建議。
+
+
+----------------------------------------------------------------------------
+
+
+5則留言
+
+
+doctor_everyman 四月22日，2012年
+
+
+我當心理醫師已經超過八年，治療過無數像你這樣的案例。我先為你的苦楚向你致上我最真誠的同情。
+
+
+像你這樣的案例問題是出在你的憂鬱症並非來自你的想象。它是產自非常真實、痛苦的事件。因此你必須用時間來撫平傷痛。現在這聽起來你正在做的似乎都是正確的。
+
+
+首先，關於你吃的藥：Sertraline是我非常熟悉的ㄧ種藥物，因此我會建議你繼續服用。它可以幫助你維持正常的日常生活。
+
+
+其次，繼續和你的心理醫師見面。就算他們只能非常短暫的紓解你的傷痛，但是讓你自己有一個場所可以經常向願意傾聽又受過援助訓練的人述說你的痛楚是極為重要的。
+
+
+
+再次強調，你在做的都是正確的，但遺憾的是這個問題沒有簡單的解決方法。基本上你需要時間來接受發生在你身上的事情。
+
+
+重要單字
+
+prescribe v. 開(藥方)
+
+psychologist n. 心理學家
+
+medication n. 藥物治療
+
+basis n. 基礎
+
+sympathetic adj. 有同情心的
+
+alternative adj. 替代的，供選擇的
+
+numerous adj. 許多的
+
+sympathies n. 同情心，同情
+
+regarding prep. 關於
+
+momentary adj. 短暫的，瞬間的
+
+arena n. (周圍有觀眾席的)競技場
+
+ultimately adv. 最終地，終極地
+
+
+ 
+
+
+ 
+
+答對
+	Question 3.	
+ 
+ 
+How did the patient's medication make him feel?
+ (A) It made him forget about his pain.
+ (B) It made him drowsy on a regular basis.
+ (C) It made him forget about his wife.
+ (D) It didn't make him feel any different.(正解)
+這位患者的藥讓他覺得如何？
+a. 使他忘記他的痛苦。
+b. 讓他每天昏昏欲睡。
+c. 讓他忘掉他的太太。
+d. 並未讓他覺得有任何不同。
+ 
+答對
+	Question 4.	
+ 
+ 
+What is the patient's current job status?
+ (A) He is going to work every day.
+ (B) He still has a job.(正解)
+ (C) He lost his job six months ago.
+ (D) He wants to quit his job.
+這位患者目前的工作狀態是如何？
+a. 他每天去上班。
+b. 他的工作還在。
+c. 他六個月前丟了工作。
+d. 他想辭職。
+ 
+答對
+	Question 5.	
+ 
+ 
+What kind of website is this?
+ (A) A search engine.
+ (B) A doctor's personal website.
+ (C) A forum for divorced men.
+ (D) A medical help forum.(正解)
+這是什麼樣的網站？
+a. 搜尋引擎。
+b. 一個醫生的個人網站。
+c. 離婚男子的討論區。
+d. 醫療援助的討論區。
+ 
+答對
+	Question 6.	
+ 
+ 
+What does the doctor advise the patient to do?
+ (A) Find a new wife quickly.
+ (B) Continue with his medical treatment.(正解)
+ (C) Stop taking his medication.
+ (D) Find a new doctor.
+這位醫生建議該患者做什麼事？
+a. 趕快找個新太太。
+b. 繼續接受治療。
+c. 停止服用他的藥。
+d. 找新的醫生。
+ 
+答對
+	Question 7.	
+ 
+ 
+How do we know that the patient can trust this doctor?
+ (A) The doctor has a lot of experience treating similar patients.(正解)
+ (B) The doctor himself has taken the same medication before.
+ (C) The doctor's wife recently left him.
+ (D) The doctor has treated this patient before.
+我們如何知道該患者可以信任這位醫生？
+a. 該醫生有很豐富的治療類似患者的經驗。
+b. 該醫生以前服用過相同的藥。
+c. 該醫生的太太最近離開了他。
+d. 該醫生以前治療過這名患者。
+ 
+Questions 8 - 12 refer to the following article:
+
+www.linkedin.com/ Natalia-Demir/privatemessages.html
+
+LinkedIn Messages
+
++New Message
+
+Cute Dots Clothing
+
+Dear Cute Dots Clothing,
+
+I’m trying to order some baby clothing from your website, but it doesn’t seem to be working right now. I completed all the order info and entered my credit card information, but the screen kept freezing at that point. Can I just send you my order directly on here? The details are as follows:
+
+1 x item #5562 (boy’s monster truck tee size S)
+1 x item #8544 (boy’s dino tank top size S)
+1 x item #1430 (girl’s ballerina outfit color burgundy size M)
+
+Total cost (including taxes and shipping):€45.64
+
+Please charge this order to my visa card:
+
+card number: 4520 0220 9829 0001
+exp: 03/2019
+security code: 456
+
+Shipping address:
+Natalia Demir
+Ebusuud Street 183 Sirkeci, Eminonu Fatih, Istanbul 34210, Turkey
+
+If there’s anything else you need from me, please let me know.
+
+Kind regards,
+
+Natalia Demir
+--------------------------------------------------
+
+
+To: Natalia Demir (natcandygirl@gmail.com)
+From: LinkedIn Legal (no-reply@linkein.com)
+Subject: Critical Information about Your LinkedIn Account
+Sent: Dec. 1, 2004 at 09:31 AM
+
+Dear LinkedIn account user,
+
+This is an official notice pertaining to a recent data breach on LinkeIn’s back end servers. The breach occurred on November 27, 2004. Only a small number of LinkedIn accounts have been hacked, so yours may not have been, but it is still necessary for all our users to be aware of the possibility.
+
+WHAT HAPPENED?
+
+We have recently become aware that data was stolen from our back end server and made available in an Internet forum for hackers on November 27, 2004. The stolen data includes personal email addresses, usernames, and passwords.
+
+WHAT ARE WE DOING TO FIX IT?
+
+We believe that the persons responsible for the data breach were located in Belgium, but we have yet to confirm this. We are currently working with local authorities to resolve the matter. We have also invalidated all passwords to accounts that have been affected. Therefore, if you find that you are unable to log in to your account, it means that your account may have been jeopardized.
+
+WHAT CAN YOU DO FOR NOW?
+
+We recommend that if your password for LinkedIn is the same as the one for any other online accounts, you should change them all at once. If hackers have obtained your password, they may attempt to access your other online accounts for the purpose of fraud or identity theft.
+
+FOR MORE INFORMATION
+
+For further information, contact our Data Security and Protection Team at security@LinkedIn.com.
+
+Do not reply to this email.
+--------------------------------------------------
+
+To: reportfalsecharges@visa.com
+From: Natalia Demir (natcandygirl@gmail.com)
+Subject: Proof that my account was jeopardized
+Sent: Dec. 1, 2004 at 01:22 PM
+
+Dear Sir or Madam,
+
+This morning I received a warning about a data breach from LinkedIn.com, as attached. In the message, it was indicated that any person who is unable to log in to his or her account may have had data stolen. Indeed, when I tried to log in to my account, I was unable to do so.
+
+Recalling that I had recently shared my credit card details with another LinkedIn user in a private message, I called the visa hotline at once, and you guys cancelled my card. However, upon inspection of my account purchase history online, I have found that the hackers seem to have already used my card to make approximately $14,000 in purchases in the last two days. I am certain those aren’t my purchases because I haven’t even used my card in the last week, and I would certainly be aware if I spent $14,000!
+
+I called in again, and the agent asked me to send in any evidence I have to support my case, which is what I am doing right now.
+
+What is the next step? Should I call you guys again, or will you contact me with an update of the situation?
+
+Thanks for your kind assistance.
+
+Natalia Demir
+ 
+
+
+
+www.linkedin.com/ Natalia-Demir / privatemessages.html
+
+LinkedIn訊息
+
++新郵件
+
+可愛點點服飾
+
+Cute Tots Clothing您好，
+
+我試圖從您們的網站訂購一些嬰兒服裝，但網站現在似乎壞了。我輸入了所有的訂單資料以及信用卡資料，但螢幕在那個時候凍結了。我可以直接給你我的訂單資料嗎？詳情如下：
+
+1件＃5562（男童怪物卡車尺寸S）
+1件＃8544（男童恐龍坦克上衣尺寸S）
+1件＃1430（女童芭蕾舞服裝，顏色酒紅尺寸M）
+
+總價（含稅和運費）：€45.64
+
+此訂單請直接由我的Visa卡支付：
+
+卡號：4520022098290001
+到期日：03/2019
+安全碼：456
+
+郵寄地址：
+Natalia Demir
+34210土耳其伊斯坦堡，Eminonu Fatih，Sirkeci區， Ebusuud街183號
+
+如果有其他需要我補充的，請讓我知道。
+
+衷心的感謝，
+
+Natalia Demir
+
+
+
+收件人：Natalia Demir（natcandygirl@gmail.com）
+寄件人：LinkedIn法律團隊（no-reply@linkein.com）
+主旨：關於您LinkedIn帳戶的重要信息
+寄件時間：2004年12月1日，在上午09時31分
+親愛的LinkedIn用戶，
+
+這是有關LinkeIn後端伺服器最近資料被盜用的官方通知。盜用事件於2004年11月27日發生，只有少數的LinkedIn帳戶被入侵，所以您的可能沒有被盜用，但我們所有的用戶還是有必要注意被盜用的可能性。
+
+
+發生了什麼事？
+
+最近，我們意識到數據在2004年11月27日從我們後端的伺服器被盜，然後提供給網絡論壇上的駭客，資料包括個人電子郵件地址，用戶名和密碼。
+
+我們目前的處理方法是？
+
+我們認為該盜用數據的首腦在比利時，但我們還沒有證實這一點。目前我們正與地方當局合作解決此事。所有受影響的帳戶密碼將失效。因此，如果您發現帳戶無法登錄，那就表示您的帳戶可能已被盜用。
+
+您現在可以做什麼？
+
+我們建議，如果您LinkedIn的密碼和其他線上帳戶的密碼一樣，您現在應該應立即更換那些密碼。如果駭客已獲得您的密碼，他們可能會嘗試登入您的其他線上帳戶，進行欺詐或身份盜竊。
+
+更多資訊
+
+欲了解更多資訊，請聯繫我們的數據安全和專利保護團隊security@LinkedIn.com。
+
+請不要回覆此郵件。
+
+收件人：reportfalsecharges@visa.com
+寄件者：Natalia Demir（natcandygirl@gmail.com）
+主旨：我的帳戶已被盜用的證明
+寄件時間：2004年12月1日下午1點22
+
+親愛的女士先生，
+
+今天早上我收到一封有關LinkedIn.com資料洩露的警告，如附件。在郵件中指出，若無法登錄帳戶可能是資料被盜。果然，我試圖登錄我的帳戶時，即無法登入。
+
+我想到我最近將我的信用卡資料，以私人訊息提供給另一個LinkedIn的用戶。我已立刻打電話給信用卡公司服務專線，你們也取消了我的卡片。但是，在我線上檢查帳戶的購買歷史記錄時，發現駭客似乎已經盜用了我的卡，在過去兩天購買約$14,000 。我很確定這些都不是我買的，因為我這週還沒有用過我的卡，而且我若花了$14,000，我肯定會知道！
+
+我立即撥打電話，接線人員要我寄可以支持我說法的任何佐證資料，這就是我現在正在處理的事。
+
+下一個步驟是什麼？我需要再撥電話給你們嗎？還是您們會跟我聯繫提供最新狀況？
+
+感謝您的熱心協助。
+
+ Natalia Demir
+重要單字
+screen n. 螢幕
+ballerina n. 芭蕾女演員
+hack v. 駭客
+authority n. 官方，當局，權威人士
+invalidate v. 使無效
+jeopardize v. 使瀕臨危險境地，冒...風險
+breach n. (對法律)破壞，違反；(對權利)侵害
+obtain v. 取得，獲得
+identity n. 身分
+theft n. 偷竊
+access v. 進入
+indicate v. 指名，指出
+approximately adv. 大約地
+
+ 
+
+ 
+
+答對
+	Question 8.	
+ 
+ 
+Why did Natalia Demir send her personal information, including name, address, and credit card number in a private message on LinkedIn?
+ (A) She wanted to confirm an order for baby clothing that she had just made online.
+ (B) When she tried to order some baby clothes online, the website suggested that she send in the order by email.
+ (C) The website order form wasn't functioning properly so she decided to send in her order by PM. (正解)
+ (D) She wanted to make some minor changes to her order so she thought the best course of action was to message the baby clothing company directly.
+為什麼Natalia Demir在LinkedIn私人信息中寄出她的個人資料，包括姓名、地址、和信用卡號？
+A. 她想確認她剛在網上訂購的嬰兒服裝訂單。
+B. 她試著在網上訂購嬰兒服裝時，網站建議她通過電子郵件寄發訂單。
+C. 該網站的訂單表格不能正常運作，所以她決定用私人訊息寄出她的訂單。
+D. 她想要針對訂單做細微的調整，所以她覺得最好的辦法是直接傳訊息給那家童裝公司。
+ 
+答對
+	Question 9.	
+ 
+ 
+At first, how did Ms. Demir know that her account had probably been hacked?
+ (A) This was said directly in the email from no-reply@linkein.com.
+ (B) When she logged into her LinkedIn account, something was missing.
+ (C) She received a phone call from the LinkedIn legal team.
+ (D) She was unable to log in with her password. (正解)
+一開始時，Demir女士怎麼知道她的帳戶可能已經被駭客侵入？
+A. 來自no-reply@linkein.com寄來的電子郵件上闡明此問題。
+B. 當她登入到她的LinkedIn帳戶上，有資訊消失了。
+C. 她收到來自LinkedIn法律團隊打來的電話。
+D. 她無法用她的密碼登入網站。
+ 
+答對
+	Question 10.	
+ 
+ 
+What was her immediate course of action?
+ (A) She called visa to cancel her credit card. (正解)
+ (B) She closed down her LinkedIn account.
+ (C) She sent an email to LinkedIn.
+ (D) She tried to figure out who had hacked her account.
+她立即採取了什麼行動？
+A.她打電話取消她的信用卡。
+B.她關閉了她的LinkedIn帳戶。
+C.她寄發電子郵件給LinkedIn。
+D.她試圖找出誰駭入她的帳戶。
+ 
+答對
+	Question 11.	
+ 
+ 
+What was her second finding that made it more certain her account had been hacked?
+ (A) There were no more funds remaining in her bank account.
+ (B) She received a strange message from the hackers.
+ (C) Her credit card didn't work anymore.
+ (D) There were mysterious charges on her account transaction record. (正解)
+以下選項何者是她更加肯定帳戶遭到駭客攻擊的第二個發現？
+A.她的銀行帳戶沒有剩下任何錢。
+B.她接到一封駭客寄來的奇怪訊息。
+C.她的信用卡不能用了。
+D.她的帳戶有莫明的交易記錄。
+ 
+答對
+	Question 12.	
+ 
+ 
+What is the main purpose of the Ms. Demir's email to reportfalsecharges@visa.com?
+ (A) To provide a copy of the fraud alert from LinkedIn. (正解)
+ (B) To inform Visa that her account had been hacked.
+ (C) To ask Visa to cancel her credit card.
+ (D) To ask for all recent charges to be reversed.
+以下何者是Demir女士寄給reportfalsecharges@visa.com的主要目的？
+A. 提供LinkedIn發出的詐欺警告的副本。
+B. 告知信用卡公司，她的帳戶遭到駭客攻擊。
+C. 要求信用卡公司取消她的信用卡。
+D. 要求註銷所有近期的帳單費用。
+ 
+Questions 13 - 15 refer to the following article:
+
+
+
+To: CanyonMaster@gmail.com
+
+From: Smurf90210@hotmail.com
+
+Sent: June 14, 2013, 11:23
+
+Subject: Reservations
+
+
+
+Dear Mr. Capello,
+
+
+My name is Alexandra Roach and I was wondering if you have any vacancies at your lodge on the weekend of June 27-29. If that weekend is not available, we could come on July 4-6 or July 11-13, but the former is preferable. I noticed on your website that you have a slightly larger, separate cabin that could sleep up to ten people. Is that available for those dates? (1)___________ I will be traveling with quite a large group of friends -ten in total including myself- and it would be preferable if we could all stay in the room for the duration of the trip. If the cabin were to be available, what would the price be per person? (2)___________ Also, is there a bathroom in the cabin? (3)___________ I also noticed on your website that you could help us procure back-country hiking permits as well. (4)___________ My friends and I are particularly keen on doing the Bear River trail, but if you had any other suggestions, we would gladly be open to consideration. That’s all for now; I look forward to your response. Thank you for your time.
+
+
+Thanks,
+
+
+Alexandra
+
+
+
+收件者： CanyonMaster@gmail.com
+
+
+
+寄件者：Smurf90210@hotmail.com    
+
+
+
+寄送時間：2013年6月14日 上午11點23分
+
+
+
+主題：訂房預約
+
+
+
+親愛的卡皮歐先生您好：
+
+
+我叫Alexandra Roach。我想請問6月27至29日的週末期間飯店是否仍有空房？如果沒有的話，我們能將行程延至7月4至6日或是7月11至13日，不過希望前者的時間為佳。從貴網站得知飯店裡有空間較大、可容納10人的獨立小木屋，請問此房間在上述的日期裡是否有空位？我會和一大群朋友，包含自己一共10人一起旅行，我們希望旅行期間大家都能入宿同一間房間。假設上面提到的大房間有空位的話，請問每個人的平均費用為何呢？另外，想請問房間內是否有獨立衛浴，還是我們需要到旅館主棟共用衛浴設備呢？我也看見貴旅館可協助我們申辦鄉間健行許可證。我和一些朋友特別想到熊谷河步道走走，若您有其他建議，歡迎提供我們參考。目前問題如上，靜待您的回覆，感謝您的閱讀。
+
+
+感謝
+
+
+
+Alexandra
+
+
+重要單字
+
+vacancy n. 空房，空白，空缺
+
+lodge n. 小屋，旅舍
+
+preferable adj. 更好的，更合意的
+
+procure v. (努力)取得，獲得
+
+permit n. 許可，允許
+
+consideration n. 考慮，體貼
+
+
+答對
+	Question 13.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? 
+"Or would we have to use the one in the main lodge?"
+ (A) (1)
+ (B) (2)
+ (C) (3)(正解)
+ (D) (4)
+以下的句子放入標示中的(1), (2), (3)或(4)的所在位置最為恰當？
+「還是我們需要使用主棟的衛浴設備呢？」
+a. (1)
+b. (2) 
+c. (3)
+d. (4)
+ 
+答對
+	Question 14.	
+ 
+ 
+When does the writer of this email prefer to stay at the lodge?
+ (A) June 27-29.(正解)
+ (B) June 14-16.
+ (C) July 4-6.
+ (D) July 11-13.
+寄件人較希望於下列何時入宿旅社？ 
+a. 6月27至29日
+b. 6月 14至16日
+c. 7月 4至6日
+d. 7月 11至13日
+ 
+答對
+	Question 15.	
+ 
+ 
+What is NOT true according to the email?
+ (A) The writer and his friends want to do the Bear River trail.
+ (B) The person writing the email is named Alexandra Roach.
+ (C) There are eleven people traveling in the group.(正解)
+ (D) The group prefers to stay in the same room for the duration of the trip.
+下列選項何者與上述內容不符？
+a. 筆者和其友人希望前往熊河谷步道 
+b. 寄信者姓名為Alexandra Roach
+c. 旅行人數一共11人
+d. 寄信者及友人希望旅行期間能一同入宿同一間房間
+ 
+Questions 16 - 17 refer to the following article:
+
+Sudden Valley Palace Hotel
+Room Service Order Form
+
+Room No.____337__________
+Name___Jane and Tom Branson_____
+
+Menu Items
+
+Item
+
+Price
+
+Qty.
+
+Item
+
+Price
+
+Qty
+
+Peanuts
+
+$1.00
+
+ 
+
+Candy Bar
+
+$1.50
+
+ 
+
+French Fries
+
+$2.50
+
+2
+
+Ice Cream Sundae
+
+$3.50
+
+1
+
+Garden Salad
+
+$3.50
+
+2
+
+Ice Cream Sandwich
+
+$2.50
+
+ 
+
+Chicken Sandwich
+
+$5.50
+
+2
+
+Cheesecake
+
+$4.00
+
+1
+
+Club Sandwich
+
+$6.50
+
+ 
+
+Soda
+
+$1.00
+
+2
+
+Hot Dog
+
+$4.50
+
+ 
+
+Bottled Water
+
+$1.00
+
+1
+
+Pizza
+
+$7.00
+
+ 
+
+Tea
+
+$1.25
+
+ 
+
+Cheeseburger
+
+$6.50
+
+2
+
+Coffee
+
+$1.25
+
+1
+
+
+
+沙登谷皇家飯店
+
+客房服務點購單
+
+房間號碼____337__________
+
+姓名___Jane / Tom Branson_____
+
+餐點選項
+
+ 
+
+選項
+價錢
+數量
+選項
+價錢
+數量
+
+ 
+
+花生
+$1.00
+ 
+棒棒糖
+$1.50
+ 
+
+ 
+
+薯條
+$2.50
+2
+冰淇淋聖代
+$3.50
+1
+
+ 
+
+田園沙拉
+$3.50
+2
+冰淇淋夾心
+$2.50
+ 
+
+ 
+
+雞肉三明治
+$5.50
+2
+起司蛋糕
+$4.00
+1
+
+ 
+
+總匯三明治
+$6.50
+ 
+汽水
+$1.00
+2
+
+ 
+
+熱狗
+$4.50
+ 
+瓶裝水
+$1.00
+1
+
+ 
+
+比薩
+$7.00
+ 
+茶
+$1.25
+ 
+
+ 
+
+起司漢堡
+$6.50
+2
+咖啡
+$1.25
+1
+
+ 
+
+ 
+
+答對
+	Question 16.	
+ 
+ 
+Which of the following is NOT true about the chart above?
+ (A) The customers filling in the order are staying in room 337.
+ (B) The customers ordered two chicken sandwiches.
+ (C) This is a menu for customers who wish to dine in a restaurant.(正解)
+ (D) Jane and Tom Branson are the names of the customers.
+下列何者選項與文章內容不符？
+a. 填寫此點購單的客人入宿於337房
+b. 客人點購兩份雞肉三明治
+c. 欲前往餐廳用餐之客人需填寫此點購單
+d. 客人姓名為 Jane Branson和 Tom Branson
+ 
+答對
+	Question 17.	
+ 
+ 
+What can we infer about the customer who ordered room service?
+ (A) Jane Branson will be eating alone tonight.
+ (B) Jane Branson will be eating with Tom Branson.(正解)
+ (C) The hotel staff is very rude.
+ (D) Sudden Valley Palace Hotel has a five-star rating.
+從此點購單我們可以推論下列何者選項？ 
+a. Jane Branson將獨自享用餐點
+b. Jane Branson 將與 Tom Branson一起享用餐點
+c. 飯店人員非常失禮 
+d. 沙登谷皇家飯店為一五星級飯店
+ 
+Questions 18 - 22 refer to the following website notice, wanted notice, and e-mail
+
+www.wanted-ads.com
+
+Pets and Animals Section Rules
+
+1. The age and breed (if known) and general health condition of the animal must be described.
+2. Please indicate your reason for wanting to find an adopter for your pet.
+3. Please list special food needs.
+4. Include contact info in the form of telephone numbers only. Our site has been plagued with spammers recently, so this is for your own protection.
+
+-------------------------------------------------------------------
+
+Wanted: A good home for a great dog!
+
+Name: Rover Hendrix
+
+Age: 7 (in human years)
+
+Breed: Beagle
+
+Colour: Mostly white, with black and brown patches.
+
+Rover Hendrix has been part of our family since he was just six weeks old. He is a wonderful, loyal dog and also a great friend. Unfortunately, he will not be able to remain in our family for much longer. My husband's company is relocating him to Japan, so we will be moving there in September. We're very excited and it's a fantastic professional opportunity for Joe. We looked into the logistics of taking our dog with us, and with all things considered we've decided it just isn't viable. We'll be very sad to leave our beautiful Rover Hendrix. We feel that the best we can do for him is to find him a nice new home.
+
+Rover Hendrix is in excellent health and has no special dietary needs. He is well-trained and well-groomed. He enjoys ball games and walks in the countryside. If you are interested in blessing your home by adopting this wonderful dog then we would very much like to meet you. Please call Joseph Tillman on 07582674925 or Andrea Geoffrey on 07817532476 or email us at jpt52@gmail.com to arrange a meeting.
+
+-------------------------------------------------------------------
+
+To: jpt52@gmail.com
+
+From: pdigglywizzle@gmail.com
+
+Sent: Mon, Jul 27, 2012 at 2:41 PM
+
+Subject: A home for Rover Hendrix
+
+Dear Joseph and Andrea,
+
+My name is Patrick McGranaghan. I've just tried calling you both but there was no answer, so I hope this email reaches you.
+
+For a while I have been thinking about getting a dog. When I saw your advert in the newspaper I realized that now is the right time. I live alone in a bright, spacious flat in the center of Birmingham. I understand that maybe a flat in the city is perhaps not the ideal home you have in mind for your dog (who you said likes the countryside) but rest assured, I love dogs and I've had a lot of experience looking after them since I was a small boy growing up in Ireland.
+
+I would like to meet you and your dog if you're interested. My mobile number is 07369836175. I hope to hear from you soon.
+
+Best regards,
+
+Patrick McGranaghan
+
+ 
+
+
+
+www.wanted-ads.com
+
+寵物及動物區規定
+
+1. 請描述年紀及品種(如果知道)，以及一般健康情況。
+2. 請說明想幫寵物尋找一位認養人的原因。
+3. 請列出特殊的食品需求。
+4. 聯絡方式限留電話號碼。網站近期被垃圾郵件攻擊，因此這是保護您個人資訊。
+
+----------------------------------------------
+
+徵求啟事：.想為一隻很棒的狗找戶好人家！
+
+名字： Rover Hendrix
+
+年齡： 七歲 (換算成人類年齡)
+
+品種： 米格魯(小獵犬)
+
+顏色： 大部分是白色，有黑色跟棕色斑點。
+
+Rover Hendrix從他還只有六個禮拜大開始就已經是我們家的一員。他是一隻很不錯、忠心的狗，也是位很棒的朋友。遺憾的是，他沒辦法留在我們家裡更久。我的丈夫的公司要他遷調到日本去，所以我們九月就要搬到那去。我們非常興奮，這對Joe來說是對他事業上非常好的一個機會。我們研究了把狗一起帶去的細節，在做了全盤考量後我們最後認為這實在是不可行的。要離開我們漂亮的Rover Hendrix我們會非常的難過。我們覺得能為他做的就是替他找到一個很好的新家。
+
+Rover Hendrix非常健康而且沒有特殊的飲食需求。他訓練得很好並且整理得非常乾淨。他喜歡玩球和在郊外走動。如果你有想用認養這隻超棒的狗來為你家帶來好運，那我們會非常樂意和你見面。請撥07582674925聯絡Joseph Tillman，或是07817532476找Andrea Geoffrey，也可以寄電子郵件到jpt52@gmail.com和我們安排碰面。
+
+----------------------------------------------
+
+收件人： jpt52@gmail.com
+
+寄件人： pdigglywizzle@gmail.com
+
+寄件日期： 星期一，七月 27日， 2012年  下午2:41
+
+主旨： Rover Hendrix的好歸宿
+
+親愛的 Josep和Andrea，
+
+我的名字是Patrick McGranaghan。我剛剛試著打電話給你們兩個可是沒有回應，希望這封信可以到你們手上。
+
+我考慮要養一隻狗已經有段時間了，當我在報紙上看到你們的廣告時，我認為現在正是時候。我獨自一人住在伯明罕市中心的一間明亮、寬敞的公寓。我知道或許一間在都市裡的公寓可能不會是你們心目中最適合你們的狗的家(你說過牠喜歡郊外)，可是請你放心，我愛狗而且從我還是個在愛爾蘭長大的小男孩時就有很豐富的照顧狗的經驗。
+
+如果你願意的話，我十分樂意與你們還有你們的狗見面。我的行動電話號碼是07369836175。我希望很快會聽到你的消息
+
+誠摯的問候，
+
+Patrick Mcgranaghan
+
+重要單字
+patches n. 修補，補丁
+remain v. 保持，繼續存在，剩下
+opportunity n. 機會
+logistics n. 物流
+adopt v. 採取，採納
+spacious adj. 寬敞的
+advert n. 注意
+
+ 
+
+ 
+
+ 
+
+答對
+	Question 18.	
+ 
+ 
+Which website rule was not followed by the writers of the wanted ad?
+ (A) Rule #1
+ (B) Rule #2
+ (C) Rule #3
+ (D) Rule #4(正解)
+尋求啟事的作者並沒有遵守以下何項網站規則？
+A. 規定#1
+B. 規定#2
+C. 規定#3
+D. 規定#4
+ 
+答對
+	Question 19.	
+ 
+ 
+Why do the couple need to find a new home for their dog?
+ (A) They are moving abroad.(正解)
+ (B) They have just bought a cat.
+ (C) Their dog is sick and they can't take care of it.
+ (D) They are moving to a smaller house.
+為什麼這對夫妻需要為他們的狗找個新家？
+a. 他們要搬到國外去。
+b. 他們剛買了一隻貓。
+c. 他們的狗生病了而他們沒辦法照顧牠。
+d. 他們要搬去一間比較小的房子。
+ 
+答對
+	Question 20.	
+ 
+ 
+Why did Patrick McGranaghan respond by email?
+ (A) He doesn't have a phone.
+ (B) He doesn't like talking on the phone.
+ (C) He already tried calling both phone numbers.(正解)
+ (D) He didn't notice the phone numbers in the advert.
+為什麼Patrick Mcgranaghan用電子郵件回應這則廣告？
+a. 他家裏沒有電話。
+b. 他不喜歡講電話。
+c. 他兩支電話號碼都已經試著打過。
+d. 他沒有注意到廣告上的電話號碼。
+ 
+答對
+	Question 21.	
+ 
+ 
+What aspect of Patrick McGranaghan's home is not suitable for the dog?
+ (A) It is not very big.
+ (B) It is in the centre of a city.(正解)
+ (C) It is not on the ground floor.
+ (D) It is very dark inside.
+Patrick Mcgranaghan家的什麼地方不適合這隻狗？
+a. 不是很寬敞。
+b. 位在市中心。
+c. 不是在一樓。
+d. 內部很陰暗。
+ 
+答對
+	Question 22.	
+ 
+ 
+Which of the following is likely to be true?
+ (A) Patrick McGranaghan's family had dogs when he was a young boy.(正解)
+ (B) Patrick McGranaghan loves all animals.
+ (C) Patrick McGranaghan has a lot of experience looking after sick people.
+ (D) Patrick McGranaghan prefers the city to the countryside.
+下列何者可能是正確的？
+a. 當Patrick Mcgranaghan還是個小男孩時他的家裏有養狗。
+b. Patrick Mcgranaghan喜愛所有的動物。
+c. Patrick Mcgranaghan有很多照顧病人的經驗。
+d. Patrick Mcgranaghan較喜歡都市而不喜歡郊外。
+ 
+Questions 23 - 25 refer to the following article:
+
+
+
+Are you a hard-working, self-motivated professional? Do you thrive in a creative, team-oriented environment? If so, Falcon Incorporated might just be the place for you. Here at Falcon, our principal function is programming apps for Apple and Android products. We are currently looking for talented graphic designers to help us create some fresh, unique icons, background patterns, and logos. Our apps incorporate a multitude of design styles and themes, so there is a lot of room for self-expression. All applicants must be proficient in Adobe Illustrator CS6 and Dreamweaver CS6. If this job appeals to you, please send your resume to gopherdude634@hotmail.com. Thanks for your time and consideration. Talk to you soon!
+
+
+
+
+你具有認真工作又積極進取的特質嗎？你喜歡在充滿創意和團隊精神的工作環境嗎？如果你的答案都是肯定的，那法肯公司就是你的最佳選擇。在法肯公司，我們主要的工作內容是設計Apple與Android系列產品的應用程式。目前我們徵求有才華的平面設計師加入我們的團隊，協助我們來創造一些新穎且獨一無二的圖像、背景花樣以及商標。我們的應用程式涵蓋了各式各樣的設計風格與不同主題，在這裡你有很大的自由創作空間。所有應徵者須使用Adobe Illustrator Cs6與Dreamweaver Cs6。如果你對這份工作有興趣，請將履歷寄至gopherdude634@hotmail.com。感謝閱讀，靜待你的來信！
+
+重要單字
+
+motivate v. 給予動機，激發
+
+thrive v. 繁榮，興旺，茂盛
+
+incorporate v. 使合併，包含，加上
+
+principal adj. 主要的，首要的
+
+icon n. 圖像
+
+pattern n. 模式，花樣，圖式
+
+illustrator n. 插畫家
+
+logo n. 標識
+
+
+ 
+
+答對
+	Question 23.	
+ 
+ 
+Who is the writer of this ad?
+ (A) A graphic designer looking for a job.
+ (B) An employer looking to hire a graphic designer.(正解)
+ (C) A salesman advertising a new product.
+ (D) A student looking for part-time employment.
+以下何者是這一則廣告的作者？ 
+a. 尋找工作的平面設計師
+b. 尋求平面設計師的雇主
+c. 促銷新產品的推銷員 
+d. 尋找打工的學生 
+ 
+答對
+	Question 24.	
+ 
+ 
+What is true according to the article?
+ (A) Falcon Incorporated programs apps for Apple and Android products. (正解)
+ (B) The company is looking for an experienced salesman.
+ (C) People who apply for this job are not required to be self-motivated.
+ (D) The company is not hiring graphic designers.
+下列何者選項與文章內容相符？
+a. Falcon公司製作Apple與Android系列產品的應用程式 
+b. 公司在找一位有經驗的推銷員
+c. 應徵此工作者無須有積極進取之特質
+d. 此公司並無平面設計師職缺
+ 
+答對
+	Question 25.	
+ 
+ 
+If a person wishes to apply for this job, what must he or she do?
+ (A) Call Falcon incorporated.
+ (B) Introduce himself or herself to the boss at the company headquarters.
+ (C) Send a resume to gopherdude634@hotmail.com.(正解)
+ (D) Win a design competition.
+如要應徵此工作，應徵者必須完成下列何者選項？
+a. 致電Falcon法人公司
+b. 於公司總部向老闆做自我介紹
+c. 將履歷寄至 gopherdude634@hotmail.com
+d. 贏得設計比賽大獎
+ 
+Questions 26 - 30 refer to the following article:
+
+
+
+Madrid Today
+
+
+Spain’s number 1 English language newspaper!
+
+
+...is looking for the following talented individuals:
+
+
+ 
+
+
+
+Reporter
+
+
+Must be/have:
+
+
+
+Native English speaker;
+
+
+
+Bachelor’s degree in any discipline;
+
+
+
+Diploma in Spanish as a Foreign Language Certificate level C2 or equivalent;
+
+
+
+Extensive knowledge of the politics of modern-day Spain;
+
+
+
+Two years experience in a media-related position.
+
+
+ 
+
+
+
+Editor
+
+
+Must be/have:
+
+
+
+Native English speaker;
+
+
+
+Bachelor’s degree in any discipline;
+
+
+
+Diploma in Spanish as a Foreign Language Certificate level C2 or equivalent;
+
+
+
+Two years experience in a media-related position.
+
+
+ 
+
+
+
+News Desk Rewriter
+
+
+Must be/have:
+
+
+
+Native English speaker;
+
+
+
+Master’s degree in a media related discipline;
+
+
+
+Diploma in Spanish as a Foreign Language Certificate level C2 or equivalent;
+
+
+
+Extensive knowledge of the politics of modern day Spain;
+
+
+
+Two years of experience in a media-related position.
+
+
+ 
+
+
+Madrid Today’s standard hours of work are Monday to Friday 9am to 5pm for all positions. All applicants must be prepared to work overtime hours.
+
+
+
+If you wish to apply please send you resume to Huan Sanchez at wanhuan@gmail.com. Only candidates selected for interview will be contacted.
+
+
+-------------------------------------------------------------------------------------
+
+
+To: wanhuan@gmail.com
+
+From: daniellegarlitz@hotmail.com
+
+Sent: Wed, Mar 21, 2012 at 9:56 AM
+
+Subject: Application for position of News Desk Rewriter at Madrid Today
+
+
+Dear Huan Sanchez,
+
+
+I wish to apply for the position of News Desk Rewriter at Madrid Today.
+
+
+
+My name is Danielle Garlitz. I am 30 years old and I am currently working as an English teacher in Madrid. I also do occasional freelance translation work. I returned to my native Spain two years ago in the hope of improving my Spanish. I was born in Madrid and raised here for ten years. When I was ten years old my family moved to England where I lived for the next eighteen years. Therefore, English was in fact not originally my native language; however I do now consider it to be my first language. I feel that my Spanish is now fluent, and just last month I passed level C2 of the Diploma of Spanish as a Foreign Language exam. I realise that you require an English native speaker, which strictly speaking I am not. I wanted to mention this to you now to avoid any misunderstandings later on.
+
+
+Attached to this email is my resume documenting all of my relevant qualifications and experience. You’ll find that apart from the aforementioned language discrepancy I am more than qualified for this position.
+
+
+
+I would like to thank you in advance for taking the time to consider my application, and I hope to hear from you soon.
+
+
+Yours sincerely,
+
+
+
+Danielle Garlitz
+
+
+
+
+馬德里快報
+
+
+西班牙第一名的英文報紙！
+
+
+…正在尋找下列人才：
+
+
+ 
+
+
+
+記者
+
+
+ 
+
+
+求才條件：
+
+
+ 
+
+
+
+英語為母語者；
+
+
+
+大學畢業不限科系；
+
+
+ 
+
+
+
+西班牙語文能力測驗高級檢定(C2)或同等能力證書；
+
+
+
+熟悉西班牙目前的政治情勢；
+
+
+ 
+
+
+
+兩年的媒體相關工作經驗。
+
+
+ 
+
+
+ 
+
+
+
+編輯
+
+
+ 
+
+
+徵才條件：
+
+
+ 
+
+
+
+英語為母語者；
+
+
+
+大學畢業不限科系；
+
+
+ 
+
+
+
+西班牙語文能力測驗高級檢定(C2)或同等能力證書；
+
+
+
+兩年的媒體相關工作經驗。
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+新聞編譯
+
+
+ 
+
+
+徵才條件：
+
+
+ 
+
+
+
+英語為母語者；
+
+
+
+媒體相關科系碩士文憑；
+
+
+ 
+
+
+
+西班牙語文能力測驗高級檢定(C2)或同等能力證書；
+
+
+
+熟悉西班牙現代政治情勢；
+
+
+ 
+
+
+
+兩年的媒體相關工作經驗。
+
+
+ 
+
+
+今日馬德里報社所有職位的一般工作時間是週一到周五早上9點到下午5點。所有申請人必須有加班的準備。
+
+
+
+如果你想應徵，請將你的履歷表寄到Huan Sanchez 的信箱wanhuan@gmail.com。僅入選面試者會收到通知。
+
+
+----------------------------------------------------------------------------
+
+
+收件人： wanhuan@gmail.com
+
+
+
+寄件人： daniellegarlitz@hotmail.com
+
+
+
+寄件日期： 星期三，三月21日，2012年 上午9:56
+
+
+
+主旨： 應徵今日馬德里報社的新聞編譯職缺
+
+
+致Huan Sanchez，
+
+
+我希望應徵今日馬德里報社的新聞編譯一職。
+
+
+
+
+
+
+
+我的名字是Danielle Garlitz。我今年30歲，目前在馬德里當英文老師。我閒暇時還兼差做翻譯工作。兩年前我回到我的出生地西班牙，希望能夠提升我的西班牙語能力。我在馬德里土生土長住了十年。我十歲的時候我的家人搬到了英國，接下來我在那裡住了十八年。因此，其實英語本來不是我的母語；可是那現在是我的母語。我覺得我的西班牙語現在很流利，上個月我才剛通過西班牙語文能力測驗的高級檢定(C2)。我知道你要找母語為英語的人，嚴格來說我並不算是。我想先跟你說明這點免得之後有任何的誤會。
+
+
+附在這封電子郵件上的是我所有的相關資格跟經歷的履歷文件。你會發現我除了上述的語言資格不符以外，我非常夠資格擔任這個職位。
+
+
+
+
+
+
+
+我要先謝謝你花時間考量我的應徵函，希望能盡快聽到您的回覆。
+
+
+誠摯的，
+
+
+
+
+
+
+
+Danielle Garlitz
+
+
+重要單字
+
+individual n. 個人
+
+bachelor n. 單身漢，(大學)學士
+
+discipline n. 紀律，訓練，教養
+
+diploma n. 畢業文憑
+
+equivalent adj. 相等的，等價的
+
+extensive adj. 廣大的，廣泛的，大規模的
+
+occasional adj. 偶爾的
+
+freelance n. 自由作家
+
+relevant adj. 有關的，切題的
+
+qualification n. 資格，能力
+
+aforementioned adj. 前面提及的，上述的
+
+
+ 
+
+答對
+	Question 26.	
+ 
+ 
+Which of the following does the job advert not mention?
+ (A) Hours of work.
+ (B) Qualifications required.
+ (C) Salary.(正解)
+ (D) How to apply.
+這則職缺廣告中沒有提到下列何者？
+a. 工作時間。
+b. 要求資格。
+c. 薪資。
+d. 如何應徵。
+ 
+答對
+	Question 27.	
+ 
+ 
+What kind of people is the recruiter looking for?
+ (A) Recent college graduates.
+ (B) People looking to earn money while they study Spanish.
+ (C) People looking for part-time work.
+ (D) Experienced professionals.(正解)
+徵才者要找的是什麼樣的人？
+a. 剛從大學畢業的人。
+b. 邊學西班牙語邊想賺點錢的人。
+c. 找兼職工作的人。
+d. 有經驗的專才。
+ 
+答對
+	Question 28.	
+ 
+ 
+Why did the candidate decide to move back to Spain?
+ (A) She wanted to work as an English teacher.
+ (B) She wanted to improve her Spanish.(正解)
+ (C) She likes the weather in Spain.
+ (D) She wanted to work as a translator.
+這個應徵者為什麼決定搬回西班牙？
+a. 她想做英語教師的工作。
+b. 她想要加強他的西班牙語。
+c. 她喜歡西班牙的天氣。
+d. 她想做翻譯的工作。
+ 
+答對
+	Question 29.	
+ 
+ 
+Which of the following job requirements does the candidate NOT have?
+ (A) A master's degree.
+ (B) A diploma of Spanish language proficiency.
+ (C) A native English speaking background.(正解)
+ (D) Experience in a media related position.
+這個應徵者沒有符合下面哪一個工作條件？
+a. 碩士學位。
+b. 有西班牙語程度的證照。
+c. 有母語是英語的背景。
+d. 有媒體相關工作經驗。.
+ 
+答對
+	Question 30.	
+ 
+ 
+Why doesn't the candidate talk in detail about her qualifications in her email?
+ (A) Her qualifications are documented in the resume attached to the email.(正解)
+ (B) She feels the email contains enough information for her application.
+ (C) As she isn't a native English speaker she doesn't think she will get the job.
+ (D) She is not applying for herself, but for a friend.
+這個應徵者為什麼不在信上詳細說明她的資歷？
+a. 她的所有資歷都記錄在這封信附上的履歷中。
+b. 她覺得信中已經充分包含了應徵所需的資料。
+c. 因為她不的母語不是英語，她不認為自己會得到這份工作。
+d. 她不是自己要應徵，而是她的朋友。
+ 
+Questions 31 - 33 refer to the following article:
+
+Construction Techniques and Home Improvement Page 287
+Need to locate some vocabulary? Use the eight chapter charts below to quickly find important keywords found in this manual.
+
+Chapter One: Around the House
+1-1 Apartments, Houses, & Appliances……………………… 10
+1-2 What’s in the Living Room? …………………………… 12
+1-3 Computer Equipment & Electronics ……………………… 14
+1-4 Where’s the Bathroom? ………………………………… 16
+1-5 Toiletries & Cosmetics …………………………………… 17
+1-6 In the Bedroom …………………………………………… 18
+1-7 Cleaning Supplies & Laundry …………………………… 20
+1-8 Home is in the Kitchen …………………………………… 22
+1-9 Kitchen Appliances & Tools ……………………………… 24
+
+
+
+建造技術與居家改善第287頁
+
+需要找出一些詞彙嗎？
+
+使用以下的8個章節幫助你快速找到使用手冊中的重要關鍵字
+
+ 
+
+
+第一章:  居家環境
+
+ 
+
+1-1房屋及家庭器具.…………………………………………………….10
+
+1-2  客廳裡有什麼？...........................................................................12
+
+1-3  電腦配件及電子產品……………………………………………...14
+
+1-4  衛浴在哪裡？................................................................................16
+
+1-5  美妝美容………………………………………………………………..17
+
+1-6  臥房……………………………………………………………………….18
+
+1-7  清理用品及洗衣設備………………………………………………20
+
+1-8  廚房就是你家……………………………………………………..…..22
+
+1-9  廚房用具…………………………………………………………………24
+
+ 
+
+答對
+	Question 31.	
+ 
+ 
+What is the purpose of this chart?
+ (A) It tells the reader how to use household products.
+ (B) It tells readers the page numbers where certain words can be found.(正解)
+ (C) It is an order form for a customer.
+ (D) It tells customers where they can buy a certain product.
+上述資訊目的為以下何者選項？
+a. 告知讀者如何使用居家工具
+b. 告知讀者能於何頁找到特定關鍵字
+c. 上方資訊為一產品訂購單
+d. 告知讀者何處能採購特定商品
+ 
+答對
+	Question 32.	
+ 
+ 
+What page deals with makeup?
+ (A) Page 17(正解)
+ (B) Page 24
+ (C) Page 10
+ (D) Page 18
+在以下何頁可以找到化妝品相關資訊？
+a. 第17頁
+b. 第24頁
+c. 第10頁
+d. 第18頁
+ 
+答對
+	Question 33.	
+ 
+ 
+According to the chart, how many sections are there in chapter one?
+ (A) 1
+ (B) 8
+ (C) 24
+ (D) 9(正解)
+根據以上表格，第一章共有幾小節？
+a. 1
+b. 8
+c. 24
+d. 9
+ 
+Questions 34 - 37 refer to the following article:
+
+Armand Brown (8:05)
+We are seeking contributions for next month’s employee newsletter. The topic of the month will be “Making the best of your 2-hour lunch break.” Is anybody interested in making a submission?
+
+Seva Chari (9:15)
+I usually just use the lunch break to eat my lunch and then take a nap
+
+Armand Brown (9:22)
+That could still work, though. If you just focused on how important it is for you to get a mid-day rest to revitalize yourself and be more efficient in the afternoon, that would be fine!
+
+Seva Chari (9:25)
+I was half joking, but let me think about it.
+
+Armand Brown (10:40)
+Anybody else?
+
+Courtney Love (10:48)
+I’ve really been enjoying the yoga class offered by the company. I’d love to submit something about that.
+
+Armand Brown (10:52)
+That sounds wonderful, Courtney.
+
+Courtney Love (10:55)
+Is there a minimum length for the article?
+
+Armand Brown (10:57)
+400-600 words would be ideal. We will also shoot a photo or two to go along with the article, but you don’t need to worry about that.
+
+Armand Brown: (11:42)
+We were aiming for three articles. So far just Courtney. I guess I should also mention, contributing to our monthly newsletter looks pretty good on your year-end evaluation!
+
+Seva Chari (11:55)
+I guess I could be up for it after all.
+
+
+
+Armand Brown（8:05）
+我們正在尋求下月員工新聞報的投稿。主題是「利用2小時午休時間的最佳方法。」有人有感興趣投稿嗎？
+
+Seva Chari（9:15）
+我通常只利用午休來吃午餐，然後午睡...
+
+Armand Brown（9:22）
+這其實也可以。如果你的重點在討論中午休息以 振奮精神，讓下午更有效率的重要性，就行得通！
+
+Seva Chari（9:25）
+我只是半開玩笑，但讓我想想。
+
+Armand Brown（10:40）
+還有其他人嗎？
+
+Courtney Love（10:48）
+我很喜歡公司提供的瑜伽課程。我願意寫這一類的文章。
+
+Armand Brown（10:52）
+這聽起來很棒，Courtney。
+
+Courtney Love（10:55）
+文章最短要多少字？
+
+Armand Brown（10時57分）
+400-600字比較理想。我們還會拍攝一、兩張照片配合文章，但你不需要擔心這個。
+
+Armand Brown:（11:42）
+我們目標是三篇文章。到目前為止，只有Courtney。我想我應該說清楚，對我們的每月員工新聞報有貢獻的人，年終考核上會看起來不錯！
+
+Seva Chari（11:55）
+我想我其實也可以投稿。
+
+ 
+
+重要單字
+contribution n. 貢獻，投稿
+newsletter n. 時事通訊
+submission n. 屈服，投降，柔順
+revitalize v. 始恢復生氣，使復活
+efficient adj. 有效率的
+submit v. 使屈服，提交，呈遞
+minimum adj. 最小量的
+evaluation n. 估計，評估
+
+ 
+
+ 
+
+答對
+	Question 34.	
+ 
+ 
+Which of the following article submissions would be appropriate for next month's newsletter?
+ (A) Why I try to drink at least 2L of water every day at work.
+ (B) How a post-lunch stroll helps with my digestion. (正解)
+ (C) My secret strategy for impressing potential clients.
+ (D) How adjusting your chair can reduce neck pain.
+下個月的新聞報中會看到以下哪一篇投稿文？
+a. 為什麼我每天工作時至少喝2公升的水。
+b. 午餐散步幫助消化。
+c. 我打動潛在客戶的秘密策略。
+d. 如何調整座椅減輕頸部疼痛。
+ 
+答對
+	Question 35.	
+ 
+ 
+Which of the following is true about Seva's proposed article idea?
+ (A) She wasn't really being serious. (正解)
+ (B) She is making fun of Courtney Love.
+ (C) She truly wants to write about this topic.
+ (D) She thinks everybody should adopt her strategy.
+有關Seva所建議的文章，以下敘述何者正確？
+a. 她不是認真的。
+b. 她在取笑Courtney Love。
+c. 她很想寫相關話題的文章。
+d. 她認為每個人都應該採用她的策略。
+ 
+答對
+	Question 36.	
+ 
+ 
+What does Courtney Love ask about?
+ (A) photographs to accompany the article
+ (B) wordcount (正解)
+ (C) content
+ (D) article structure
+Courtney Love在問什麼？
+a. 能搭配照片的文章
+b. 字數
+c. 內容
+d. 文章結構
+ 
+答對
+	Question 37.	
+ 
+ 
+By the end of the chat, how many people have agreed to contribute articles?
+ (A) zero
+ (B) one
+ (C) two (正解)
+ (D) three
+聊天結束時，有多少人同意提交文章？
+a. 零
+b. 一
+c. 二
+d. 三
+ 
+Questions 38 - 41 refer to the following article:
+
+
+
+To: Parker Poag, Design Coordinator
+
+
+
+From: Carl Perkins
+
+
+
+Date: February 24th, 2018
+
+
+
+Sub: Microsoft Product Training
+
+
+Dear Parker,
+
+
+
+I recently had the opportunity to attend a three-day Microsoft Office training and certification course in Los Angeles, and I think it would be a very beneficial undertaking for all of the employees here at Hamm & Webb to attend.
+
+
+The training program that I completed offered instruction in Word, Excel, and PowerPoint. (1) _____________ The course is run by a group called Academy Software Consultants from Sherman Oaks, California, which is about thirty minutes outside of Los Angeles. The course costs $250 dollars per person, but a cooperative group discount is available for 4-6 people at $200 dollars a head. (2) _____________ Upon completion of the course, each person will receive a professional certificate issued by Microsoft.
+
+
+As you know, the firm will be upgrading its systems in March. Therefore, I think it is imperative to familiarize ourselves with the interface of each of these programs. (3) _____________ Since I have already completed the course, I would be happy to brief the rest of the design team and field any questions that they may have. (4) _____________ Thank you for your time and consideration, and let me know what you think.
+
+
+Sincerely,
+
+
+
+
+Carl Perkins
+
+
+
+寄送至：Parker Poag, Design Coordinator
+
+
+
+寄送自：Carl Perkins
+
+
+
+日期：2018年2月24日
+
+
+
+主題：Microsoft產品訓練
+
+
+Parker您好：
+
+
+
+近日我有機會到洛杉磯參與為期三天的微軟辦公軟體訓練與認證，而我認為如果Hamm & Webb全體員工都能參加此課程，必定受益良多。
+
+
+我所參與的訓練包含了Word、Excel、和PowerPoint簡報的課程。此訓練是由一處位於加州雪曼歐克斯名叫Academy Software Consultants的機構所舉辦，這個機構距離洛杉磯市30分鐘車程。課程費用每人美金250元，公司企業4至6人一組可享優惠200元美金。訓練結束後，每人可得到一張微軟公司頒予的證書。如同您所知道的，公司將於三月更新作業系統，因此我認為我們必須熟悉此軟體的操作介面，讓我們在競爭激烈的市場中保持優勢。我非常樂意與設計團隊分享我的課程訓練經驗，同時回答任何相關的問題。
+
+
+
+感謝您的閱讀，靜待您的回應。
+
+
+
+Carl Perkins 敬上
+
+
+重要單字
+
+certification n. 證明，保證
+
+certificate n. 證明書，執照
+
+undertaking n. 企業，事業
+
+beneficial adj. 有益處的
+
+instruction n. 指導，說明
+
+consultant n. 顧問，諮詢者
+
+completion n. 完成，圓滿
+
+imperative adj. 緊急的，重要的，命令的
+
+interface n. 界面
+
+
+ 
+
+答對
+	Question 38.	
+ 
+ 
+What is the writer's attitude towards the Microsoft Office training program?
+ (A) He thinks it is too expensive.
+ (B) He thinks it is a waste of time.
+ (C) He didn't have a very good time.
+ (D) He thinks it is a good idea.(正解)
+作者認為微軟辦公軟體訓練如何？
+a. 價格太昂貴
+b. 浪費時間
+c. 不太好
+d. 非常好
+ 
+答對
+	Question 39.	
+ 
+ 
+How much would the course cost per person with the cooperate group discount?
+ (A) $200 per person.(正解)
+ (B) $300 per person.
+ (C) $250 per person.
+ (D) $150 per person.
+此課程在享有公司企業折扣後的價錢為何？
+a. 每人美金200元
+b. 每人美金300元 
+c. 每人美金250元
+d. 每人美金150元
+ 
+答對
+	Question 40.	
+ 
+ 
+What is the name of the group that runs the training program?
+ (A) Academy Software Consultants.(正解)
+ (B) Sherman Oaks, California.
+ (C) Carl Perkins.
+ (D) Hamm & Webb.
+經營此訓練課程的組織名稱為何？
+a. Academy Software Consultants.
+b. Sherman Oaks, California.
+c. Carl Perkins.
+d. Hamm & Webb. 
+ 
+答對
+	Question 41.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "This will help us to maintain an advantage in a very competitive marketplace."
+ (A) (1)
+ (B) (2)
+ (C) (3)(正解)
+ (D) (4)
+以下的句子何者最適合放入選項(1), (2), (3)或(4)的所在位置？
+
+「這將有助於我們在競爭激烈的市場保持優勢。」
+
+a.（1）
+b.（2）
+c.（3）
+d.（4）
+ 
+Questions 42 - 46 refer to the following article:
+
+Sahara Inc. Customer Service Department
+
+Extract from transcript of recorded conversation, July 6, 2014, 2:15pm
+
+Customer Service Adviser: David
+
+DAVID: Sorry sir, I’m afraid we can’t issue new account numbers or passwords over the phone or by email. We can only send them by post.
+
+CUSTOMER: Okay, no problem. You can send them to the address I gave you earlier. If my new account details don’t work when I try to login then what should I do?
+
+DAVID: Why wouldn’t they work?
+
+CUSTOMER: Well, this is actually the second time I’ve requested a new account number and password. The first time it didn’t work when I tried to login.
+
+DAVID: Oh. Then you must have typed them in wrong.
+
+CUSTOMER: Excuse me?
+
+DAVID: Look, if we issue a new account number and password then it definitely will work. The only reason for it not working is if you type it in wrong.
+
+CUSTOMER: But isn’t it possible that there’s a fault with the system?
+
+DAVID: Okay, here’s what you should do if the new account details don’t work. Call one of your friends and invite them round to your house so they can type them in for you.
+--------------------------------------------------------------
+
+24 Lancaster Road
+
+Market Houghton
+
+Hinkton
+
+Warwickshire
+
+CV12 0FQ
+
+July 7th, 2014
+
+To whom it may concern,
+
+My name is Chad Kroeger. I am a long time customer of Sahara. I have been buying products from your online store for several years now and I have always been very happy with the service.
+
+Recently, having not used Sahara for a few months, I forgot my account number and password, and so I had to order new ones. After I received my new details, I attempted to use them to login but they didn’t work. I then phoned your customer service desk to order a second set of new details, and this time I was treated rather rudely by one of your customer service advisers. He agreed to send me more new login details, but then when I asked him what I should do if they didn’t work again he accused me of typing them in wrong the first time. He then told me that next time I should find someone else to type for me. I felt this to be an insult to my intelligence. Also, the point of a customer service helpdesk should be to help customers, and I found this adviser to be completely unhelpful.
+
+Again, I would like to express that up until now I have always been happy with the service offered by Sahara. I just wanted to make you aware of this problem so that you can deal with the guilty party accordingly. The customer service adviser’s name was David. From his accent I would guess he’s from Newcastle.
+
+Yours sincerely,
+
+Chad Kroeger
+
+--------------------------------------------------------------
+
+Customer Service Adviser Name
+
+Number of complaints in the last year
+
+Number of positive comments in the last year
+
+Sheila Gray
+
+2
+
+4
+
+David Alton
+
+7
+
+1
+
+Simon Chen
+
+1
+
+5
+
+*During each employee’s annual review, the number of that employee’s positive comments in the last year will be subtracted from the number of complaints in the last year. If the remaining number is below zero, that employee will get a 5% raise. If the number is 0-5, no change will be made to that employee’s pay rate. If the number is above 5, that employee will receive a warning, and if the number is 8 or above, the result will be immediate termination of employment.
+
+ 
+
+
+
+Sahara 公司顧客服務部
+
+節錄自對話錄音的文字記錄，七月6日，2014年，下午2:15
+
+客戶服務顧問：David
+
+DAVID：先生我很抱歉，恐怕我們沒辦法在電話上或透過電子郵件核發新的帳號或密碼。我們只可以用郵寄的方式。
+
+顧客：好吧，沒關係。你可以把他們寄到我稍早給你的地址去。如果當我嘗試登入時我的新帳號沒辦法使用，我該怎麼辦？
+
+DAVID： 怎麼可能會沒辦法使用？
+
+CUSTOMER：好吧，其實這已經是我第二次申請新的帳號跟密碼了。我第一次試嘗試登入時它沒辦法用。
+
+DAVID：喔。那你一定是打錯了。
+
+顧客：你這話什麼意思？
+
+DAVID：你聽我說，假如我們核發一組新的帳號跟密碼，那它就一定可以使用。如果它沒辦法使用的話，唯一的原因就是你把它打錯了。
+
+顧客：可是難道沒有可能是系統有誤嗎？
+
+DAVID：好吧，如果新的帳號不能用的話你可以這麼做。打電話給你的一位朋友並邀請他們到你家來，這樣他們就可以幫你輸入資訊。
+----------------------------------------------------------------------------
+
+24 Lancaster Road
+
+Market Houghton
+
+Hinkton
+
+Warwickshire
+
+CV12 0FQ
+
+七月7日，2014年
+
+敬啟者，
+
+我的名字是Chad Kroeger。我是Sahara的老主顧。我在你們的網路商店購買產品已經有好幾年了，我一直非常滿意你們的服務。
+
+最近，因為已經好幾個月沒有上Sahara，我忘了我的帳號號碼跟密碼，所以我得申請一個新的。我收到我的新帳號資料後，我嘗試用它們來登入但是沒有成功。然後我打電話給你們的顧客服務中心申請第二組新的帳號資料，而這次我卻被你們其中一位顧客服務顧問非常沒有禮貌的對待。他答應寄更多新的登入資料給我，可是當我問他如果它們又不能用時我該怎麼辦時，他竟然指控我第一次是資料輸入錯了。然後他說我下一次應該找個人幫我輸入。我覺得這是在侮辱我的智商。還有，顧客服務中心的目的應該是在幫助顧客，而我認為這位顧問是完全幫不上忙。
+
+再次的，我要說的是直到現在我一直都很滿意Sahara所提供的服務。我只是想讓你們注意到這個問題，這樣你們才能夠相應處理有錯的一方。那位顧客服務顧問的名字是David。從他的口音我猜他是來自Newcastle。
+
+您誠摯的，
+
+Chad Kroeger
+
+--------------------------
+
+客服人員姓名
+
+去年被檢舉的數量
+
+去年的正面評價
+
+Sheila Gray
+
+2
+
+4
+
+David Alton
+
+7
+
+1
+
+Simon Chen
+
+1
+
+5
+
+* 在員工年度視察中，該名職員去年度收到檢舉數量減於正面評價數量。假如餘數為負，該名員工將會加薪百分之五。假如餘數介於0至5之間，該名員工薪水不變。假如餘數大於5，該員工將會收到警告；假如餘數大於8，該員工將會被立即停職。
+
+
+重要單字
+extract v. 抽出，提取，設法得到
+transcript n. 副本，謄本
+issue v. 發行，發布，核發
+insult n. 羞辱，辱罵
+accordingly adv. 相應地，因此
+
+ 
+
+ 
+
+答對
+	Question 42.	
+ 
+ 
+Why did this customer call a customer service helpdesk?
+ (A) He wanted to close his account with Sahara.
+ (B) One of his orders did not arrive by the estimated arrival date.
+ (C) He needed to ask for new online account login details.(正解)
+ (D) He wanted to open a new account with Sahara.
+這位顧客為什麼打電話給顧客服務中心？
+a. 他想結束他在Sahara的帳號。
+b. 他申請的一組帳號沒有在預計的日期送達。
+c. 他需要申請一組新的網站登入帳號資料。
+d. 他想在Sahara開一個新的帳號。
+ 
+答對
+	Question 43.	
+ 
+ 
+What does the customer service adviser tell the customer to do?
+ (A) Keep trying his new account details until they work.
+ (B) Call again if his new account details don't work.
+ (C) Give up.
+ (D) Invite one of his friends to type in his new details.(正解)
+這位顧客服務顧問要該客戶做什麼？
+a. 繼續試他的新帳號資料一直到成功為止。
+b. 如果他的新帳號不能用的話就再次來電。
+c. 放棄。
+d. 請他的一位朋友幫他輸入他的新帳號資訊。
+ 
+答對
+	Question 44.	
+ 
+ 
+How does the customer feel about the customer service he received over the phone?
+ (A) The customer service adviser was rude to him.(正解)
+ (B) The customer service adviser was not qualified to do his job.
+ (C) The customer service adviser was very helpful.
+ (D) The customer service adviser asked him inappropriate questions.
+該客戶覺得他在電話上得到的顧客服務如何？
+a. 該顧客服務顧問對他很沒禮貌。
+b. 該顧客服務顧問沒有資格做他的工作。
+c. 該顧客服務顧問非常有幫助。
+d. 該顧客服務顧問詢問他不恰當的問題。
+ 
+答對
+	Question 45.	
+ 
+ 
+Apart from this phone call, how does the customer feel about the service offered by Sahara?
+ (A) He feels the service could be improved.
+ (B) He is very dissatisfied with the service.
+ (C) He has always been satisfied with the service.(正解)
+ (D) This is the first time he has used the website.
+撇開這通電話來說，該客戶覺得Sahara所提供的服務如何？
+a. 他覺得服務可以再改進。
+b. 他對服務非常不滿意。
+c. 他一直很滿意他們的服務。
+d. 這是他第一次使用這個網站。
+ 
+答對
+	Question 46.	
+ 
+ 
+What is going to happen to the customer service adviser that this customer wrote in to complain about?
+ (A) He will receive a pay raise.
+ (B) His pay will stay the same.
+ (C) He is going to receive a warning. (正解)
+ (D) He is going to be fired immediately.
+顧客檢舉該名客服人員後，以下選項何者將會發生在該客服人員身上？
+a. 他會收到加薪。
+b. 他的薪水將會維持相同。
+c. 他會收到警告。
+d. 他會立即被解雇。
+ 
+Questions 47 - 48 refer to the following article:
+
+Andrea Belmont  2:12 p.m.
+Rick, there seems to be a problem with our WiFi again. Could you come upstairs and have a look?
+
+Rick Notley  2:19 p.m.
+Hi, Andrea. I’m out of office ATM. How urgent is it?
+
+Andrea Belmont  2:22 p.m.
+Quite. We need to get an important notice uploaded to our site ASAP.
+
+Rick Notley  2:23 p.m.
+Try this for now: turn off the router and unplug all the cables for 10 seconds. Then plug the cables back in and start it up again. Wait until the green light stops flashing and that might do the trick.
+
+Rick Notley  2:33 p.m.
+Any luck?
+
+Andrea Belmont  2:36 p.m.
+Negative.
+
+Rick Notley  2:36 p.m.
+OK. I can be back there in 15.
+
+Andrea Belmont  2:37 p.m.
+Thanks Rick. You are our hero.
+
+
+
+Andrea Belmont   下午2:12
+Rick，我們的無線網絡似乎有點問題。你能上樓來看看嗎？ 
+
+Rick Notley   下午2:19
+嗨，Andrea。我目前不在辦公室。有多緊急呢？
+
+Andrea Belmont   下午2:22
+很急。我們需要盡快上傳一個重要的公告到網站上。
+
+Rick Notley   下午2:23
+現在先試試看：關掉網路轉接器的電源並拔下所有線路後等10秒。將線路都插回去後，再啟動一次。等到綠色指示燈停止閃爍時可能就好了。
+
+Rick Notley   下午2:33
+有用嗎?
+
+Andrea Belmont   下午2:36
+沒有.
+
+Rick Notley   下午2:36
+好吧。我15分鐘內會回去。
+
+Andrea Belmont   下午2:37
+謝謝Rick。你救了我一命。
+
+ 
+
+答對
+	Question 47.	
+ 
+ 
+What does Rick Notley mean when he says "ATM"?
+ (A) all too much
+ (B) at the moment (正解)
+ (C) amount
+ (D) automatic teller machine
+Rick Notley 說的「ATM」是什麼意思？
+a. 全部過多
+b. 當下
+c. 數量
+d. 自動提款機
+ 
+答對
+	Question 48.	
+ 
+ 
+What was the result of Rick's guidance?
+ (A) The problem remained unresolved. (正解)
+ (B) The problem was resolved after a short time.
+ (C) Andrea learned a special trick.
+ (D) Andrea didn't follow his instructions correctly.
+Rick指導的結果如何？
+a. 問題仍然沒有解決。
+b. 問題很快就解決了。
+c. Andrea學會了一個特殊方法。
+d. Andrea沒有正確地按照他的指示做。
+ 
+Questions 49 - 52 refer to the following article:
+
+
+
+Interoffice Memo
+
+
+Hey guys, the holiday season is almost here, and that means that scheduling around this time can get a little complicated. I just wanted to remind everyone that if you plan on taking extended leave over Thanksgiving or Christmas, I’ll need at least two weeks advance notice, but do know that your leave request will only be granted if you have someone cover your shifts. This goes for everyone at the restaurant, cooks and servers alike. Leave forms are located in my office next to the time cards on the bulletin board. You MUST fill in the days you intend to take off and the name of the person who will be taking your shift. Both parties must sign the leave form, or else it is invalid. As an incentive, those of you who would like to pick up a few hours over the holidays will be paid time and a half on the day before Thanksgiving and on Christmas Eve. The restaurant will be closed on Thanksgiving Day and Christmas Day, so enjoy the time with your families. If you have any questions, consider me at your disposal.
+
+
+
+
+-Thomas Barnes
+
+
+
+內部通知
+
+
+各位同仁大家好，轉眼間假期即將到來，這也意味著班表調度會變得較複雜。
+
+
+
+在此我想提醒各位，如果你打算於感恩節或是聖誕節間請長假的話，請至少提早兩周通知，另外再提醒一點：請假一定需要有人替補才會被允許。以上規定適用於餐廳所有同仁，包括內場以及外場。請假單就放在我辦公室佈告欄上打卡單的旁邊。請確實填寫請假日期以及代班的同仁姓名。注意！你們兩位都需在請假單上簽名，否則申請無效。為了獎勵假期間工作的同仁，感恩節與聖誕節前一天起時薪將調高1.5倍。餐廳將於感恩節與聖誕節當天休館，祝福各位同仁有個美好的假期。如有任何問題，請與我聯絡。
+
+
+
+Thomas Barnes上
+
+重要單字
+
+complicate adj. 複雜的
+
+request n./v. 請求，要求
+
+shift n. 輪班，轉移，轉變
+
+invalid adj. 病弱的，供病人使用的
+
+disposal n. 處置，處理；配置
+
+
+答對
+	Question 49.	
+ 
+ 
+What is the point of this interoffice memo?
+ (A) An employee is complaining to his boss about a colleague.
+ (B) An employee is asking his boss for holiday time.
+ (C) The boss is reprimanding his employees for forgetting to clock in.
+ (D) To remind employees about policies for holiday leave.(正解)
+此公告的目的為何？
+a. 員工向老闆抱怨其他同仁
+b. 員工向老闆要求假期 
+c. 老闆指責員工忘記打卡 
+d. 提醒員工假期相關規定
+ 
+答對
+	Question 50.	
+ 
+ 
+Where might we see this piece of writing?
+ (A) In newspaper or magazine.
+ (B) In an office or place of business. (正解)
+ (C) In an advertisement.
+ (D) In a manual or handbook.
+我們可能在哪裡看見這張公告？
+a. 報章雜誌
+b. 公司及其他辦公地方 
+c. 廣告 
+d. 使用說明手冊 
+ 
+答對
+	Question 51.	
+ 
+ 
+How much advance notice is needed in order to take a day off?
+ (A) Two days advanced notice.
+ (B) One month advanced notice.
+ (C) Two weeks advanced notice.(正解)
+ (D) One week advanced notice.
+如需請假需要提前多久通知？
+a. 2天
+b. 1個月
+c. 2周
+d. 1周
+ 
+答對
+	Question 52.	
+ 
+ 
+What can we infer based on this article?
+ (A) The boss expects the business to close down very soon because of staff shortage.
+ (B) The employees do not like their boss.
+ (C) The boss is anticipating that several employees will need holiday time.(正解)
+ (D) Taking time off is no longer allowed in this office.
+由此文章我們可以推斷下列何者選項？
+a. 由於員工短缺，因此老闆認為公司即將關門大吉 
+b. 員工不喜歡他們的老闆
+c. 老闆認為有些員工將於假期間請假
+d. 餐廳將禁止請假
+ 
+Questions 53 - 54 refer to the following article:
+
+
+
+Every spring in Manitoba, Canada, people from all over the world travel to the Interlake region to witness tens of thousands of red-sided garter snakes congregate in limestone caves to mate. The male garter snakes, which are harmless to humans, writhe amongst one another in an attempt to find a suitable mate, and sometimes form what is called a ‘mating-ball’, where so many snakes get knotted together, they simply roll around in a ball. Considering how cold the winter is in Canada, it may come as a surprise that the largest gathering of cold-blooded reptiles occurs in a region that is partially frozen for half the year, but there’s a reason for that. The limestone caves in which the snakes seek shelter provide excellent protection for the garter snakes and allows them to descend deep beneath the frozen surface during the winter. When the snakes resurface in the spring to mate, the marshy environment surrounding the caves is a perfect place for the garter snakes to feed on a plethora of frogs. The Canadian government has taken steps to protect the snakes and their habitat, and because the garter snakes are harmless, the yearly congregation in Manitoba makes for a perfect opportunity for the young and old alike to create a lasting memory with one of nature’s most commonly, and perhaps unduly, feared reptiles, the snake.
+
+
+
+
+每到春天，來自世界各地的人們都會前往加拿大曼尼托巴的Interlake地區，一同見證成千上萬的紅邊無毒小蛇聚集在石灰岩洞裡交配。無害的雄性紅邊無毒小蛇在洞裡鑽來鑽去，尋找適合的另一半。在這蠕動的過程中，小蛇一條接著一條交捲，形成所謂的「交配球」。雖說加拿大的寒冬是出了名的嚴酷，但以下的消息一定會更讓你吃驚－這些冷血爬蟲類最大的聚集活動竟是發生於一個常年結冰的區域！小蛇棲息的石灰岩洞讓牠們可以在冬天鑽進地表深處，成為最完美的庇護所。每到春天牠們重出地表進行交配時，岩洞附近的沼澤更有大量的青蛙讓牠們捕食。加拿大政府目前已採取行動保護小蛇以及牠們的棲息地。更因為這些小蛇無毒，每年春天這個蛇類聚集的自然現象提供年輕人和老人一個良好的教育機會，讓他們重新認識這些被過度害怕的無毒爬蟲類。
+
+
+重要單字
+
+region n. 區域，地區
+
+congregate v. 聚集，集合
+
+reptile n. 爬蟲類
+
+limestone n. 石灰岩
+
+beneath prep. 在…之下
+
+plethora n. 過多
+
+habitat n. 棲息地
+
+congregation n. (宗教)集會，集合
+
+opportunity n. 機會
+
+
+ 
+
+答對
+	Question 53.	
+ 
+ 
+What would be an appropriate title for this article?
+ (A) Manitoba's Amazing Snake Congregation.(正解)
+ (B) Winter Habitats of Manitoba.
+ (C) Snakes of Canada.
+ (D) Dangerous Snakes found in Canada.
+下列何項標題最適合以上文章？
+a. 壯觀景象－大量蛇類聚集於曼尼托巴省
+b. 曼尼托巴的冬天棲息地
+c. 加拿大的蛇類
+d. 加拿大發現危險蛇類
+ 
+答對
+	Question 54.	
+ 
+ 
+How do red-garter snakes survive the winter in Manitoba?
+ (A) Snakes cannot live in Manitoba.
+ (B) Scientists catch them and put them in warm places.
+ (C) They have adapted to live in snow.
+ (D) They live deep beneath the ground in limestone caves. (正解)
+紅邊無毒小蛇如何在曼尼托巴的嚴冬生存？
+a. 蛇類無法生存於曼尼托巴
+b. 科學家將牠們移至溫暖處
+c. 他們能適應雪中的生活
+d. 他們棲息於地底深處的石灰岩洞中
+ 
+只顯示答錯  回上一頁
 **請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
 只顯示答錯  回上一頁
 
