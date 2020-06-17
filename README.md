@@ -21,7 +21,7 @@ c. 這份報告著重在一份近期研究的結果
  
 On what date can we expect the new refrigerator to be delivered?
  (A) The refrigerator will not fit in this tiny kitchen.
- (B) It will be here on the 20th or 21st.(正解)
+ (B) It will be here on the 20th or 21st.<font color="#dd0000">正解：</font>
  (C) I have a date with the man from the delivery company.
 新冰箱哪天會送到？
 a. 這台冰箱不適合放在這麼狹小的廚房
