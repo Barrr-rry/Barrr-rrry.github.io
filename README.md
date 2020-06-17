@@ -3025,5 +3025,2310 @@ c. 優惠的(形容詞)
 d. 優先地(副詞)
 只顯示答錯  回上一頁
 # part 7.
+**請注意，訂正頁面顯示的選項順序為原始資料順序，可能會和測驗時的順序不同。
+只顯示答錯  回上一頁
+
+Questions 1 - 3 refer to the following article:
+
+
+
+
+
+
+Staff Memo
+
+
+I would like to start by thanking everyone for your hard work and dedication over the past couple of days in order to get the annual Helen Keller Music and Arts Festival off the ground and running. The first two days of the festival couldn’t have gone any smoother.
+
+
+It has been brought to my attention that some severe weather could come into the Tuscumbia area as early as tomorrow afternoon. The forecast is calling for gusty winds, cloud-to-ground lightning, and even hail.
+
+
+In the event of inclement weather, it is imperative that we all stay calm and organized to ensure the safety of our patrons. If it really gets bad out there, we need to suspend all activities immediately. Be especially careful when working with musical equipment, and communicate effectively with the musicians. Stay organized and know where you need to be in order to direct people to one of the pavilions.
+
+
+Thanks again guys for all your help and stay alert.
+
+
+
+Craig
+
+
+
+
+
+
+
+
+
+
+
+
+員工備忘錄
+
+
+首先，為了讓這一次的年度海倫凱勒音樂與藝術嘉年華會順利進行，我想感謝大家在這過去幾天以來的努力與貢獻。這一兩天的活動進行的非常順利。
+
+
+注意可能最快在明天中午，惡劣的天氣會影響塔斯坎比亞地區。天氣預報將會有大風、閃雷，甚至冰雹。
+
+
+為了因應嚴酷的天氣，我們必須保持冷靜而且有條理的確保顧客的安全。若外面天氣變惡劣，我們必須馬上停止所有的活動。處理音樂器材時，請特別當心，並與音樂家進行有效的溝通。請保持秩序 並充分瞭解你所在的位置，以便帶領客人前往其中之一的涼亭。
+
+
+再次感謝大家的協助，請保持警惕。
+
+
+
+Craig
+
+
+ 
+
+
+
+
+
+
+
+
+答對
+	Question 1.	
+ 
+ 
+What kind of weather is expected for the event?
+ (A) The event may have light winds.
+ (B) There may be stormy conditions.(正解)
+ (C) It might rain a little.
+ (D) It will be hot and muggy.
+活動當天預計會有什麼樣的天氣情況?
+a. 活動期間可能會有微風。
+b. 可能會有暴風。
+c. 可能會下點雨。
+d. 天氣悶熱。
+ 
+答對
+	Question 2.	
+ 
+ 
+When will the festival begin?
+ (A) It will begin tomorrow.
+ (B) It will start in a couple of days.
+ (C) It has already started.(正解)
+ (D) It will start next month.
+節慶何時開始?
+a. 明日開始。
+b. 幾天內開始。
+c. 已經開始了。
+d. 下個月開始。
+ 
+答對
+	Question 3.	
+ 
+ 
+Which of the following is not mentioned as a course of action if the weather gets rough?
+ (A) Turn off the power. (正解)
+ (B) Stop all festival activities.
+ (C) Discuss matters with the performers.
+ (D) Guide attendees to safe places.
+以下選項何者不是天氣變差所造成的情況？
+a. 電力關閉。
+b. 停止所有的節慶活動。
+c. 與演出人士討論問題。
+d. 引導參加活動人士到安全的地方。 
+ 
+Questions 4 - 7 refer to the following article:
+
+Damian Rice (15:11)
+Is everything ready to go for the trade fair next week?
+
+Sinead Lockley (15:14)
+Everything on my end is. The space is booked, displays and sample products are ready, and we have staff members scheduled to man the booth all day.
+
+Debra Smith (15:19)
+We have one small issue in the promotions department. There were a couple errors in the pamphlets and business cards we had printed up.
+
+Damian Rice (15:25)
+How serious are the errors? We can’t do the fair without pamphlets and business cards.
+
+Debra Smith (15:29)
+Pretty bad. They spelled our company name wrong on both. Also, they put down the wrong company address for our Pittsburg and San Jose locations.
+
+Damian Rice (15:41)
+I can’t believe it. So when will the new ones arrive?
+
+Debra Smith (15:43)
+They promised we would get them on the morning of the conference before the starting time. They will deliver them directly to the conference center.
+
+Damian Rice (15:44)
+That sounds too risky to me. Phone them back and tell them we absolutely need them the day before at the latest. And NEVER use this company again. Did they at least give us a discount?
+
+Debra Smith (15:51)
+Yeah, they gave us 30% off the whole order plus 500 free cards.
+
+Sinead Lockley (15:55)
+I’ve had a lot of printing work done by Printing Delight at Central Square. Nothing but good work from them and always on time.
+
+Damian Rice (15:56)
+Thanks, Sinead. Debra, please look into their rates. If they are reasonable, let’s give them a try.
+
+
+
+
+Damian Rice (15:11)
+下周的商品展覽大會一切準備就緒了嗎?
+Sinead Lockley (15:14)
+我的部分都好了。位置訂好了，陳列品跟樣品準備好了，也安排了工作人員全天在展台工作。
+Debra Smith (15:19)
+促銷部門有點小問題。印好的小冊子跟名片中有些錯誤。
+Damian Rice (15:25)
+錯誤有多嚴重?沒有小冊子跟名片我們沒辦法辦展覽會的。
+Debra Smith (15:29)
+很糟糕。他們把我們這兩樣中的公司名稱都拼錯了，我們在匹茲堡跟聖何塞的公司地址也錯了。
+Damian Rice (15:41)
+我真不敢相信！所以新的什麼時候會到?
+Debra Smith (15:43)
+他們保證我們會在大會開始前的早上拿到。他們會直接送到會議中心。
+Damian Rice (15:44)
+對我來說這聽起來太冒險了，打回去給他們，告訴他們最晚在前一天我們絕對要它們。而且再也不要用這家公司了。他們有至少給我們折扣嗎?
+Debra Smith (15:51)
+是的。整個訂單他們給我們打七折加500張免費的名片。
+Sinead Lockley (15:55)
+我請中央廣場的Printing Delight做過很多印刷工作，他們不僅做得好又總是很準時。
+Damian Rice (15:56)
+謝謝你，Sinead。Debra，請查一下他們的估價，如果合理的話我們可以試試。
+
+
+答對
+	Question 4.	
+ 
+ 
+Which of the following was Sinead Lockley NOT in charge of doing for the trade fair?
+ (A) Reserving a booth.
+ (B) Preparing products and displays.
+ (C) Finding people to stand at the booth.
+ (D) Printing the pamphlets and business cards. (正解)
+在商品展覽會中以下哪項不是Sinead Lockley負責的？
+a. 預留展位。
+b. 準備產品和陳列品。
+c. 找人站在展台。
+d. 印小冊子和名片。
+ 
+答對
+	Question 5.	
+ 
+ 
+Who made a serious mistake?
+ (A) The trade fair organizers.
+ (B) Sinead Lockley.
+ (C) Debra Smith.
+ (D) The printing company. (正解)
+誰犯了嚴重的錯誤?
+a. 商品展覽會舉辦者。
+b. Sinead Lockley。
+c. Debra Smith。
+d. 印刷公司。
+ 
+答對
+	Question 6.	
+ 
+ 
+If the conference is on October 30, when does Damian Rice hope to receive the adjusted pamphlets and business cards?
+ (A) October 23
+ (B) October 29(正解)
+ (C) October 30
+ (D) October 31
+假設大會是在10月30日，Damian Rice希望在哪天收到調整後的小冊子及名片?
+a. 10月23日
+b. 10月29日
+c. 10月30日
+d. 10月31日
+ 
+答對
+	Question 7.	
+ 
+ 
+In the last statement by Damian Rice, who or what does "they" refer to?
+ (A) Printing Delight.
+ (B) Sinead Lockley and Debra Smith.
+ (C) The pamphlets and business cards.
+ (D) The rates. (正解)
+Damian Rice最後一句話中所指的 "they" 是誰或什麼?
+a. Printing Delight。
+b. Sinead Lockley和Debra Smith。
+c. 小冊子和名片。
+d. 估價。
+ 
+Questions 8 - 9 refer to the following article:
+
+
+
+
+
+
+Bloomington Aquarium
+
+Do it on Porpoise!
+
+The Bloomington Aquarium is happy to announce the grand opening of our dolphin exhibit here at the park, and to celebrate, we are offering a 25% discount on all-inclusive tour packages to the aquarium. Our basic package includes a complete guided tour of the aquarium, lunch at our acclaimed food court, and tickets to see our magnificent dolphin show. But wait, there’s more! The first 100 customers who reserve a ticket will be upgraded to our VIP package, which includes a dolphin ride! Basic packages start at $250 and our VIP package is $400. The park is open Tuesday to Sunday from 9:00 am to 7:00 pm and is closed on Mondays.
+
+Call now to make your reservation at 444-121-2333
+
+
+*Sunscreen that is not biodegradable will be taken at the door in order to protect the dolphins’ environment. Thank you for your cooperation.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+布魯明頓海生館
+
+
+到此一”游”！
+
+
+布魯明頓海生館很高興地宣布海豚秀隆重開幕，為了慶祝開幕，海生館內所全套行程75折。我們的基礎套裝行程包括海生館全程導覽，在本館知名的美食街享用午餐，以及海豚表演的門票。別急，還有優惠！前100名顧客先訂票將升級到我們的VIP套裝，可以騎海豚喔！基礎套裝$250，VIP套裝$400。園區開放時間為週二至週日上午9:00至下午7:00及週一休館。
+
+
+馬上打電話來訂票444-121-2333
+
+
+
+* 為了保護海豚的生活環境，在入口處館內人員會先扣留無法生物分解的防曬乳。謝謝您的合作。
+
+
+
+
+
+
+
+
+答對
+	Question 8.	
+ 
+ 
+What is the purpose of the advertisement?
+ (A) To introduce a promotion related to a new facility. (正解)
+ (B) To entertain audience members who are watching the dolphin show.
+ (C) To explain how to make a reservation at the Bloomington Aquarium.
+ (D) To announce the grand opening of the Bloomington Aquarium.
+這篇廣告的目的為以下何者？ 
+a. 介紹與新設施相關的推廣活動。
+b. 娛樂正在看海豚秀的觀眾。 
+c. 解釋如何預約布明頓水族館。 
+d. 宣告布明頓水族館的盛大開幕。
+ 
+答對
+	Question 9.	
+ 
+ 
+What will happen if you do not have biodegradable sunscreen?
+ (A) They will make you leave.
+ (B) It will be taken at the door.(正解)
+ (C) They will give you new sunscreen.
+ (D) Nothing will happen.
+如果你攜帶無法微生物分解的防曬乳，以下何事將會發生？ 
+a. 他們會讓你離開。 
+b. 在入口處會被沒收。
+c. 他們會給你新的防曬乳。 
+d. 什麼事都不會發生。
+ 
+Questions 10 - 14 refer to the following article:
+
+
+
+
+
+
+Hugglesford High School and Community College
+
+
+2011 May Day Open Day Programme of Events
+
+
+10:00-10:30: Welcome and Opening Dance
+
+
+Welcoming speech by Principal John C. Beresford and traditional maypole dancing performed by 8th and 9th year students of Hugglesford High School.
+
+
+10:30-11:00: Choral Singing
+
+
+Traditional English folk songs performed by the Hugglesford Community Youth Choir (all are welcome to sing along!)
+
+
+11:00-11:30: Morris Dancing
+
+
+Traditional Morris Dancing performed by the Hugglesford Morris Dancing Troupe.
+
+
+11:30-12:00: War Veterans Give Thanks
+
+
+War veterans now living in Hugglesford give speeches thanking the Hugglesford Community for its continued support of the War Veterans Association, followed by a war victims’ remembrance ceremony.
+
+
+12:00-1:00: Lunch
+
+
+Refreshments will be served in the courtyard, catered for by the cafeteria staff at Hugglesford High School and Community College.
+
+
+1:00-1:30: Hugglesford Lunch Ladies Fashion Parade
+
+
+Following the success of the 2011 calendar put together by the Hugglesford Lunch Ladies (to raise money for the War Veterans fund), the ladies will parade their latest outfits ahead of next year’s calendar.
+
+
+1:30-3:00: Drama Performances
+
+
+All students of Hugglesford High School perform self-written and self-directed plays, all based on this year's theme of gratefulness.
+
+
+3:00-3:15: Closing Speech
+
+
+Principal John C. Beresford delivers this year’s closing remarks.
+
+
+In the event of bad weather, the Open Day will be rescheduled to a later date.
+
+
+-------------------------------------------------------------------------------------
+
+
+24 Spring Drive
+
+
+
+Hugglesford
+
+
+
+Aylestown
+
+
+
+Warwickshire
+
+
+
+AY65 7LQ
+
+
+3rd May 2011
+
+
+Dear Mrs. Springfield,
+
+
+My son, Nick Brown, is a student in your 8th year tutor group. Nick was really looking forward to performing his class play at this year’s Open Day. As you know, he has been absent from school these past two days. Unfortunately, Nick has come down with a rather nasty flu. He woke up on Monday morning feeling feverish. On Tuesday his condition was no better so we took him to see the doctor. The doctor prescribed him some medicine so he should be fine by next week, however the doctor did say he’d need a week’s bed rest before returning to school. This means that he will not be able to participate in this year’s Open Day.
+
+
+As you well know, he and his classmates have put an awful lot of time and effort into writing and rehearsing their play over the last few weeks. I myself have been helping him practice his lines at home, and I am really impressed with the quality of the writing. Nick is really disappointed that he will not be able to play his part, and we are also very disappointed for him. Being the upstanding members of the Hugglesford community that Jim (my husband) and I are, we will of course still be making an appearance at the Open Day this Saturday, so we hope to see you there.
+
+
+We’re very sorry for the inconvenience caused to you. We hope the class play can still go ahead as planned.
+
+
+Yours sincerely,
+
+
+
+Samantha Brown
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+霍格斯佛高中暨社區大學
+
+
+ 
+
+
+ 
+
+
+2011年五月節參觀日活動行程
+
+
+10：00-10：30：開幕儀式及迎賓舞
+
+
+校長John C. Beresford向嘉賓致辭和由霍格斯佛高中8年級和9年級學生表演傳統五朔節花柱之舞。
+
+
+10：30-11：00：詩歌合唱
+
+
+霍格斯佛社區青年合唱團帶唱英文傳統民歌（歡迎大家一起唱！）
+
+
+11：00-11：30：莫里斯舞蹈
+
+
+由霍格斯佛莫里斯舞蹈團所進行的傳統莫里斯舞。
+
+
+11：30-12：00：退役軍人致謝詞
+
+
+現居在霍格斯佛的退役軍人演講感謝霍格斯佛社區一直以來對退伍軍人協會的支持，之後為戰爭受害者的紀念儀式。
+
+
+12：00-1：00午餐時間
+
+
+院子供有小點心，由霍格斯佛高中暨社區大學的學生餐廳工作人員所提供。
+
+
+1：00-1：30：霍格斯佛午餐時光婦女協會的時裝秀
+
+
+繼霍格斯佛午餐時光婦女協會在2011年所推出的日曆大成功後（用來為退伍軍人協會募款），這些女士們將會展示明年的日曆才會出現的最新服裝。
+
+
+1：30-3：00：話劇演出
+
+
+霍格斯佛高中全體學子以感恩的心為今年的主題所自編自導的話劇表演。
+
+
+3：00-3：15：閉幕詞
+
+
+校長John C. Beresford的閉幕演說。
+
+
+
+
+倘若天氣情況惡劣，開幕日將改期至之後某日。
+
+----------------------------------------------------------------------------
+
+
+春季大道 24號
+
+
+
+霍格斯佛
+
+
+
+艾勒斯鎮
+
+
+
+沃里克郡
+
+
+
+AY657LQ
+
+
+2011年5月3日
+
+
+親愛的斯普林菲爾德太太，
+
+
+我的兒子，Nick Brown，是你8年級導師班的學生。Nick真的很期待可以在今年的參觀日當天演出班上的戲劇表演。如你所知，他這兩天一直缺課。不幸的是，Nick得了相當嚴重的流感。他星期一早上起床時就開始發燒。我看週二他的病情沒有比較進步，於是我們就帶他去看醫生。醫生開了一些藥給他，所以他應該下週病就好了，但醫生說，在回去上課之前，他要臥床休息一個禮拜。這就表示他將無法參加今年的參觀日。
+
+
+正如你所知，他和同學們都投入非常多的時間與體力在過去幾個星期的編劇與排練。我自己在家也一直在幫他練習台詞，我很驚訝劇本的品質之好。Nick真的很失望不能參與其中，我們也很失望。我的丈夫(吉姆)和我身為霍格斯佛社區的正式一員當然也還是會在週六的參觀日露臉，所以我們到時見。
+
+
+我們很抱歉造成你的不便。我們希望班上的話劇表演依然可以如期進行。
+
+
+誠摯的致上，
+
+
+
+Samantha Brown
+
+
+
+
+
+
+
+
+答對
+	Question 10.	
+ 
+ 
+What can we infer about this event?
+ (A) It will be attended by more than 1000 people
+ (B) It will be featured in the local news.
+ (C) It will be the last event of the school year.
+ (D) It will take place outdoors. (正解)
+以下關於活動的推論何者正確？
+a. 會有超過一千人參加。 
+b. 會在當地新聞中出現。 
+c. 會是這學年最後一場活動。
+d. 將會在戶外舉行。
+ 
+答對
+	Question 11.	
+ 
+ 
+Why will the drama performances take up more time than the other items on the programme?
+ (A) All the students at the school are involved.(正解)
+ (B) There will be a long break between each play.
+ (C) The students are not well-prepared.
+ (D) It is forecast to rain at two o' clock.
+為何戲劇表演比表單中的其他活動佔用的時間較長？ 
+a. 所有的在校生都會參與。 
+b. 每一齣話劇表演前都有一段很長的休息時間。 
+c. 學生們還沒做好準備。 
+d. 天氣預測兩點會下雨。 
+ 
+答對
+	Question 12.	
+ 
+ 
+What is the main purpose of Samantha Brown's letter?
+ (A) To ask Mrs. Springfield to cancel the event due to her son's illness.
+ (B) To inform Mrs. Springfield that her son will unfortunately be absent from the event. (正解)
+ (C) To request that Mrs. Springfield postpone the event to a later date so that her son can attend.
+ (D) To advise Mrs. Springfield to make some important changes to the event.
+Samantha Brown的信件目的為何？ 
+a. 因為她兒子生病，而要求春田太太取消活動。 
+b. 通知春田太太她的兒子不幸將從活動缺席。 
+c. 請求春田太太將活動延到她兒子可以來參加的日期。 
+d. 建議春田太太對活動做出一些重要的改變。
+ 
+答對
+	Question 13.	
+ 
+ 
+What will Nick Brown's parents do on the day of the Open Day?
+ (A) Attend the Open Day.(正解)
+ (B) Attend a different event.
+ (C) Stay at home to take care of Nick.
+ (D) Perform in the class play instead of Nick.
+Nick Brown的父母會在參觀日當天做什麼？ 
+a. 出席參觀日。 
+b. 參加不同的活動。 
+c. 留在家裡照顧Nick。
+d. 代替Nick參與班上的演出。 
+ 
+答對
+	Question 14.	
+ 
+ 
+How does Nick Brown feel about not performing in the play?
+ (A) He is relieved.
+ (B) He is disappointed.(正解)
+ (C) He is devastated.
+ (D) He doesn't care.
+下列選項何者是Nick Brown不能參與演出的感受？ 
+a. 他鬆了一口氣。 
+b. 他很失望。
+c. 他很絕望。 
+d. 他不在乎。 
+ 
+Questions 15 - 19 refer to the following article:
+
+ 
+
+www.artistsociety.com
+
+FAQ
+
+1. How can I sell my artwork on Artist Society?
+
+First you need to create an account, which only takes a few minutes. Click HERE to get started now. Next, upload photographs of your artwork. The minimum photo size is 600 x 800px, but the larger size files that you upload, the more product options you will be able to sell.
+
+2. What is the minimum file size for other products?
+
+As mentioned above, 600 x 800 pixels is the absolute minimum to print a 5 x 7 inch copy of your work, which is our smallest size copy. For a full list of other print sizes and minimum resolutions, click HERE. Example minimum sizes for other products include 1300 x 2000px for mobile phone cases, 3300 x 5500px for T-shirts, and 4600 x 2000px for coffee mugs. For a full list, click HERE.
+
+3. How will people find my work?
+
+If you are new to Artist Society, you can make you first sale by telling your friends and family about your new Artist Society account. You can also advertise your account on social media or put this free advertisement on your website. Just click HERE then insert the html code wherever you want it to appear on your site.
+
+4. How much of a commission does Artist Society take for every sale?
+
+Besides creating products using your photos and delivering the products to your customers, we pay you 40% of all sales.
+
+5. How do you set the prices?
+
+We don’t. You do! You can choose the selling prices for your products after you upload the photos.
+
+ 
+
+The best way to increase your sales on Artist Society is to advertise your artwork as much as possible. One great way to do this is to put a banner on your personal website.
+
+To create your own customized banner, first answer the below questions. Next, push “create” and copy the html that shows up in the html code box. Double click anywhere within the box to copy all of it at once. Insert this html code anywhere on your website.
+
+1. What kind of website will this banner appear on?
+Personal
+Business
+2. What size would you like the banner to be?
+
+80 x 100px
+120 x 150px
+200 x 300px
+3. Which of your photos would like to appear on the advertisement?
+
+Let us decide
+Choose random photos and alternate regularly
+Click here to choose your own
+4. What color theme would you like?
+
+Black and white
+Sky blue
+Lavender
+Maroon
+ 
+
+CREATE
+
+
+
+
+html code box
+
+
+CONTACT US
+
+Create an account or sign in now to manage your photos and orders. Members can update orders prior to shipping, track shipped packages, and request refunds or replacement products should anything go wrong. Please be sure to sign up with the same email that you used for your purchase so we can sync your order with your account. Please note: Your question may already be answered in the FAQ section. If not, please use the below form to contact us for support.
+
+Subject: Difficulty uploading photos for tablet case
+
+Your Name: Nick Kembel
+
+Your Email Address: nickkembel@yahoo.com
+
+Your Message:
+Dear Sir or Madam,
+I’ve been uploading photos of my artwork in various sizes to sell various products on your website. So far, I haven’t run into any problems, except with the tablet case. For this particular product, the website indicates that I need to upload a photo file that is exactly 2000 x 3000 pixels. That is exactly the size of the photo that I am trying to upload, but every time I try, I see a popup that says, “The photo that you are attempting to upload does not meet the minimum resolution requirements for this product. Please try again and use a file with the precise dimensions of 2000 x 3000 pixels.” I’ve attached a photo of the popup and also a copy of the photo I am trying to upload. I look forward to your kind assistance.
+
+
+Attach a photo (if necessary):
+
+Send Now
+
+
+
+常見問題
+
+1. 我怎麼在美術協會販賣藝術作品？
+
+首先，你需要建立一個帳戶，只需要幾分鐘的時間。現在就點擊這裡開始。接下來，上傳你的作品照片。最低的照片尺寸為為600 x800像素，但你上傳的文件尺寸愈大，你能出售的商品選擇就愈多。
+
+2. 其他商品最小的文件尺寸是多少？
+
+如上述，印製一張5×7英吋的作品來說，600* 800像素絕對是最低最小的尺寸。其他的打印尺寸和最小解析度的完整列表，請點擊這裡。對於其他產品包含1300¯x2000像素手機外殼、3300¯x5500像素的T恤和4600¯x2000像素的咖啡杯，最小尺寸的完整範例列表，請點擊這裡。
+
+3. 人們會怎樣找到我的作品？
+
+如果你是美術協會的新手，你可以告訴你的朋友和家人你的新美術協會帳號做你的第一筆生意。你也可以把你的帳戶在社交網站上登廣告或把這個免費的廣告放在您的網站。無論你希望它出現在您的哪個網站上，只需點擊這裡，然後插入HTML代碼。
+
+4.每筆銷售美術協會會收取多少佣金？
+
+除了使用你的照片製作產品和寄送產品給你的客戶，我們付你全部銷售額的40％。
+
+5. 你們如何設定價格？
+
+我們不設定。你來設定。你上傳照片後可以選擇你的產品的售價。
+
+增加你在美術協會的銷售量最好的方式是盡可能多地宣傳自己的作品。最好的一個方法是放一個大標題在你的個人網頁上。
+
+設立自己制訂的標題，首先回答下面的問題。接下來按下“建立”，並複製在HTML代碼框中顯示出來的HTML。雙擊內框中的任意位置一次複製全部。在網站上的任何一處插入此HTML代碼。
+
+此標題將出現在哪類型的網頁上？
+ 
+
+•個人
+•商業
+
+你的標題要什麼尺寸？
+ 
+
+•    80 x 100px
+•    120 x 150px
+•    200 x 300px
+
+你想要哪一張照片在廣告上？
+ 
+
+•由我們決定
+•隨機抽選並定期更換
+•點擊這裡自行選擇
+
+你想要什麼顏色的主題？
+ 
+
+•黑與白
+•天空藍
+•薰衣草紫
+•褐紅色
+
+ 
+
+建立
+
+ 
+
+HTML代碼框
+
+ 
+
+聯繫我們
+
+建立帳戶或進行登錄管理你的照片和訂單。會員可在發貨前更新訂單，追?運送中的包裹，如有狀況要求退款或更換產品。請務必註冊與你用於購買時使用的電子郵件，所以我們可以將你訂單與帳戶進行同步。請注意：你的問題可能已經在常見問題解答部分得到解答。如果沒有，請使用以下表格來聯繫我們。
+
+主題: 上傳平板電腦外殼遇到困難
+
+你的名字: Nick Kembel
+
+你的電子郵件地址: nickkembel@yahoo.com
+
+你的訊息:
+親愛的先生或女士，
+我已經在你的網站上傳多種尺寸的作品照片來出售多樣產品。到目前為止，我還沒有碰到任何況況，除了平板電腦外殼。對於這個特定的產品，該網站表示，我需要上傳照片的文件要準確的是2000×3000像素。這正是我想上傳照片的大小，但每次我嘗試，我就看到一個彈出視窗，上面寫著：“您嘗試上傳不符合本產品的最低分辨率要求的照片。請再試一次，並使用一個2000×3000像素的精確的尺寸的文件。” 我附上一張彈出視窗的照片截圖及我嘗試上傳的照片副本。我期待著你的熱心幫助。
+
+ 
+
+附加照片（如有必要）：
+
+現在發送
+
+
+
+答對
+	Question 15.	
+ 
+ 
+What exactly is Artist Society?
+ (A) A website where artists can improve their art skills.
+ (B) A website where artists can find buyers for their artwork. (正解)
+ (C) A website where artists can trade artwork with one another.
+ (D) A website where artists can get inspiration for artwork.
+美術協會到底是什麼？
+a. 一個藝術家們能提高他們藝術技能的網站。
+b. 一個藝術家們能找到買家買他們作品的網站。
+c. 一個藝術家們能交換作品的網站。
+d. 一個藝術家們能得到靈感的網站。
+ 
+答對
+	Question 16.	
+ 
+ 
+If an artist sells a painting on Artist Society for USD100, what will be his or her net profit?
+ (A) $40(正解)
+ (B) $60
+ (C) $100
+ (D) $140
+如果一個藝術家在美術協會賣了一幅美金100元的畫，他所賺淨利為以下何者？
+a. $40
+b. $60
+c. $100
+d. $140
+ 
+答對
+	Question 17.	
+ 
+ 
+In the first article, there are four links indicated by the word HERE. Which one links to the second article?
+ (A) The first one.
+ (B) The second one.
+ (C) The third one.
+ (D) The fourth one. (正解)
+在第一段文章中，有四個鏈接的字HERE，哪一個鏈接到第二段文章?
+a. 第一個
+b. 第二個
+c. 第三個
+d. 第四個
+ 
+答對
+	Question 18.	
+ 
+ 
+Which of the following is NOT true about the banners?
+ (A) They come in a variety of color themes.
+ (B) They include photos of one's artwork.
+ (C) They are free of charge to create.
+ (D) They don't work on business websites. (正解)
+以下關於標題哪一個不正確?
+a. 有不同的顏色主題。
+b. 包含了一個藝術家作品的照片。
+c. 創建是免費的。
+d. 不提供給商業網站。
+ 
+答對
+	Question 19.	
+ 
+ 
+Why isn't Nick Kembel's photo uploading properly?
+ (A) The dimensions are wrong.
+ (B) He is not allowed to sell this particular product.
+ (C) He hasn't paid his annual membership fee.
+ (D) It's not clear at this point. (正解)
+為什麼Nick Kembel無法正確上傳照片？
+a. 尺寸錯誤。
+b. 不允許他出售這一項指定商品。
+c. 他沒有支付他的年度會員費。
+d. 目前這點還不清楚。
+ 
+Questions 20 - 24 refer to the following article
+
+
+
+
+Miracle Muscle Building Techniques Revealed!
+
+
+Dear fellow subscribers. Thanks for reading the Belly Bye Bye weekly newsletter. You now have access to the most up-to-date training methods for getting ripped muscles in double quick time! Every week we will release new techniques to build you an awesome upper body. These techniques are designed to be done daily, and they’re 100% proven to work! But hey, don’t take my word for it, here’s some science to back it up:
+
+
+It has recently been proven that the secret to losing belly fat quickly and maintaining a muscular frame is in ‘after burn training’. What’s that I hear you saying? “Whoa, slow down man! ‘After burn training’? Sounds a bit too technical for me.” Don’t fret, it’s totally simple, dude. We offer you training programs that will boost your metabolism, so that your body is not just burning fat as you’re training, but even after you’ve finished your training for the day your body will continue to burn through that belly fat! Pretty cool, huh?
+
+
+We also have videos to assist your daily training, but surely, this stuff is just too good to give away for free. However, today is your lucky day! For signing up to receive our newsletter today, you become eligible to receive our video training program at this one-time discount price of just $39.99. That’s twelve weeks worth of training! So what are you waiting for? Click this link to register, and you’ll be picking up beach babes with your new ripped body in no time!
+
+
+ 
+
+
+-------------------------------------------------------------------------------------
+
+
+To: maxbraun@bellybyebye.com
+
+
+
+From: mikerickson55@hotmail.com
+
+
+
+Sent: Fri, Nov 24, 2010 at 11:23 AM
+
+
+
+Subject: I didn’t subscribe to your newsletter.
+
+
+To whom it may concern,
+
+
+Yesterday I received a copy of the Belly Bye Bye weekly newsletter. I would like to inform you that I never registered to receive your newsletter, and I have never heard of Belly Bye Bye. I am a 54-year-old man and I am happily married. I have no interest in “picking up beach babes”. I can’t say I have a “ripped body”, but I feel I am in good health. I go cycling twice a week and walking in the fields behind my house regularly, and that’s all the exercise I need.
+
+
+I’m not quite sure exactly how my email address found its way onto your newsletter’s mailing list, but I would like to formally request that you remove it. I do not wish to receive any more newsletters. Furthermore, if you make any further offers which involve me spending money online I will contact the authorities. Good day.
+
+
+
+Michael Erickson
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+
+
+
+Survey completed by: Michael Erickson
+
+Enter your email address on this line to receive free coupons and updates about future changes at Happy Herb’s*: mikerickson55@hotmail.com
+
+
+
+We trust that you enjoyed your meal today at Happy Herb’s, and thank you for taking the time to complete the above survey! Your feedback means a lot to us, for it helps us to optimize our service and keep you, the customer, satisfied and coming back for more deliciously healthy meals.
+
+
+
+Please note that we may share this email address with our partner company, Belly Bye Bye
+
+ 
+
+
+
+
+
+奇蹟肌肉鍛煉技巧揭密！
+
+
+親愛的用戶。感謝您閱讀小腹拜拜週報。現在，您有機會獲得在加倍快速的時間內練成強壯肌肉的最新訓練方法！每週我們將發佈新的技巧來讓您建造令人驚嘆的上半身。你可以每天利用這項技巧鍛鍊身體，而且證明百分之百有效！但是，嘿，別聽了就相信，這裡有科學實證：
+
+
+近期證實要快速甩開腹部脂肪，並保持肌肉結實的秘密就是「後燃脂訓練」。「你正在說的是什麼東西？ 哇，慢一點！ 後燃脂訓練？對我來說聽起來太有技術性了」。不要擔心，夥伴，這很簡單。我們為您提供的訓練課程會提高身體的新陳代謝，使您的身體不只是在訓練時燃燒脂肪，即使您已經完成當天的訓練，您的身體將繼續燃燒腹部脂肪！很酷吧？
+
+
+
+我們也有錄影帶來協助您的日常訓練，但肯定的是，這東西太好我們無法免費贈送。不過，今天是您的幸運日！今天註冊訂閱我們的電子報的你就有資格以39.99美元，僅此一次的優惠價格得到我們的肌肉訓練錄影帶，其價值等同於12週的訓練課程！所以，您還等什麼呢？點擊此連結註冊，您馬上就能用您健美的身材釣到海灘辣妹！
+
+
+----------------------------------------------------------------------------
+
+
+收件人：maxbraun@bellybyebye.com
+
+
+
+寄件人：mikerickson55@hotmail.com
+
+
+
+寄送時間：2010年11月24日星期五上午11時23分
+
+
+
+主旨：我沒有訂閱電子報。
+
+
+敬啟者，
+
+
+昨天我收到了一份小腹拜拜的週報。我想通知你，我從來沒有註冊訂閱您們的刊物，我從來沒有聽說小腹拜拜。我是一個54歲的男性，我的婚姻很幸福。我對「釣海灘辣妹」沒有興趣。我不能說我有「健美身材」，但我覺得我的身體健康。我一個星期騎兩次腳踏車，並常去我屋後的田野散步，這是我所需的運動。
+
+
+
+ 
+
+
+
+我不太了解究竟我的電子郵件地址怎麼會跑到您們電子報的郵寄名單中，但我想正式地要求將其刪除。我不希望再收到任何電子報。此外，如果你們的今後還有任何優惠要求我在網上消費，我會聯絡有關當局。祝你有個美好的一天。
+
+
+
+Michael Erickson
+
+
+…………………………………………………………………………….
+
+
+
+調查表完成：Michael Erickson
+
+在此行輸入你的電郵住址以收到免費的折價券，以及開心蔬食未來的變更資訊：mikerickson55@hotmail.com
+
+
+
+我們相信你喜歡今天在開心蔬食享用的餐點，也感謝你花時間完成以下問卷調查！你的意見對我們而言甚為寶貴，因為你的意見幫助我們改善我們的服務，也幫助我們讓您--我們的顧客感到滿意，再回到開心蔬食來享用更多健康美味的餐點。
+
+
+
+
+請注意我們的子公司小腹掰掰也能看到您提供的電郵住址。
+ 
+
+
+
+
+答對
+	Question 20.	
+ 
+ 
+The training programs mentioned in the newsletter are designed to be done how often?
+ (A) Once a week.
+ (B) Once a day.(正解)
+ (C) Twice an hour.
+ (D) Once a month.
+在電子報中提到的訓練課程要多常做一次呢？ 
+a. 每週一次。 
+b. 每日一次。 
+c. 兩次一個小時。 
+d. 每月一次。 
+ 
+答對
+	Question 21.	
+ 
+ 
+What information does the newsletter NOT contain?
+ (A) The price of the training videos.
+ (B) How after burn training works.
+ (C) How often the newsletter is sent.
+ (D) Who invented the after burn training technique.(正解)
+電子報的內容不包含以下何者？ 
+a. 訓練錄影帶的價格。 
+b. 後燃脂的訓練如何進行。 
+c. 週報多久發送一次。 
+d. 誰發明後燃脂的訓練技巧。 
+ 
+答對
+	Question 22.	
+ 
+ 
+How does Michael Erickson respond to the newsletter?
+ (A) He agrees to register for the video training offer.
+ (B) He claims that he never registered to receive the newsletter.(正解)
+ (C) He asks for more information on after burn training.
+ (D) He asks for advice on how to talk to girls.
+Michael Erickson如何回應這篇週報？ 
+a. 他同意註冊以收到訓練影帶。
+b. 他宣稱他從未註冊訂閱週報。 
+c. 他要求更多有關後燃脂訓練的資訊。 
+d. 他想要如何與女孩交談的建議。 
+ 
+答對
+	Question 23.	
+ 
+ 
+What reasons does Michael Erickson NOT give for having no interest in the newsletter?
+ (A) He suffers from regular muscle pains.(正解)
+ (B) He is already over fifty years old.
+ (C) He prefers more relaxed forms of exercise.
+ (D) He is married.
+以下何者不是Michael Erickson對這份週報沒有興趣的原因？ 
+a. 他患有經常性肌肉酸痛。 
+b. 他已經是五十多歲。 
+c. 他喜歡較為輕鬆的運動方式。 
+d. 他已婚。 
+ 
+答對
+	Question 24.	
+ 
+ 
+How did Michael Erickson's email address get onto the newsletter's mailing list?
+ (A) They obtained it from a document he completed in an eatery. (正解)
+ (B) The newsletter obtained it illegally.
+ (C) The newsletter sends out emails to random addresses.
+ (D) The newsletter purchases email addresses from Happy Herb's.
+Michael Erickson的電郵住址為何會被加到電子報的寄送名單上？ 
+a. 從他在餐廳完成的一份文件中取得。
+b. 以非法的手段取得。
+c. 電子報是以隨機方式寄送郵件。
+d. 電子報從開心蔬食那購買電子郵件住址。
+ 
+Questions 25 - 28 refer to the following article:
+
+
+
+
+
+
+To: Worldwide Organization
+
+
+
+From: imthorn59@yahoo.com
+
+
+
+Sent: April 20, 2014, 8:14
+
+
+Subject: Recommendation letter for Buddy Carter
+
+
+To whom it may concern,
+
+
+I have had the pleasure of teaching Buddy Carter for four years in college. He is an amazing man and anyone that comes into contact with him would be honored to work with him. (1) _____________ From the beginning, Mr. Carter has worked hard in my class. (2) _____________ He understands that class doesn’t stop when the bell rings, and his high marks are a testament to his work ethic. I know Buddy will excel in whatever he puts his mind to after he graduates.
+
+
+I understand that Buddy is applying for an internship to work abroad for six months with your organization. Buddy is an incredibly generous person and has great leadership qualities. I know that he would be willing to take on a leadership role on any of the projects that you offer him. (3) _____________ He was able to show this to me anytime he was given a project at school. He knows how to take control without stepping on anyone’s toes. (4) _____________ He was able to inspire his fellow classmates to work together as a team to finish the project.
+
+
+To conclude, I believe you will make an excellent choice by picking Buddy Carter for this internship. That is why I am giving this strong recommendation for Buddy Carter. Please feel free to contact me for any further questions.
+
+
+Sincerely,
+
+
+
+Professor Isabella Thorn
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+收件人：世界組織
+
+
+
+寄件人 imthorn59@yahoo.com
+
+
+
+寄出時間: 2014年4月20日，8:14
+
+
+
+主旨: 給Buddy Carter的推薦信
+
+
+敬啟者，
+
+
+在四年的大學裡，能教Buddy Carter是我的榮幸。他是個很棒的學生，而且所有曾經與他接觸的人合作會感到很榮幸。起初，Carter同學在我的課堂上很努力。他瞭解，直到下課鈴聲響，課堂上不會停止，而且他的高分就是他對工作熱情的證明。我知道當他畢業後，Buddy將會在他想做的所有事情表現突出。
+
+
+我得知Buddy正在向貴組織申請六個月的海外實習工作。Buddy是非常慷慨的人，而且非常有領導能力。我知道他將會很樂意的，在您給予他的所有任務裡，扮演領導職務。他可以在我給與他的任務，表現這個領導能力。他知道控制以至於不採到別人的底線的方法。換句話說，他能獨立工作並同時遵循上面的命令。他可以啟發同學團隊合作來完成任務。
+
+
+總而言之，我相信錄取Buddy Carter實習是進的最佳選擇。這就是為什麼我強烈推薦Buddy Carter。若有任何進一步問題，請隨時與我聯絡。
+
+
+真誠地，
+
+
+
+Isabella Thorn教授
+
+
+ 
+
+
+
+
+
+
+
+
+答對
+	Question 25.	
+ 
+ 
+What is the main purpose of this email?
+ (A) To recommend Buddy Carter for a managerial position.
+ (B) To recommend Buddy Carter for a study abroad program.
+ (C) To recommend Buddy Carter for a promotion.
+ (D) To recommend Buddy Carter for an international internship.(正解)
+這封電子郵件的主要目的為何？
+a. 推薦Buddy Carter爭取管理職位。。
+b. 推薦Buddy Carter去念海外課程。。
+c. 推薦Buddy Carter升職的職位。
+d. 推薦Buddy Carter國際實習機會。
+ 
+答對
+	Question 26.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence belong? "In other words, he works independently while still following orders from above."
+ (A) (1)
+ (B) (2)
+ (C) (3)
+ (D) (4)(正解)
+以下的句子在文章所標示 (1), (2), (3), 和 (4) 的位置中，應被放在哪裡？
+
+"換句話說，他能獨立工作並同時遵循上面的命令。"
+
+a. (1) 
+b. (2) 
+c. (3)
+d. (4)
+ 
+答對
+	Question 27.	
+ 
+ 
+What date will Buddy Carter graduate from college?
+ (A) He will graduate on April 20, 2014.
+ (B) He has already graduated.
+ (C) It does not give a date when he will graduate.(正解)
+ (D) He will graduate in one year.
+Buddy Carter的大學畢業日期是幾號?
+a. 他將於2014年4月20日畢業。
+b. 他已經畢業了。
+c. 本文章沒有提起他的畢業日期。
+d. 他將在一年內畢業。
+ 
+答對
+	Question 28.	
+ 
+ 
+Which of the following is true about Buddy Carter?
+ (A) He went to college for five years.
+ (B) He had trouble finishing projects.
+ (C) He is applying for a job at a college.
+ (D) He is a great student and leader.(正解)
+下列對Buddy Carter的敘述，何者正確?
+a. 他上了五年的大學。
+b. 他在完成任務時遇到了麻煩。
+c. 他在大學申請工作。
+d. 他是個很棒的學生以及領導者。
+ 
+Questions 29 - 33 refer to the following message and the reply:
+
+
+
+
+
+
+Lonely Hearts
+
+
+Female, 46, recently divorced seeking younger male aged 25-40 for fun, dating, and maybe more... ;)
+
+
+If you like mature women who are young at heart then look further. I could be the perfect mate for you. I’m a strong, well-built woman who enjoys cooking French food, going to classical music concerts, reading books about the American Civil War, and talking without getting too serious (Trust me on this one, I can’t stand it when people get too serious, I’m all about fun!).
+
+
+I must admit that I’m no supermodel, but even if you don’t like the way I look you will definitely be charmed by my outgoing, fun-loving personality. I need a mate with personality traits to match my enthusiasm and zest for life. So if you’re a man who likes to stay indoors and go to bed early then cross me off your list. Also, if you’re the kind of man who likes to keep pets, forget it!
+
+
+
+So come on, what are you waiting for? ;) Box no. 37725.
+
+
+-------------------------------------------------------------------------------------
+
+
+Response to box no. 37725
+
+
+Hey, I was very taken with your advert. I’m a male, 54 years old, seeking a female companion. I live alone and have never been married. I know you said you were looking for a younger man, but honestly, I don’t see why you would settle for someone young and naive when you could enjoy all the benefits of worldly experience that I have to offer. Trust me, you won’t be disappointed. I’ve seen it all and done it all. I’ve lived in five different countries on three different continents. I’ve climbed mountains, run marathons, and most importantly, known many beautiful women. I know what women want. I know how to make you happy.
+
+
+I also enjoy cooking (East Asian cuisine is my specialty), pretty much any kind of outdoor exercise and operatic singing. I’m financially secure, but I love to spend money on luxury!
+
+
+I should tell you, I love animals, and I do have a dog. But trust me, you’ll love him. I’ve never introduced him to anyone who hasn’t instantly fallen in love with him. He’s a renowned converter of cat lovers!
+
+
+
+
+So what do you think? Give an older guy a fair chance? You know you want to…
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+寂寞芳心
+
+
+46歲女性，剛離婚，尋找25-40歲的年輕男性，為了開心、約會或更多其他的… ;）
+
+
+如果你喜歡較年長但有顆年輕的心的女性，那麼不用再找了。我可能是你的完美的伴侶。我是一個內心堅強，身材結實的女人，喜歡煮法國菜，聆聽古典音樂會，閱讀有關美國內戰的書，講話時不喜歡太嚴肅（相信我，我無法忍受別人太過嚴肅，我只在乎開心就好！）。
+
+
+我必須承認我不是名模，但即使你不喜歡我的外表，你一定會被我外向，愛玩的個性迷住。我需要一個可以和我一樣熱情，也熱愛生活的伴侶，如果你是個喜歡待在室內，早早上床睡覺的人，那請把我從你的名單中刪除吧。另外，如果你是喜歡養寵物的那種人，也算了吧！
+
+
+
+所以，來吧，你還等什麼呢？ 信箱編號 37725。
+
+
+----------------------------------------------------------------------------
+
+
+回應信箱號碼 37725
+
+
+嘿，我是非常喜歡你的廣告。我是個54歲的男人，尋找女伴。我獨自生活，沒結過婚。我知道你說你正在尋找一個年紀較輕的人，但說實話，我不懂當你可以享有我生活經驗豐富的所帶給你的好處，你怎麼還會選擇另一個年輕又青澀的人。相信我，你不會對我感到失望的。我看過世界，也走過世界。我曾在三大洲及五個不同的國家居住過。我曾翻山越嶺，跑過馬拉松，最重要的是，我認識美女無數。我知道女人想要什麼。我知道如何讓你快樂。
+
+
+我也喜歡烹飪（我最擅長煮東亞美食），幾乎任何一種戶外運動都喜歡，也喜歡聽歌劇。我經濟無虞，但我喜歡把錢花在奢侈品上！
+
+
+我應該要告訴你，我喜歡動物，我真的有隻狗。相信我，你一定會喜歡牠的。我介紹認識他的任何人沒有不立刻愛上牠的。他會讓愛貓者變成愛狗者！
+
+
+
+所以你覺得呢？給一個老傢伙一個公平的機會？你知道你想要...
+
+
+ 
+
+
+
+
+
+
+
+答對
+	Question 29.	
+ 
+ 
+What kind of man would be suitable for this woman?
+ (A) Someone who enjoys watching television.
+ (B) Someone who frequently gets sick.
+ (C) Someone who looks after farm animals.
+ (D) Someone who likes outdoor activities.(正解)
+什麼樣的男人會適合這樣的女人？ 
+a. 喜歡看電視的人。 
+b. 經常生病的人。 
+c. 照料農場動物的人。 
+d. 喜歡戶外活動的人。 
+ 
+答對
+	Question 30.	
+ 
+ 
+What does the woman believe to be one of her better attributes?
+ (A) Her excitement for life.(正解)
+ (B) Her looks.
+ (C) Her love of animals.
+ (D) Her love of older men.
+這女人相信以下何者是她迷人的個性之一？ 
+a. 她對生活的激情。 
+b. 她的容貌。 
+c. 她對動物的愛。 
+d. 她對年長男性的愛。 
+ 
+答對
+	Question 31.	
+ 
+ 
+Why would the man NOT be a suitable partner for the woman?
+ (A) He enjoys cooking.
+ (B) He lives on his own.
+ (C) He likes to travel.
+ (D) He is over fifty years old.(正解)
+為什麼這男人對這女人來說不是合適的伴侶？ 
+a. 他喜歡烹飪。 
+b. 他獨立居住。
+c. 他喜歡旅行。 
+d. 他已經五十多歲了。 
+ 
+答對
+	Question 32.	
+ 
+ 
+What is the man's current financial situation?
+ (A) He is financially secure.(正解)
+ (B) He borrows a lot of money.
+ (C) He doesn't like to spend money.
+ (D) He spends too much money on luxury.
+這男人目前的財務狀況為何？ 
+a. 他的經濟無虞。 
+b. 他借了很多錢。 
+c. 他不喜歡花錢。 
+d. 他花太多錢在奢侈品上。 
+ 
+答對
+	Question 33.	
+ 
+ 
+What is something that the two people have in common?
+ (A) They are both divorced.
+ (B) They both enjoy cooking.(正解)
+ (C) They both like cats.
+ (D) They both enjoy reading.
+這兩個人有什麼共同點？ 
+a. 他們都是離婚狀態。 
+b. 他們都喜歡烹飪。 
+c. 他們都喜歡貓。 
+d. 他們都喜歡閱讀。
+ 
+Questions 34 - 35 refer to the following article:
+
+Special Notice to Hikers
+
+The staff here at Glacier National Park would like to welcome you all to enjoy the bountiful and stunning scenery of the park. However, before you go out on your adventure, we would like to notify you about the terrain. Please play close attention to the trail color before heading out into the forest.
+
+Green Trails: Trails marked with color green are relaxing, mostly flat strolls that are suitable for people of all ages and hiking abilities. Basic safety provisions must still be followed, but green trails are the most accessible.
+
+Yellow Trails: Trails marked with color yellow are of a moderate difficulty and involve more inclined surfaces and rough terrain. It is advisable to have a high fitness level and hiking background. Proper equipment and safety provisions must be accounted for during these hikes, but no permit is required.
+
+Red Trails: Trails marked with red color are quite difficult, as they cover long distances, steep inclines, and in many cases, unmaintained sections of trail. Permits are required for red trails and must be applied for at least one week in advance. Hikers must be very experienced and must possess professional equipment.
+
+
+
+
+ 
+
+健行登山客特別注意事項
+
+ 
+
+冰川國家公園的工作人員歡迎民眾來欣賞園區內茂盛迷人的風景。但在你出發探險前，我們要您了解本區。進入森林區前，請密切注意步道顏色。
+
+ 
+
+綠色步道：標記綠色的步道很輕鬆，地形大多平坦、容易行走，適合各年齡層的旅客散步。即便如此，您仍需遵守的基本的安全規範，但綠色步道是最好走的。
+
+ 
+
+黃色步道：標記黃色的步道難易適中，步道上斜坡與崎嶇地形較多。適合較常健身以及常爬山的民眾。需具有適合的登山設備也要考慮安全，但不需申請許可證。
+
+ 
+
+紅色步道：標記紅色表示步道具有相當的難度，因為路途距離長，有陡坡，而且在很多情況下，沒有鋪設好的步道。紅色步道必需一周前事先申請許可證。旅客必須常有登山經驗，而且須攜帶專門的登山設備。
+
+ 
+
+
+
+答對
+	Question 34.	
+ 
+ 
+Which of the following is NOT true about the yellow trails?
+ (A) You need proper equipment.
+ (B) The trail is moderate difficulty.
+ (C) The trail is mostly flat.(正解)
+ (D) You need a high fitness level.
+下列有關黃色步道的敘述何者不正確？ 
+a. 你需要適合的設備。 
+b. 這條步道是難度適中。 
+c. 這條步道是大多平坦。 
+d. 你需要常運動才適合此步道。 
+ 
+答對
+	Question 35.	
+ 
+ 
+Which trails do you need a permit to hike?
+ (A) You need one for all three.
+ (B) You only need one for the red trails.(正解)
+ (C) You only need one for the yellow trails.
+ (D) You only need one for the green trails.
+你需要申請許可證走哪一條步道？ 
+a. 三條步道都要。 
+b. 只有紅色步道需要。
+c. 只有黃色步道需要。 
+d. 只有綠色步道需要。
+ 
+Questions 36 - 38 refer to the following article:
+
+
+
+
+
+
+Please help us protect and save sea turtles in Mozambique. Fishermen have been having trouble catching the fish they need because of overfishing. To make ends meet, the local fishermen have been turning to sea turtles to keep themselves afloat. This is illegal and we need to find a way to stop this atrocity. The community guards at Mpuitini Beach have been doing their best to work with fishermen by trying to educate the locals on the importance of sea turtle conservation and how they can change their fishing practices to make them sustainable. With the help of CARE and WWF, we believe we can make a difference and save these sea turtles by educating the community. These animals are important to the ocean and to us. We need to help these communities understand that by helping to conserve the sea, they also help themselves.
+
+
+
+
+
+
+
+
+
+
+
+
+請大家幫忙保護並拯救莫三比克的海龜。由於過度捕撈漁獲，漁夫已經很少捕撈到他們要的魚。為了能達到收支平衡又能賺錢，當地漁夫已經將目標轉移到海龜身上。這是違法的，因此我們必須找到方法停止這一種殘暴的行為。Mpuitini海灘社區救生員已經盡最大的努力，透過與漁夫合作，教育當地人關於海龜保育的重要性，並如何能改變捕撈方法讓他們能永續發展。藉由國際關懷以及世界自然基金會的協助，我們相信可以有所作為，並能透過教育社區拯救海龜。這些動物對海洋與我們都很重要。我們必須讓社區瞭解幫助保育海洋，也等於幫助自己。
+
+
+ 
+
+
+
+
+
+
+
+
+答對
+	Question 36.	
+ 
+ 
+Who wrote this article?
+ (A) A member of the United States government.
+ (B) A fisherman from Mozambique.
+ (C) A lifeguard.
+ (D) A sea turtle conservationist.(正解)
+何者撰寫這篇文章?
+a. 美國政府的成員。
+b. 莫三比克的漁夫。
+c. 救生員。
+d. 海龜保育人士。 
+ 
+答對
+	Question 37.	
+ 
+ 
+Which of the following is true according to the article?
+ (A) Fishing for sea turtles is against the law.(正解)
+ (B) Educating local fishermen about sea turtles will help nothing.
+ (C) Fishing for sea turtles is allowed for certain people.
+ (D) WWF has been responsible for the death of many sea turtles.
+根據本文內容，以下敘述何者正確？
+a. 捕抓海龜是違法行為。
+b. 教育當地漁夫關於海龜是無益的。
+c. 某些人捕抓海龜是可允許的。
+d. 野生動物保育協會要為許多海龜的死亡而負責。
+ 
+答對
+	Question 38.	
+ 
+ 
+What is an appropriate title for this article?
+ (A) Fishermen in Mozambique Help Hatchlings
+ (B) Sea Turtle found in Local Fisherman's Yard
+ (C) Mozambique Sea Turtles Endangered by Overfishing(正解)
+ (D) Mozambique Government Seizes Sea Turtle Eggs to Spite Locals
+下列何項是本文章最適合的標題?
+a. 莫三比克的漁夫協助幼雛。
+b. 在當地漁夫院子裡找到海龜。
+c. 莫三比克海龜因過度捕撈瀕臨絕種。
+d. 莫三比克政府扣押海龜刁難當地人。
+ 
+Questions 39 - 40 refer to the following article:
+
+Cedar Grove Elementary Uniform Order Form
+Important: CASH OR CHECK ONLY PLEASE!
+Name: Hannah Williams
+Address: 456 Potter Place Lane, Dover, DE
+Telephone: 322-223-3322
+Student Name: Grace Williams
+Grade: 7
+Sizes: Youth S, M, L Adult S, M, L
+
+
+ITEM	
+COST
+
+SIZE
+
+QTY.
+
+TOTAL
+
+Yellow shirt with Cedar Grove Logo
+
+$15
+
+Adult S
+
+3
+
+$45
+
+Navy blue shorts with Cedar Grove embroidered logo
+
+$10
+
+Adult S
+
+3
+
+$30
+
+Navy blue winter jacket with Cedar Grove logo
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total
+
+$75
+
+*Payment for school uniforms can be brought to Cedar Grove Elementary School campus Monday to Thursday, from 9:00 a.m.-12 p.m.
+*If you would like for your child to have their uniform before the first day of school on September 1st, it is imperative that you submit your order before summer vacation.
+
+
+
+
+雪松國小制服訂購單
+
+重要事項：只能以現金或支票支付！
+
+家長姓名：Hannah Williams
+
+地址：456 Potter Place Lane, Dover, DE
+
+電話：322-223-3322
+
+學生姓名：Grace Williams
+
+年級：7
+
+尺吋：兒童S，M，L 成人S，M，L
+
+ 
+
+品項
+價格
+尺碼
+數量.
+金額
+
+ 
+
+黃色襯衫搭配雪松國小標誌
+$15
+Adult S
+3
+$45
+
+ 
+
+深藍色短褲搭配雪松國小刺繡標誌
+$10
+Adult S
+3
+$30
+
+ 
+
+深藍色冬季外套搭配雪松國小標誌
+ 
+ 
+ 
+ 
+
+ 
+
+總金額
+$75
+
+*學校制服的款項可以在星期一~四，上午9點~12點帶到雪松國小校園。
+*如果你希望你的孩子可以在9月1日第1天到校時拿到他們的制服，你必須在暑假前下訂單。
+
+ 
+
+答對
+	Question 39.	
+ 
+ 
+Who would be interested in this piece of writing?
+ (A) The janitorial staff of Cedar Grove Elementary.
+ (B) The parents of the students at Cedar Grove.(正解)
+ (C) Clothing manufacturers in the United States.
+ (D) The department of education.
+以下選項何者會對這份內容有興趣？ 
+a. 雪松國小的校內清潔人員。 
+b. 雪松國小的學生與學生家長。 
+c. 在美國的服裝製造商。 
+d. 教育部。 
+ 
+答對
+	Question 40.	
+ 
+ 
+What can be inferred based on the information presented?
+ (A) The third item on the list is not currently available.
+ (B) All orders are subject to taxes.
+ (C) Orders cannot be placed during the summer holiday. (正解)
+ (D) There is a minimum order of three items.
+根據文中提供的訊息，可推論出以下何者選項？ 
+a. 清單上的第三項商品目前已缺貨。
+b. 所有的訂單都是未稅。
+c. 暑假時間無法下訂單。 
+d. 每件訂單最少需訂購三件商品。
+ 
+Questions 41 - 42 refer to the following article:
+
+Hannah Zalmanowitz 10:10 a.m.
+Have you receive the script proposal for the new commercial yet?
+
+Geoffrey Moreau 10:13 a.m.
+Yes. I’d like to meet with you to discuss a few changes.
+
+Hannah Zalmanowitz 10:15 a.m.
+My schedule is totally booked this week. Can we just discuss it here?
+
+Geoffrey Moreau 10:19 a.m.
+Sure. I’d like to change the opening scene from a doctor’s introduction of the product to a patient testimonial.
+
+Hannah Zalmanowitz 10:23 a.m.
+Sure. Do you have any preference for the patient type?
+
+Geoffrey Moreau 10:24 a.m.
+I think an elderly woman would be most appropriate. She can talk about how the product makes her daily life more comfortable.
+
+Hannah Zalmanowitz 10:29 a.m.
+Got it. So no doctor at all?
+
+Geoffrey Moreau 10:30 a.m.
+I think we can keep him, but shorten what he says, and move it to the end.
+
+ 
+
+
+
+
+Hannah Zalmanowitz 10:10 a.m.
+你收到新廣告的劇本提議了嗎
+
+Geoffrey Moreau 10:13 a.m.
+是。我想跟你碰面討論一些變動。
+
+Hannah Zalmanowitz 10:15 a.m.
+我這周的日程安排都滿了，我們能就在這討論嗎?
+
+Geoffrey Moreau   10:19 a.m.
+當然。我想把開場的醫生介紹產品換成病患的證言。
+
+Hannah Zalmanowitz   10:23 a.m.
+當然。你對病人的類型有什麼偏好嗎?
+
+Geoffrey Moreau   10:24 a.m.
+我認為一名老年婦女是最合適的。她可以談論產品如何讓她的生活變得更加舒適。
+
+Hannah Zalmanowitz   10:29 a.m.
+了解。所以完全不要醫生嗎?
+
+Geoffrey Moreau   10:30 a.m.
+我想我們可以留著他，但縮短他說的話，並移到最後。
+
+ 
+
+
+
+答對
+	Question 41.	
+ 
+ 
+Why can't Hannah Zalmanowitz meet with Geoffrey Moreau?
+ (A) She's not in town.
+ (B) She's too busy.(正解)
+ (C) She's on holiday.
+ (D) She's in a different building.
+為什麼Hannah Zalmanowitz無法跟Geoffrey Moreau碰面？
+a. 她不在城裡。
+b. 她太忙了。
+c. 她在度假。
+d. 她在不同的建築中。
+ 
+答對
+	Question 42.	
+ 
+ 
+What is the meaning of the word "testimonial" as used by Geoffrey Moreau?
+ (A) A general description of a product.
+ (B) A talk about a person's experience using a product. (正解)
+ (C) A formal recommendation from a doctor.
+ (D) A review by a working professional.
+Geoffrey Moreau所指的"testimonial"是什麼意思？
+a. 對產品的一般描述。
+b. 一個產品使用者的經驗談論。
+c. 醫生的正式推薦。
+d. 專業工作人員的評論。
+ 
+Questions 43 - 45 refer to the following article:
+
+
+
+
+
+
+Kevin O’hare
+
+
+
+347 Harbinger Court
+
+
+
+Springer, MS 34567
+
+
+Bongo’s Casino
+
+
+
+2247 Pointer Park Rd.
+
+
+
+Brunswick, NJ 33445
+
+
+To whom it may concern,
+
+
+My name is Kevin O’hare and I would like to formally complain about the service that I received at your casino last Saturday night.
+
+
+Shortly after I arrived at Bongo’s, the doorman, Raphael, informed me that I would not be permitted to enter the premises because my identification was not valid simply because it was not laminated.
+
+
+I am from the state of Mississippi. (1) _____________ When residents go to get their drivers’ licenses renewed, the state issues a temporary paper license. This license does not have a plastic cover. (2) _____________ It even has a barcode on the back that can be scanned under any situation, such as this, were to arise. (3) _____________
+
+
+I asked your employee, Raphael, to scan the identification several times and he refused to do so. (4) _____________ After a few minutes of deliberation he called security and asked me to leave the casino.
+
+
+The bottom line is that you have permanently lost my business, and the business of everyone else in my party because your employee has not received proper training.
+
+
+Thank you and good day,
+
+
+
+Kyle O’hare
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin O’hare
+
+
+
+347海賓格庭院
+
+
+
+史普林格，MS34567
+
+
+邦格賭場
+
+
+
+2247尖角公園路
+
+
+
+布魯斯瑞克，新澤西州33445
+
+
+敬啟者，
+
+
+我的名字是Kevin O’hare，我想對你們賭場的上週六的服務不佳正式提出抗議。我到達邦格賭場不久後，守衛Raphael告訴我，我的身份證沒有護貝所以證件無效，因此我不准進入賭場。
+
+
+我來自密西西比州。當居民去更新駕照時，州政府會發一張臨時駕照。這張許可證沒有那層塑膠護套。背面甚至還有這組條碼有任何情形發生都可以掃描。
+
+
+我好幾次請你的員工Raphael掃描，但他拒絕了。他慎重地考慮幾分鐘後，便叫了保安請我離場。
+
+
+由於你的員工沒有接受過正式的訓練，因此我和我的朋友們永遠都不會再去你的賭場。
+
+
+多謝閱讀，祝你有個美好的一天，
+
+
+
+Kyle O’hare
+
+
+ 
+
+
+
+
+
+
+
+
+答對
+	Question 43.	
+ 
+ 
+Why was the writer not permitted to enter the casino?
+ (A) There was an issue related to his age.
+ (B) There was an issue related to his behavior.
+ (C) There was an issue related to his ID card. (正解)
+ (D) There was an issue related to his ticket.
+為何作者被禁止進入賭場？ 
+a. 因為跟他的年紀有關。 
+b. 因為跟他的行為有關。
+c. 因為跟他的身份證件有關。 
+d. 因為跟他的票券有關。
+ 
+答對
+	Question 44.	
+ 
+ 
+Where was the casino located?
+ (A) Brunswick, New Jersey(正解)
+ (B) Biloxi, Mississippi
+ (C) Baltimore, Maryland
+ (D) Las Vegas, Nevada
+該賭場位於何處？ 
+a. 布魯斯瑞克，新澤西
+b. 比洛克西，密西西比州 
+c. 巴爾的摩，馬里蘭州 
+d. 拉斯維加斯，內華達州 
+ 
+答對
+	Question 45.	
+ 
+ 
+In which of the positions marked (1), (2), (3), and (4) does the following sentence best belong? "However, it is still a valid government-issued document."
+ (A) (1)
+ (B) (2)(正解)
+ (C) (3)
+ (D) (4)
+以下的句子在文章所標示 (1), (2), (3), 和 (4) 的位置中，應被放在哪裡？
+
+"然而，那仍然是一張政府簽發的有效證件。"
+
+a. (1)
+b. (2) 
+c. (3)
+d. (4)
+ 
+Questions 46 - 49 refer to the following article:
+
+
+
+
+
+
+WARNING!
+
+
+
+If you are taking the prescription drug Relaxal you need to stop using it now. In recent case studies, Relaxal has been found to cause serious medical problems, including internal bleeding, high blood pressure, and even death. As a result of these studies, the FDA has taken Relaxal off the market. If you or a loved one has already experienced similar side effects like the ones described above, please contact us, Beechum & Tool Law Firm. We will help you fight the responsible parties and get you the justice you deserve. This is not the first prescription drug this company has had taken off the market, but it needs to be the last. We have already won more than 40 cases against this company in the last 25 months, and we will continue to fight for you. Please call (825) 555- 3624. Don’t relax on Relaxal!
+
+
+
+
+
+
+
+
+
+
+
+
+警告！
+
+
+
+若您正在服用Relaxal的藥，你必須馬上停止使用。最近的個案研究報告指出，Relaxal已被查出會造成嚴重的醫療問題，包含內部出血、高血壓、甚至死亡。因應本研究的結果，美國食品藥物管理局已經將Relaxal藥物從市場上下架。若您或親愛的人有過上述類似的副作用，請與我，Beechum & Tool律師事務所連絡。我們會幫你與應該負責的公司打官司並得到你應得的正義。這不是該公司第一個下架的藥物處方箋，但是他必須是最後一個。在過去的25個月以來，與這家公司打官司時，我們已經打贏超過的40個案子，而且我們會繼續為您打官司。請撥打(825) 555- 3624。不要安心地服用Relaxal!
+
+
+ 
+
+
+
+
+
+
+
+
+答對
+	Question 46.	
+ 
+ 
+Who published this piece of writing?
+ (A) The pharmaceutical company Relaxal.
+ (B) The Food and Drug Administration.
+ (C) The Beechum & Tool Law Firm.(正解)
+ (D) A relative of someone affected by the drug Relaxal.
+誰出版這篇文章?
+a. Relaxal製藥廠。
+b. 美國食品藥物管理局。
+c. Beechum & Tool 法律事務所.
+d. 吃Relaxal藥物受害者的親戚。
+ 
+答對
+	Question 47.	
+ 
+ 
+What is the writer's profession?
+ (A) Doctor.
+ (B) Lawyer.(正解)
+ (C) Government administrator.
+ (D) Pharmacist.
+請問作者的職業是什麼?
+a. 醫生。
+b. 律師。
+c. 政府官員。
+d. 藥劑師
+ 
+答對
+	Question 48.	
+ 
+ 
+What is inferred by the article?
+ (A) The drug Relaxal is still being sold in some pharmacies.
+ (B) The drug Relaxal hasn't been sold in pharmacies for 25 months.
+ (C) The company that produced Relaxal is going to go bankrupt.
+ (D) The company that produced Relaxal also produced some other problematic drugs. (正解)
+從文章內文中可推論出以下何者敘述？
+a. Relaxal這項藥品依然在幾間藥局販售中。
+b. Relaxal已經有25個月沒有在藥局販售。
+c. 生產Relaxal的公司將要破產了。
+d. 生產Relaxal的公司依然在製造其他有問題的藥物。
+ 
+答對
+	Question 49.	
+ 
+ 
+What is the writer's attitude towards the pharmaceutical company?
+ (A) He thinks people adversely affected by the drug need compensation.(正解)
+ (B) He would like to become partners with the company.
+ (C) He thinks that doctors have misled the public about the company.
+ (D) He believes their product should be sold in stores everywhere.
+作者對製藥廠的態度是什麼?
+a. 他認為受到該藥物不利影響的人必須得到賠償。
+b. 他想成為該公司的合夥人。
+c. 他認為醫生誤導公眾關於這家公司的看法。
+d. 他相信他們的商品可以在任何地方販售。
+ 
+Questions 50 - 54 refer to the following article
+
+No. 501, Edabashi 2-10-2
+
+Chiyoda-ku
+
+Tokyo 102-4271
+
+Japan
+
+25th May 2012
+
+Dear Polar Bear Publishing Inc.,
+
+My name is Andy Wood. I am an avid reader and for several years now I've been buying books issued by Polar Bear Publishing Inc. Following the success of last year's movie adaptation of Justin King's 2006 novel, Biting of the Hand, I started a discussion forum on spoke.com about the novel and the movie. The original idea of the forum was to discuss the themes raised in the movie adaptation and how they differ from the overriding themes of the novel.
+
+My forum has been up and running for about four months now and has gained unprecedented popularity from bookworms everywhere. If you would like to see for yourself, you can view my forum at the following URL:
+
+http://www.spoke.com/r/RealMovie/comments/24g34/biting_hand_discussion_thread.html
+
+I am eagerly awaiting the release of Justin King's next novel, Minister of Scheming, in August of this year. As with most books I buy nowadays, I intend to pick up a copy of Polar Bear's publication. I was wondering; would it be possible to get an advance copy from you before the book's general release?
+
+Many thanks in advance, I look forward to hearing from you soon.
+
+Yours faithfully,
+
+Andy Wood
+
+ 
+
+-------------------------------------------------------------------------------------
+
+Polar Bear Publishing Inc.
+
+5th floor
+
+Number 12
+
+5th Avenue
+
+New York City
+
+New York 43728
+
+United States of America
+
+31st May 2012
+
+Dear Andy Wood,
+
+Many thanks for your letter and for your continued interest, both in Polar Bear Publishing Inc. and also in contemporary literature. As such an influential entity in the contemporary literary world, we feel it is our duty to continue to provide groundbreaking new works of fiction to the public. Receiving letters such as yours are evidence to us that we are succeeding in this quest of ours, and so we would first like to express our gratitude to you for that.
+
+Over the last two days, several of our employees took an interest in your discussion forum. Being a publishing company, we naturally have many keen readers working here, several of whom were blown away with some of the topics raised and ideas expressed in the discussion.
+
+Ordinarily in such a circumstance we would be more than happy to send you an advance copy of the book. However, we see that you are currently living in Japan, and it is a policy of Polar Bear Publishing Inc. that we cannot ship goods to addresses outside of the United States. If there is an address within the Unites States that would be convenient for us to send your copy of the book to, then by all means do please inform us. Otherwise we hope you continue to enjoy Polar Bear books in the future!
+
+Yours sincerely,
+
+Roger James
+
+CEO Polar Bear Publishing Inc.
+
+
+From:
+Bradley Wilis
+2245 Hollywood Drive
+Los Angeles, California, USA
+91620
+ 
+
+
+To: Andy Wood
+No. 501, Edabashi 2-10-2
+Chiyoda-ku
+Tokyo 102-4271
+Japan
+
+
+Description of contents:
+1 book
+Value: USD20
+
+ 
+
+
+
+日本，東京102-4271，千代田區
+
+飯田橋站2-10-2， 501號
+
+2012年5月25日
+
+親愛的北極熊出版公司：
+
+我的名字叫Andy Wood。我是公司的熱情讀者。過去幾年來，我一直訂購由北極熊出版公司所發行的書籍。繼去年改編至Justin King在2006發行的小說，Biting of the Hand(咬手)的同名電影在市場上大賣之後，我在spoke.com這個網站上開了一個論壇討論這部電影以及小說。 論壇的初衷是要討論同名電影中的話題，以及它們和小說裡的探討重點有何不同之處。
+
+到目前為止我的論壇已經運作四個月了，且廣受世界各地的書蟲無比的支持。如果你想看看，以下是論壇的網址：
+
+http://www.spoke.com/r/RealMovie/comments/24g34/biting_hand_discussion_thread.html
+
+我十分期待Justin King今年八月發行的小說，Minister of Scheming(詭計心機)。正如我所購買大多數的書籍一樣，我也打算購買北極熊出品的版本。我想知道；我是否可以在小說發行之前請您先寄一本給我呢？
+
+先說聲感謝，我期待很快收到您的消息。
+
+此致，
+
+Andy Wood
+
+ 
+
+----------------------------------------------------------------------------
+
+北極熊出版公司
+
+美國，紐約州43728，紐約市
+
+第五大道，12號，5樓，
+2012年5月31日
+
+親愛的Andy Wood先生你好：
+
+非常感謝您的來信，以及您對北極熊出版公司，及當代文學的長期支持。您個人對當代文壇的影響力之大，讓我們覺得我們有責任持續向社會大眾介紹這本突破性的文學新作。收到您這樣的信件，是我們追求成功的證明，因此我們首先想表達我們對你的感謝。
+
+這兩天，我們有幾個員工對你的論壇很感興趣。身為一間出版公司，自然有許多敏銳的讀者在這裡工作，裡面有幾個論壇在討論中的議題及提出的看法稱讚萬分。
+
+通常在這種情況下，我們很樂意先寄一本給您。但我們注意到您現居在日本，而北極熊出版的公司政策規定，我們不能將產品運送到美國以外的地址。如果是在美國本土方便我們將這本書的副本寄送的地方，請務必通知我們。除外，我們希望您繼續支持北極熊的出版書籍！
+
+此致，
+
+Roger James
+
+ 
+
+北極熊出版公司執行長
+
+ 
+
+寄件者：
+Bradley Wilis
+91620 美國，加州，洛杉磯
+好萊塢大道2245號
+ 
+
+
+收件者：Andy Wood
+102-4271日本，東京，千代田區
+飯田橋站2-10-2，501號
+
+
+內容物描述：
+一本書
+物品價值：$20美元
+
+答錯
+	Question 50.	
+ 
+ 
+What is Andy Wood asking for?
+ (A) Permission to discuss a book in his group.
+ (B) A copy of an old book.
+ (C) A copy of an upcoming book.(正解)
+ (D) To find out when the book will be released.
+Andy Wood想要以下何者？ 
+a. 在團體活動中討論書的許可。 
+b. 一本舊書的複本。 
+c. 一本即將上市的新書複本。 
+d. 找出書本何時會上市。 
+ 
+答對
+	Question 51.	
+ 
+ 
+In what setting has Andy Wood been discussing the book and movie?
+ (A) In his weekly book group with his friends.
+ (B) As part of his job at a publishing company.
+ (C) In one of his university classes.
+ (D) On an online discussion forum.(正解)
+Andy Wood一直在何處討論這本書以及電影？ 
+a. 和他的朋友在他的每週讀書小組。 
+b. 這是他在出版公司工作的一部分。 
+c. 在他某一堂的大學課堂上。 
+d. 在一個網上論壇。 
+ 
+答對
+	Question 52.	
+ 
+ 
+Why is the publishing company not able to fulfill Andy's request?
+ (A) Due to the location that he is currently residing.(正解)
+ (B) They have no interest in Andy Wood's forum.
+ (C) It is their policy not to issue advance copies.
+ (D) They are not publishing the book that Andy Wood is interested in.
+為什麼出版公司無法完成Andy的請求？ 
+a. 因為他目前居住的地點。
+b. 公司對Andy Wood的論壇不感興趣。 
+c. 公司政策不可先將書寄送出去。
+d. 公司不再出版這本Andy Wood感興趣的書。 
+ 
+答對
+	Question 53.	
+ 
+ 
+What does the company offer as an alternative to sending the book to Andy Wood?
+ (A) Sending him an electronic copy by email.
+ (B) Sending a copy to any address within the USA.(正解)
+ (C) Sending him coupons so he can buy the book himself.
+ (D) They do not offer him an alternative.
+以下何者是公司提供給Andy Wood的書本寄送替代方案？ 
+a. 通過電子郵件寄送電子檔。 
+b. 寄送一本到美國境內的任何地址。 
+c. 送他優惠券，因此他可以自己購買一本。 
+d. 公司並沒有提供任何替代方案給他。 
+ 
+答對
+	Question 54.	
+ 
+ 
+What are the contents of the package?
+ (A) A copy of Biting of the Hand.
+ (B) A copy of Minister of Scheming.(正解)
+ (C) A bibliography of Justin King.
+ (D) A book listing all of Polar Bear Publishing's publications.
+包裹內的內容物為以下何者？ 
+a. Biting of the Hand(咬手)的書
+b. Minister of Scheming(詭計心機)的書
+c. 這本Justin King的參考書目
+d. 北極熊出版社的所有書目
+ 
+只顯示答錯  回上一頁
 
 
